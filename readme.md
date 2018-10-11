@@ -5,6 +5,11 @@
 ## Contents
 
 - [Preamble](#preamble)
+- [Protecting Yourself](#protecting-yourself)
+	- [VPNs](#vpns)
+	- [Browser Extensions](#browser-extensions)
+	- [Password Vaults](#password-vaults)
+	- [Antivirus](#antivirus)
 - [Torrenting](#torrenting)
 	- [Trackers](#trackers)
 		- [Private Trackers](#private-trackers)
@@ -77,7 +82,7 @@ I am aware that a number of websites featured in this list rely on operating und
 - [Private Internet Access](https://www.privateinternetaccess.com/) Hugely popular subscription-based VPN provider with a proven track record for not keeping logs
 - [That One Privacy Site](https://thatoneprivacysite.net/vpn-section/) VPN section of That One Privacy Site with VPN comparisons
 
-### Browser extensions
+### Browser Extensions
 - [Privacy Badger](https://www.eff.org/privacybadger) Privacy Badger blocks spying ads and invisible trackers.
 - [HTTPS Everywhere](https://www.eff.org/https-everywhere) HTTPS Everywhere is a Firefox, Chrome, and Opera extension that encrypts your communications with many major websites, making your browsing more secure. 
 - [uBlock Origin](https://github.com/gorhill/uBlock) An efficient blocker for Chromium and Firefox. Fast and lean.
@@ -86,6 +91,10 @@ I am aware that a number of websites featured in this list rely on operating und
 - [BitWarden](https://bitwarden.com/) Open source password management solution, can be self-hosted
 - [1Password](https://1password.com/) Popular cloud-hosted password manager
 - [KeePass](https://keepass.info/) free, open source, light-weight and easy-to-use password manager.
+
+### Antivirus
+- [MalwareBytes]()
+- [HitmanPro]()
 
 ## Torrenting
 
@@ -129,6 +138,7 @@ I am aware that a number of websites featured in this list rely on operating und
 ### Tracker Invites
 - [/r/OpenSignups](https://www.reddit.com/r/opensignups)
 - [/r/Invites](https://www.reddit.com/r/invites)
+- [Open sign-ups thread](https://www.reddit.com/r/trackers/comments/7ildxx/open_signups_thread/) /r/trackers thread for posting trackers that are currently open for registration.
 
 ### Torrent Clients
 - [rTorrent](https://rakshasa.github.io/rtorrent/)
@@ -380,6 +390,7 @@ premium services
 - [Deezloader]() Tool for downloading music from Deezer
 - [/r/DeezloaderIsBack](https://www.reddit.com/r/DeezloadersIsBack) Community supporting Deezloader
 - [Get rid of Spotify ads](https://www.reddit.com/r/Piracy/comments/9jvlf8/get_rid_of_spotify_adsbannerslimited_skips_and/) Short guide on avoiding ads, banners, limited skips, and locked shuffle mode in Spotify Free
+- [Spotify Megathread](https://www.reddit.com/r/Piracy/comments/82wzi0/spotify_megathread/) /r/Piracy Spotify-related discussion and future developments
 
 ## Software
 - [How to patch Adobe CC 2017 applications on Windows](https://drive.google.com/file/d/0BxfywKwnIU2JdFFraUxhVkllbnc/view)
@@ -552,10 +563,7 @@ premium services
 - https://www.reddit.com/r/Piracy/comments/7ie4ys/two_of_the_best_websites_for_downloading_you/
 - https://www.reddit.com/r/Piracy/comments/78aicx/i_wrote_a_small_script_that_automatically_hides/
 - https://www.reddit.com/r/Piracy/wiki/megathread
-- https://www.reddit.com/r/trackers/comments/7ildxx/open_signups_thread/
 - https://www.reddit.com/r/trackers/wiki/reading
-- https://www.reddit.com/r/Piracy/comments/82wzi0/spotify_megathread/
-- https://www.reddit.com/r/Piracy/comments/79x0oq/unofficial_piracy_megathread/
 - https://www.reddit.com/r/megalinks/comments/7vlt4j/education_lynda_266_courses_207gb/
 - https://www.reddit.com/r/PleX/comments/9n9qjl/subzero_the_future/
 
