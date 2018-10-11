@@ -4,6 +4,7 @@
 
 ## Contents
 
+- [Preamble](#preamble)
 - [Torrenting](#torrenting)
 	- [Trackers](#trackers)
 		- [Private Trackers](#private-trackers)
@@ -59,6 +60,12 @@
 - [Piracy Blogs and News](#piracy-blogs-and-news)
 - [Miscellaneous](#miscellaneous)
 - [Unsorted and To Do List](#unsorted-and-to-do-list)
+
+## Preamble
+
+Over the past couple of years I've accumulated bookmarks, saved reddit posts, and GitHub stars all related to piracy in some form or another. This list is my attempt to add structure to those resources and share them. Everything you need to get started on your pirate voyage can be found below.
+
+I am aware that a number of websites featured in this list rely on operating under obscurity, and that this list could potentially contribute to their demise through excess exposure. I'm sorry about that - I just like making lists.
 
 ## Torrenting
 
