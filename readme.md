@@ -50,6 +50,7 @@
 - [Comicbooks](#comicbooks)
 - [Documentaries](#documentaries)
 - [Automation](#automation)
+- [P2P Networks](#p2p-networks)
 - [Cloud Storage](#cloud-storage)
 - [File Renaming and Tagging](#file-renaming-and-tagging)
 - [Mobile Apps](#mobile-apps)
@@ -276,6 +277,7 @@ premium services
 - [Streama](https://github.com/streamaserver/streama) Self hosted streaming media server.
 - [Myflix](https://github.com/pastapojken/Myflix) Myflix tries to be a somewhat simple and lightweight "DIY Netflix", similar to Plex, streama or Emby, for your DIY NAS, especially aimed at the Raspberry Pi/Odroid/etc ecosystem.
 - [Stremio](https://www.stremio.com/) Multi-platform video content aggregator with a comprehension add-on system for extending functionality
+- [Gerbera](https://github.com/gerbera/gerbera) UPnP Media Server for 2018 (Based on MediaTomb) 
 
 ## Plex
 
@@ -408,6 +410,12 @@ premium services
 - [Headphones](https://github.com/rembo10/headphones) Automatic music downloader for SABnzbd
 - [FlexGet](https://flexget.com/) FlexGet is a multipurpose automation tool for all of your media with support for torrents, nzbs, podcasts, comics, TV, movies, RSS, HTML, CSV, and more.
 - [LazyLibrarian](https://github.com/DobyTang/LazyLibrarian) LazyLibrarian is a program to follow authors and grab metadata for all your digital reading needs.
+- [CloudBox](https://cloudbox.works/) An All-In-One, Cloud Centric, Media Server Solution
+
+## P2P Networks
+- [FrostWire](https://www.frostwire.com/)
+- [eMule]()
+- 
 
 ## Ripping, Transcoding, Converting
 - [Handbrake](https://handbrake.fr/)
@@ -421,6 +429,7 @@ premium services
 - [rclone](https://rclone.org/) "rsync for cloud storage"
 - [plexdrive](https://github.com/dweidenfeld/plexdrive) mounts your Google Drive FUSE filesystem (optimized for media playback)
 - [/r/PlexACD](https://www.reddit.com/r/PlexACD/) Discussion about unlimited cloud storage for Plex libraries
+- [rclone-gdrive](https://bytesized-hosting.com/pages/rclone-gdrive) Wiki page on setting up Google Drive with rclone cache and crypt
 
 ## File Renaming and Tagging
 - [FileBot](https://www.filebot.net/) the ultimate tool for organizing and renaming your Movies, TV Shows and Anime as well as fetching subtitles and artwork. It's smart and just works.
@@ -450,7 +459,6 @@ premium services
 - [/r/iptvresellers](https://www.reddit.com/r/IPTVresellers) promotions and advertisements from IPTV providers
 - [/r/IPTVReviews](https://www.reddit.com/r/IPTVreviews) Reviews of IPTV service providers
 - [MythTV](https://www.mythtv.org/) Free Open Source software digital video recorder 
-- []
 
 ## IRC and DC++
 - [weechat](https://github.com/weechat/weechat) The extensible chat client.
@@ -504,16 +512,12 @@ premium services
 ## Unsorted and To Do List
 
 - https://github.com/TeaTV/TeaTV-Public
-- https://cloudbox.works/
 - https://www.reddit.com/r/Piracy/comments/39qnll/guide_for_microsoft_windows_office_and_adobe/
 - https://www.reddit.com/r/Piracy/comments/8maxer/get_digital_license_for_free_on_any_currently/
 - https://www.reddit.com/r/Piracy/comments/8pfnun/how_to_download_and_install_windows_10_ltsb/
 - https://www.reddit.com/r/Piracy/comments/3i9y7n/guide_for_finding_textbooks/
 - https://www.reddit.com/r/Piracy/comments/3ma9qe/guide_how_to_rent_your_textbooks_for_free_from/
-- https://www.frostwire.com/
 - userscripts
-- Gerbera
-- unlimited gdrive with g suite (bytesized hosting guide)
 - http://www.reddit.com/r/Piracy/comments/9f1rf2/-/e5tcbzg
 - https://nicoblog.org/
 - https://www.myabandonware.com/
@@ -522,7 +526,6 @@ premium services
 - Kissmanga.com
 - https://www.freetutorials.eu/
 - https://www.reddit.com/r/Piracy/comments/9ew0e9/terrarium_tv_alternatives_list/
-- documentaries
 - https://orpheus.network/
 - https://www.movieglide.com/
 - https://www.reddit.com/r/Piracy/comments/9jvlf8/get_rid_of_spotify_adsbannerslimited_skips_and/
