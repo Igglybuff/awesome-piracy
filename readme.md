@@ -74,17 +74,18 @@ I am aware that a number of websites featured in this list rely on operating und
 ## Protecting Yourself
 
 ### VPNs
-- [Private Internet Access]()
+- [Private Internet Access](https://www.privateinternetaccess.com/) Hugely popular subscription-based VPN provider with a proven track record for not keeping logs
+- [That One Privacy Site](https://thatoneprivacysite.net/vpn-section/) VPN section of That One Privacy Site with VPN comparisons
 
 ### Browser extensions
-- [Privacy Badger]()
-- [HTTPS Everywhere]()
+- [Privacy Badger](https://www.eff.org/privacybadger) Privacy Badger blocks spying ads and invisible trackers.
+- [HTTPS Everywhere](https://www.eff.org/https-everywhere) HTTPS Everywhere is a Firefox, Chrome, and Opera extension that encrypts your communications with many major websites, making your browsing more secure. 
 - [uBlock Origin](https://github.com/gorhill/uBlock) An efficient blocker for Chromium and Firefox. Fast and lean.
 
 ### Password Vaults
-- [BitWarden]()
-- [1Password]()
-- [KeePass]()
+- [BitWarden](https://bitwarden.com/) Open source password management solution, can be self-hosted
+- [1Password](https://1password.com/) Popular cloud-hosted password manager
+- [KeePass](https://keepass.info/) free, open source, light-weight and easy-to-use password manager.
 
 ## Torrenting
 
@@ -215,6 +216,7 @@ I am aware that a number of websites featured in this list rely on operating und
 - [RapidMoviez](http://rmz.cr/)
 - [SceneSource](https://scnsrc.me/) WordPress powered website dedicated to bringing you the latest info on new scene releases
 - [SoftArchive](https://sanet.st/full/) SoftArchive or SA is a scene release website, more known for new release of software, games, music, movies, and eBooks.
+- [MkvCage](https://www.mkvcage.ws/) 
 
 ### Premium Link Generators
 - [File Hosting Wiki](https://filehostlist.miraheze.org/wiki/Main_Page)
@@ -267,6 +269,7 @@ premium services
 - [megatools](https://github.com/megous/megatools) Open-source command line tools and C library (libmega) for accessing Mega.co.nz cloud storage.
 - [/r/megalinks](https://www.reddit.com/r/megalinks) Links to files on Mega
 - [/r/GDriveLinks](https://www.reddit.com/r/GDriveLinks/) Google Drive Download Links
+- [MegaCrypt.js](https://github.com/JohnDeved/megacrypt.js) MegaCrypt.js lets you share your Mega.nz files without actually having to share any Mega.nz links by encrypting them to create a secure proxy to your files.
 
 ## Media Centre Applications
 - [Plex](https://www.plex.tv/) Your content—from live and recorded TV and personal media, to on-demand web shows, video news, and podcasts—beautifully organized and ready to stream everywhere.
@@ -372,6 +375,11 @@ premium services
 ## Music
 - [Soulseek](http://www.soulseekqt.net/news/) Soulseek is an ad-free, spyware free, just plain free file sharing network for Windows, Mac and Linux.
 - [Gazelle](https://whatcd.github.io/Gazelle/) web framework geared towards private torrent trackers with a focus on music
+- [irs](https://github.com/kepoorhampond/irs) A music downloader that understands your metadata needs.
+- [SMLoadr](https://git.fuwafuwa.moe/SMLoadrDev/SMLoadr) A streaming music downloader.
+- [Deezloader]() Tool for downloading music from Deezer
+- [/r/DeezloaderIsBack](https://www.reddit.com/r/DeezloadersIsBack) Community supporting Deezloader
+- [Get rid of Spotify ads](https://www.reddit.com/r/Piracy/comments/9jvlf8/get_rid_of_spotify_adsbannerslimited_skips_and/) Short guide on avoiding ads, banners, limited skips, and locked shuffle mode in Spotify Free
 
 ## Software
 - [How to patch Adobe CC 2017 applications on Windows](https://drive.google.com/file/d/0BxfywKwnIU2JdFFraUxhVkllbnc/view)
@@ -391,6 +399,8 @@ premium services
 - [AudioBook Bay](http://audiobookbay.nl/) Download unabridged audiobook for free or share your audio books, safe, fast and high quality
 
 ## Comicbooks
+- [readcomiconline.to](https://readcomiconline.to/)
+- [KissManga](http://kissmanga.com/)
 
 ## Documentaries
 
@@ -415,7 +425,6 @@ premium services
 ## P2P Networks
 - [FrostWire](https://www.frostwire.com/)
 - [eMule]()
-- 
 
 ## Ripping, Transcoding, Converting
 - [Handbrake](https://handbrake.fr/)
@@ -508,7 +517,6 @@ premium services
 - [MediaServer-DockerComposeFiles](https://github.com/vaeyo/MediaServer-DockerComposeFiles) Docker-Compose Files for Media Server Related Apps [Radarr, Sonarr, Plex, rTorrent, NZBGet, Ombi, Emby, etc]
 - [usenet-docker](https://github.com/justinhamlett/usenet-docker) Docker-compose configuration for Sabnzbd, CouchPotato, Plex, Sonarr, Plexpy, Nzbhydra, Muximux, Radarr, NZBGet and Ombi with a Nginx proxy.
 
-
 ## Unsorted and To Do List
 
 - https://github.com/TeaTV/TeaTV-Public
@@ -522,16 +530,12 @@ premium services
 - https://nicoblog.org/
 - https://www.myabandonware.com/
 - https://anilinkz.to/
-- https://readcomiconline.to/
 - Kissmanga.com
 - https://www.freetutorials.eu/
 - https://www.reddit.com/r/Piracy/comments/9ew0e9/terrarium_tv_alternatives_list/
 - https://orpheus.network/
 - https://www.movieglide.com/
-- https://www.reddit.com/r/Piracy/comments/9jvlf8/get_rid_of_spotify_adsbannerslimited_skips_and/
 - cracked Spotify
-- deezloader
-- smloader
 - https://www.reddit.com/r/Piracy/comments/9ft4xx/piracy_and_automation_an_overview/
 - https://docs.google.com/spreadsheets/d/1qU8E0JT9JQk_BaBCxZS79tn7YmUyY4XBEpHPm3j16jI/edit#gid=1007191598
 - awesome-hd.me
@@ -539,20 +543,15 @@ premium services
 - https://unblocked-pw.github.io/
 - pahe
 - crazy4tv
-- ganool 
+- ganool
 - torrentcouch
 - rmz_cr
 - magnetdl
-- https://zamunda.net
-- mkvcage.ws
-- https://github.com/kepoorhampond/irs
 - https://i.redd.it/otaf60nhmqm11.png
 - https://www.reddit.com/r/Piracy/comments/7wp42u/ultimate_guide_to_install_kodi_popular_streaming/
 - https://www.reddit.com/r/Piracy/comments/7ie4ys/two_of_the_best_websites_for_downloading_you/
 - https://www.reddit.com/r/Piracy/comments/78aicx/i_wrote_a_small_script_that_automatically_hides/
 - https://www.reddit.com/r/Piracy/wiki/megathread
-- https://github.com/JohnDeved/megacrypt.js
-- https://thatoneprivacysite.net/vpn-section/
 - https://www.reddit.com/r/trackers/comments/7ildxx/open_signups_thread/
 - https://www.reddit.com/r/trackers/wiki/reading
 - https://www.reddit.com/r/Piracy/comments/82wzi0/spotify_megathread/
@@ -568,5 +567,5 @@ Contributions welcome! Read the [contribution guidelines](contributing.md) first
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](http://creativecommons.org/publicdomain/zero/1.0)
 
-To the extent possible under law, Ed Shelton has waived all copyright and
+To the extent possible under law, Igglybuff has waived all copyright and
 related or neighboring rights to this work.
