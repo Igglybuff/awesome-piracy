@@ -433,9 +433,6 @@ premium services
 - [usenet-docker](https://github.com/justinhamlett/usenet-docker) Docker-compose configuration for Sabnzbd, CouchPotato, Plex, Sonarr, Plexpy, Nzbhydra, Muximux, Radarr, NZBGet and Ombi with a Nginx proxy.
 - [weboas.is](http://weboas.is/) Homepage for pirates
 - [Anonmasky](https://github.com/Anonmasky/anonmasky.github.io) Anonmasky is a beautiful startpage for geeks out there. Clone of weboas.is.
-- []
-
-
 
 https://github.com/TeaTV/TeaTV-Public
 https://github.com/sjlu/popular-movies
@@ -444,11 +441,69 @@ https://www.reddit.com/r/Piracy/comments/39qnll/guide_for_microsoft_windows_offi
 https://www.reddit.com/r/Piracy/comments/8maxer/get_digital_license_for_free_on_any_currently/
 https://www.reddit.com/r/Piracy/comments/8pfnun/how_to_download_and_install_windows_10_ltsb/
 https://www.reddit.com/r/Piracy/comments/3i9y7n/guide_for_finding_textbooks/
-
 https://www.reddit.com/r/Piracy/comments/3ma9qe/guide_how_to_rent_your_textbooks_for_free_from/
 https://www.frostwire.com/
 https://github.com/gorhill/uBlock
-
+Misc
+- VPNs
+- userscripts
+- windows 10
+- /r/MSToolkit
+- Gerbera
+- unlimited gdrive with g suite (bytesized hosting guide)
+- https://monimoapp.netlify.com/
+- /r/animepiracy
+- http://www.reddit.com/r/Piracy/comments/9f1rf2/-/e5tcbzg
+- privacy badger
+- Https everywhere
+- bitwarden
+- https://nicoblog.org/
+- https://www.myabandonware.com/
+- https://www5.putlockertv.to/
+- https://anilinkz.to/
+- https://readcomiconline.to/
+- Kissmanga.com
+- https://www.freetutorials.eu/
+- https://www.reddit.com/r/Piracy/comments/9ew0e9/terrarium_tv_alternatives_list/
+- documentaries
+- https://orpheus.network/
+- https://www.movieglide.com/
+- https://www.reddit.com/r/Piracy/comments/9jvlf8/get_rid_of_spotify_adsbannerslimited_skips_and/
+- cracked Spotify
+- deezloader
+- smloader
+- https://www.reddit.com/r/Piracy/comments/9ft4xx/piracy_and_automation_an_overview/
+- https://docs.google.com/spreadsheets/d/1qU8E0JT9JQk_BaBCxZS79tn7YmUyY4XBEpHPm3j16jI/edit#gid=1007191598
+- handbrake, ffmpeg
+- ripping software
+- arm
+- https://mrs0m30n3.github.io/youtube-dl-gui/
+- awesome-hd.me
+- TParser
+- https://unblocked-pw.github.io/
+- flud for Android
+- pahe
+- crazy4tv
+- ganool 
+- torrentcouch
+- rmz_cr
+- magnetdl
+- https://zamunda.net
+- mkvcage.ws
+- https://github.com/kepoorhampond/irs
+- https://i.redd.it/otaf60nhmqm11.png
+- https://www.reddit.com/r/Piracy/comments/7wp42u/ultimate_guide_to_install_kodi_popular_streaming/
+- https://www.reddit.com/r/Piracy/comments/7ie4ys/two_of_the_best_websites_for_downloading_you/
+- https://www.reddit.com/r/Piracy/comments/78aicx/i_wrote_a_small_script_that_automatically_hides/
+- https://www.reddit.com/r/Piracy/wiki/megathread
+- https://github.com/JohnDeved/megacrypt.js
+- https://thatoneprivacysite.net/vpn-section/
+- https://www.reddit.com/r/trackers/comments/7ildxx/open_signups_thread/
+- https://www.reddit.com/r/trackers/wiki/reading
+- https://www.reddit.com/r/Piracy/comments/82wzi0/spotify_megathread/
+- https://www.reddit.com/r/Piracy/comments/79x0oq/unofficial_piracy_megathread/
+- https://www.reddit.com/r/megalinks/comments/7vlt4j/education_lynda_266_courses_207gb/
+- Plex splash page thing
 
 
 
