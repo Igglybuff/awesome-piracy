@@ -51,6 +51,7 @@
 - [Music](#music)
 - [Software](#software)
 - [Ebooks](#ebooks)
+- [Education](#education)
 - [Audiobooks](#audiobooks)
 - [Comicbooks](#comicbooks)
 - [Documentaries](#documentaries)
@@ -86,6 +87,9 @@ I am aware that a number of websites featured in this list rely on operating und
 - [Privacy Badger](https://www.eff.org/privacybadger) Privacy Badger blocks spying ads and invisible trackers.
 - [HTTPS Everywhere](https://www.eff.org/https-everywhere) HTTPS Everywhere is a Firefox, Chrome, and Opera extension that encrypts your communications with many major websites, making your browsing more secure. 
 - [uBlock Origin](https://github.com/gorhill/uBlock) An efficient blocker for Chromium and Firefox. Fast and lean.
+- [TamperMonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=en) The world's most popular userscript manager
+- [WebRTC Network Limiter](https://chrome.google.com/webstore/detail/webrtc-network-limiter/npeicpdbkakmehahjeeohfdhnlpdklia?hl=en) Configures how WebRTC's network traffic is routed by changing Chrome's privacy settings.
+- [ScriptSafe](https://chrome.google.com/webstore/detail/scriptsafe/oiigbmnaadbkfbmpbfijlflahbdbdgdf?hl=en) A browser extension that gives users control of the web and more secure browsing while emphasizing simplicity and intuitiveness.
 
 ### Password Vaults
 - [BitWarden](https://bitwarden.com/) Open source password management solution, can be self-hosted
@@ -93,8 +97,8 @@ I am aware that a number of websites featured in this list rely on operating und
 - [KeePass](https://keepass.info/) free, open source, light-weight and easy-to-use password manager.
 
 ### Antivirus
-- [MalwareBytes]()
-- [HitmanPro]()
+- [MalwareBytes](https://www.malwarebytes.com/) "crushes malware so you are protected and your machine keeps running smoothly."
+- [HitmanPro](https://www.hitmanpro.com) Antivirus product from Sophos
 
 ## Torrenting
 
@@ -107,6 +111,8 @@ I am aware that a number of websites featured in this list rely on operating und
 - [PrivateHD](https://privatehd.to/)
 - [HD-Forever](https://hdf.world/)
 - [HD-Space](https://hd-space.org/)
+- [Awesome HD](https://awesome-hd.me/)
+- [UHDBits](https://uhdbits.org/)
 - [Private Tracker Flowchart](https://wiki.installgentoo.com/images/9/97/Private_tracker_flowchart.png)
 - [Private trackers](https://wiki.installgentoo.com/index.php/Private_trackers) Guide on how to get into (and survive) the world of private trackers.
 
@@ -128,6 +134,7 @@ I am aware that a number of websites featured in this list rely on operating und
 - [GloTorrents](https://glodls.to/)
 - [BTDB](https://btdb.to/) Large BitTorrent DHT search engine
 - [trackerslist](https://github.com/ngosang/trackerslist) An updated list of public BitTorrent trackers
+- [MagnetDL](http://www.magnetdl.com/) Magnet link only search engine
 
 ### Tracker Aggregators
 - [Jackett](https://github.com/Jackett/Jackett)
@@ -139,6 +146,10 @@ I am aware that a number of websites featured in this list rely on operating und
 - [/r/OpenSignups](https://www.reddit.com/r/opensignups)
 - [/r/Invites](https://www.reddit.com/r/invites)
 - [Open sign-ups thread](https://www.reddit.com/r/trackers/comments/7ildxx/open_signups_thread/) /r/trackers thread for posting trackers that are currently open for registration.
+- [Opentrackers.org](https://opentrackers.org/) Private Torrent Trackers & File Sharing
+- [getting_into_private_trackers](https://www.reddit.com/r/trackers/wiki/getting_into_private_trackers) Helpful resource from the /r/trackers wiki
+- [BTRACS](http://btracs.com/) an automatic information site which periodicaly checks closed community Bittorrent trackers for being open for signup.
+- [Tracker Spreadsheet](https://docs.google.com/spreadsheets/d/1zYZ2107xOZwQ37AjLTc5A4dUJl0ilg8oMrZyA0BGvc0/edit#gid=1357476050) Comprehensive spreadsheet of private trackers (somewhat out of date)
 
 ### Torrent Clients
 - [rTorrent](https://rakshasa.github.io/rtorrent/)
@@ -158,6 +169,7 @@ I am aware that a number of websites featured in this list rely on operating und
 - [FeralHosting](https://www.feralhosting.com/pricing) Shared seedbox hosting provider
 - [Whatbox](https://whatbox.ca/) Whatbox is a BitTorrent CDN
 - [swizzin](https://swizzin.ltd/) a light, modular package management suite for media oriented servers
+- [Seedbox Guide](https://seedboxgui.de/) comparison tool to help you find the best fitting Seedbox
 
 ### Torrent Communities
 - [/r/trackers](https://www.reddit.com/r/trackers)
@@ -169,6 +181,9 @@ I am aware that a number of websites featured in this list rely on operating und
 ### Miscellaneous Torrent Stuff
 - [βTorrent](https://btorrent.xyz/) fully-featured [WebTorrent](https://webtorrent.io/) browser client written in HTML, JS and CSS
 - [UNIT3D](https://github.com/HDInnovations/UNIT3D) The Nex-Gen Private Torrent Tracker (Aimed For Movie / TV Use)
+- [A Simple Guide To A Better Ratio](https://www.reddit.com/r/trackers/comments/fthja/a_simple_guide_to_a_better_ratio/) A good tracker requires you to upload what you download. This guide explains many of the methods involved with keeping on top of this sometimes difficult task.
+- [Live Tracer](https://trace.corrupt-net.org/live.php) Pre-time tracer for scene releases
+- [Tracker Twitters](https://filenetworks.blogspot.com/2010/12/list-of-private-torrent-trackers.html) List Of Private Torrent Trackers & BitTorrent News Accounts To Follow On Twitter
 
 ## Usenet
 
@@ -219,14 +234,15 @@ I am aware that a number of websites featured in this list rely on operating und
 - [Mamont's open FTP Index](http://www.mmnt.net/)
 - [grayhatwarfare S3 bucket search](https://buckets.grayhatwarfare.com/) 
 - [Orion](https://orionoid.com/) Orion is a service that indexes metadata and links from a variety of public websites and networks, including torrent, usenet, and hoster indexes.
-- [hdencode](https://hdencode.com/) 
+- [hdencode](https://hdencode.com/)
+- [Movie Glide](https://www.movieglide.com/) 
 - [Release BB](http://rlsbb.ru)
 - [DDLValley](https://www.ddlvalley.me/) DDL links for Movies, Games, Tv Shows, Apps, Ebooks and Music.
 - [TwoDDL](http://2ddl.ws) Direct download links
 - [RapidMoviez](http://rmz.cr/)
 - [SceneSource](https://scnsrc.me/) WordPress powered website dedicated to bringing you the latest info on new scene releases
 - [SoftArchive](https://sanet.st/full/) SoftArchive or SA is a scene release website, more known for new release of software, games, music, movies, and eBooks.
-- [MkvCage](https://www.mkvcage.ws/) 
+- [MkvCage](https://www.mkvcage.ws/)
 
 ### Premium Link Generators
 - [File Hosting Wiki](https://filehostlist.miraheze.org/wiki/Main_Page)
@@ -271,6 +287,8 @@ premium services
 - [/r/MovieStreamingSites](https://www.reddit.com/r/MovieStreamingSites/)
 - [/r/BestOfStreamingVideo](https://www.reddit.com/r/BestOfStreamingVideo/)
 - [CyTube](https://cytu.be/) Channel-based shared streaming platform for synchronised viewing of YouTube and Google Drive videos
+- [Yes! Movies](https://yesmovies.to)
+- [FMOVIES](https://www3.fmovies.to/)
 
 ### Miscellaneous DDL Stuff
 - [Leonflix](https://leonflix.net/) A multi-platform desktop app for finding movies and TV shows.
@@ -280,6 +298,7 @@ premium services
 - [/r/megalinks](https://www.reddit.com/r/megalinks) Links to files on Mega
 - [/r/GDriveLinks](https://www.reddit.com/r/GDriveLinks/) Google Drive Download Links
 - [MegaCrypt.js](https://github.com/JohnDeved/megacrypt.js) MegaCrypt.js lets you share your Mega.nz files without actually having to share any Mega.nz links by encrypting them to create a secure proxy to your files.
+- [DirtyWarez Forum](https://forum.dirtywarez.com/) Popular warez forum with films, TV shows, ebooks, anime, games, and more
 
 ## Media Centre Applications
 - [Plex](https://www.plex.tv/) Your content—from live and recorded TV and personal media, to on-demand web shows, video news, and podcasts—beautifully organized and ready to stream everywhere.
@@ -369,6 +388,11 @@ premium services
 - [Games Torrent](http://gamestorrent.co/) Torrent site, part of IGGGAMES with releases from CODEX, RELOADED, CPY, SKIDROW, and more
 - [IGGGAMES](http://igg-games.com/) Torrent site for games
 - [FitGirl Repacks](fitgirl-repacks.site) Popular DDL and torrent site for game repacks
+- [Xatab Repacks](https://xatab-repack.net) Russian game repacker, primarily torrents
+- [ElAmigos Games](https://www.elamigos-games.com/) Premium links to cracked games
+- [qoob.name](http://qoob.name/) repacker site
+- [Nicoblog](https://nicoblog.org/)
+- [myabandonware](https://www.myabandonware.com/) More than 14000 old games to download for free!
 - [The ultimate guide to Nintendo 3DS Piracy](https://www.reddit.com/r/Piracy/comments/6h2vdd/the_ultimate_guide_to_nintendo_3ds_piracy/) Posted by /u/crazy5
 - [3DS Hacks Guide](https://3ds.hacks.guide/) A complete guide to 3DS custom firmware, from stock to boot9strap.
 - [/r/3dshacks](https://www.reddit.com/r/3dshacks) Nintendo 3DS hacking and homebrew.
@@ -381,13 +405,14 @@ premium services
 - [Anime Kaizoku](https://www2.animekaizoku.com/) Up to 1080p DDL links, mostly Google Drive
 - [/r/animepiracy](https://www.reddit.com/r/animepiracy) 
 - [Monimo](https://monimoapp.netlify.com/) Netflix like web app for watching animes
+- [AniLinkz](https://anilinkz.to/)
 
 ## Music
 - [Soulseek](http://www.soulseekqt.net/news/) Soulseek is an ad-free, spyware free, just plain free file sharing network for Windows, Mac and Linux.
 - [Gazelle](https://whatcd.github.io/Gazelle/) web framework geared towards private torrent trackers with a focus on music
 - [irs](https://github.com/kepoorhampond/irs) A music downloader that understands your metadata needs.
 - [SMLoadr](https://git.fuwafuwa.moe/SMLoadrDev/SMLoadr) A streaming music downloader.
-- [Deezloader]() Tool for downloading music from Deezer
+- [Deezloader](https://www.reddit.com/r/DeezloadersIsBack/comments/9n3pf1/deezloader_alpha_latest_version_download10102018/) Tool for downloading music from Deezer
 - [/r/DeezloaderIsBack](https://www.reddit.com/r/DeezloadersIsBack) Community supporting Deezloader
 - [Get rid of Spotify ads](https://www.reddit.com/r/Piracy/comments/9jvlf8/get_rid_of_spotify_adsbannerslimited_skips_and/) Short guide on avoiding ads, banners, limited skips, and locked shuffle mode in Spotify Free
 - [Spotify Megathread](https://www.reddit.com/r/Piracy/comments/82wzi0/spotify_megathread/) /r/Piracy Spotify-related discussion and future developments
@@ -405,6 +430,10 @@ premium services
 - [Guide to Copy Kindle Content to PDF using Calibre](https://www.reddit.com/r/Piracy/comments/7vc3uv/guide_to_copy_kindle_content_to_pdf_using_calibre/)
 - [Apprentice Alf's Blog](https://apprenticealf.wordpress.com/) Everything you ever wanted to know about DRM and ebooks, but were afraid to ask.
 - [Calibre](https://calibre-ebook.com/) ebook management tool
+
+## Education
+- [FreeTutorials.eu](https://www.freetutorials.eu/)
+- [Lynda Courses](https://www.reddit.com/r/megalinks/comments/7vlt4j/education_lynda_266_courses_207gb/) 266+ Lynda courses
 
 ## Audiobooks
 - [AudioBook Bay](http://audiobookbay.nl/) Download unabridged audiobook for free or share your audio books, safe, fast and high quality
@@ -435,7 +464,7 @@ premium services
 
 ## P2P Networks
 - [FrostWire](https://www.frostwire.com/)
-- [eMule]()
+- [eDonkey network](https://en.wikipedia.org/wiki/EDonkey_network) a decentralized, mostly server-based, peer-to-peer file sharing network
 
 ## Ripping, Transcoding, Converting
 - [Handbrake](https://handbrake.fr/)
@@ -463,10 +492,10 @@ premium services
 - [nzb360](http://nzb360.com/) nzb360 is a full-featured NZB manager that focuses on providing the best experience possible for controlling all of your usenet needs.
 - [Ombi](https://play.google.com/store/apps/details?id=com.tidusjar.Ombi) 
 - [Tautulli Remote](https://play.google.com/store/apps/details?id=com.williamcomartin.plexpyremote) 
-- [Terrarium TV]()
-- [Mobdro]()
-- [MyJDownloader]()
-- [CinemaHD]()
+- [TerrariumTV](https://www.reddit.com/r/TTVreborn/comments/9n7zsf/terrariumtv_v6_mod_balatan/) V6 of this newly-fixed app for streaming TV and film. Features Trakt.tv and Real-Debrid integration
+- [Mobdro](https://forum.mobilism.org/viewtopic.php?f=429&t=2720792&hilit=mobdro) Mobdro constantly searches the web for the best free video streams and brings them to your device.
+- [MyJDownloader](https://play.google.com/store/apps/details?id=org.appwork.myjdandroid&hl=en_US) enables you to remote control your desktop JDownloader from your pocket while you're on the go.
+- [Cinema](https://forum.mobilism.org/viewtopic.php?t=2786441) a lot of Movies & TV/Shows to watch and download. 
 - [Transdrone](https://play.google.com/store/apps/details?id=org.transdroid.lite) Transdrone allows you to manage the torrents you run on your home server or seedbox.
 - [Flud](https://play.google.com/store/apps/details?id=com.delphicoder.flud&hl=en) Flud is a simple and beautiful BitTorrent client for Android.
 - [FilePursuit Pro](https://play.google.com/store/apps/details?id=com.filepursuit.filepursuitpro) FilePursuit provides a very powerful file indexing and search service allowing you to find a file among millions of files located on web servers.
@@ -489,6 +518,7 @@ premium services
 
 ### IRC Networks
 - [irc.p2p-network.net](https://p2p-network.net/) 
+- [Orpheus](https://orpheus.network/) Formerly known as Apollo
 
 ## Full Movies On
 - [/r/fullmoviesonyoutube](https://www.reddit.com/r/fullmoviesonyoutube/)
@@ -527,45 +557,26 @@ premium services
 - [autosub](https://github.com/agermanidis/autosub) Command-line utility for auto-generating subtitles for any video file
 - [MediaServer-DockerComposeFiles](https://github.com/vaeyo/MediaServer-DockerComposeFiles) Docker-Compose Files for Media Server Related Apps [Radarr, Sonarr, Plex, rTorrent, NZBGet, Ombi, Emby, etc]
 - [usenet-docker](https://github.com/justinhamlett/usenet-docker) Docker-compose configuration for Sabnzbd, CouchPotato, Plex, Sonarr, Plexpy, Nzbhydra, Muximux, Radarr, NZBGet and Ombi with a Nginx proxy.
+- [Unblocked](https://unblocked-pw.github.io/) Proxy site for accessing your favourite blocked sites
 
 ## Unsorted and To Do List
 
-- https://github.com/TeaTV/TeaTV-Public
 - https://www.reddit.com/r/Piracy/comments/39qnll/guide_for_microsoft_windows_office_and_adobe/
 - https://www.reddit.com/r/Piracy/comments/8maxer/get_digital_license_for_free_on_any_currently/
 - https://www.reddit.com/r/Piracy/comments/8pfnun/how_to_download_and_install_windows_10_ltsb/
 - https://www.reddit.com/r/Piracy/comments/3i9y7n/guide_for_finding_textbooks/
 - https://www.reddit.com/r/Piracy/comments/3ma9qe/guide_how_to_rent_your_textbooks_for_free_from/
-- userscripts
-- http://www.reddit.com/r/Piracy/comments/9f1rf2/-/e5tcbzg
-- https://nicoblog.org/
-- https://www.myabandonware.com/
-- https://anilinkz.to/
-- Kissmanga.com
-- https://www.freetutorials.eu/
+- https://www.reddit.com/r/Piracy/comments/9f1rf2/-/e5tcbzg
 - https://www.reddit.com/r/Piracy/comments/9ew0e9/terrarium_tv_alternatives_list/
-- https://orpheus.network/
-- https://www.movieglide.com/
-- cracked Spotify
 - https://www.reddit.com/r/Piracy/comments/9ft4xx/piracy_and_automation_an_overview/
 - https://docs.google.com/spreadsheets/d/1qU8E0JT9JQk_BaBCxZS79tn7YmUyY4XBEpHPm3j16jI/edit#gid=1007191598
-- awesome-hd.me
-- TParser
-- https://unblocked-pw.github.io/
-- pahe
-- crazy4tv
-- ganool
-- torrentcouch
-- rmz_cr
-- magnetdl
-- https://i.redd.it/otaf60nhmqm11.png
 - https://www.reddit.com/r/Piracy/comments/7wp42u/ultimate_guide_to_install_kodi_popular_streaming/
 - https://www.reddit.com/r/Piracy/comments/7ie4ys/two_of_the_best_websites_for_downloading_you/
 - https://www.reddit.com/r/Piracy/comments/78aicx/i_wrote_a_small_script_that_automatically_hides/
 - https://www.reddit.com/r/Piracy/wiki/megathread
-- https://www.reddit.com/r/trackers/wiki/reading
-- https://www.reddit.com/r/megalinks/comments/7vlt4j/education_lynda_266_courses_207gb/
 - https://www.reddit.com/r/PleX/comments/9n9qjl/subzero_the_future/
+- https://www.reddit.com/r/trackers/comments/hrgmv/tracker_with_pdfsebooks_of_college_textbooks/c1xrq44/
+- userscripts
 
 ## Contribute
 
