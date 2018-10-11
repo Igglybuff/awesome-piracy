@@ -58,6 +58,7 @@
 - [Full Movies On](#full-movies-on)
 - [Piracy Blogs and News](#piracy-blogs-and-news)
 - [Miscellaneous](#miscellaneous)
+- [Unsorted and To Do List](#unsorted-and-to-do-list)
 
 ## Torrenting
 
@@ -434,17 +435,18 @@ premium services
 - [weboas.is](http://weboas.is/) Homepage for pirates
 - [Anonmasky](https://github.com/Anonmasky/anonmasky.github.io) Anonmasky is a beautiful startpage for geeks out there. Clone of weboas.is.
 
-https://github.com/TeaTV/TeaTV-Public
-https://github.com/sjlu/popular-movies
-https://cloudbox.works/
-https://www.reddit.com/r/Piracy/comments/39qnll/guide_for_microsoft_windows_office_and_adobe/
-https://www.reddit.com/r/Piracy/comments/8maxer/get_digital_license_for_free_on_any_currently/
-https://www.reddit.com/r/Piracy/comments/8pfnun/how_to_download_and_install_windows_10_ltsb/
-https://www.reddit.com/r/Piracy/comments/3i9y7n/guide_for_finding_textbooks/
-https://www.reddit.com/r/Piracy/comments/3ma9qe/guide_how_to_rent_your_textbooks_for_free_from/
-https://www.frostwire.com/
-https://github.com/gorhill/uBlock
-Misc
+## Unsorted and To Do List
+
+- https://github.com/TeaTV/TeaTV-Public
+- https://github.com/sjlu/popular-movies
+- https://cloudbox.works/
+- https://www.reddit.com/r/Piracy/comments/39qnll/guide_for_microsoft_windows_office_and_adobe/
+- https://www.reddit.com/r/Piracy/comments/8maxer/get_digital_license_for_free_on_any_currently/
+- https://www.reddit.com/r/Piracy/comments/8pfnun/how_to_download_and_install_windows_10_ltsb/
+- https://www.reddit.com/r/Piracy/comments/3i9y7n/guide_for_finding_textbooks/
+- https://www.reddit.com/r/Piracy/comments/3ma9qe/guide_how_to_rent_your_textbooks_for_free_from/
+- https://www.frostwire.com/
+- https://github.com/gorhill/uBlock
 - VPNs
 - userscripts
 - windows 10
