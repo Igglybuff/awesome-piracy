@@ -77,6 +77,8 @@ Over the past couple of years I've accumulated bookmarks, saved reddit posts, an
 
 I am aware that a number of websites featured in this list rely on operating under obscurity, and that this list could potentially contribute to their demise through excess exposure. I'm sorry about that - I just like making lists.
 
+Please ensure you use an adblocker like [uBlock Origin](https://github.com/gorhill/uBlock) to access any of the websites listed here, otherwise you will have a bad time.
+
 ## Protecting Yourself
 
 ### VPNs
