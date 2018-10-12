@@ -47,6 +47,9 @@
 	- [Miscellaneous Plex Stuff](#miscellaneous-plex-stuff)
 - [Kodi](#kodi)
 - [Gaming](#gaming)
+	- [Repacks](#repacks)
+	- [ROMs](#roms)
+	- [Homebrew](#homebrew)
 - [Anime](#anime)
 - [Music](#music)
 - [Software](#software)
@@ -60,6 +63,9 @@
 - [Cloud Storage](#cloud-storage)
 - [File Renaming and Tagging](#file-renaming-and-tagging)
 - [Mobile Apps](#mobile-apps)
+	- [Streaming Apps](#streaming-apps)
+	- [Torrent Apps](#torrent-apps)
+	- [APKs](#apks)
 - [Discord Servers](#discord-servers)
 - [IPTV and DVR](#iptv-and-dvr)
 - [IRC and DC++](#irc-and-dc++)
@@ -348,7 +354,6 @@ premium services
 - [RequestChannel.bundle](https://github.com/ngovil21/RequestChannel.bundle) A Plex Channel to create requests
 - [SRT2UTF-8.bundle](https://github.com/ukdtom/SRT2UTF-8.bundle) Plex Agent that'll convert sidecar subtitle files into UTF-8
 - [PlexTools.bundle](https://github.com/jwdempsey/PlexTools.bundle) Downloads subtitles for any videos in your library from OpenSubtitles and modifies them to work with Roku clients, and converts videos to MP4 for direct play
-- 
 
 ### Plex Requests
 - [Ombi](http://ombi.io/) Want a Movie or TV Show on Plex or Emby? Use Ombi!
@@ -405,8 +410,9 @@ premium services
 - [Ultimate Kodi Guide](https://www.reddit.com/r/Piracy/comments/7wp42u/ultimate_guide_to_install_kodi_popular_streaming/) ULTIMATE GUIDE TO INSTALL KODI + POPULAR STREAMING ADDONS by /u/giorgiomilan
 
 ## Gaming
+
+### Repacks
 - [Good Old Downloads](https://goodolddownloads.com/)
-- [All the FullSets from EmuParadise](http://od.phirephly.design/lib/emuparadise/fullsets/) Link discovered by /u/PhirePhly on /r/opendirectories
 - [Games Torrent](http://gamestorrent.co/) Torrent site, part of IGGGAMES with releases from CODEX, RELOADED, CPY, SKIDROW, and more
 - [IGGGAMES](http://igg-games.com/) Torrent site for games (NOTE: use an adblocker and [block this domain from using JavaScript](https://www.reddit.com/r/Piracy/comments/9f1rf2/-/e5tcbzg/))
 - [FitGirl Repacks](fitgirl-repacks.site) Popular DDL and torrent site for game repacks
@@ -414,19 +420,23 @@ premium services
 - [ElAmigos Games](https://www.elamigos-games.com/) Premium links to cracked games
 - [qoob.name](http://qoob.name/) repacker site
 - [Nicoblog](https://nicoblog.org/)
-- [myabandonware](https://www.myabandonware.com/) More than 14000 old games to download for free!
+- [Dark Umbra](https://darkumbra.net/) Forum for sourcing games
+
+### ROMs
+- [All the FullSets from EmuParadise](http://od.phirephly.design/lib/emuparadise/fullsets/) Link discovered by /u/PhirePhly on /r/opendirectories
+- [Vimm's Lair](https://vimm.net/?p=vault) Large collection of ROMs
+- [ROM/ISO sites](http://emulation.gametechwiki.com/index.php/ROM/ISO_Sites) Wiki page from gametechwiki.com with more links
+- [Romulation.net](https://www.romulation.net/) collection of ~28,000 console game ROMs
+- [The Eye ROMs](http://the-eye.eu/public/rom/) open directory of ROMs from The Eye
+- [myabandonware](https://www.myabandonware.com/) More than 14000 old games to download for free! 
+
+### Homebrew
 - [The ultimate guide to Nintendo 3DS Piracy](https://www.reddit.com/r/Piracy/comments/6h2vdd/the_ultimate_guide_to_nintendo_3ds_piracy/) Posted by /u/crazy5
 - [3DS Hacks Guide](https://3ds.hacks.guide/) A complete guide to 3DS custom firmware, from stock to boot9strap.
 - [/r/3dshacks](https://www.reddit.com/r/3dshacks) Nintendo 3DS hacking and homebrew.
 - [/r/WiiHacks](https://www.reddit.com/r/WiiHacks/) This reddit is for people interested in modifying their Wii.
 - [/r/vitahacks](https://www.reddit.com/r/vitahacks/) A place to discuss Vita hacking and homebrew.
 - [/r/ps4homebrew](https://www.reddit.com/r/ps4homebrew) News, releases, and questions regarding the PS4 jailbreak, homebrew, and mods.
-- [Vimm's Lair](https://vimm.net/?p=vault) Large collection of ROMs
-- [Dark Umbra](https://darkumbra.net/) Forum for sourcing games
-- [ROM/ISO sites](http://emulation.gametechwiki.com/index.php/ROM/ISO_Sites) Wiki page from gametechwiki.com with more links
-- [Romulation.net](https://www.romulation.net/) collection of ~28,000 console game ROMs
-- [The Eye ROMs](http://the-eye.eu/public/rom/) open directory of ROMs from The Eye
-- 
 
 ## Anime
 - [Nyaa](https://nyaa.si/)
@@ -540,22 +550,31 @@ premium services
 - [Picard](https://picard.musicbrainz.org/) Picard is a cross-platform music tagger written in Python.
 
 ## Mobile Apps
+
 - [nzb360](http://nzb360.com/) nzb360 is a full-featured NZB manager that focuses on providing the best experience possible for controlling all of your usenet needs.
 - [Ombi](https://play.google.com/store/apps/details?id=com.tidusjar.Ombi) 
 - [Tautulli Remote](https://play.google.com/store/apps/details?id=com.williamcomartin.plexpyremote) 
+- [MyJDownloader](https://play.google.com/store/apps/details?id=org.appwork.myjdandroid&hl=en_US) enables you to remote control your desktop JDownloader from your pocket while you're on the go.
+- [FilePursuit Pro](https://play.google.com/store/apps/details?id=com.filepursuit.filepursuitpro) FilePursuit provides a very powerful file indexing and search service allowing you to find a file among millions of files located on web servers.
+
+### Streaming Apps
+
 - [TerrariumTV](https://www.reddit.com/r/TTVreborn/comments/9n7zsf/terrariumtv_v6_mod_balatan/) V6 of this newly-fixed app for streaming TV and film. Features Trakt.tv and Real-Debrid integration
 - [Kokotime](https://www.kokotime.tv/) Kokotime is an addon-based, simple, free and elegantly designed app that will let you watch all your favorite media content in a unique and elegant user friendly design
 - [Mobdro](https://forum.mobilism.org/viewtopic.php?f=429&t=2720792&hilit=mobdro) Mobdro constantly searches the web for the best free video streams and brings them to your device.
-- [MyJDownloader](https://play.google.com/store/apps/details?id=org.appwork.myjdandroid&hl=en_US) enables you to remote control your desktop JDownloader from your pocket while you're on the go.
-- [Cinema](https://forum.mobilism.org/viewtopic.php?t=2786441) a lot of Movies & TV/Shows to watch and download. 
+- [Cinema](https://forum.mobilism.org/viewtopic.php?t=2786441) a lot of Movies & TV/Shows to watch and download.
+- [Fildo](https://fildo.net/android/en/) Music streaming app
+
+### Torrent Apps
+
 - [Transdrone](https://play.google.com/store/apps/details?id=org.transdroid.lite) Transdrone allows you to manage the torrents you run on your home server or seedbox.
 - [Flud](https://play.google.com/store/apps/details?id=com.delphicoder.flud&hl=en) Flud is a simple and beautiful BitTorrent client for Android.
-- [FilePursuit Pro](https://play.google.com/store/apps/details?id=com.filepursuit.filepursuitpro) FilePursuit provides a very powerful file indexing and search service allowing you to find a file among millions of files located on web servers.
-- [Mobilism Forum](https://forum.mobilism.org/index.php) Large forum of mobile apps and books
 - [BiglyBT](https://f-droid.org/packages/com.biglybt.android.client/) Free, open source torrent client for Android phone, tablet, Chromebook, & Android TV
 - [LibreTorrent](https://f-droid.org/en/packages/org.proninyaroslav.libretorrent/) LibreTorrent is a Free as in Freedom torrent client for Android 4+, based on libtorrent. 
+
+### APKs
+- [Mobilism Forum](https://forum.mobilism.org/index.php) Large forum of mobile apps and books
 - [On HAX](https://onhax.me/) APK mirrors
-- [Fildo](https://fildo.net/android/en/) Music streaming app
 - [APKMirror](https://www.apkmirror.com/) Download free Android APKs
 - [ApkPure](https://apkpure.com/) Another free APK mirror site
 - [ACMARKET](https://acmarket.net/) download cracked & modified android apps & games free
@@ -622,6 +641,7 @@ premium services
 
 ## Unsorted and To Do List
 
+- documentaries
 - more subcategories
 - more wikipedia pages/further reading
 - userscripts
