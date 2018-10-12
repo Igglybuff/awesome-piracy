@@ -579,6 +579,16 @@ premium services
 - https://www.reddit.com/r/PleX/comments/9n9qjl/subzero_the_future/
 - https://www.reddit.com/r/trackers/comments/hrgmv/tracker_with_pdfsebooks_of_college_textbooks/c1xrq44/
 - userscripts
+- Discord servers
+- voat?
+- more IRC stuff
+- https://www.reddit.com/r/opendirectories/comments/9n8ig8/stremio_open_directories/
+- STB emulator for IPTV
+- https://Elysium.to
+- https://moviefiles.org
+- https://www.magnetoo.io/
+- https://www.nsanedown.com/
+- https://torrentgalaxy.org/
 
 ## Contribute
 
