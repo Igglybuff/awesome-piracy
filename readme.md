@@ -502,6 +502,8 @@ premium services
 - [GetComics](https://getcomics.info/)
 
 ## Documentaries
+- [/r/Documentaries](https://www.reddit.com/r/documentaries) Popular documentaries subreddit
+- [My big list of documentary sites (streaming and download)](https://www.reddit.com/r/Documentaries/comments/h9pu7/my_big_list_of_documentary_sites_streaming_and/) An old post by /u/whatwhat888 that may still be useful
 
 ## Automation
 - [Sonarr](https://github.com/Sonarr/Sonarr) Smart PVR for newsgroup and bittorrent users.
@@ -620,6 +622,7 @@ premium services
 - [Trakt.tv](https://trakt.tv/) a platform that does many things, but primarily keeps track of TV shows and movies you watch.
 - [IMDb](https://www.imdb.com/) Find movies, TV shows, celebrities, and more
 - [Movieo](https://movieo.me/) Discover, organize and track over 250,000 movies.
+- [MetaCritic](https://www.metacritic.com) website that aggregates reviews of media products: music albums, video games, films, TV shows, and formerly, books.
 - [popular-movies](https://github.com/sjlu/popular-movies) Tries to create a list of popular movies based on a series of heuristics
 - [Squawkr.io](https://www.squawkr.io/) sends notifications when movies are available for download.
 - [2160p BluRay Remux List](https://docs.google.com/spreadsheets/d/1qU8E0JT9JQk_BaBCxZS79tn7YmUyY4XBEpHPm3j16jI/edit#gid=1007191598) Complete list of all available 2160p remuxes
