@@ -212,6 +212,7 @@ This list is periodically mirrored to [PasteBin](https://pastebin.com/4ebhE0qu).
 - [Seedbox Guide](https://seedboxgui.de/) comparison tool to help you find the best fitting Seedbox
 - [rtinst](https://github.com/arakasi72/rtinst) seedbox installation script for Ubuntu and Debian systems
 - [sboxsetup](https://github.com/dannyti/sboxsetup) Another seedbox setup script
+- [QuickBox IO](https://quickbox.io/) Seedbox installer script
 
 ### Torrent Communities
 - [/r/trackers](https://www.reddit.com/r/trackers)
@@ -457,6 +458,7 @@ premium services
 - [Romulation.net](https://www.romulation.net/) collection of ~28,000 console game ROMs
 - [The Eye ROMs](http://the-eye.eu/public/rom/) open directory of ROMs from The Eye
 - [myabandonware](https://www.myabandonware.com/) More than 14000 old games to download for free! 
+- [/r/PkgLinks](https://www.reddit.com/r/PkgLinks/) A place to share working Playstation 4 PKGs
 
 ### Homebrew
 - [The ultimate guide to Nintendo 3DS Piracy](https://www.reddit.com/r/Piracy/comments/6h2vdd/the_ultimate_guide_to_nintendo_3ds_piracy/) Posted by /u/crazy5
@@ -477,6 +479,7 @@ premium services
 - [NyaaPantsu](https://nyaa.pantsu.cat/)
 - [Alternatives to Kiss websites](https://www.reddit.com/r/KissCartoon/wiki/alternatives) /r/KissCartoon wiki page with lots of anime sites
 - [anime-sharing](http://www.anime-sharing.com/forum/) Forum for sharing anime
+- [AniDex](https://anidex.info) Torrent tracker and indexer, primarily for English fansub groups of anime
 
 ## Music
 - [Soulseek](http://www.soulseekqt.net/news/) Soulseek is an ad-free, spyware free, just plain free file sharing network for Windows, Mac and Linux.
