@@ -461,7 +461,7 @@ premium services
 - [/r/ps4homebrew](https://www.reddit.com/r/ps4homebrew) News, releases, and questions regarding the PS4 jailbreak, homebrew, and mods.
 
 ## Anime
-- [Nyaa](https://nyaa.si/)
+- [Nyaa](https://nyaa.si/) Bittorrent software for cats [(Repo)](https://github.com/nyaadevs/nyaa)
 - [Hi10 Anime](https://hi10anime.com/) High Quality 10-bit Anime Encodes
 - [Anime Kaizoku](https://www2.animekaizoku.com/) Up to 1080p DDL links, mostly Google Drive
 - [/r/animepiracy](https://www.reddit.com/r/animepiracy) 
