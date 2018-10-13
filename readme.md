@@ -303,6 +303,7 @@ premium services
 - [youtube-dl-gui](https://mrs0m30n3.github.io/youtube-dl-gui/) A cross platform front-end GUI of the popular youtube-dl written in wxPython
 - [annie](https://github.com/iawia002/annie) Fast, simple and clean video downloader
 - [aria2](https://aria2.github.io/) a lightweight multi-protocol & multi-source command-line download utility.
+- [ripme](https://github.com/RipMeApp/ripme) A album/video downloader with support for over 80 sites
 
 ### Streaming Sites
 - [StreamCR](https://scr.cr/)
