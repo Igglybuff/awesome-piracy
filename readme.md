@@ -39,6 +39,7 @@
 	- [Downloaders](#downloaders)
 	- [Streaming Sites](#streaming-sites)
 	- [Miscellaneous DDL Stuff](#miscellaneous-ddl-stuff)
+	- [Music](#music)
 - [Media Centre Applications](#media-centre-applications)
 - [Plex](#plex)
 	- [Plex Plugins](#plex-plugins)
@@ -345,6 +346,9 @@ premium services
 - [MegaCrypt.js](https://github.com/JohnDeved/megacrypt.js) MegaCrypt.js lets you share your Mega.nz files without actually having to share any Mega.nz links by encrypting them to create a secure proxy to your files.
 - [DirtyWarez Forum](https://forum.dirtywarez.com/) Popular warez forum with films, TV shows, ebooks, anime, games, and more
 
+### Music
+- [Plus Premieres](https://www.pluspremieres.eu/) Download newest iTunes music in M4A format
+
 ## Media Centre Applications
 - [Plex](https://www.plex.tv/) Your content—from live and recorded TV and personal media, to on-demand web shows, video news, and podcasts—beautifully organized and ready to stream everywhere.
 - [Emby](https://emby.media/) a personal media server with apps on just about every device.
@@ -517,7 +521,6 @@ premium services
 ## Audiobooks
 - [AudioBook Bay](http://audiobookbay.nl/) Download unabridged audiobook for free or share your audio books, safe, fast and high quality
 
-## Comicbooks
 - [readcomiconline.to](https://readcomiconline.to/)
 - [Readcomicbooksonline](https://readcomicbooksonline.org/)
 - [Comic Extra](https://www.comicextra.com/)
