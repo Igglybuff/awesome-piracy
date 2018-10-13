@@ -119,6 +119,7 @@ This list is periodically mirrored to [PasteBin](https://pastebin.com/4ebhE0qu).
 - [HitmanPro](https://www.hitmanpro.com) Antivirus product from Sophos
 - [VirusTotal](https://www.virustotal.com/) Web service for scanning files and URLs for viruses
 - [How to remove viruses and malware on your Windows PC](https://www.howtogeek.com/126911/what-to-do-if-you-get-a-virus-on-your-computer/) Helpful HowToGeek article on cleaning out the pipes
+- [Dr.Web CureIt!](https://free.drweb.com/cureit/?lng=en) Free antivirus scanner
 
 ## Torrenting
 
@@ -142,9 +143,12 @@ This list is periodically mirrored to [PasteBin](https://pastebin.com/4ebhE0qu).
 - [PassThePopcorn](https://passthepopcorn.me/) ratio-based torrent tracker for movies
 - [AnimeBytes](https://animebytes.tv/) community centralized around Japanese media, including anime, manga and music
 - [BakaBT](https://bakabt.me/) a torrent tracker which specializes in serving anime fans
+- [BeyondHD](https://beyondhd.xyz/)
+- [CGPeers](https://www.cgpeers.com/)
 
 #### Semi-Private Trackers
 - [ruTracker](https://rutracker.org/forum/index.php)
+- [NoNaMe Club](https://nnmclub.to/) Russian semi-private tracker and forum
 
 #### Public Trackers
 - [1337x](https://1337x.to/)
@@ -171,6 +175,7 @@ This list is periodically mirrored to [PasteBin](https://pastebin.com/4ebhE0qu).
 - [Cardigann](https://github.com/cardigann/cardigann) A proxy server for adding new indexers to Sonarr, SickRage and other media managers
 - [nzbhydra2](https://github.com/theotherp/nzbhydra2/) Primarily a Usenet meta search engine but also supports Torznab
 - [snowfl](https://snowfl.com/)
+- [TParser](http://tparser.org/) Russian torrent sites indexer
 
 ### Tracker Invites
 - [/r/OpenSignups](https://www.reddit.com/r/opensignups)
@@ -193,6 +198,7 @@ This list is periodically mirrored to [PasteBin](https://pastebin.com/4ebhE0qu).
 - [Popcorn Time](https://github.com/popcorn-official/popcorn-desktop) Popcorn Time is a multi-platform, free software BitTorrent client that includes an integrated media player.
 - [magnetoo](https://www.magnetoo.io/) Fancy new in-browser WebTorrent streaming service
 - [Tixati](https://tixati.com/) Lightweight torrent client for Windows and Linux
+- [PicoTorrent](https://picotorrent.org/) Lightweight and minimalistic torrent client for Windows
 
 ### Seedboxes
 - [/r/seedboxes](https://www.reddit.com/r/seedboxes) A place to discuss seedboxes and everything related to them.
@@ -485,6 +491,7 @@ premium services
 - [TunesKit](https://www.tuneskit.com/) iTunes DRM removal tool
 - [Requiem](https://digiex.net/threads/requiem-4-1-remove-itunes-drm-fairplay-from-music-video-and-books.11796/) Requiem is a program that removes Apple's DRM (called FairPlay) from songs, videos, and books purchased on iTunes
 - [How to Remove DRM From iTunes Movies and TV Shows](https://www.howtogeek.com/291612/how-to-remove-drm-from-itunes-movies-and-tv-shows/) HowToGeek article on how to use TunesKit and Requiem
+- [Hikarinoakariost](https://hikarinoakariost.info/) Site with Japanese music
 
 ## Software
 - [How to patch Adobe CC 2017 applications on Windows](https://drive.google.com/file/d/0BxfywKwnIU2JdFFraUxhVkllbnc/view)
@@ -497,6 +504,7 @@ premium services
 
 ## Ebooks
 - [LibGen](http://libgen.io/) search engine for articles and books on various topics, which allows free access to content that is otherwise paywalled or not digitized elsewhere
+- [b-ok](http://b-ok.xyz/) Free ebook library
 - [Sci-Hub](https://sci-hub.tw/) the first pirate website in the world to provide mass and public access to tens of millions of research papers
 - [The idiot proof guide to downloading ebooks off IRC](https://www.reddit.com/r/Piracy/comments/2oftbu/guide_the_idiot_proof_guide_to_downloading_ebooks/) Posted by /u/Servaplur
 - [Guide to Copy Kindle Content to PDF using Calibre](https://www.reddit.com/r/Piracy/comments/7vc3uv/guide_to_copy_kindle_content_to_pdf_using_calibre/)
@@ -607,6 +615,9 @@ premium services
 - [APKMirror](https://www.apkmirror.com/) Download free Android APKs
 - [ApkPure](https://apkpure.com/) Another free APK mirror site
 - [ACMARKET](https://acmarket.net/) download cracked & modified android apps & games free
+
+## Discord Servers
+- [DoujinStyle](https://discord.gg/z2QDFdA) Discord server with Doujin related materials. Things such as Japanese doujin music and games
 
 ## IPTV and DVR
 - [telly](https://github.com/tellytv/telly) IPTV proxy for Plex Live written in Golang
