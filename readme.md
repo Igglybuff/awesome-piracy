@@ -88,7 +88,7 @@ Please ensure you use an adblocker like [uBlock Origin](https://github.com/gorhi
 
 ### Mirrors
 
-This list is periodically mirrored to [PasteBin](https://pastebin.com/eG5fw8s5).
+This list is periodically mirrored to [PasteBin](https://pastebin.com/4ebhE0qu).
 
 ## Protecting Yourself
 
@@ -217,6 +217,8 @@ This list is periodically mirrored to [PasteBin](https://pastebin.com/eG5fw8s5).
 ### Miscellaneous Torrent Stuff
 - [βTorrent](https://btorrent.xyz/) fully-featured [WebTorrent](https://webtorrent.io/) browser client written in HTML, JS and CSS
 - [UNIT3D](https://github.com/HDInnovations/UNIT3D) The Nex-Gen Private Torrent Tracker (Aimed For Movie / TV Use)
+- [meanTorrent](https://github.com/taobataoma/meanTorrent) A BitTorrent Private Tracker CMS with Multilingual, and IRC announce support, CloudFlare support.
+- [NexusPHP](https://github.com/ZJUT/NexusPHP) BitTorrent private tracker scripts written in PHP.
 - [A Simple Guide To A Better Ratio](https://www.reddit.com/r/trackers/comments/fthja/a_simple_guide_to_a_better_ratio/) A good tracker requires you to upload what you download. This guide explains many of the methods involved with keeping on top of this sometimes difficult task.
 - [Live Tracer](https://trace.corrupt-net.org/live.php) Pre-time tracer for scene releases
 - [Tracker Twitters](https://filenetworks.blogspot.com/2010/12/list-of-private-torrent-trackers.html) List Of Private Torrent Trackers & BitTorrent News Accounts To Follow On Twitter
@@ -320,6 +322,7 @@ premium services
 - [annie](https://github.com/iawia002/annie) Fast, simple and clean video downloader
 - [aria2](https://aria2.github.io/) a lightweight multi-protocol & multi-source command-line download utility.
 - [ripme](https://github.com/RipMeApp/ripme) A album/video downloader with support for over 80 sites
+- [rdcli](https://github.com/ston3o/rdcli) The simple way to download and unrestrict DDL files, torrents and magnets using Real-Debrid
 
 ### Streaming Sites
 - [StreamCR](https://scr.cr/)
@@ -676,6 +679,7 @@ premium services
 - discord servers
 - more IRC stuff
 - upload to a few mirrors
+
 
 ## Contribute
 
