@@ -57,6 +57,7 @@
 - [Education](#education)
 - [Audiobooks](#audiobooks)
 - [Comicbooks](#comicbooks)
+- [Manga](#manga)
 - [Documentaries](#documentaries)
 - [Automation](#automation)
 - [P2P Networks](#p2p-networks)
@@ -85,6 +86,10 @@ I am aware that a number of websites featured in this list rely on operating und
 
 Please ensure you use an adblocker like [uBlock Origin](https://github.com/gorhill/uBlock) to access any of the websites listed here, otherwise you will have a bad time.
 
+### Mirrors
+
+This list is periodically mirrored to [PasteBin](https://pastebin.com/eG5fw8s5).
+
 ## Protecting Yourself
 
 ### VPNs
@@ -107,10 +112,13 @@ Please ensure you use an adblocker like [uBlock Origin](https://github.com/gorhi
 - [BitWarden](https://bitwarden.com/) Open source password management solution, can be self-hosted
 - [1Password](https://1password.com/) Popular cloud-hosted password manager
 - [KeePass](https://keepass.info/) free, open source, light-weight and easy-to-use password manager.
+- [LastPass](https://www.lastpass.com/) LastPass remembers all your passwords, so you don't have to.
 
 ### Antivirus
 - [MalwareBytes](https://www.malwarebytes.com/) "crushes malware so you are protected and your machine keeps running smoothly."
 - [HitmanPro](https://www.hitmanpro.com) Antivirus product from Sophos
+- [VirusTotal](https://www.virustotal.com/) Web service for scanning files and URLs for viruses
+- [How to remove viruses and malware on your Windows PC](https://www.howtogeek.com/126911/what-to-do-if-you-get-a-virus-on-your-computer/) Helpful HowToGeek article on cleaning out the pipes
 
 ## Torrenting
 
@@ -130,6 +138,10 @@ Please ensure you use an adblocker like [uBlock Origin](https://github.com/gorhi
 - [Redacted](https://redacted.ch/) Private music tracker
 - [Bibliotik](https://bibliotik.me/) Popular ebooks/audiobooks private tracker
 - [MyAnonaMouse](https://www.myanonamouse.net/) Another ebooks/audiobooks private tracker
+- [GazelleGames](https://gazellegames.net/login.php) Private tracker for games
+- [PassThePopcorn](https://passthepopcorn.me/) ratio-based torrent tracker for movies
+- [AnimeBytes](https://animebytes.tv/) community centralized around Japanese media, including anime, manga and music
+- [BakaBT](https://bakabt.me/) a torrent tracker which specializes in serving anime fans
 
 #### Semi-Private Trackers
 - [ruTracker](https://rutracker.org/forum/index.php)
@@ -152,6 +164,7 @@ Please ensure you use an adblocker like [uBlock Origin](https://github.com/gorhi
 - [trackerslist](https://github.com/ngosang/trackerslist) An updated list of public BitTorrent trackers
 - [MagnetDL](http://www.magnetdl.com/) Magnet link only search engine
 - [TorrentGalaxy](https://torrentgalaxy.org/) Public tracker with a clean UI
+- [Games4theworld](https://games4theworld.org) Torrents and magnet links for games
 
 ### Tracker Aggregators
 - [Jackett](https://github.com/Jackett/Jackett)
@@ -173,7 +186,8 @@ Please ensure you use an adblocker like [uBlock Origin](https://github.com/gorhi
 - [ruTorrent](https://github.com/Novik/ruTorrent) Yet another web front-end for rTorrent
 - [rutorrent-themes](https://github.com/InAnimaTe/rutorrent-themes) A collection of default and new, original themes for ruTorrent.
 - [flood](https://github.com/jfurrow/flood) A web UI for rTorrent with a Node.js backend and React frontend.
-- [qBitTorrent](https://www.qbittorrent.org/)
+- [qBitTorrent](https://www.qbittorrent.org/) Popular, lightweight, multi-platform torrent client
+- [qBitTorrent search function](https://www.techsupportalert.com/qbittorrent-help-torrent-search-engine) Allows you to search popular trackers directly from qBittorrent
 - [Transmission](https://transmissionbt.com/)
 - [Deluge](https://www.deluge-torrent.org/)
 - [Popcorn Time](https://github.com/popcorn-official/popcorn-desktop) Popcorn Time is a multi-platform, free software BitTorrent client that includes an integrated media player.
@@ -267,6 +281,8 @@ Please ensure you use an adblocker like [uBlock Origin](https://github.com/gorhi
 - [SoftArchive](https://sanet.st/full/) SoftArchive or SA is a scene release website, more known for new release of software, games, music, movies, and eBooks.
 - [MkvCage](https://www.mkvcage.ws/)
 - [MoveFiles](https://moviefiles.org/) Direct download search engine which generates Google Drive links
+- [IceFilms.info](https://www.icefilms.info/) Another DDL site with TV and movie links on FileUpload, GoUnlimited, Filecandy, and more
+- [DownArchive](http://downarchive.org/) DDL blog with premium links on a number of hosts. Lots of software
 
 ### Premium Link Generators
 - [File Hosting Wiki](https://filehostlist.miraheze.org/wiki/Main_Page)
@@ -321,7 +337,7 @@ premium services
 - [maulvi.github.io](https://maulvi.github.io/) Google Drive direct download link generator
 - [RapidLeech](https://github.com/Th3-822/rapidleech) a free server transfer script for use on various popular upload/download sites such as uploaded.net, Rapidgator.net and more than 127 others.
 - [megatools](https://github.com/megous/megatools) Open-source command line tools and C library (libmega) for accessing Mega.co.nz cloud storage.
-- [/r/megalinks](https://www.reddit.com/r/megalinks) Links to files on Mega
+- [/r/megalinks](https://www.reddit.com/r/megalinks) Links to files on Mega. Has now moved to snahp.it
 - [/r/GDriveLinks](https://www.reddit.com/r/GDriveLinks/) Google Drive Download Links
 - [MegaCrypt.js](https://github.com/JohnDeved/megacrypt.js) MegaCrypt.js lets you share your Mega.nz files without actually having to share any Mega.nz links by encrypting them to create a secure proxy to your files.
 - [DirtyWarez Forum](https://forum.dirtywarez.com/) Popular warez forum with films, TV shows, ebooks, anime, games, and more
@@ -422,6 +438,8 @@ premium services
 - [qoob.name](http://qoob.name/) repacker site
 - [Nicoblog](https://nicoblog.org/)
 - [Dark Umbra](https://darkumbra.net/) Forum for sourcing games
+- [PCGames-Download](https://pcgames-download.com/) Premium links to repacks from a variety of release groups
+- [Skidrow Repacks](https://skidrowrepacks.com/) Repacks from popular repacker SKIDROW. Lots of anime stuff too
 
 ### ROMs
 - [All the FullSets from EmuParadise](http://od.phirephly.design/lib/emuparadise/fullsets/) Link discovered by /u/PhirePhly on /r/opendirectories
@@ -449,6 +467,7 @@ premium services
 - [KissAnime](http://kissanime.ru/)
 - [NyaaPantsu](https://nyaa.pantsu.cat/)
 - [Alternatives to Kiss websites](https://www.reddit.com/r/KissCartoon/wiki/alternatives) /r/KissCartoon wiki page with lots of anime sites
+- [anime-sharing](http://www.anime-sharing.com/forum/) Forum for sharing anime
 
 ## Music
 - [Soulseek](http://www.soulseekqt.net/news/) Soulseek is an ad-free, spyware free, just plain free file sharing network for Windows, Mac and Linux.
@@ -497,10 +516,14 @@ premium services
 
 ## Comicbooks
 - [readcomiconline.to](https://readcomiconline.to/)
-- [KissManga](http://kissmanga.com/)
 - [Readcomicbooksonline](https://readcomicbooksonline.org/)
 - [Comic Extra](https://www.comicextra.com/)
 - [GetComics](https://getcomics.info/)
+
+## Manga
+- [MangaDex](https://www.mangadex.org/) MangaDex is an online manga reader that caters to all languages.
+- [KissManga](http://kissmanga.com/)
+- [/r/manga](https://www.reddit.com/r/manga) Everything and anything manga! (manwha is okay too!)
 
 ## Documentaries
 - [/r/Documentaries](https://www.reddit.com/r/documentaries) Popular documentaries subreddit
@@ -625,6 +648,7 @@ premium services
 - [Movieo](https://movieo.me/) Discover, organize and track over 250,000 movies.
 - [MetaCritic](https://www.metacritic.com) website that aggregates reviews of media products: music albums, video games, films, TV shows, and formerly, books.
 - [popular-movies](https://github.com/sjlu/popular-movies) Tries to create a list of popular movies based on a series of heuristics
+- [Letterboxd](https://letterboxd.com/) Your life in film
 - [Squawkr.io](https://www.squawkr.io/) sends notifications when movies are available for download.
 - [2160p BluRay Remux List](https://docs.google.com/spreadsheets/d/1qU8E0JT9JQk_BaBCxZS79tn7YmUyY4XBEpHPm3j16jI/edit#gid=1007191598) Complete list of all available 2160p remuxes
 
@@ -651,6 +675,7 @@ premium services
 - userscripts
 - discord servers
 - more IRC stuff
+- upload to a few mirrors
 
 ## Contribute
 
