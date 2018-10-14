@@ -747,12 +747,7 @@ premium services
 - discord servers
 - more IRC stuff
 - upload to a few mirrors
-- cgpeers.to
 - non-anime cartoons
-- https://old.reddit.com/r/SwitchHacks
-- https://old.reddit.com/r/switchhaxing
-- https://old.reddit.com/r/switchNSPs
-- arconaitv.us
 - https://hoarding.me/rclone-scripts/
 - https://www.archiveteam.org/
 - https://bytesized-hosting.com/pages/plexdrive
@@ -760,6 +755,8 @@ premium services
 - https://rclone.org/drive/
 - the Internet Archive
 - oldgamesfinder.com (avoid ISO Zone links, as that site is dead)
+- https://proxybay.bz/
+- https://torrents.me/
 
 ## Contribute
 
