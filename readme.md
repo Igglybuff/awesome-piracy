@@ -245,6 +245,7 @@ Some items in this list could easily fit in more than one category, so to make s
 - [magnetoo](https://www.magnetoo.io/) Fancy new in-browser WebTorrent streaming service
 - [Tixati](https://tixati.com/) Lightweight torrent client for Windows and Linux
 - [PicoTorrent](https://picotorrent.org/) Lightweight and minimalistic torrent client for Windows
+- [FrostWire](https://www.frostwire.com/) FrostWire is a Free and open-source BitTorrent client first released in September 2004, as a fork of LimeWire.
 
 ### Seedboxes
 - [/r/seedboxes](https://www.reddit.com/r/seedboxes) A place to discuss seedboxes and everything related to them.
@@ -581,7 +582,7 @@ premium services
 - [animeEncodes](https://www.animencodes.com/) 
 
 ## Cartoons
-- [watchcartoononline](https://www.watchcartoononline.com/)
+- [watchcartoononline](https://www.watchcartoononline.com/) Cartoons, dubbed/subbed anime streaming site
 
 ## Music
 - [Soulseek](http://www.soulseekqt.net/news/) Soulseek is an ad-free, spyware free, just plain free file sharing network for Windows, Mac and Linux.
@@ -630,7 +631,7 @@ premium services
 - [MagazineLib](https://magazinelib.com/) Free PDF and interactive e-magazines
 
 ## Education
-- [FreeTutorials.eu](https://www.freetutorials.eu/)
+- [FreeTutorials.eu](https://www.freetutorials.eu/) Lots of Udemy courses for free, has adblock detector
 - [Lynda Courses](https://www.reddit.com/r/megalinks/comments/7vlt4j/education_lynda_266_courses_207gb/) 266+ Lynda courses
 - [Guide for Finding Textbooks](https://www.reddit.com/r/Piracy/comments/3i9y7n/guide_for_finding_textbooks/) Extensive tutorial by /u/Amosqu
 - [How to "rent" your textbooks for free from Amazon](https://www.reddit.com/r/Piracy/comments/3ma9qe/guide_how_to_rent_your_textbooks_for_free_from/) "Going to college? Living off top ramen for dinner? Let me show you have to "rent" your textbooks for free & for life!"
@@ -639,14 +640,15 @@ premium services
 ## Audiobooks
 - [AudioBook Bay](http://audiobookbay.nl/) Download unabridged audiobook for free or share your audio books, safe, fast and high quality
 
-- [readcomiconline.to](https://readcomiconline.to/)
-- [Readcomicbooksonline](https://readcomicbooksonline.org/)
-- [Comic Extra](https://www.comicextra.com/)
-- [GetComics](https://getcomics.info/)
+## Comicbooks
+- [readcomiconline.to](https://readcomiconline.to/) Manga and comics uploaded daily
+- [Readcomicbooksonline](https://readcomicbooksonline.org/) Tends to Error 520 occasionally
+- [Comic Extra](https://www.comicextra.com/) Daily comic uploads, clean UI
+- [GetComics](https://getcomics.info/) GetComics started as an alternative place to get downloaded comic files, particularly US based comics published by DC and Marvel.
 
 ## Manga
 - [MangaDex](https://www.mangadex.org/) MangaDex is an online manga reader that caters to all languages.
-- [KissManga](http://kissmanga.com/)
+- [KissManga](http://kissmanga.com/) Another manga website
 - [/r/manga](https://www.reddit.com/r/manga) Everything and anything manga! (manhwa is okay too!)
 - [Madokami 0-E](https://archive.org/download/Madokami.Manga.0-E) Download manga titles named 0 to E.
 - [Madokami F-K](https://archive.org/download/Madokami.Manga.F-K) Download manga titles named F to K.
@@ -679,14 +681,16 @@ premium services
 - [Piracy and automation, an overview](https://www.reddit.com/r/Piracy/comments/9ft4xx/piracy_and_automation_an_overview/) Guide by /u/JukeCity101 on how to improve your experience pirating with automation tools
 
 ## P2P Networks
-- [FrostWire](https://www.frostwire.com/)
 - [eDonkey network](https://en.wikipedia.org/wiki/EDonkey_network) a decentralized, mostly server-based, peer-to-peer file sharing network
+- [Gnutella](https://en.wikipedia.org/wiki/Gnutella) P2P network behind the popular LimeWire file sharing app
+- [FastTrack](https://en.wikipedia.org/wiki/FastTrack) Protocol used by the Kazaa, Grokster, iMesh, and Morpheus file sharing programs
+- [Napster](https://en.wikipedia.org/wiki/Napster) Peer-to-peer file sharing Internet service that emphasized sharing digital audio files, typically audio songs, encoded in MP3 format.
 
 ## Ripping, Transcoding, Converting
-- [Handbrake](https://handbrake.fr/)
-- [MakeMKV](http://www.makemkv.com/)
-- [ffmpeg](https://ffmpeg.org/)
-- [sickbeard_mp4_automator](https://github.com/mdhiggins/sickbeard_mp4_automator)
+- [Handbrake](https://handbrake.fr/) HandBrake is a tool for converting video from nearly any format to a selection of modern, widely supported codecs.
+- [MakeMKV](http://www.makemkv.com/) MakeMKV is your one-click solution to convert video that you own into free and patents-unencumbered format that can be played everywhere.
+- [ffmpeg](https://ffmpeg.org/) A complete, cross-platform solution to record, convert and stream audio and video.
+- [sickbeard_mp4_automator](https://github.com/mdhiggins/sickbeard_mp4_automator) Automatically convert video files to a standardized mp4 format with proper metadata tagging to create a beautiful and uniform media library
 - [Automatic Ripping Machine](https://b3n.org/automatic-ripping-machine/) The A.R.M. (Automatic Ripping Machine) detects the insertion of an optical disc, identifies the type of media and autonomously performs the appropriate action
 
 ## Cloud Storage
@@ -708,8 +712,8 @@ premium services
 ## Mobile Apps
 
 - [nzb360](http://nzb360.com/) nzb360 is a full-featured NZB manager that focuses on providing the best experience possible for controlling all of your usenet needs.
-- [Ombi](https://play.google.com/store/apps/details?id=com.tidusjar.Ombi) 
-- [Tautulli Remote](https://play.google.com/store/apps/details?id=com.williamcomartin.plexpyremote) 
+- [Ombi](https://play.google.com/store/apps/details?id=com.tidusjar.Ombi) Companion app for Ombi to request Plex content
+- [Tautulli Remote](https://play.google.com/store/apps/details?id=com.williamcomartin.plexpyremote) Mobile version of Tautilli for monitoring Plex on the go
 - [MyJDownloader](https://play.google.com/store/apps/details?id=org.appwork.myjdandroid&hl=en_US) enables you to remote control your desktop JDownloader from your pocket while you're on the go.
 - [FilePursuit Pro](https://play.google.com/store/apps/details?id=com.filepursuit.filepursuitpro) FilePursuit provides a very powerful file indexing and search service allowing you to find a file among millions of files located on web servers.
 - [YMusic](https://forum.xda-developers.com/android/apps-games/app-youtube-music-sound-stream-youtubes-t3399722) YouTube Music Player & Downloader
@@ -738,7 +742,7 @@ premium services
 - [ApkPure](https://apkpure.com/) Another free APK mirror site
 - [ACMARKET](https://acmarket.net/) download cracked & modified android apps & games free
 - [BlackMod](https://blackmod.net/) Lots of cracked Android games
-- [Android Zone](https://android-zone.ws/) 
+- [Android Zone](https://android-zone.ws/) Another place to find premium links for APKs
 
 ## Discord Servers
 - [DoujinStyle](https://discord.gg/z2QDFdA) Discord server with Doujin related materials. Things such as Japanese doujin music and games
@@ -755,15 +759,15 @@ premium services
 ## IRC
 - [weechat](https://github.com/weechat/weechat) The extensible chat client.
 - [irssi](https://irssi.org/) Your text mode chatting application since 1999.
-- [autodl-irssi](https://autodl-community.github.io/autodl-irssi/)
+- [autodl-irssi](https://autodl-community.github.io/autodl-irssi/) autodl-irssi is a plugin for irssi that monitors IRC announce channels for torrent trackers and downloads torrent files based on user-defined filters.
 
 ### IRC Networks
-- [irc.p2p-network.net](https://p2p-network.net/) 
+- [irc.p2p-network.net](https://p2p-network.net/) P2P file sharing network
 - [Orpheus](https://orpheus.network/) Formerly known as Apollo
 
 ## DC++
-- [Direct Connect (protocol)](https://en.wikipedia.org/wiki/Direct_Connect_(protocol))
-- [DC++](https://en.wikipedia.org/wiki/DC%2B%2B)
+- [Direct Connect (protocol)](https://en.wikipedia.org/wiki/Direct_Connect_(protocol)) Wikipedia page describing Direct Connect.
+- [DC++](https://en.wikipedia.org/wiki/DC%2B%2B) Wikipedia page describing DC++
 - [AirDC++](https://www.airdcpp.net/) Windows GUI and Linux Web DC++ client in active development, with ADC, IPv6 and DHT support.
 - [FlylinkDC++](http://www.flylinkdc.com/) Windows DC++ and Bittorrent client in active development, with ADC and DHT support.
 - [EiskaltDC++](https://github.com/eiskaltdcpp/eiskaltdcpp) Windows/Linux/macOS DC++ client, with ADC and DHT support.
@@ -783,7 +787,7 @@ premium services
 - [fullmoviesandtv multireddit](https://www.reddit.com/user/Asmailes/m/fullmoviesandtv/) All of the above subreddits as a multireddit
 
 ## Piracy Blogs and News
-- [TorrentFreak](https://torrentfreak.com)
+- [TorrentFreak](https://torrentfreak.com) TorrentFreak is a publication dedicated to bringing the latest news about copyright, privacy, and everything related to filesharing.
 
 ## Content Discovery
 - [Trakt.tv](https://trakt.tv/) a platform that does many things, but primarily keeps track of TV shows and movies you watch.
