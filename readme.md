@@ -90,7 +90,7 @@ Please ensure you use an adblocker like [uBlock Origin](https://github.com/gorhi
 
 ### Mirrors
 
-This list is periodically mirrored to [PasteBin](https://pastebin.com/4ebhE0qu).
+This list is periodically mirrored to [PasteBin](https://github.com/Igglybuff/awesome-piracy/blob/master/pastebin.url).
 
 ## Protecting Yourself
 
