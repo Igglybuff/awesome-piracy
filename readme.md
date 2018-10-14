@@ -192,6 +192,7 @@ This list is periodically mirrored to [PasteBin](https://github.com/Igglybuff/aw
 - [TorrentGalaxy](https://torrentgalaxy.org/) Public tracker with a clean UI
 - [Games4theworld](https://games4theworld.org) Torrents and magnet links for games
 - [metal-tracker.com](http://en.metal-tracker.com/) Heavy metal music tracker
+- [SkyTorrents](https://www.skytorrents.lol/)
 
 ### Tracker Aggregators
 - [Jackett](https://github.com/Jackett/Jackett)
