@@ -71,8 +71,9 @@
 	- [APKs](#apks)
 - [Discord Servers](#discord-servers)
 - [IPTV and DVR](#iptv-and-dvr)
-- [IRC and DC++](#irc-and-dc++)
+- [IRC](#irc)
 	- [IRC Networks](#irc-networks)
+- [DC++](#dc)
 - [Full Movies On](#full-movies-on)
 - [Piracy Blogs and News](#piracy-blogs-and-news)
 - [Content Discovery](#content-discovery)
@@ -685,17 +686,22 @@ premium services
 - [/r/IPTVReviews](https://www.reddit.com/r/IPTVreviews) Reviews of IPTV service providers
 - [MythTV](https://www.mythtv.org/) Free Open Source software digital video recorder 
 
-## IRC and DC++
+## IRC
 - [weechat](https://github.com/weechat/weechat) The extensible chat client.
 - [irssi](https://irssi.org/) Your text mode chatting application since 1999.
 - [autodl-irssi](https://autodl-community.github.io/autodl-irssi/)
-- [Tankafett](http://tankafett.biz/?do=hublist) List of public DC++ hubs, previously known as hublist.org and TheHubList.com.
-- [Direct Connect (protocol)](https://en.wikipedia.org/wiki/Direct_Connect_(protocol))
-- [DC++](https://en.wikipedia.org/wiki/DC%2B%2B)
 
 ### IRC Networks
 - [irc.p2p-network.net](https://p2p-network.net/) 
 - [Orpheus](https://orpheus.network/) Formerly known as Apollo
+
+## DC++
+- [Direct Connect (protocol)](https://en.wikipedia.org/wiki/Direct_Connect_(protocol))
+- [DC++](https://en.wikipedia.org/wiki/DC%2B%2B)
+- [AirDC++](https://www.airdcpp.net/) Windows GUI and Linux Web DC++ client in active development, with ADC, IPv6 and DHT support.
+- [FlylinkDC++](http://www.flylinkdc.com/) Windows DC++ and Bittorrent client in active development, with ADC and DHT support.
+- [EiskaltDC++](https://github.com/eiskaltdcpp/eiskaltdcpp) Windows/Linux/macOS DC++ client, with ADC and DHT support.
+- [Tankafett](http://tankafett.biz/?do=hublist) List of public DC++ hubs, previously known as hublist.org and TheHubList.com.
 
 ## Full Movies On
 - [/r/fullmoviesonyoutube](https://www.reddit.com/r/fullmoviesonyoutube/)
