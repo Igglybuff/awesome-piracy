@@ -124,6 +124,7 @@ This list is periodically mirrored to [PasteBin](https://pastebin.com/4ebhE0qu).
 - [HitmanPro](https://www.hitmanpro.com) Antivirus product from Sophos
 - [VirusTotal](https://www.virustotal.com/) Web service for scanning files and URLs for viruses
 - [How to remove viruses and malware on your Windows PC](https://www.howtogeek.com/126911/what-to-do-if-you-get-a-virus-on-your-computer/) Helpful HowToGeek article on cleaning out the pipes
+- [Dr.Web CureIt!](https://free.drweb.com/cureit/?lng=en) Free antivirus scanner
 
 ### Windows 10 Privacy
 
@@ -155,6 +156,8 @@ This list is periodically mirrored to [PasteBin](https://pastebin.com/4ebhE0qu).
 - [PassThePopcorn](https://passthepopcorn.me/) ratio-based torrent tracker for movies
 - [AnimeBytes](https://animebytes.tv/) community centralized around Japanese media, including anime, manga and music
 - [BakaBT](https://bakabt.me/) a torrent tracker which specializes in serving anime fans
+- [BeyondHD](https://beyondhd.xyz/)
+- [CGPeers](https://www.cgpeers.com/)
 - [RED Interview Prep](https://interviewfor.red/en/index.html) This site was written as a guide for potential users to learn about music formats, transcodes, torrenting, and burning and ripping — everything you need to know in order to pass the RED interview.
 - [/PTG tracker manifesto](https://pastebin.com/thLgSkNE) List of private trackers
 - [Tracker Spreadsheet](https://docs.google.com/spreadsheets/d/1zYZ2107xOZwQ37AjLTc5A4dUJl0ilg8oMrZyA0BGvc0/edit#gid=1357476050) Comprehensive spreadsheet of private trackers (somewhat out of date)
@@ -164,6 +167,7 @@ This list is periodically mirrored to [PasteBin](https://pastebin.com/4ebhE0qu).
 - [ruTracker](https://rutracker.org/forum/index.php)
 - [Zamunda.net](http://zamunda.net)  A bulgarian tracker with english and russian translations available.
 - [ArenaBG](https://arenabg.com/)  A bulgarian tracker with an english translation available.
+- [NoNaMe Club](https://nnmclub.to/) Russian semi-private tracker and forum
 
 #### Public Trackers
 - [1337x](https://1337x.to/)
@@ -192,6 +196,7 @@ This list is periodically mirrored to [PasteBin](https://pastebin.com/4ebhE0qu).
 - [Cardigann](https://github.com/cardigann/cardigann) A proxy server for adding new indexers to Sonarr, SickRage and other media managers
 - [nzbhydra2](https://github.com/theotherp/nzbhydra2/) Primarily a Usenet meta search engine but also supports Torznab
 - [snowfl](https://snowfl.com/)
+- [TParser](http://tparser.org/) Russian torrent sites indexer
 
 ### Tracker Invites
 - [/r/OpenSignups](https://www.reddit.com/r/opensignups)
@@ -213,6 +218,7 @@ This list is periodically mirrored to [PasteBin](https://pastebin.com/4ebhE0qu).
 - [Popcorn Time](https://github.com/popcorn-official/popcorn-desktop) Popcorn Time is a multi-platform, free software BitTorrent client that includes an integrated media player.
 - [magnetoo](https://www.magnetoo.io/) Fancy new in-browser WebTorrent streaming service
 - [Tixati](https://tixati.com/) Lightweight torrent client for Windows and Linux
+- [PicoTorrent](https://picotorrent.org/) Lightweight and minimalistic torrent client for Windows
 
 ### Seedboxes
 - [/r/seedboxes](https://www.reddit.com/r/seedboxes) A place to discuss seedboxes and everything related to them.
@@ -226,6 +232,7 @@ This list is periodically mirrored to [PasteBin](https://pastebin.com/4ebhE0qu).
 - [Seedbox Guide](https://seedboxgui.de/) comparison tool to help you find the best fitting Seedbox
 - [rtinst](https://github.com/arakasi72/rtinst) seedbox installation script for Ubuntu and Debian systems
 - [sboxsetup](https://github.com/dannyti/sboxsetup) Another seedbox setup script
+- [QuickBox IO](https://quickbox.io/) Seedbox installer script
 
 ### Torrent Communities
 - [/r/trackers](https://www.reddit.com/r/trackers)
@@ -485,6 +492,7 @@ premium services
 - [Romulation.net](https://www.romulation.net/) collection of ~28,000 console game ROMs
 - [The Eye ROMs](http://the-eye.eu/public/rom/) open directory of ROMs from The Eye
 - [myabandonware](https://www.myabandonware.com/) More than 14000 old games to download for free! 
+- [/r/PkgLinks](https://www.reddit.com/r/PkgLinks/) A place to share working Playstation 4 PKGs
 
 ### Homebrew
 - [The ultimate guide to Nintendo 3DS Piracy](https://www.reddit.com/r/Piracy/comments/6h2vdd/the_ultimate_guide_to_nintendo_3ds_piracy/) Posted by /u/crazy5
@@ -508,6 +516,7 @@ premium services
 - [NyaaPantsu](https://nyaa.pantsu.cat/)
 - [Alternatives to Kiss websites](https://www.reddit.com/r/KissCartoon/wiki/alternatives) /r/KissCartoon wiki page with lots of anime sites
 - [anime-sharing](http://www.anime-sharing.com/forum/) Forum for sharing anime
+- [AniDex](https://anidex.info) Torrent tracker and indexer, primarily for English fansub groups of anime
 
 ## Music
 - [Soulseek](http://www.soulseekqt.net/news/) Soulseek is an ad-free, spyware free, just plain free file sharing network for Windows, Mac and Linux.
@@ -522,6 +531,7 @@ premium services
 - [TunesKit](https://www.tuneskit.com/) iTunes DRM removal tool
 - [Requiem](https://digiex.net/threads/requiem-4-1-remove-itunes-drm-fairplay-from-music-video-and-books.11796/) Requiem is a program that removes Apple's DRM (called FairPlay) from songs, videos, and books purchased on iTunes
 - [How to Remove DRM From iTunes Movies and TV Shows](https://www.howtogeek.com/291612/how-to-remove-drm-from-itunes-movies-and-tv-shows/) HowToGeek article on how to use TunesKit and Requiem
+- [Hikarinoakariost](https://hikarinoakariost.info/) Site with Japanese music
 
 ## Software
 - [Adobe CC 2018](https://www.reddit.com/r/sjain_guides/comments/9g4t2u/adobe_cc_2018_full_indepth_guide_to_installing/) Full in-depth guide to installing and cracking any application (Windows)
@@ -537,6 +547,7 @@ premium services
 
 ## Ebooks
 - [LibGen](http://libgen.io/) search engine for articles and books on various topics, which allows free access to content that is otherwise paywalled or not digitized elsewhere
+- [b-ok](http://b-ok.xyz/) Free ebook library
 - [Sci-Hub](https://sci-hub.tw/) the first pirate website in the world to provide mass and public access to tens of millions of research papers
 - [BookSC](http://booksc.org/) The world's largest scientific articles store. 50,000,000+ articles for free.
 - [The idiot proof guide to downloading ebooks off IRC](https://www.reddit.com/r/Piracy/comments/2oftbu/guide_the_idiot_proof_guide_to_downloading_ebooks/) Posted by /u/Servaplur
@@ -658,6 +669,9 @@ premium services
 - [ACMARKET](https://acmarket.net/) download cracked & modified android apps & games free
 - [BlackMod](https://blackmod.net/) Lots of cracked Android games
 - [Android Zone](https://android-zone.ws/) 
+
+## Discord Servers
+- [DoujinStyle](https://discord.gg/z2QDFdA) Discord server with Doujin related materials. Things such as Japanese doujin music and games
 
 ## IPTV and DVR
 - [telly](https://github.com/tellytv/telly) IPTV proxy for Plex Live written in Golang
