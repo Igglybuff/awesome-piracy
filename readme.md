@@ -148,6 +148,8 @@ This list is periodically mirrored to [PasteBin](https://pastebin.com/4ebhE0qu).
 
 #### Semi-Private Trackers
 - [ruTracker](https://rutracker.org/forum/index.php)
+- [Zamunda.net](http://zamunda.net)  A bulgarian tracker with english and russian translations available.
+- [ArenaBG](https://arenabg.com/)  A bulgarian tracker with an english translation available.
 - [NoNaMe Club](https://nnmclub.to/) Russian semi-private tracker and forum
 
 #### Public Trackers
@@ -537,7 +539,12 @@ premium services
 ## Manga
 - [MangaDex](https://www.mangadex.org/) MangaDex is an online manga reader that caters to all languages.
 - [KissManga](http://kissmanga.com/)
-- [/r/manga](https://www.reddit.com/r/manga) Everything and anything manga! (manwha is okay too!)
+- [/r/manga](https://www.reddit.com/r/manga) Everything and anything manga! (manhwa is okay too!)
+- [Madokami 0-E](https://archive.org/download/Madokami.Manga.0-E) Download manga titles named 0 to E.
+- [Madokami F-K](https://archive.org/download/Madokami.Manga.F-K) Download manga titles named F to K.
+- [Madokami L-Q](https://archive.org/download/Madokami.Manga.L-Q) Download manga titles named L to Q.
+- [Madokami R-Z](https://archive.org/download/Madokami.Manga.R-Z) Download manga titles named R to Z.
+- [Madokami novels, raws and artbooks](https://archive.org/download/Madokami.NotManga) Download novels, manga raws and artbooks.
 
 ## Documentaries
 - [/r/Documentaries](https://www.reddit.com/r/documentaries) Popular documentaries subreddit
