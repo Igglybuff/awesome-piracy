@@ -8,9 +8,9 @@ project you agree to abide by its terms.
 
 Ensure your pull request adheres to the following guidelines:
 
-- Make sure you take care of this
-- And this as well
-- And don't forget to check this
+- Include a description of the link you're adding if possible
+- If you're changing section headers, ensure you update the contents at the top too
+- If you're adding a new section, ensure you give it a unique name
 
 Thank you for your suggestions!
 
