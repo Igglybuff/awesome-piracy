@@ -39,7 +39,6 @@
 	- [Downloaders](#downloaders)
 	- [Streaming Sites](#streaming-sites)
 	- [Miscellaneous DDL Stuff](#miscellaneous-ddl-stuff)
-	- [Music](#music)
 - [Media Centre Applications](#media-centre-applications)
 - [Plex](#plex)
 	- [Plex Plugins](#plex-plugins)
@@ -346,9 +345,6 @@ premium services
 - [MegaCrypt.js](https://github.com/JohnDeved/megacrypt.js) MegaCrypt.js lets you share your Mega.nz files without actually having to share any Mega.nz links by encrypting them to create a secure proxy to your files.
 - [DirtyWarez Forum](https://forum.dirtywarez.com/) Popular warez forum with films, TV shows, ebooks, anime, games, and more
 
-### Music
-- [Plus Premieres](https://www.pluspremieres.eu/) Download newest iTunes music in M4A format
-
 ## Media Centre Applications
 - [Plex](https://www.plex.tv/) Your content—from live and recorded TV and personal media, to on-demand web shows, video news, and podcasts—beautifully organized and ready to stream everywhere.
 - [Emby](https://emby.media/) a personal media server with apps on just about every device.
@@ -489,6 +485,7 @@ premium services
 - [TunesKit](https://www.tuneskit.com/) iTunes DRM removal tool
 - [Requiem](https://digiex.net/threads/requiem-4-1-remove-itunes-drm-fairplay-from-music-video-and-books.11796/) Requiem is a program that removes Apple's DRM (called FairPlay) from songs, videos, and books purchased on iTunes
 - [How to Remove DRM From iTunes Movies and TV Shows](https://www.howtogeek.com/291612/how-to-remove-drm-from-itunes-movies-and-tv-shows/) HowToGeek article on how to use TunesKit and Requiem
+- [Plus Premieres](https://www.pluspremieres.eu/) Download newest iTunes music in M4A format
 
 ## Software
 - [How to patch Adobe CC 2017 applications on Windows](https://drive.google.com/file/d/0BxfywKwnIU2JdFFraUxhVkllbnc/view)
