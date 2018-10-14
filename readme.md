@@ -145,6 +145,8 @@ This list is periodically mirrored to [PasteBin](https://pastebin.com/4ebhE0qu).
 
 #### Semi-Private Trackers
 - [ruTracker](https://rutracker.org/forum/index.php)
+- [Zamunda.net](http://zamunda.net)  A bulgarian tracker with english and russian translations available.
+- [ArenaBG](https://arenabg.com/)  A bulgarian tracker with an english translation available.
 
 #### Public Trackers
 - [1337x](https://1337x.to/)
