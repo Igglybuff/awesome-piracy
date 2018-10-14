@@ -215,6 +215,8 @@ Some items in this list could easily fit in more than one category, so to make s
 - [OTorrents](https://otorrents.com/)
 - [Torlock](https://www.torlock.com/) Torlock is a torrent index and torrent search that helps to access the latest in TV series and movies.
 - [DIGBT](https://www.digbt.org/) DIGBT is a DHT torrent search engine.
+- [Torrent9](https://www.torrent9.ph/) French torrent search engine
+- [YggTorrent](https://www3.yggtorrent.to/) French tracker and search engine (have a download/upload ratio limitation)
 
 ### Tracker Aggregators
 - [Jackett](https://github.com/Jackett/Jackett)
