@@ -289,6 +289,7 @@ Some items in this list could easily fit in more than one category, so to make s
 - [Newsdemon](https://www.newsdemon.com/)
 - [Newsgroup Ninja](https://www.newsgroup.ninja/en)
 - [Usenet Express](http://usenetexpress.com/)
+- [Usenet Farm](https://usenet.farm/)
 
 ### Usenet Indexers
 
@@ -302,6 +303,8 @@ Some items in this list could easily fit in more than one category, so to make s
 #### Free Indexers
 - [6box](https://6box.me/)
 - [NZBIndex](https://www.nzbindex.com)
+- [Binsearch](https://www.binsearch.info/)
+- [NZBKing](http://nzbking.com/)
 
 ### Usenet Clients
 - [SABnzbd](https://sabnzbd.org/)
@@ -331,6 +334,7 @@ Some items in this list could easily fit in more than one category, so to make s
 ### Premium Link DDL Indexers
 - [snahp.it](https://snahp.it/) replaced /r/megalinks
 - [ololo](https://ololo.to/)
+- [MegaSearch](http://megasearch.co) Search engine for finding content hosted on Mega and other premium hosts like OpenLoad
 - [Orion](https://orionoid.com/) Orion is a service that indexes metadata and links from a variety of public websites and networks, including torrent, usenet, and hoster indexes.
 - [hdencode](https://hdencode.com/)
 - [Movie Glide](https://www.movieglide.com/) 
@@ -415,6 +419,7 @@ premium services
 - [Cricfree](https://crickfree.org/)
 - [VIPBox](https://www.vipbox.live/) Spanish
 - [MamaHD](https://www.mamahd.org/)
+- [/r/soccerstreams](https://www.reddit.com/r/soccerstreams) A subreddit dedicated to the highest quality of free soccer / football streams. World Cup Streams, too.
 
 ### Miscellaneous DDL Stuff
 - [Leonflix](https://leonflix.net/) A multi-platform desktop app for finding movies and TV shows.
@@ -436,6 +441,7 @@ premium services
 - [Myflix](https://github.com/pastapojken/Myflix) Myflix tries to be a somewhat simple and lightweight "DIY Netflix", similar to Plex, streama or Emby, for your DIY NAS, especially aimed at the Raspberry Pi/Odroid/etc ecosystem.
 - [Stremio](https://www.stremio.com/) Multi-platform video content aggregator with a comprehensive add-on system for extending functionality
 - [Gerbera](https://github.com/gerbera/gerbera) UPnP Media Server for 2018 (Based on MediaTomb) 
+- [Serviio](http://serviio.org/) Serviio is a free media server. It allows you to stream your media files (music, video or images) to renderer devices (e.g. a TV set, Bluray player, games console or mobile phone) on your connected home network.
 
 ## Plex
 
@@ -564,7 +570,8 @@ premium services
 - [Nyaa](https://nyaa.si/) Bittorrent software for cats [(Repo)](https://github.com/nyaadevs/nyaa)
 - [Hi10 Anime](https://hi10anime.com/) High Quality 10-bit Anime Encodes
 - [Anime Kaizoku](https://www2.animekaizoku.com/) Up to 1080p DDL links, mostly Google Drive
-- [/r/animepiracy](https://www.reddit.com/r/animepiracy) 
+- [/r/animepiracy](https://www.reddit.com/r/animepiracy)
+- [/r/animepiracy wiki](https://www.reddit.com/r/animepiracy/wiki/index) Lists for sourcing Anime streaming sites, manga sites, and more
 - [Monimo](https://monimoapp.netlify.com/) Netflix like web app for watching animes
 - [AniLinkz](https://anilinkz.to/)
 - [KissAnime](http://kissanime.ru/)
@@ -572,6 +579,7 @@ premium services
 - [Alternatives to Kiss websites](https://www.reddit.com/r/KissCartoon/wiki/alternatives) /r/KissCartoon wiki page with lots of anime sites
 - [anime-sharing](http://www.anime-sharing.com/forum/) Forum for sharing anime
 - [AniDex](https://anidex.info) Torrent tracker and indexer, primarily for English fansub groups of anime
+- [animeEncodes](https://www.animencodes.com/) 
 
 ## Cartoons
 - [watchcartoononline](https://www.watchcartoononline.com/)
@@ -810,9 +818,6 @@ premium services
 
 ## Unsorted and To Do List
 
-- binsearch
-- nzbking
-- usenetfarm
 - more wikipedia pages/further reading
 - userscripts
 - discord servers
