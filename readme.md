@@ -532,7 +532,6 @@ premium services
 ### Repacks
 - [Good Old Downloads](https://goodolddownloads.com/)
 - [Games Torrent](http://gamestorrent.co/) Torrent site, part of IGGGAMES with releases from CODEX, RELOADED, CPY, SKIDROW, and more
-- [IGGGAMES](http://igg-games.com/) Torrent site for games (NOTE: use an adblocker and [block this domain from using JavaScript](https://www.reddit.com/r/Piracy/comments/9f1rf2/-/e5tcbzg/))
 - [FitGirl Repacks](fitgirl-repacks.site) Popular DDL and torrent site for game repacks
 - [Xatab Repacks](https://xatab-repack.net) Russian game repacker, primarily torrents
 - [ElAmigos Games](https://www.elamigos-games.com/) Premium links to cracked games
