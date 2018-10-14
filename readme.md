@@ -589,6 +589,7 @@ premium services
 - [TunesKit](https://www.tuneskit.com/) iTunes DRM removal tool
 - [Requiem](https://digiex.net/threads/requiem-4-1-remove-itunes-drm-fairplay-from-music-video-and-books.11796/) Requiem is a program that removes Apple's DRM (called FairPlay) from songs, videos, and books purchased on iTunes
 - [How to Remove DRM From iTunes Movies and TV Shows](https://www.howtogeek.com/291612/how-to-remove-drm-from-itunes-movies-and-tv-shows/) HowToGeek article on how to use TunesKit and Requiem
+- [Plus Premieres](https://www.pluspremieres.eu/) Download newest iTunes music in M4A format
 - [Hikarinoakariost](https://hikarinoakariost.info/) Site with Japanese music
 - [mp3Clan](http://mp3guild.com/) Free music streaming
 - [GoSong](https://gosong.unblocked.gdn/) Streamable MP3s
@@ -631,7 +632,6 @@ premium services
 ## Audiobooks
 - [AudioBook Bay](http://audiobookbay.nl/) Download unabridged audiobook for free or share your audio books, safe, fast and high quality
 
-## Comicbooks
 - [readcomiconline.to](https://readcomiconline.to/)
 - [Readcomicbooksonline](https://readcomicbooksonline.org/)
 - [Comic Extra](https://www.comicextra.com/)
