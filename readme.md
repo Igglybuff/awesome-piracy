@@ -110,6 +110,7 @@ Some items in this list could easily fit in more than one category, so to make s
 
 ### VPNs
 - [Private Internet Access](https://www.privateinternetaccess.com/) Hugely popular subscription-based VPN provider with a proven track record for not keeping logs
+- [TCPVPN](https://www.tcpvpn.com/) Free VPN service with servers in almost every part of the world.
 - [ProtonVPN](https://protonvpn.com/) High-speed Swiss VPN that safeguards your privacy.
 - [NordVPN](https://nordvpn.com/) With NordVPN, encrypt your online activity to protect your private data from hackers or snoopy advertisers.
 - [That One Privacy Site](https://thatoneprivacysite.net/vpn-section/) VPN section of That One Privacy Site with VPN comparisons
@@ -233,14 +234,15 @@ Some items in this list could easily fit in more than one category, so to make s
 - [BTRACS](http://btracs.com/) an automatic information site which periodicaly checks closed community Bittorrent trackers for being open for signup.
 
 ### Torrent Clients
+- [uTorrent](https://www.utorrent.com/) Most popular torrent client for windows.
 - [rTorrent](https://rakshasa.github.io/rtorrent/)
 - [ruTorrent](https://github.com/Novik/ruTorrent) Yet another web front-end for rTorrent
 - [rutorrent-themes](https://github.com/InAnimaTe/rutorrent-themes) A collection of default and new, original themes for ruTorrent.
 - [flood](https://github.com/jfurrow/flood) A web UI for rTorrent with a Node.js backend and React frontend.
 - [qBitTorrent](https://www.qbittorrent.org/) Popular, lightweight, multi-platform torrent client
 - [qBitTorrent search function](https://www.techsupportalert.com/qbittorrent-help-torrent-search-engine) Allows you to search popular trackers directly from qBittorrent
-- [Transmission](https://transmissionbt.com/)
-- [Deluge](https://www.deluge-torrent.org/)
+- [Transmission](https://transmissionbt.com/) Default torrent client in many distros.
+- [Deluge](https://www.deluge-torrent.org/) 
 - [Popcorn Time](https://github.com/popcorn-official/popcorn-desktop) Popcorn Time is a multi-platform, free software BitTorrent client that includes an integrated media player.
 - [magnetoo](https://www.magnetoo.io/) Fancy new in-browser WebTorrent streaming service
 - [Tixati](https://tixati.com/) Lightweight torrent client for Windows and Linux
@@ -568,6 +570,7 @@ premium services
 - [Monimo](https://monimoapp.netlify.com/) Netflix like web app for watching animes
 - [AniLinkz](https://anilinkz.to/)
 - [KissAnime](http://kissanime.ru/)
+- [9Anime](https://9anime.to)
 - [NyaaPantsu](https://nyaa.pantsu.cat/)
 - [Alternatives to Kiss websites](https://www.reddit.com/r/KissCartoon/wiki/alternatives) /r/KissCartoon wiki page with lots of anime sites
 - [anime-sharing](http://www.anime-sharing.com/forum/) Forum for sharing anime
@@ -595,6 +598,7 @@ premium services
 - [GoSong](https://gosong.unblocked.gdn/) Streamable MP3s
 - [MP3Juices](https://mp3juices.unblocked.gdn/) MP3 search engine tool which uses YouTube
 - [mp3.li](http://mp3li.unblckd.club) Another MP3 streaming site
+- [SongsPK](https://songs-pk.in/) Mainly for downloading Bollywood songs.Domain changes frequently.
 
 ## Software
 - [Adobe CC 2018](https://www.reddit.com/r/sjain_guides/comments/9g4t2u/adobe_cc_2018_full_indepth_guide_to_installing/) Full in-depth guide to installing and cracking any application (Windows)
@@ -624,6 +628,7 @@ premium services
 
 ## Education
 - [FreeTutorials.eu](https://www.freetutorials.eu/)
+- [TUTSGALAXY](https://tutsgalaxy.com/)
 - [Lynda Courses](https://www.reddit.com/r/megalinks/comments/7vlt4j/education_lynda_266_courses_207gb/) 266+ Lynda courses
 - [Guide for Finding Textbooks](https://www.reddit.com/r/Piracy/comments/3i9y7n/guide_for_finding_textbooks/) Extensive tutorial by /u/Amosqu
 - [How to "rent" your textbooks for free from Amazon](https://www.reddit.com/r/Piracy/comments/3ma9qe/guide_how_to_rent_your_textbooks_for_free_from/) "Going to college? Living off top ramen for dinner? Let me show you have to "rent" your textbooks for free & for life!"
