@@ -88,6 +88,8 @@ I am aware that a number of websites featured in this list rely on operating und
 
 Please ensure you use an adblocker like [uBlock Origin](https://github.com/gorhill/uBlock) to access any of the websites listed here, otherwise you will have a bad time.
 
+For discussion and feedback, please head to [the reddit thread on /r/Piracy](https://old.reddit.com/r/Piracy/comments/9nontk/awesome_piracy_a_curated_list_of_awesome_warez/). If you come across dead links, please report them by [creating an issue](https://github.com/Igglybuff/awesome-piracy/issues/new).
+
 ### Mirrors
 
 This list is periodically mirrored to [PasteBin](https://github.com/Igglybuff/awesome-piracy/blob/master/pastebin.url).
@@ -744,6 +746,19 @@ premium services
 - discord servers
 - more IRC stuff
 - upload to a few mirrors
+- cgpeers.to
+- non-anime cartoons
+- https://old.reddit.com/r/SwitchHacks
+- https://old.reddit.com/r/switchhaxing
+- https://old.reddit.com/r/switchNSPs
+- arconaitv.us
+- https://hoarding.me/rclone-scripts/
+- https://www.archiveteam.org/
+- https://bytesized-hosting.com/pages/plexdrive
+- https://rclone.org/cache/
+- https://rclone.org/drive/
+- the Internet Archive
+- oldgamesfinder.com (avoid ISO Zone links, as that site is dead)
 
 ## Contribute
 
