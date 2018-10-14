@@ -810,7 +810,9 @@ premium services
 
 ## Unsorted and To Do List
 
-- more subcategories
+- binsearch
+- nzbking
+- usenetfarm
 - more wikipedia pages/further reading
 - userscripts
 - discord servers
