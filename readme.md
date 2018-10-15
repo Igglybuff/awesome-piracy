@@ -759,7 +759,7 @@ premium services
 - [/r/iptvresellers](https://www.reddit.com/r/IPTVresellers) promotions and advertisements from IPTV providers
 - [/r/IPTVReviews](https://www.reddit.com/r/IPTVreviews) Reviews of IPTV service providers
 - [MythTV](https://www.mythtv.org/) Free Open Source software digital video recorder
-- [IPTV4](https://www.iptv4sat.com/) Free TV with VLC an stream
+- [IPTV4](https://www.iptv4sat.com/) Free TV with VLC
 
 ## IRC
 - [weechat](https://github.com/weechat/weechat) The extensible chat client.
