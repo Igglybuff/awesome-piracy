@@ -140,6 +140,7 @@ Some items in this list could easily fit in more than one category, so to make s
 - [VirusTotal](https://www.virustotal.com/) Web service for scanning files and URLs for viruses
 - [How to remove viruses and malware on your Windows PC](https://www.howtogeek.com/126911/what-to-do-if-you-get-a-virus-on-your-computer/) Helpful HowToGeek article on cleaning out the pipes
 - [Dr.Web CureIt!](https://free.drweb.com/cureit/?lng=en) Free antivirus scanner
+- [ZoneAlarm](https://www.zonealarm.com/) Free antivirus + Firewall, a powerfull free firewall to protect you
 
 ### Windows 10 Privacy
 
@@ -758,6 +759,7 @@ premium services
 - [/r/iptvresellers](https://www.reddit.com/r/IPTVresellers) promotions and advertisements from IPTV providers
 - [/r/IPTVReviews](https://www.reddit.com/r/IPTVreviews) Reviews of IPTV service providers
 - [MythTV](https://www.mythtv.org/) Free Open Source software digital video recorder
+- [IPTV4](https://www.iptv4sat.com/) Free TV with VLC an stream
 
 ## IRC
 - [weechat](https://github.com/weechat/weechat) The extensible chat client.
