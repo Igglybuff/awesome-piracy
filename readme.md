@@ -285,7 +285,6 @@ You will notice some items in this list have a :star2: next to them. Items with 
 - [Tracker Twitters](https://filenetworks.blogspot.com/2010/12/list-of-private-torrent-trackers.html) List Of Private Torrent Trackers & BitTorrent News Accounts To Follow On Twitter
 - [magent2torrent.me](http://magnet2torrent.me/) Converts magnet links to torrent files
 - [Seedr](https://www.seedr.cc/) Essentially a seedbox you can paste torrents into which returns a streamable direct link
-- [bytesloader](https://www.bytesloader.com/) Same as above
 
 ## Usenet
 
