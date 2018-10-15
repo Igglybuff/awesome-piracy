@@ -158,7 +158,7 @@ You will notice some items in this list have a :star2: or a :+1: next to them. I
 ### Trackers
 
 #### Private Trackers
-- [TorrentLeech](https://torrentleech.org/)
+- [TorrentLeech](https://torrentleech.org/) Well-known popular private tracker
 - [AlphaRatio](https://alpharatio.cc) :star2: A good starter tracker with lots of freeleech content.
 - [Blutopia](https://blutopia.xyz) :+1:
 - [PrivateHD](https://privatehd.to/)
@@ -189,51 +189,51 @@ You will notice some items in this list have a :star2: or a :+1: next to them. I
 - [NoNaMe Club](https://nnmclub.to/) Russian semi-private tracker and forum
 
 #### Public Trackers
-- [1337x](https://1337x.to/) :+1:
-- [ETTV](https://www.ettv.tv/)
-- [EZTV](https://eztv.ag/)
-- [Isohunt2](https://isohunt2.net/)
-- [KickAssTorrent](https://katcr.co/)
-- [RARBG](https://rarbg.to/) :star2:
+- [1337x](https://1337x.to/) :+1: 1337x is a torrent site that offers verified torrent downloads.
+- [ETTV](https://www.ettv.tv/) ETTV is a torrent site specific for movie torrents. 
+- [EZTV](https://eztv.ag/) EZTV is a torrent site for TV shows founded by TV torrent distribution group EZTV. 
+- [Isohunt2](https://isohunt2.net/) 
+- [KickAss Torrents](https://katcr.co/) Community-made reincarnation launched in 2016
+- [RARBG](https://rarbg.to/) :star2: Public tracker with its own release group
 - [YTS](https://yts.am/) Small-size HD movies from YIFY
-- [The Pirate Bay](https://thepiratebay.org/)
+- [The Pirate Bay](https://thepiratebay.org/) Infamous torrent site which is somehow still running, blocked in most places
 - [Remove fake TPB torrents](https://www.reddit.com/r/Piracy/comments/78aicx/i_wrote_a_small_script_that_automatically_hides/) Script that automatically hides fake torrents on The Pirate Bay based on conditional logic
 - [The Proxy Bay](https://proxybay.bz/) Can't access The Pirate Bay? Try one of these proxy sites.
 - [Torrentz2](https://torrentz2.eu/) :+1:
-- [Idope (Clone)](https://idope.top/)
-- [Zooqle](https://zooqle.com/) :+1:
+- [Idope (Clone)](https://idope.top/) iDope is a torrent search engine presenting direct magnet links, comments and up to date seeder/leecher statistics.
+- [Zooqle](https://zooqle.com/) :+1: Zooqle is a relatively new torrent index providing a huge database of verified torrents. 
 - [rutor](http://rutor.info/) Russian tracker
-- [GloTorrents](https://glodls.to/)
+- [GloTorrents](https://glodls.to/) 
 - [BTDB](https://btdb.to/) Large BitTorrent DHT search engine
 - [trackerslist](https://github.com/ngosang/trackerslist) An updated list of public BitTorrent trackers
 - [MagnetDL](http://www.magnetdl.com/) Magnet link only search engine
 - [TorrentGalaxy](https://torrentgalaxy.org/) :+1: Public tracker with a clean UI
 - [Games4theworld](https://games4theworld.org) Torrents and magnet links for games
 - [metal-tracker.com](http://en.metal-tracker.com/) Heavy metal music tracker
-- [SkyTorrents](https://www.skytorrents.lol/)
+- [SkyTorrents](https://www.skytorrents.lol/) Revival of the recently-shut-down, privacy-focused, ad-free torrent indexer
 - [Pirateiro](http://pirateiro.com/) Pirateiro is a torrent index for Brazilian and Portuguese torrents.
 - [TorrentKing](https://torrentking.io/) Torrentking is a popular movie torrent site.
-- [moviemagnet](http://moviemagnet.co/)
+- [moviemagnet](http://moviemagnet.co/) Verified torrents for movies.
 - [Zonatorrent](https://zonatorrent.tv/) Spanish tracker
 - [TorrentFunk](https://www.torrentfunk.com/) TorrentFunk is a torrent site providing verified torrents for all kinds of content.
 - [HDSector](http://udush.com/) Bollywood / Hindi / Hollywood HD Movies
-- [OTorrents](https://otorrents.com/)
+- [OTorrents](https://otorrents.com/) 
 - [Torlock](https://www.torlock.com/) Torlock is a torrent index and torrent search that helps to access the latest in TV series and movies.
 - [DIGBT](https://www.digbt.org/) DIGBT is a DHT torrent search engine.
 - [Torrent9](https://www.torrent9.ph/) French torrent search engine
 - [YggTorrent](https://www3.yggtorrent.to/) French tracker and search engine (have a download/upload ratio limitation)
 
 ### Tracker Aggregators
-- [Jackett](https://github.com/Jackett/Jackett) :+1:
+- [Jackett](https://github.com/Jackett/Jackett) :+1: API Support for your favorite torrent trackers.
 - [Cardigann](https://github.com/cardigann/cardigann) A proxy server for adding new indexers to Sonarr, SickRage and other media managers
 - [nzbhydra2](https://github.com/theotherp/nzbhydra2/) :star2: Primarily a Usenet meta search engine but also supports Torznab
-- [snowfl](https://snowfl.com/)
+- [snowfl](https://snowfl.com/) snowfl is a torrent aggregator which searches various public torrent indexes in real-time
 - [TParser](http://tparser.org/) Russian torrent sites indexer
 - [Torrents.me](https://torrents.me/) Torrents.me combines popular torrent sites and specialized private trackers in a torrent multisearch.
 
 ### Tracker Invites
-- [/r/OpenSignups](https://www.reddit.com/r/opensignups)
-- [/r/Invites](https://www.reddit.com/r/invites)
+- [/r/OpenSignups](https://www.reddit.com/r/opensignups) Open Signups - When Private Trackers Open Their Doors To The Public
+- [/r/Invites](https://www.reddit.com/r/invites) Post wanted ads for private tracker invites here
 - [Open sign-ups thread](https://www.reddit.com/r/trackers/comments/7ildxx/open_signups_thread/) /r/trackers thread for posting trackers that are currently open for registration.
 - [Opentrackers.org](https://opentrackers.org/) Private Torrent Trackers & File Sharing
 - [getting_into_private_trackers](https://www.reddit.com/r/trackers/wiki/getting_into_private_trackers) :star2: Helpful resource from the /r/trackers wiki
@@ -302,24 +302,25 @@ You will notice some items in this list have a :star2: or a :+1: next to them. I
 ### Usenet Indexers
 
 #### Paid Indexers
-- [NZBgeek](https://nzbgeek.info/)
-- [NZBFinder](https://nzbfinder.ws/) :+1:
-- [DrunkenSlug](https://drunkenslug.com/) :star2:
+- [NZBgeek](https://nzbgeek.info/) Affordable Usenet indexer operating since 2014.
+- [NZBFinder](https://nzbfinder.ws/) :+1: Usenet indexer and newznab API with a clean UI and 8+ year backlog of NZBs
+- [DrunkenSlug](https://drunkenslug.com/) :star2: Popular NZB indexer with a free tier and decent retention
 - [NZBCat](https://nzb.cat/) Meow *cough* nzb-hair-bal
 - [DOGnzb](https://dognzb.cr/) Invite-only NZB site (although they do have a [registration page](https://dognzb.cr/register) at the moment)
 
 #### Free Indexers
-- [6box](https://6box.me/) :star2:
-- [NZBIndex](https://www.nzbindex.com)
-- [Binsearch](https://www.binsearch.info/)
-- [NZBKing](http://nzbking.com/)
+- [6box](https://6box.me/) :star2: A recently revived free Usenet indexing service with a generous API
+- [NZBIndex](https://www.nzbindex.com) The first free Usenet indexer you find in your Google search results
+- [Binsearch](https://www.binsearch.info/) With this site you can search and browse binary usenet newsgroups.
+- [NZBKing](http://nzbking.com/) This service allows you to search and browse binary files that have been posted to Usenet newsgroups. 
 
 ### Usenet Clients
-- [SABnzbd](https://sabnzbd.org/) :star2:
-- [NZBget](https://nzbget.net/) :+1:
+- [SABnzbd](https://sabnzbd.org/) :star2: SABnzbd is an Open Source Binary Newsreader written in Python.
+- [NZBget](https://nzbget.net/) :+1: Efficient Usenet downloader written in C++
 
 ### Usenet Communities
-- [/r/Usenet](https://www.reddit.com/r/Usenet)
+- [/r/Usenet](https://www.reddit.com/r/Usenet) a thriving community dedicated to helping users old and new understand and use usenet.
+- [/r/UsenetInvites](https://www.reddit.com/r/UsenetInvites) Requests and offers for Usenet indexers
 
 ### Usenet Wikipedia Pages
 - [Usenet](https://en.wikipedia.org/wiki/Usenet)
