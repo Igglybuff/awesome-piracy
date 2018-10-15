@@ -470,7 +470,7 @@ premium services
 - [Ombi](http://ombi.io/) Want a Movie or TV Show on Plex or Emby? Use Ombi!
 - [Plex Requests](http://plexrequests.8bits.ca/)
 - [plexrequests-meteor](https://github.com/lokenx/plexrequests-meteor) Meteor version of the original Plex Requests
-- [Mellow](https://bitbucket.org/v0idp/mellow) Discord Bot which can communicate with several APIs like Ombi, Sonarr, Radarr and Tautulli which are related to home streaming. Based off of node:9.3
+- [Mellow](https://github.com/v0idp/Mellow/) Discord Bot which can communicate with several APIs like Ombi, Sonarr, Radarr and Tautulli which are related to home streaming. Based off of node:9.3
 
 ### Plex Scripts and Tools
 - [plex_top_playlists](https://github.com/pbrink231/plex_top_playlists)
