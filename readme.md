@@ -114,18 +114,18 @@ You will notice some items in this list have a :star2: or a :+1: next to them. I
 
 ### VPNs
 - [Private Internet Access](https://www.privateinternetaccess.com/) :star2: Hugely popular subscription-based VPN provider with a proven track record for not keeping logs
-- [ProtonVPN](https://protonvpn.com/) High-speed Swiss VPN that safeguards your privacy.
+- [ProtonVPN](https://protonvpn.com/) :+1: High-speed Swiss VPN that safeguards your privacy.
 - [NordVPN](https://nordvpn.com/) With NordVPN, encrypt your online activity to protect your private data from hackers or snoopy advertisers.
 - [That One Privacy Site](https://thatoneprivacysite.net/vpn-section/) VPN section of That One Privacy Site with VPN comparisons
 - [Choosing the best VPN (for you)](https://www.reddit.com/r/VPN/comments/4iho8e/that_one_privacy_guys_guide_to_choosing_the_best/?st=iu9u47u7&sh=459a76f2) That One Privacy Guy's - Guide to Choosing the Best VPN (for you)
-- [/r/VPN wiki](https://www.reddit.com/r/VPN/wiki/index)
+- [/r/VPN wiki](https://www.reddit.com/r/VPN/wiki/index) :+1:
 - [Choosing the VPN that's right for you](https://ssd.eff.org/en/module/choosing-vpn-thats-right-you) Helpful guide from the EFF
 - [Which VPN services keep you anonymous in 2018?](https://torrentfreak.com/vpn-services-keep-anonymous-2018/) TorrentFreak article by Ernesto
 - [privacytools.io](https://www.privacytools.io/) "Encryption against global mass surveillance". Plenty of information to help protect your privacy online.
 
 ### Browser Extensions
-- [Privacy Badger](https://www.eff.org/privacybadger) Privacy Badger blocks spying ads and invisible trackers.
-- [HTTPS Everywhere](https://www.eff.org/https-everywhere) HTTPS Everywhere is a Firefox, Chrome, and Opera extension that encrypts your communications with many major websites, making your browsing more secure.
+- [Privacy Badger](https://www.eff.org/privacybadger) :+1: Privacy Badger blocks spying ads and invisible trackers.
+- [HTTPS Everywhere](https://www.eff.org/https-everywhere) :+1: HTTPS Everywhere is a Firefox, Chrome, and Opera extension that encrypts your communications with many major websites, making your browsing more secure.
 - [uBlock Origin](https://github.com/gorhill/uBlock) :star2: An efficient blocker for Chromium and Firefox. Fast and lean.
 - [TamperMonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=en) The world's most popular userscript manager
 - [WebRTC Network Limiter](https://chrome.google.com/webstore/detail/webrtc-network-limiter/npeicpdbkakmehahjeeohfdhnlpdklia?hl=en) Configures how WebRTC's network traffic is routed by changing Chrome's privacy settings.
@@ -133,15 +133,15 @@ You will notice some items in this list have a :star2: or a :+1: next to them. I
 
 ### Password Vaults
 - [BitWarden](https://bitwarden.com/) :star2: Open source password management solution, can be self-hosted
-- [1Password](https://1password.com/) Popular cloud-hosted password manager
+- [1Password](https://1password.com/) :+1: Popular cloud-hosted password manager
 - [KeePass](https://keepass.info/) free, open source, light-weight and easy-to-use password manager.
 - [LastPass](https://www.lastpass.com/) LastPass remembers all your passwords, so you don't have to.
-- [Pass](https://www.passwordstore.org/) Simple GPG/Git password manager. Follows the Unix philosophy.
+- [Pass](https://www.passwordstore.org/) :+1: Simple GPG/Git password manager. Follows the Unix philosophy.
 
 ### Antivirus
 - [MalwareBytes](https://www.malwarebytes.com/) :star2: "crushes malware so you are protected and your machine keeps running smoothly."
 - [HitmanPro](https://www.hitmanpro.com) Antivirus product from Sophos
-- [VirusTotal](https://www.virustotal.com/) Web service for scanning files and URLs for viruses
+- [VirusTotal](https://www.virustotal.com/) :+1: Web service for scanning files and URLs for viruses
 - [How to remove viruses and malware on your Windows PC](https://www.howtogeek.com/126911/what-to-do-if-you-get-a-virus-on-your-computer/) Helpful HowToGeek article on cleaning out the pipes
 - [Dr.Web CureIt!](https://free.drweb.com/cureit/?lng=en) Free antivirus scanner
 
@@ -159,7 +159,7 @@ You will notice some items in this list have a :star2: or a :+1: next to them. I
 
 #### Private Trackers
 - [TorrentLeech](https://torrentleech.org/)
-- [AlphaRatio](https://alpharatio.cc) :star2: A good starter tracker with lots of freelech content.
+- [AlphaRatio](https://alpharatio.cc) :star2: A good starter tracker with lots of freeleech content.
 - [Blutopia](https://blutopia.xyz) :+1:
 - [PrivateHD](https://privatehd.to/)
 - [HD-Forever](https://hdf.world/)
