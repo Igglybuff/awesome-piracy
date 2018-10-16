@@ -1,6 +1,6 @@
 # Awesome Piracy [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> A curated list of arrrrrrrrr!
+> A curated list of cool piracy links.
 
 ## Contents
 
