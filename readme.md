@@ -715,6 +715,7 @@ premium services
 - [MediaMonkey](https://www.mediamonkey.com/) Manage a movie/music library from 100 to 100,000+ audio/video files and playlists
 - [MP3TAG](https://www.mp3tag.de/en/) Mp3tag is a powerful and easy-to-use tool to edit metadata of audio files.
 - [Picard](https://picard.musicbrainz.org/) Picard is a cross-platform music tagger written in Python.
+- [Beets](https://github.com/beetbox/beets) beets is a music library manager
 
 ## Mobile Apps
 
