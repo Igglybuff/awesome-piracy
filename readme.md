@@ -23,18 +23,18 @@
 	- [Torrent Communities](#torrent-communities)
 	- [Torrent Wikipedia Pages](#torrent-wikipedia-pages)
 	- [Miscellaneous Torrent Stuff](#miscellaneous-torrent-stuff)
-- [Usenet](#Usenet)
-	- [Usenet Providers](#Usenet-providers)
-	- [Usenet Indexers](#Usenet-indexers)
+- [Usenet](#usenet)
+	- [Usenet Providers](#usenet-providers)
+	- [Usenet Indexers](#usenet-indexers)
 		- [Paid Indexers](#paid-indexers)
 		- [Free Indexers](#free-indexers)
-	- [Usenet Clients](#Usenet-clients)
-	- [Usenet Communities](#Usenet-communities)
-	- [Usenet Wikipedia Pages](#Usenet-wikipedia-pages)
+	- [Usenet Clients](#usenet-clients)
+	- [Usenet Communities](#usenet-communities)
+	- [Usenet Wikipedia Pages](#usenet-wikipedia-pages)
 - [Direct Downloads](#direct-downloads)
 	- [Custom Google Search Engines](#custom-google-search-engines)
 	- [Normal DDL Indexers](#normal-ddl-indexers)
-	- [Premium Link DDL Indexers](#ddl-indexers)
+	- [Premium Link DDL Indexers](#premium-link-ddl-indexers)
 	- [Premium Link Generators](#premium-link-generators)
 	- [Premium Link Hosts](#premium-link-hosts)
 	- [Open Directories](#open-directories)
@@ -118,7 +118,7 @@ You will notice some items in this list have a :star2: next to them. Items with 
 - [NordVPN](https://nordvpn.com/) With NordVPN, encrypt your online activity to protect your private data from hackers or snoopy advertisers.
 - [That One Privacy Site](https://thatoneprivacysite.net/vpn-section/) VPN section of That One Privacy Site with VPN comparisons
 - [Choosing the best VPN (for you)](https://www.reddit.com/r/VPN/comments/4iho8e/that_one_privacy_guys_guide_to_choosing_the_best/?st=iu9u47u7&sh=459a76f2) That One Privacy Guy's - Guide to Choosing the Best VPN (for you)
-- [/r/VPN wiki](https://www.reddit.com/r/VPN/wiki/index) 
+- [/r/VPN wiki](https://www.reddit.com/r/VPN/wiki/index)
 - [Choosing the VPN that's right for you](https://ssd.eff.org/en/module/choosing-vpn-thats-right-you) Helpful guide from the EFF
 - [Which VPN services keep you anonymous in 2018?](https://torrentfreak.com/vpn-services-keep-anonymous-2018/) TorrentFreak article by Ernesto
 - [privacytools.io](https://www.privacytools.io/) "Encryption against global mass surveillance". Plenty of information to help protect your privacy online.
@@ -160,11 +160,11 @@ You will notice some items in this list have a :star2: next to them. Items with 
 #### Private Trackers
 - [TorrentLeech](https://torrentleech.org/) Well-known popular private tracker
 - [AlphaRatio](https://alpharatio.cc) :star2: A good starter tracker with lots of freeleech content.
-- [Blutopia](https://blutopia.xyz) 
+- [Blutopia](https://blutopia.xyz)
 - [PrivateHD](https://privatehd.to/)
 - [HD-Forever](https://hdf.world/)
 - [HD-Space](https://hd-space.org/)
-- [Awesome HD](https://awesome-hd.me/) 
+- [Awesome HD](https://awesome-hd.me/)
 - [UHDBits](https://uhdbits.org/)
 - [Private Tracker Flowchart](https://wiki.installgentoo.com/images/9/97/Private_tracker_flowchart.png)
 - [Private trackers](https://wiki.installgentoo.com/index.php/Private_trackers) Guide on how to get into (and survive) the world of private trackers.
@@ -190,20 +190,20 @@ You will notice some items in this list have a :star2: next to them. Items with 
 
 #### Public Trackers
 - [1337x](https://1337x.to/) 1337x is a torrent site that offers verified torrent downloads.
-- [ETTV](https://www.ettv.tv/) ETTV is a torrent site specific for movie torrents. 
-- [EZTV](https://eztv.ag/) EZTV is a torrent site for TV shows founded by TV torrent distribution group EZTV. 
-- [Isohunt2](https://isohunt2.net/) 
+- [ETTV](https://www.ettv.tv/) ETTV is a torrent site specific for movie torrents.
+- [EZTV](https://eztv.ag/) EZTV is a torrent site for TV shows founded by TV torrent distribution group EZTV.
+- [Isohunt2](https://isohunt2.net/)
 - [KickAss Torrents](https://katcr.co/) Community-made reincarnation launched in 2016
 - [RARBG](https://rarbg.to/) :star2: Public tracker with its own release group
 - [YTS](https://yts.am/) Small-size HD movies from YIFY
 - [The Pirate Bay](https://thepiratebay.org/) Infamous torrent site which is somehow still running, blocked in most places
 - [Remove fake TPB torrents](https://www.reddit.com/r/Piracy/comments/78aicx/i_wrote_a_small_script_that_automatically_hides/) Script that automatically hides fake torrents on The Pirate Bay based on conditional logic
 - [The Proxy Bay](https://proxybay.bz/) Can't access The Pirate Bay? Try one of these proxy sites.
-- [Torrentz2](https://torrentz2.eu/) 
+- [Torrentz2](https://torrentz2.eu/)
 - [Idope (Clone)](https://idope.top/) iDope is a torrent search engine presenting direct magnet links, comments and up to date seeder/leecher statistics.
-- [Zooqle](https://zooqle.com/) Zooqle is a relatively new torrent index providing a huge database of verified torrents. 
+- [Zooqle](https://zooqle.com/) Zooqle is a relatively new torrent index providing a huge database of verified torrents.
 - [rutor](http://rutor.info/) Russian tracker
-- [GloTorrents](https://glodls.to/) 
+- [GloTorrents](https://glodls.to/)
 - [BTDB](https://btdb.to/) Large BitTorrent DHT search engine
 - [trackerslist](https://github.com/ngosang/trackerslist) An updated list of public BitTorrent trackers
 - [MagnetDL](http://www.magnetdl.com/) Magnet link only search engine
@@ -217,7 +217,7 @@ You will notice some items in this list have a :star2: next to them. Items with 
 - [Zonatorrent](https://zonatorrent.tv/) Spanish tracker
 - [TorrentFunk](https://www.torrentfunk.com/) TorrentFunk is a torrent site providing verified torrents for all kinds of content.
 - [HDSector](http://udush.com/) Bollywood / Hindi / Hollywood HD Movies
-- [OTorrents](https://otorrents.com/) 
+- [OTorrents](https://otorrents.com/)
 - [Torlock](https://www.torlock.com/) Torlock is a torrent index and torrent search that helps to access the latest in TV series and movies.
 - [DIGBT](https://www.digbt.org/) DIGBT is a DHT torrent search engine.
 - [Torrent9](https://www.torrent9.ph/) French torrent search engine
@@ -246,8 +246,8 @@ You will notice some items in this list have a :star2: next to them. Items with 
 - [flood](https://github.com/jfurrow/flood) A web UI for rTorrent with a Node.js backend and React frontend.
 - [qBitTorrent](https://www.qbittorrent.org/) Popular, lightweight, multi-platform torrent client
 - [qBitTorrent search function](https://www.techsupportalert.com/qbittorrent-help-torrent-search-engine) Allows you to search popular trackers directly from qBittorrent
-- [Transmission](https://transmissionbt.com/)
-- [Deluge](https://www.deluge-torrent.org/) 
+- [Transmission](https://transmissionbt.com/) Default torrent client in many distros.
+- [Deluge](https://www.deluge-torrent.org/)
 - [Popcorn Time](https://github.com/popcorn-official/popcorn-desktop) Popcorn Time is a multi-platform, free software BitTorrent client that includes an integrated media player.
 - [magnetoo](https://www.magnetoo.io/) Fancy new in-browser WebTorrent streaming service
 - [Tixati](https://tixati.com/) Lightweight torrent client for Windows and Linux
@@ -269,7 +269,7 @@ You will notice some items in this list have a :star2: next to them. Items with 
 - [QuickBox IO](https://quickbox.io/) Seedbox installer script
 
 ### Torrent Communities
-- [/r/trackers](https://www.reddit.com/r/trackers) 
+- [/r/trackers](https://www.reddit.com/r/trackers)
 - [/r/torrents](https://www.reddit.com/r/torrents)
 
 ### Torrent Wikipedia Pages
@@ -293,9 +293,9 @@ You will notice some items in this list have a :star2: next to them. Items with 
 - [Usenet Providers and Backbones](https://commons.wikimedia.org/wiki/File:Usenet_Providers_and_Backbones.svg) This is a simple overview of the current companies, backbones, providers and resellers in the Usenet landscape.
 - [Eweka](https://www.eweka.nl/)
 - [Giganews](https://www.giganews.com/)
-- [Newsdemon](https://www.newsdemon.com/) 
-- [Newsgroup Ninja](https://www.newsgroup.ninja/en) 
-- [Usenet Express](http://usenetexpress.com/) 
+- [Newsdemon](https://www.newsdemon.com/)
+- [Newsgroup Ninja](https://www.newsgroup.ninja/en)
+- [Usenet Express](http://usenetexpress.com/)
 - [Usenet Farm](https://usenet.farm/)
 
 ### Usenet Indexers
@@ -311,7 +311,7 @@ You will notice some items in this list have a :star2: next to them. Items with 
 - [6box](https://6box.me/) :star2: A recently revived free Usenet indexing service with a generous API
 - [NZBIndex](https://www.nzbindex.com) The first free Usenet indexer you find in your Google search results
 - [Binsearch](https://www.binsearch.info/) With this site you can search and browse binary usenet newsgroups.
-- [NZBKing](http://nzbking.com/) This service allows you to search and browse binary files that have been posted to Usenet newsgroups. 
+- [NZBKing](http://nzbking.com/) This service allows you to search and browse binary files that have been posted to Usenet newsgroups.
 
 ### Usenet Clients
 - [SABnzbd](https://sabnzbd.org/) :star2: SABnzbd is an Open Source Binary Newsreader written in Python.
@@ -329,12 +329,12 @@ You will notice some items in this list have a :star2: next to them. Items with 
 
 ### Custom Google Search Engines
 - [FileChef](http://filechef.com/) :star2:
-- [The Eye CGS Engine](https://cgs.the-eye.eu/) 
+- [The Eye CGS Engine](https://cgs.the-eye.eu/)
 - [lumpySoft.com](https://lumpysoft.com/)
 - [mattpalm.com/search](https://mattpalm.com/search/)
 
 ### Normal DDL Indexers
-- [Napalm FTP Indexer](https://www.searchftps.net/) 
+- [Napalm FTP Indexer](https://www.searchftps.net/)
 - [FilePursuit](https://filepursuit.com) :star2:
 - [Mamont's open FTP Index](http://www.mmnt.net/)
 - [grayhatwarfare S3 bucket search](https://buckets.grayhatwarfare.com/) Not likely to find much with this one but interesting nonetheless
@@ -344,7 +344,7 @@ You will notice some items in this list have a :star2: next to them. Items with 
 - [ololo](https://ololo.to/)
 - [MegaSearch](http://megasearch.co) Search engine for finding content hosted on Mega and other premium hosts like OpenLoad
 - [Orion](https://orionoid.com/) Orion is a service that indexes metadata and links from a variety of public websites and networks, including torrent, usenet, and hoster indexes.
-- [hdencode](https://hdencode.com/) 
+- [hdencode](https://hdencode.com/)
 - [Movie Glide](https://www.movieglide.com/)
 - [Release BB](http://rlsbb.ru)
 - [DDLValley](https://www.ddlvalley.me/) DDL links for Movies, Games, Tv Shows, Apps, Ebooks and Music.
@@ -406,16 +406,16 @@ premium services
 - [rdcli](https://github.com/ston3o/rdcli) The simple way to download and unrestrict DDL files, torrents and magnets using Real-Debrid
 
 ### Streaming Sites
-- [StreamCR](https://scr.cr/) 
-- [cine.to](https://cine.to/) 
+- [StreamCR](https://scr.cr/)
+- [cine.to](https://cine.to/)
 - [Solarmovie](https://solarmoviez.ru/solar.html)
-- [FlixGo](https://flixgo.net/) 
+- [FlixGo](https://flixgo.net/)
 - [/r/MovieStreamingSites](https://www.reddit.com/r/MovieStreamingSites/)
 - [/r/BestOfStreamingVideo](https://www.reddit.com/r/BestOfStreamingVideo/)
 - [CyTube](https://cytu.be/) Channel-based shared streaming platform for synchronised viewing of YouTube and Google Drive videos
 - [ArconaiTV](https://www.arconaitv.us/) Another stream sharing platform with a nice UI
 - [Yes! Movies](https://yesmovies.to)
-- [FMOVIES](https://www3.fmovies.to/) 
+- [FMOVIES](https://www3.fmovies.to/)
 - [openloadmovies.net](https://openloadmovies.net/) Reliable movie streaming site which uses OpenLoad
 - [HD MOVIES](https://hdm.to/) Another streaming site which uses OpenLoad
 - [HDOnline](https://www1.hdonline.eu)
@@ -538,7 +538,7 @@ premium services
 ## Gaming
 
 ### Repacks
-- [Good Old Downloads](https://goodolddownloads.com/) 
+- [Good Old Downloads](https://goodolddownloads.com/)
 - [Games Torrent](http://gamestorrent.co/) Torrent site, part of IGGGAMES with releases from CODEX, RELOADED, CPY, SKIDROW, and more
 - [FitGirl Repacks](fitgirl-repacks.site) :star2: Popular DDL and torrent site for game repacks
 - [Xatab Repacks](https://xatab-repack.net) Russian game repacker, primarily torrents
@@ -582,6 +582,7 @@ premium services
 - [Monimo](https://monimoapp.netlify.com/) Netflix like web app for watching animes
 - [AniLinkz](https://anilinkz.to/)
 - [KissAnime](http://kissanime.ru/)
+- [9Anime](https://9anime.to)
 - [NyaaPantsu](https://nyaa.pantsu.cat/)
 - [Alternatives to Kiss websites](https://www.reddit.com/r/KissCartoon/wiki/alternatives) /r/KissCartoon wiki page with lots of anime sites
 - [anime-sharing](http://www.anime-sharing.com/forum/) Forum for sharing anime
@@ -610,6 +611,7 @@ premium services
 - [GoSong](https://gosong.unblocked.gdn/) Streamable MP3s
 - [MP3Juices](https://mp3juices.unblocked.gdn/) MP3 search engine tool which uses YouTube
 - [mp3.li](http://mp3li.unblckd.club) Another MP3 streaming site
+- [SongsPK](https://songs-pk.in/) Mainly for downloading Bollywood songs. Domain changes frequently.
 
 ## Software
 - [Adobe CC 2018](https://www.reddit.com/r/sjain_guides/comments/9g4t2u/adobe_cc_2018_full_indepth_guide_to_installing/) Full in-depth guide to installing and cracking any application (Windows)
@@ -622,6 +624,7 @@ premium services
 - [nsane.down](https://www.nsanedown.com/) Popular file sharing forum focused on software
 - [TechBench](https://tb.rg-adguard.net/public.php) Find official Windows isos for Windows 7/8/10
 - [CrackingPatching.com](https://crackingpatching.com/) Cracked software
+- [Appked](https://www.macbed.com/) Mac application sharing site
 
 ## Ebooks
 - [LibGen](http://libgen.io/) search engine for articles and books on various topics, which allows free access to content that is otherwise paywalled or not digitized elsewhere
@@ -638,6 +641,7 @@ premium services
 - [MagazineLib](https://magazinelib.com/) Free PDF and interactive e-magazines
 
 ## Education
+- [TUTSGALAXY](https://tutsgalaxy.com/)
 - [FreeTutorials.eu](https://www.freetutorials.eu/) Lots of Udemy courses for free, has adblock detector
 - [Lynda Courses](https://www.reddit.com/r/megalinks/comments/7vlt4j/education_lynda_266_courses_207gb/) 266+ Lynda courses
 - [Guide for Finding Textbooks](https://www.reddit.com/r/Piracy/comments/3i9y7n/guide_for_finding_textbooks/) Extensive tutorial by /u/Amosqu
@@ -715,7 +719,9 @@ premium services
 - [MediaMonkey](https://www.mediamonkey.com/) Manage a movie/music library from 100 to 100,000+ audio/video files and playlists
 - [MP3TAG](https://www.mp3tag.de/en/) Mp3tag is a powerful and easy-to-use tool to edit metadata of audio files.
 - [Picard](https://picard.musicbrainz.org/) Picard is a cross-platform music tagger written in Python.
+- [Beets](https://github.com/beetbox/beets) beets is a music library manager
 - [Metatogger](https://www.luminescence-software.org/en/metatogger.html) Metatogger is the new generation of tag editor allowing you to rename, tag and easily sort your audio files.
+
 
 ## Mobile Apps
 
