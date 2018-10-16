@@ -222,6 +222,7 @@ You will notice some items in this list have a :star2: next to them. Items with 
 - [DIGBT](https://www.digbt.org/) DIGBT is a DHT torrent search engine.
 - [Torrent9](https://www.torrent9.ph/) French torrent search engine
 - [YggTorrent](https://www3.yggtorrent.to/) French tracker and search engine (have a download/upload ratio limitation)
+- [WorldWide Torrents](https://worldwidetorrents.me/)
 
 ### Tracker Aggregators
 - [Jackett](https://github.com/Jackett/Jackett) API Support for your favorite torrent trackers.
