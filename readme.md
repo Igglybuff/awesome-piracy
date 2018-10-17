@@ -659,7 +659,6 @@ premium services
 
 ## Manga
 - [MangaDex](https://www.mangadex.org/) MangaDex is an online manga reader that caters to all languages.
-- [Tachiyomi](https://github.com/inorichi/tachiyomi) Tachiyomi is a free and open source manga reader for Android.
 - [KissManga](http://kissmanga.com/) Another manga website
 - [/r/manga](https://www.reddit.com/r/manga) Everything and anything manga! (manhwa is okay too!)
 - [Madokami 0-E](https://archive.org/download/Madokami.Manga.0-E) Download manga titles named 0 to E.
@@ -732,6 +731,7 @@ premium services
 - [YMusic](https://forum.xda-developers.com/android/apps-games/app-youtube-music-sound-stream-youtubes-t3399722) YouTube Music Player & Downloader
 - [Cygery AdSkip for YouTube](https://labs.xda-developers.com/store/app/com.cygery.adskip.xda) Automatically click on the "Skip ad" button in the YouTube™ app when it appears.
 - [Blokada](https://forum.mobilism.org/viewtopic.php?f=438&t=2538717&hilit=Blokada) Blokada is a compact app that transparently blocks unwanted content like ads, tracking, malware and other annoyances.
+- [Tachiyomi](https://github.com/inorichi/tachiyomi) Tachiyomi is a free and open source manga reader for Android.
 
 ### Streaming Apps
 
