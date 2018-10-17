@@ -243,7 +243,7 @@ You will notice some items in this list have a :star2: next to them. Items with 
 - [DIGBT](https://www.digbt.org/) DIGBT is a DHT torrent search engine.
 - [Torrent9](https://www.torrent9.ph/) French torrent search engine
 - [YggTorrent](https://www3.yggtorrent.to/) French tracker and search engine (have a download/upload ratio limitation)
-- [WorldWide Torrents](https://worldwidetorrents.me/) Another public tracker with a reasonable nice UI
+- [WorldWide Torrents](https://worldwidetorrents.me/) Another public tracker with a reasonably nice UI
 
 ### Tracker Aggregators
 - [Jackett](https://github.com/Jackett/Jackett) API Support for your favorite torrent trackers.
@@ -807,10 +807,10 @@ premium services
 ### IRC Networks
 - [irc.p2p-network.net](https://p2p-network.net/) P2P file sharing network
 - [Orpheus](https://orpheus.network/) Formerly known as Apollo
-- [Moviegods](irc://irc.abjects.net/MOVIEGODS) XDCC file sharing network, join #mg-chat to continue downloading
-- [The Source](irc://irc.scenep2p.net/THE.SOURCE) Another XDCC source
-- [Beast-XDCC](irc://irc.abjects.net/BEAST-XDCC) One more XDCC source
-- [irc.undernet.org/bookz](irc://irc.undernet.org/bookz) For downloading ebooks (use `@search <book name>` for a list of available ebooks)
+- _Moviegods_  `irc://irc.abjects.net/MOVIEGODS` XDCC file sharing network, join #mg-chat to continue downloading
+- _The Source_ `irc://irc.scenep2p.net/THE.SOURCE` Another XDCC source
+- _Beast-XDCC_ `irc://irc.abjects.net/BEAST-XDCC` One more XDCC source
+- _irc.undernet.org/bookz_ `irc://irc.undernet.org/bookz` For downloading ebooks (use `@search <book name>` for a list of available ebooks)
 
 ### IRC Search Engines
 - [xWeasel](http://xweasel.org) xWeasel is a free stand-alone Download Client based on IRC technology including a multifunctional XDCC Search Engine.
