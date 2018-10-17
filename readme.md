@@ -121,7 +121,7 @@ You will notice some items in this list have a :star2: next to them. Items with 
 - [NordVPN](https://nordvpn.com/) With NordVPN, encrypt your online activity to protect your private data from hackers or snoopy advertisers.
 - [That One Privacy Site](https://thatoneprivacysite.net/vpn-section/) VPN section of That One Privacy Site with VPN comparisons
 - [Choosing the best VPN (for you)](https://www.reddit.com/r/VPN/comments/4iho8e/that_one_privacy_guys_guide_to_choosing_the_best/?st=iu9u47u7&sh=459a76f2) That One Privacy Guy's - Guide to Choosing the Best VPN (for you)
-- [/r/VPN wiki](https://www.reddit.com/r/VPN/wiki/index)
+- [/r/VPN wiki](https://www.reddit.com/r/VPN/wiki/index) Helpful FAQ-type resource composed by the folks at /r/VPN
 - [Choosing the VPN that's right for you](https://ssd.eff.org/en/module/choosing-vpn-thats-right-you) Helpful guide from the EFF
 - [Which VPN services keep you anonymous in 2018?](https://torrentfreak.com/vpn-services-keep-anonymous-2018/) TorrentFreak article by Ernesto
 - [privacytools.io](https://www.privacytools.io/) "Encryption against global mass surveillance". Plenty of information to help protect your privacy online.
@@ -157,19 +157,19 @@ You will notice some items in this list have a :star2: next to them. Items with 
 ### Windows 10 Privacy
 
 - [O&O ShutUp10](https://www.oo-software.com/en/shutup10) O&O ShutUp10 means you have full control over which comfort functions under Windows 10 you wish to use, and you decide when the passing on of your data goes too far.
-- [Windows 10 Privacy Guide](https://github.com/adolfintel/Windows10-Privacy)
+- [Windows 10 Privacy Guide](https://github.com/adolfintel/Windows10-Privacy) In-depth guide on purging Windows 10 of Microsoft's attempts to track you
 - [Windows Privacy Tweaker](https://www.phrozen.io/freeware/windows-privacy-tweaker/) Freeware app from phrozen.io
 - [Winaero](https://winaero.com/blog/about-us/) Free, small and useful software for Windows.
 - [WPD](https://wpd.app/) The real privacy dashboard for Windows
 
 ## Torrenting
 
-- [/r/torrents](https://www.reddit.com/r/torrents)
-- [BitTorrent](https://en.wikipedia.org/wiki/BitTorrent)
+- [/r/torrents](https://www.reddit.com/r/torrents) Questions and discussion about all things torrent-related
+- [BitTorrent](https://en.wikipedia.org/wiki/BitTorrent) Wikipedia's article on the BitTorrent file sharing protocol
 
 ### Trackers
 
-- [/r/trackers](https://www.reddit.com/r/trackers)
+- [/r/trackers](https://www.reddit.com/r/trackers) A subreddit for discussing public & private trackers.
 - [A Simple Guide To A Better Ratio](https://www.reddit.com/r/trackers/comments/fthja/a_simple_guide_to_a_better_ratio/) A good tracker requires you to upload what you download. This guide explains many of the methods involved with keeping on top of this sometimes difficult task.
 - [Tracker Twitters](https://filenetworks.blogspot.com/2010/12/list-of-private-torrent-trackers.html) List Of Private Torrent Trackers & BitTorrent News Accounts To Follow On Twitter
 - [magent2torrent.me](http://magnet2torrent.me/) Converts magnet links to torrent files
@@ -177,14 +177,14 @@ You will notice some items in this list have a :star2: next to them. Items with 
 #### Private Trackers
 - [TorrentLeech](https://torrentleech.org/) Well-known popular private tracker
 - [AlphaRatio](https://alpharatio.cc) :star2: A good starter tracker with lots of freeleech content.
-- [Blutopia](https://blutopia.xyz)
-- [PrivateHD](https://privatehd.to/)
+- [Blutopia](https://blutopia.xyz) Blutopia is a private tracker for HD movies and HD TV shows.
+- [PrivateHD](https://privatehd.to/) PrivateHD is a private BitTorrent tracker focused on high definition movies and TV show torrents.
 - [JPopsuki](https://jpopsuki.eu/) JPopsuki is a torrent tracker focused on asian music.
-- [HD-Forever](https://hdf.world/)
-- [HD-Space](https://hd-space.org/)
-- [Awesome HD](https://awesome-hd.me/)
-- [UHDBits](https://uhdbits.org/)
-- [Private Tracker Flowchart](https://wiki.installgentoo.com/images/9/97/Private_tracker_flowchart.png)
+- [HD-Forever](https://hdf.world/) HD-Forever (HD-F) is a French private tracker for HD movies.
+- [HD-Space](https://hd-space.org/) HD-Space (HDS) is a private torrent tracker hosting HD movies, TV shows and music torrents.
+- [Awesome HD](https://awesome-hd.me/) Awesome-HD (AHD) is a private tracker for quality enthusiasts.
+- [UHDBits](https://uhdbits.org/) UHDBits is a Vietnamese privat torrent tracker focused on HD movies and TV shows.
+- [Private Tracker Flowchart](https://wiki.installgentoo.com/images/9/97/Private_tracker_flowchart.png) V4 of the private tracker flow chart
 - [Private trackers](https://wiki.installgentoo.com/index.php/Private_trackers) Guide on how to get into (and survive) the world of private trackers.
 - [Redacted](https://redacted.ch/) Private music tracker
 - [Bibliotik](https://bibliotik.me/) Popular ebooks/audiobooks private tracker
@@ -193,8 +193,8 @@ You will notice some items in this list have a :star2: next to them. Items with 
 - [PassThePopcorn](https://passthepopcorn.me/) ratio-based torrent tracker for movies
 - [AnimeBytes](https://animebytes.tv/) community centralized around Japanese media, including anime, manga and music
 - [BakaBT](https://bakabt.me/) a torrent tracker which specializes in serving anime fans
-- [BeyondHD](https://beyondhd.xyz/)
-- [CGPeers](https://www.cgpeers.com/)
+- [BeyondHD](https://beyondhd.xyz/) BeyondHD is a ratioless torrent tracker dedicated to HD movies and TV shows in High Definition.
+- [CGPeers](https://www.cgpeers.com/) CGPeers is a private torrent tracker for all things computer graphics: tutorials, graphics software, 3D, visual effects, design and computer assisted art.
 - [TVChaos UK](https://www.tvchaosuk.com/) Private tracker for British television
 - [TheGeeks](https://thegeeks.click/) Private tracker for e-learning
 - [Bitspyder](http://bitspyder.net/) Bitspyder is an educational torrent site devoted to e-Learning content such as e-Books, video courses and audio books.
@@ -204,7 +204,7 @@ You will notice some items in this list have a :star2: next to them. Items with 
 - [0QoLttS.jpg](https://i.imgur.com/0QoLttS.jpg) Screenshot of a table from somewhere of private trackers and their sign-up requirements
 
 #### Semi-Private Trackers
-- [ruTracker](https://rutracker.org/forum/index.php) :star2:
+- [ruTracker](https://rutracker.org/forum/index.php) :star2: RuTracker is a huge Russian torrent site with a thriving file-sharing community.
 - [Zamunda.net](http://zamunda.net) A bulgarian tracker with english and russian translations available.
 - [ArenaBG](https://arenabg.com/) A bulgarian tracker with an english translation available.
 - [NoNaMe Club](https://nnmclub.to/) Russian semi-private tracker and forum
@@ -213,18 +213,18 @@ You will notice some items in this list have a :star2: next to them. Items with 
 - [1337x](https://1337x.to/) 1337x is a torrent site that offers verified torrent downloads.
 - [ETTV](https://www.ettv.tv/) ETTV is a torrent site specific for movie torrents.
 - [EZTV](https://eztv.ag/) EZTV is a torrent site for TV shows founded by TV torrent distribution group EZTV.
-- [Isohunt2](https://isohunt2.net/)
+- [Isohunt2](https://isohunt2.net/) Clone of the original isoHunt torrent index and repository
 - [KickAss Torrents](https://katcr.co/) Community-made reincarnation launched in 2016
 - [RARBG](https://rarbg.to/) :star2: Public tracker with its own release group
 - [YTS](https://yts.am/) Small-size HD movies from YIFY
 - [The Pirate Bay](https://thepiratebay.org/) Infamous torrent site which is somehow still running, blocked in most places
 - [Remove fake TPB torrents](https://www.reddit.com/r/Piracy/comments/78aicx/i_wrote_a_small_script_that_automatically_hides/) Script that automatically hides fake torrents on The Pirate Bay based on conditional logic
 - [The Proxy Bay](https://proxybay.bz/) Can't access The Pirate Bay? Try one of these proxy sites.
-- [Torrentz2](https://torrentz2.eu/)
+- [Torrentz2](https://torrentz2.eu/) A good replacement of the defunct Torrentz.eu
 - [Idope (Clone)](https://idope.top/) iDope is a torrent search engine presenting direct magnet links, comments and up to date seeder/leecher statistics.
 - [Zooqle](https://zooqle.com/) Zooqle is a relatively new torrent index providing a huge database of verified torrents.
 - [rutor](http://rutor.info/) Russian tracker
-- [GloTorrents](https://glodls.to/)
+- [GloTorrents](https://glodls.to/) Download Movies, TV, Games and Other Torrents Free
 - [BTDB](https://btdb.to/) Large BitTorrent DHT search engine
 - [trackerslist](https://github.com/ngosang/trackerslist) An updated list of public BitTorrent trackers
 - [MagnetDL](http://www.magnetdl.com/) Magnet link only search engine
@@ -238,12 +238,12 @@ You will notice some items in this list have a :star2: next to them. Items with 
 - [Zonatorrent](https://zonatorrent.tv/) Spanish tracker
 - [TorrentFunk](https://www.torrentfunk.com/) TorrentFunk is a torrent site providing verified torrents for all kinds of content.
 - [HDSector](http://udush.com/) Bollywood / Hindi / Hollywood HD Movies
-- [OTorrents](https://otorrents.com/)
+- [OTorrents](https://otorrents.com/) Yet another public torrent tracker
 - [Torlock](https://www.torlock.com/) Torlock is a torrent index and torrent search that helps to access the latest in TV series and movies.
 - [DIGBT](https://www.digbt.org/) DIGBT is a DHT torrent search engine.
 - [Torrent9](https://www.torrent9.ph/) French torrent search engine
 - [YggTorrent](https://www3.yggtorrent.to/) French tracker and search engine (have a download/upload ratio limitation)
-- [WorldWide Torrents](https://worldwidetorrents.me/)
+- [WorldWide Torrents](https://worldwidetorrents.me/) Another public tracker with a reasonable nice UI
 
 ### Tracker Aggregators
 - [Jackett](https://github.com/Jackett/Jackett) API Support for your favorite torrent trackers.
@@ -263,14 +263,14 @@ You will notice some items in this list have a :star2: next to them. Items with 
 - [BTRACS](http://btracs.com/) an automatic information site which periodicaly checks closed community Bittorrent trackers for being open for signup.
 
 ### Torrent Clients
-- [rTorrent](https://rakshasa.github.io/rtorrent/) :star2:
+- [rTorrent](https://rakshasa.github.io/rtorrent/) :star2: rTorrent is a text-based ncurses BitTorrent client written in C++
 - [ruTorrent](https://github.com/Novik/ruTorrent) Yet another web front-end for rTorrent
 - [rutorrent-themes](https://github.com/InAnimaTe/rutorrent-themes) A collection of default and new, original themes for ruTorrent.
 - [flood](https://github.com/jfurrow/flood) A web UI for rTorrent with a Node.js backend and React frontend.
 - [qBitTorrent](https://www.qbittorrent.org/) Popular, lightweight, multi-platform torrent client
 - [qBitTorrent search function](https://www.techsupportalert.com/qbittorrent-help-torrent-search-engine) Allows you to search popular trackers directly from qBittorrent
 - [Transmission](https://transmissionbt.com/) Default torrent client in many distros.
-- [Deluge](https://www.deluge-torrent.org/)
+- [Deluge](https://www.deluge-torrent.org/) Deluge is a lightweight, Free Software, cross-platform BitTorrent client.
 - [Popcorn Time](https://github.com/popcorn-official/popcorn-desktop) Popcorn Time is a multi-platform, free software BitTorrent client that includes an integrated media player.
 - [Butter Project](http://butterproject.org/) A legal fork of Popcorn Time which is configurable to allow for custom sources of video
 - [magnetoo](https://www.magnetoo.io/) Fancy new in-browser WebTorrent streaming service
@@ -303,20 +303,19 @@ You will notice some items in this list have a :star2: next to them. Items with 
 
 ## Usenet
 
-- [Usenet](https://en.wikipedia.org/wiki/Usenet)
-- [Usenet newsgroup](https://en.wikipedia.org/wiki/Usenet_newsgroup)
+- [Usenet](https://en.wikipedia.org/wiki/Usenet) Usenet is a worldwide distributed discussion system available on computers.
+- [Usenet newsgroup](https://en.wikipedia.org/wiki/Usenet_newsgroup) A Usenet newsgroup is a repository usually within the Usenet system, for messages posted from many users in different locations using Internet.
 - [/r/Usenet](https://www.reddit.com/r/Usenet) a thriving community dedicated to helping users old and new understand and use usenet.
 - [/r/UsenetInvites](https://www.reddit.com/r/UsenetInvites) Requests and offers for Usenet indexers
 
 ### Usenet Providers
 - [Usenet Services Map](https://www.reddit.com/r/Usenet/comments/9mo9eg/Usenet_services_map_updated/) Mind map by /u/thepageunit
 - [Usenet Providers and Backbones](https://commons.wikimedia.org/wiki/File:Usenet_Providers_and_Backbones.svg) This is a simple overview of the current companies, backbones, providers and resellers in the Usenet landscape.
-- [Eweka](https://www.eweka.nl/)
-- [Giganews](https://www.giganews.com/)
-- [Newsdemon](https://www.newsdemon.com/)
-- [Newsgroup Ninja](https://www.newsgroup.ninja/en)
-- [Usenet Express](http://usenetexpress.com/)
-- [Usenet Farm](https://usenet.farm/)
+- [Eweka](https://www.eweka.nl/) Netherlands-based Usenet provider
+- [Newsdemon](https://www.newsdemon.com/) Cheap and cheerful Usenet provider with frequent discounts
+- [Newsgroup Ninja](https://www.newsgroup.ninja/en) Popular Usenet provider with a competitive subscription fee
+- [Usenet Express](http://usenetexpress.com/) UsenetExpress is a powerful new tier-1 Usenet provider which offers strong security, a 10GB uplink per server and up to 150 streams for an excellent price.
+- [Usenet.Farm](https://usenet.farm/) Usenet reseller with 1000+ days retention.
 
 ### Usenet Indexers
 
@@ -340,20 +339,20 @@ You will notice some items in this list have a :star2: next to them. Items with 
 ## Direct Downloads
 
 ### Custom Google Search Engines
-- [FileChef](http://filechef.com/) :star2:
-- [The Eye CGS Engine](https://cgs.the-eye.eu/)
-- [lumpySoft.com](https://lumpysoft.com/)
-- [mattpalm.com/search](https://mattpalm.com/search/)
+- [FileChef](http://filechef.com/) These all
+- [The Eye CGS Engine](https://cgs.the-eye.eu/) do the
+- [lumpySoft.com](https://lumpysoft.com/) same
+- [mattpalm.com/search](https://mattpalm.com/search/) thing :)
 
 ### Normal DDL Indexers
-- [Napalm FTP Indexer](https://www.searchftps.net/)
-- [FilePursuit](https://filepursuit.com) :star2:
-- [Mamont's open FTP Index](http://www.mmnt.net/)
+- [Napalm FTP Indexer](https://www.searchftps.net/) NAPALM FTP Indexer lets you search and download files located on public FTP servers.
+- [FilePursuit](https://filepursuit.com) :star2: FilePursuit provides a very powerful file indexing and search service allowing you to find a file among millions of files located on web servers.
+- [Mamont's open FTP Index](http://www.mmnt.net/) Browsable directory listing of publicly available FTP-sites
 - [grayhatwarfare S3 bucket search](https://buckets.grayhatwarfare.com/) Not likely to find much with this one but interesting nonetheless
 
 ### Premium Link DDL Indexers
 - [snahp.it](https://snahp.it/) :star2: replaced /r/megalinks
-- [ololo](https://ololo.to/)
+- [ololo](https://ololo.to/) ololo is a video streaming link search engine.
 - [MegaSearch](http://megasearch.co) Search engine for finding content hosted on Mega and other premium hosts like OpenLoad
 - [Orion](https://orionoid.com/) Orion is a service that indexes metadata and links from a variety of public websites and networks, including torrent, usenet, and hoster indexes.
 - [hdencode](https://hdencode.com/)
