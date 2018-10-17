@@ -153,7 +153,6 @@ You will notice some items in this list have a :star2: next to them. Items with 
 - [HitmanPro](https://www.hitmanpro.com) Antivirus product from Sophos
 - [VirusTotal](https://www.virustotal.com/) Web service for scanning files and URLs for viruses
 - [How to remove viruses and malware on your Windows PC](https://www.howtogeek.com/126911/what-to-do-if-you-get-a-virus-on-your-computer/) Helpful HowToGeek article on cleaning out the pipes
-- [Dr.Web CureIt!](https://free.drweb.com/cureit/?lng=en) Free antivirus scanner
 
 ### Windows 10 Privacy
 
