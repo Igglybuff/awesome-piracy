@@ -740,6 +740,7 @@ premium services
 - [MP3TAG](https://www.mp3tag.de/en/) Mp3tag is a powerful and easy-to-use tool to edit metadata of audio files.
 - [Picard](https://picard.musicbrainz.org/) Picard is a cross-platform music tagger written in Python.
 - [Beets](https://github.com/beetbox/beets) beets is a music library manager
+- [Metatogger](https://www.luminescence-software.org/en/metatogger.html) Metatogger is the new generation of tag editor allowing you to rename, tag and easily sort your audio files.
 - [MediaInfo](https://mediaarea.net/en/MediaInfo) MediaInfo is a convenient unified display of the most relevant technical and tag data for video and audio files.
 - [iFlicks2](https://iflicksapp.com/) Useful for adding metadata to movies and TV shows
 
