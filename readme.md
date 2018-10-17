@@ -8,6 +8,7 @@
 - [Protecting Yourself](#protecting-yourself)
 	- [VPNs](#vpns)
 	- [Browser Extensions](#browser-extensions)
+	- [Userscripts](#userscripts)
 	- [Password Vaults](#password-vaults)
 	- [Antivirus](#antivirus)
 	- [Windows 10 Privacy](#windows-10-privacy)
@@ -127,9 +128,16 @@ You will notice some items in this list have a :star2: next to them. Items with 
 - [Privacy Badger](https://www.eff.org/privacybadger) Privacy Badger blocks spying ads and invisible trackers.
 - [HTTPS Everywhere](https://www.eff.org/https-everywhere) HTTPS Everywhere is a Firefox, Chrome, and Opera extension that encrypts your communications with many major websites, making your browsing more secure.
 - [uBlock Origin](https://github.com/gorhill/uBlock) :star2: An efficient blocker for Chromium and Firefox. Fast and lean.
+- [Nano Adblocker](https://github.com/NanoAdblocker/NanoCore) Just another adblocker based on uBlock Origin.
+- [Nano Defender](https://jspenguin2017.github.io/uBlockProtector/) An anti-adblock defuser for Nano Adblocker and uBlock Origin.
 - [TamperMonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=en) The world's most popular userscript manager
 - [WebRTC Network Limiter](https://chrome.google.com/webstore/detail/webrtc-network-limiter/npeicpdbkakmehahjeeohfdhnlpdklia?hl=en) Configures how WebRTC's network traffic is routed by changing Chrome's privacy settings.
 - [ScriptSafe](https://chrome.google.com/webstore/detail/scriptsafe/oiigbmnaadbkfbmpbfijlflahbdbdgdf?hl=en) A browser extension that gives users control of the web and more secure browsing while emphasizing simplicity and intuitiveness.
+
+### Userscripts
+- [Anti-Adblock Killer](https://github.com/reek/anti-adblock-killer) Anti-Adblock Killer helps you keep your Ad-Blocker active, when you visit a website and it asks you to disable.
+- [IMDb Scout](https://greasyfork.org/en/scripts/3967-imdb-scout) Add links from IMDb pages to torrent sites -- easy downloading from IMDb
+- [AdsBypasser](https://adsbypasser.github.io/) This user script helps you to skip countdown ads or continue pages and prevent ad pop-up windows.
 
 ### Password Vaults
 - [BitWarden](https://bitwarden.com/) :star2: Open source password management solution, can be self-hosted
@@ -162,6 +170,7 @@ You will notice some items in this list have a :star2: next to them. Items with 
 - [AlphaRatio](https://alpharatio.cc) :star2: A good starter tracker with lots of freeleech content.
 - [Blutopia](https://blutopia.xyz)
 - [PrivateHD](https://privatehd.to/)
+- [JPopsuki](https://jpopsuki.eu/) JPopsuki is a torrent tracker focused on asian music.
 - [HD-Forever](https://hdf.world/)
 - [HD-Space](https://hd-space.org/)
 - [Awesome HD](https://awesome-hd.me/)
@@ -222,6 +231,7 @@ You will notice some items in this list have a :star2: next to them. Items with 
 - [DIGBT](https://www.digbt.org/) DIGBT is a DHT torrent search engine.
 - [Torrent9](https://www.torrent9.ph/) French torrent search engine
 - [YggTorrent](https://www3.yggtorrent.to/) French tracker and search engine (have a download/upload ratio limitation)
+- [WorldWide Torrents](https://worldwidetorrents.me/)
 
 ### Tracker Aggregators
 - [Jackett](https://github.com/Jackett/Jackett) API Support for your favorite torrent trackers.
@@ -230,6 +240,7 @@ You will notice some items in this list have a :star2: next to them. Items with 
 - [snowfl](https://snowfl.com/) snowfl is a torrent aggregator which searches various public torrent indexes in real-time
 - [TParser](http://tparser.org/) Russian torrent sites indexer
 - [Torrents.me](https://torrents.me/) Torrents.me combines popular torrent sites and specialized private trackers in a torrent multisearch.
+- [rats-search](https://github.com/DEgITx/rats-search) P2P Bittorrent search engine
 
 ### Tracker Invites
 - [/r/OpenSignups](https://www.reddit.com/r/opensignups) Open Signups - When Private Trackers Open Their Doors To The Public
@@ -267,6 +278,7 @@ You will notice some items in this list have a :star2: next to them. Items with 
 - [rtinst](https://github.com/arakasi72/rtinst) seedbox installation script for Ubuntu and Debian systems
 - [sboxsetup](https://github.com/dannyti/sboxsetup) Another seedbox setup script
 - [QuickBox IO](https://quickbox.io/) Seedbox installer script
+- [Seedboxes.cc](https://seedboxes.cc/) Reliable and affordable web hosting, with the power of your friendly monsters!
 
 ### Torrent Communities
 - [/r/trackers](https://www.reddit.com/r/trackers)
@@ -373,6 +385,7 @@ You will notice some items in this list have a :star2: next to them. Items with 
 - [Premiumize](https://www.premiumize.me/) Combine direct and secure access to
 premium services
 - [Offcloud](https://offcloud.com/?=85a8b709) A simple, elegant and intuitive SaaS to retrieve any data from the cloud.
+- [Reevown](https://reevown.com/) A free download service with which you can perform premium downloads.
 
 ### Premium Link Hosts
 - [Mega](https://mega.nz/) :star2:
@@ -404,6 +417,7 @@ premium services
 - [aria2](https://aria2.github.io/) a lightweight multi-protocol & multi-source command-line download utility.
 - [ripme](https://github.com/RipMeApp/ripme) A album/video downloader with support for over 80 sites
 - [rdcli](https://github.com/ston3o/rdcli) The simple way to download and unrestrict DDL files, torrents and magnets using Real-Debrid
+- [get_iplayer](https://github.com/get-iplayer/get_iplayer) A utility for downloading TV and radio programmes from BBC iPlayer
 
 ### Streaming Sites
 - [StreamCR](https://scr.cr/)
@@ -612,6 +626,7 @@ premium services
 - [MP3Juices](https://mp3juices.unblocked.gdn/) MP3 search engine tool which uses YouTube
 - [mp3.li](http://mp3li.unblckd.club) Another MP3 streaming site
 - [SongsPK](https://songs-pk.in/) Mainly for downloading Bollywood songs. Domain changes frequently.
+- [MusicBrainz](https://musicbrainz.org/) MusicBrainz is an open music encyclopedia that collects music metadata and makes it available to the public.
 
 ## Software
 - [Adobe CC 2018](https://www.reddit.com/r/sjain_guides/comments/9g4t2u/adobe_cc_2018_full_indepth_guide_to_installing/) Full in-depth guide to installing and cracking any application (Windows)
@@ -639,10 +654,13 @@ premium services
 - [PDF/Ebook trackers for college textbooks](https://www.reddit.com/r/trackers/comments/hrgmv/tracker_with_pdfsebooks_of_college_textbooks/c1xrq44/) Old-but-still-useful list of ebook/textbook trackers, DDL sites, and IRC communities
 - [PDF Giant](http://pdf-giant.com/) Various categories of downloadable PDFs
 - [MagazineLib](https://magazinelib.com/) Free PDF and interactive e-magazines
+- [Bypass Paywalls](https://addons.mozilla.org/en-US/firefox/addon/bypasspaywalls/) Firefox add-on which allows you to bypass paywalls of many news sites
+- [Outline](https://chrome.google.com/webstore/detail/outline-read-without-clut/daoolpmoieinofbnddaofhkhmbagfmnj) Designed to remove ads, comments, and other junk from news articles but conveniently also bypasses paywalls
 
 ## Education
 - [TUTSGALAXY](https://tutsgalaxy.com/)
 - [FreeTutorials.eu](https://www.freetutorials.eu/) Lots of Udemy courses for free, has adblock detector
+- [coursehunter](https://www.coursehunters.net/) Watch paid tutorials online for free
 - [Lynda Courses](https://www.reddit.com/r/megalinks/comments/7vlt4j/education_lynda_266_courses_207gb/) 266+ Lynda courses
 - [Guide for Finding Textbooks](https://www.reddit.com/r/Piracy/comments/3i9y7n/guide_for_finding_textbooks/) Extensive tutorial by /u/Amosqu
 - [How to "rent" your textbooks for free from Amazon](https://www.reddit.com/r/Piracy/comments/3ma9qe/guide_how_to_rent_your_textbooks_for_free_from/) "Going to college? Living off top ramen for dinner? Let me show you have to "rent" your textbooks for free & for life!"
@@ -650,6 +668,7 @@ premium services
 
 ## Audiobooks
 - [AudioBook Bay](http://audiobookbay.nl/) Download unabridged audiobook for free or share your audio books, safe, fast and high quality
+- [AAXtoMP3](https://github.com/KrumpetPirate/AAXtoMP3) Convert Audible's .aax filetype to MP3, FLAC, M4A, or OPUS
 
 ## Comicbooks
 - [readcomiconline.to](https://readcomiconline.to/) Manga and comics uploaded daily
@@ -703,6 +722,7 @@ premium services
 - [ffmpeg](https://ffmpeg.org/) A complete, cross-platform solution to record, convert and stream audio and video.
 - [sickbeard_mp4_automator](https://github.com/mdhiggins/sickbeard_mp4_automator) Automatically convert video files to a standardized mp4 format with proper metadata tagging to create a beautiful and uniform media library
 - [Automatic Ripping Machine](https://b3n.org/automatic-ripping-machine/) The A.R.M. (Automatic Ripping Machine) detects the insertion of an optical disc, identifies the type of media and autonomously performs the appropriate action
+- [DVD Decrypter](http://dvddecrypter.org.uk/) The original unofficial DVD Decrypter mirror since June 7th, 2005.
 
 ## Cloud Storage
 - [google-drive-ocamlfuse](https://github.com/astrada/google-drive-ocamlfuse) FUSE filesystem over Google Drive
@@ -721,7 +741,8 @@ premium services
 - [Picard](https://picard.musicbrainz.org/) Picard is a cross-platform music tagger written in Python.
 - [Beets](https://github.com/beetbox/beets) beets is a music library manager
 - [Metatogger](https://www.luminescence-software.org/en/metatogger.html) Metatogger is the new generation of tag editor allowing you to rename, tag and easily sort your audio files.
-
+- [MediaInfo](https://mediaarea.net/en/MediaInfo) MediaInfo is a convenient unified display of the most relevant technical and tag data for video and audio files.
+- [iFlicks2](https://iflicksapp.com/) Useful for adding metadata to movies and TV shows
 
 ## Mobile Apps
 
@@ -733,6 +754,7 @@ premium services
 - [YMusic](https://forum.xda-developers.com/android/apps-games/app-youtube-music-sound-stream-youtubes-t3399722) YouTube Music Player & Downloader
 - [Cygery AdSkip for YouTube](https://labs.xda-developers.com/store/app/com.cygery.adskip.xda) Automatically click on the "Skip ad" button in the YouTube™ app when it appears.
 - [Blokada](https://forum.mobilism.org/viewtopic.php?f=438&t=2538717&hilit=Blokada) Blokada is a compact app that transparently blocks unwanted content like ads, tracking, malware and other annoyances.
+- [Tachiyomi](https://github.com/inorichi/tachiyomi) Tachiyomi is a free and open source manga reader for Android.
 
 ### Streaming Apps
 
