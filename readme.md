@@ -198,6 +198,7 @@ You will notice some items in this list have a :star2: next to them. Items with 
 - [TVChaos UK](https://www.tvchaosuk.com/) Private tracker for British television
 - [TheGeeks](https://thegeeks.click/) Private tracker for e-learning
 - [Bitspyder](http://bitspyder.net/) Bitspyder is an educational torrent site devoted to e-Learning content such as e-Books, video courses and audio books.
+- [MySpleen](http://www.myspleen.org/login.php) MySpleen (MS) is a private tracker which specialises in comedy, animation, and TV series.
 - [RED Interview Prep](https://interviewfor.red/en/index.html) This site was written as a guide for potential users to learn about music formats, transcodes, torrenting, and burning and ripping — everything you need to know in order to pass the RED interview.
 - [/PTG tracker manifesto](https://pastebin.com/thLgSkNE) List of private trackers
 - [Tracker Spreadsheet](https://docs.google.com/spreadsheets/d/1zYZ2107xOZwQ37AjLTc5A4dUJl0ilg8oMrZyA0BGvc0/edit#gid=1357476050) Comprehensive spreadsheet of private trackers (somewhat out of date)
@@ -485,14 +486,14 @@ premium services
 
 ### Plex Requests
 - [Ombi](http://ombi.io/) :star2: Want a Movie or TV Show on Plex or Emby? Use Ombi!
-- [Plex Requests](http://plexrequests.8bits.ca/)
+- [Plex Requests](http://plexrequests.8bits.ca/) Simple automated way for users to request new content for Plex
 - [plexrequests-meteor](https://github.com/lokenx/plexrequests-meteor) Meteor version of the original Plex Requests
 - [Mellow](https://github.com/v0idp/Mellow/) Discord Bot which can communicate with several APIs like Ombi, Sonarr, Radarr and Tautulli which are related to home streaming. Based off of node:9.3
 
 ### Plex Scripts and Tools
-- [plex_top_playlists](https://github.com/pbrink231/plex_top_playlists)
+- [plex_top_playlists](https://github.com/pbrink231/plex_top_playlists) A python script to get top weekly or top popular lists and put them in plex as playlists.
 - [JBOPS](https://github.com/blacktwin/JBOPS) Just a Bunch Of Plex Scripts
-- [plex-subtitles-normalizer](https://github.com/caridy/plex-subtitles-normalizer)
+- [plex-subtitles-normalizer](https://github.com/caridy/plex-subtitles-normalizer) CLI tool to fix subtitles needed by Plex Media Center
 - [plex_autoscan](https://github.com/l3uddz/plex_autoscan) Script to assist sonarr/radarr with plex imports.
 - [plexupdate](https://github.com/mrworf/plexupdate) script to simplify the life of Linux Plex Media Server users.
 - [plex2netflix](https://github.com/SpaceK33z/plex2netflix) See how much of your media from Plex is available on Netflix.
@@ -521,8 +522,7 @@ premium services
 ### Plex Logging and Metrics
 - [Tautilli](https://tautulli.com/) :star2: Tautulli is a 3rd party application that you can run alongside your Plex Media Server to monitor activity and track various statistics.
 - [plexWatch](https://github.com/ljunkie/plexWatch) Notify and Log watched content on a Plex Media Server
-- [plexReport](https://github.com/bstascavage/plexReport)
-- [Plex-Data-Collector-For-InfluxDB](https://github.com/barrycarey/Plex-Data-Collector-For-InfluxDB)
+- [Plex-Data-Collector-For-InfluxDB](https://github.com/barrycarey/Plex-Data-Collector-For-InfluxDB) Collects data about your Plex server and sends it to InfluxDB
 
 ### Plex Clients
 - [RasPlex](https://github.com/RasPlex/RasPlex) Rasplex is a community driven port of Plex Home Theater for the Raspberry Pi
@@ -551,13 +551,13 @@ premium services
 ## Gaming
 
 ### Repacks
-- [Good Old Downloads](https://goodolddownloads.com/)
+- [Good Old Downloads](https://goodolddownloads.com/) Very popular repacks site with scene games, retro games, and games from the GOG.com catalog
 - [Games Torrent](http://gamestorrent.co/) Torrent site, part of IGGGAMES with releases from CODEX, RELOADED, CPY, SKIDROW, and more
 - [FitGirl Repacks](fitgirl-repacks.site) :star2: Popular DDL and torrent site for game repacks
 - [Xatab Repacks](https://xatab-repack.net) Russian game repacker, primarily torrents
 - [ElAmigos Games](https://www.elamigos-games.com/) Premium links to cracked games
-- [qoob.name](http://qoob.name/) repacker site
-- [Nicoblog](https://nicoblog.org/)
+- [qoob.name](http://qoob.name/) Repacker site
+- [Nicoblog](https://nicoblog.org/) Plenty of ISOs, ROMs, and repacks
 - [Dark Umbra](https://darkumbra.net/) Forum for sourcing games
 - [PCGames-Download](https://pcgames-download.com/) Premium links to repacks from a variety of release groups
 - [Skidrow Repacks](https://skidrowrepacks.com/) Repacks from popular repacker SKIDROW. Lots of anime stuff too
@@ -591,20 +591,24 @@ premium services
 - [Nyaa](https://nyaa.si/) Bittorrent software for cats [(Repo)](https://github.com/nyaadevs/nyaa)
 - [Hi10 Anime](https://hi10anime.com/) High Quality 10-bit Anime Encodes
 - [Anime Kaizoku](https://www2.animekaizoku.com/) Up to 1080p DDL links, mostly Google Drive
-- [/r/animepiracy](https://www.reddit.com/r/animepiracy)
+- [/r/animepiracy](https://www.reddit.com/r/animepiracy) This sub is about streaming and torrent websites for anime.
 - [/r/animepiracy wiki](https://www.reddit.com/r/animepiracy/wiki/index) Lists for sourcing Anime streaming sites, manga sites, and more
 - [Monimo](https://monimoapp.netlify.com/) Netflix like web app for watching animes
-- [AniLinkz](https://anilinkz.to/)
-- [KissAnime](http://kissanime.ru/)
-- [9Anime](https://9anime.to)
-- [NyaaPantsu](https://nyaa.pantsu.cat/)
+- [AniLinkz](https://anilinkz.to/) Watch anime online your favorite anime series stream for free with the large database of Streaming Anime Episodes.
+- [KissAnime](http://kissanime.ru/) Watch anime online free in HD.
+- [9Anime](https://9anime.to) Watch anime online. English anime, dubbed, subbed.
+- [NyaaPantsu](https://nyaa.pantsu.cat/) Primarily Anime torrents but includes an open directory of DDL links too.
 - [Alternatives to Kiss websites](https://www.reddit.com/r/KissCartoon/wiki/alternatives) /r/KissCartoon wiki page with lots of anime sites
 - [anime-sharing](http://www.anime-sharing.com/forum/) Forum for sharing anime
 - [AniDex](https://anidex.info) Torrent tracker and indexer, primarily for English fansub groups of anime
 - [animeEncodes](https://www.animencodes.com/)
 
 ## Cartoons
-- [watchcartoononline](https://www.watchcartoononline.com/) Cartoons, dubbed/subbed anime streaming site
+- [KissCartoon](https://kisscartoon.ac/) Popular cartoon streaming site
+- [watchcartoononline.com](https://www.watchcartoononline.com/) Cartoons, dubbed/subbed anime streaming site
+- [watchcartoononline.io](https://www.watchcartoononline.io/) Large DDL site for cartoons as well as anime and movies
+- [animetoon](http://www.animetoon.org/) Lots of streaming via premium hosts for cartoons
+- [Toonova](http://www.toonova.net/) Another site for streaming cartoons
 
 ## Music
 - [Soulseek](http://www.soulseekqt.net/news/) Soulseek is an ad-free, spyware free, just plain free file sharing network for Windows, Mac and Linux.
