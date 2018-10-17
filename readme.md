@@ -753,6 +753,7 @@ premium services
 - [YMusic](https://forum.xda-developers.com/android/apps-games/app-youtube-music-sound-stream-youtubes-t3399722) YouTube Music Player & Downloader
 - [Cygery AdSkip for YouTube](https://labs.xda-developers.com/store/app/com.cygery.adskip.xda) Automatically click on the "Skip ad" button in the YouTube™ app when it appears.
 - [Blokada](https://forum.mobilism.org/viewtopic.php?f=438&t=2538717&hilit=Blokada) Blokada is a compact app that transparently blocks unwanted content like ads, tracking, malware and other annoyances.
+- [Tachiyomi](https://github.com/inorichi/tachiyomi) Tachiyomi is a free and open source manga reader for Android.
 
 ### Streaming Apps
 
