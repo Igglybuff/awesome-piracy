@@ -5,6 +5,7 @@
 ## Contents
 
 - [Preamble](#preamble)
+- [Background Information](#background-information)
 - [Protecting Yourself](#protecting-yourself)
 	- [VPNs](#vpns)
 	- [Browser Extensions](#browser-extensions)
@@ -21,8 +22,6 @@
 	- [Tracker Invites](#tracker-invites)
 	- [Torrent Clients](#torrent-clients)
 	- [Seedboxes](#seedboxes)
-	- [Torrent Communities](#torrent-communities)
-	- [Torrent Wikipedia Pages](#torrent-wikipedia-pages)
 	- [Miscellaneous Torrent Stuff](#miscellaneous-torrent-stuff)
 - [Usenet](#usenet)
 	- [Usenet Providers](#usenet-providers)
@@ -30,8 +29,6 @@
 		- [Paid Indexers](#paid-indexers)
 		- [Free Indexers](#free-indexers)
 	- [Usenet Clients](#usenet-clients)
-	- [Usenet Communities](#usenet-communities)
-	- [Usenet Wikipedia Pages](#usenet-wikipedia-pages)
 - [Direct Downloads](#direct-downloads)
 	- [Custom Google Search Engines](#custom-google-search-engines)
 	- [Normal DDL Indexers](#normal-ddl-indexers)
@@ -80,6 +77,7 @@
 - [IPTV and DVR](#iptv-and-dvr)
 - [IRC](#irc)
 	- [IRC Networks](#irc-networks)
+	- [IRC Search Engines](#irc-search-engines)
 - [DC++](#dc)
 - [Full Movies On](#full-movies-on)
 - [Piracy Blogs and News](#piracy-blogs-and-news)
@@ -110,6 +108,10 @@ Some items in this list could easily fit in more than one category, so to make s
 ## Emoji
 
 You will notice some items in this list have a :star2: next to them. Items with a :star2: represent the author's top pick for that category. This is an entirely opinionated rating from someone who doesn't know everything about every item on the list, so be sure to check out alternative options before assuming something is "the best". That said, I do explore and test every resource I add to this list wherever possible.
+
+## Background Information
+
+- [Wikipedia "File sharing" category](https://en.wikipedia.org/wiki/Category:File_sharing) Wikipedia's full list of file sharing related articles.
 
 ## Protecting Yourself
 
@@ -163,7 +165,15 @@ You will notice some items in this list have a :star2: next to them. Items with 
 
 ## Torrenting
 
+- [/r/torrents](https://www.reddit.com/r/torrents)
+- [BitTorrent](https://en.wikipedia.org/wiki/BitTorrent)
+
 ### Trackers
+
+- [/r/trackers](https://www.reddit.com/r/trackers)
+- [A Simple Guide To A Better Ratio](https://www.reddit.com/r/trackers/comments/fthja/a_simple_guide_to_a_better_ratio/) A good tracker requires you to upload what you download. This guide explains many of the methods involved with keeping on top of this sometimes difficult task.
+- [Tracker Twitters](https://filenetworks.blogspot.com/2010/12/list-of-private-torrent-trackers.html) List Of Private Torrent Trackers & BitTorrent News Accounts To Follow On Twitter
+- [magent2torrent.me](http://magnet2torrent.me/) Converts magnet links to torrent files
 
 #### Private Trackers
 - [TorrentLeech](https://torrentleech.org/) Well-known popular private tracker
@@ -186,6 +196,9 @@ You will notice some items in this list have a :star2: next to them. Items with 
 - [BakaBT](https://bakabt.me/) a torrent tracker which specializes in serving anime fans
 - [BeyondHD](https://beyondhd.xyz/)
 - [CGPeers](https://www.cgpeers.com/)
+- [TVChaos UK](https://www.tvchaosuk.com/) Private tracker for British television
+- [TheGeeks](https://thegeeks.click/) Private tracker for e-learning
+- [Bitspyder](http://bitspyder.net/) Bitspyder is an educational torrent site devoted to e-Learning content such as e-Books, video courses and audio books.
 - [RED Interview Prep](https://interviewfor.red/en/index.html) This site was written as a guide for potential users to learn about music formats, transcodes, torrenting, and burning and ripping — everything you need to know in order to pass the RED interview.
 - [/PTG tracker manifesto](https://pastebin.com/thLgSkNE) List of private trackers
 - [Tracker Spreadsheet](https://docs.google.com/spreadsheets/d/1zYZ2107xOZwQ37AjLTc5A4dUJl0ilg8oMrZyA0BGvc0/edit#gid=1357476050) Comprehensive spreadsheet of private trackers (somewhat out of date)
@@ -260,6 +273,7 @@ You will notice some items in this list have a :star2: next to them. Items with 
 - [Transmission](https://transmissionbt.com/) Default torrent client in many distros.
 - [Deluge](https://www.deluge-torrent.org/)
 - [Popcorn Time](https://github.com/popcorn-official/popcorn-desktop) Popcorn Time is a multi-platform, free software BitTorrent client that includes an integrated media player.
+- [Butter Project](http://butterproject.org/) A legal fork of Popcorn Time which is configurable to allow for custom sources of video
 - [magnetoo](https://www.magnetoo.io/) Fancy new in-browser WebTorrent streaming service
 - [Tixati](https://tixati.com/) Lightweight torrent client for Windows and Linux
 - [PicoTorrent](https://picotorrent.org/) Lightweight and minimalistic torrent client for Windows
@@ -280,25 +294,20 @@ You will notice some items in this list have a :star2: next to them. Items with 
 - [QuickBox IO](https://quickbox.io/) Seedbox installer script
 - [Seedboxes.cc](https://seedboxes.cc/) Reliable and affordable web hosting, with the power of your friendly monsters!
 
-### Torrent Communities
-- [/r/trackers](https://www.reddit.com/r/trackers)
-- [/r/torrents](https://www.reddit.com/r/torrents)
-
-### Torrent Wikipedia Pages
-- [BitTorrent](https://en.wikipedia.org/wiki/BitTorrent)
-
 ### Miscellaneous Torrent Stuff
 - [βTorrent](https://btorrent.xyz/) fully-featured [WebTorrent](https://webtorrent.io/) browser client written in HTML, JS and CSS
 - [UNIT3D](https://github.com/HDInnovations/UNIT3D) The Nex-Gen Private Torrent Tracker (Aimed For Movie / TV Use)
 - [meanTorrent](https://github.com/taobataoma/meanTorrent) A BitTorrent Private Tracker CMS with Multilingual, and IRC announce support, CloudFlare support.
 - [NexusPHP](https://github.com/ZJUT/NexusPHP) BitTorrent private tracker scripts written in PHP.
-- [A Simple Guide To A Better Ratio](https://www.reddit.com/r/trackers/comments/fthja/a_simple_guide_to_a_better_ratio/) A good tracker requires you to upload what you download. This guide explains many of the methods involved with keeping on top of this sometimes difficult task.
 - [Live Tracer](https://trace.corrupt-net.org/live.php) Pre-time tracer for scene releases
-- [Tracker Twitters](https://filenetworks.blogspot.com/2010/12/list-of-private-torrent-trackers.html) List Of Private Torrent Trackers & BitTorrent News Accounts To Follow On Twitter
-- [magent2torrent.me](http://magnet2torrent.me/) Converts magnet links to torrent files
 - [Seedr](https://www.seedr.cc/) Essentially a seedbox you can paste torrents into which returns a streamable direct link
 
 ## Usenet
+
+- [Usenet](https://en.wikipedia.org/wiki/Usenet)
+- [Usenet newsgroup](https://en.wikipedia.org/wiki/Usenet_newsgroup)
+- [/r/Usenet](https://www.reddit.com/r/Usenet) a thriving community dedicated to helping users old and new understand and use usenet.
+- [/r/UsenetInvites](https://www.reddit.com/r/UsenetInvites) Requests and offers for Usenet indexers
 
 ### Usenet Providers
 - [Usenet Services Map](https://www.reddit.com/r/Usenet/comments/9mo9eg/Usenet_services_map_updated/) Mind map by /u/thepageunit
@@ -328,14 +337,6 @@ You will notice some items in this list have a :star2: next to them. Items with 
 ### Usenet Clients
 - [SABnzbd](https://sabnzbd.org/) :star2: SABnzbd is an Open Source Binary Newsreader written in Python.
 - [NZBget](https://nzbget.net/) Efficient Usenet downloader written in C++
-
-### Usenet Communities
-- [/r/Usenet](https://www.reddit.com/r/Usenet) a thriving community dedicated to helping users old and new understand and use usenet.
-- [/r/UsenetInvites](https://www.reddit.com/r/UsenetInvites) Requests and offers for Usenet indexers
-
-### Usenet Wikipedia Pages
-- [Usenet](https://en.wikipedia.org/wiki/Usenet)
-- [Usenet newsgroup](https://en.wikipedia.org/wiki/Usenet_newsgroup)
 
 ## Direct Downloads
 
@@ -571,6 +572,7 @@ premium services
 - [The Eye ROMs](http://the-eye.eu/public/rom/) open directory of ROMs from The Eye
 - [myabandonware](https://www.myabandonware.com/) More than 14000 old games to download for free!
 - [Old Games Finder](http://www.oldgamesfinder.com/) Old Games Finder is an automated old games search engine. (avoid ISO Zone links, as that site is dead)
+- [The ROM Depot](https://theromdepot.com/roms/) About 3TB of ROMs.
 
 ### Console Games
 - [/r/PkgLinks](https://www.reddit.com/r/PkgLinks/) A place to share working Playstation 4 PKGs
@@ -698,6 +700,7 @@ premium services
 - [Bonarr](https://github.com/klassicstudios/Bonarr) A fork of Radarr to work with porn.
 - [Pulsarr](https://github.com/roboticsound/Pulsarr) Browser extension (currently Chrome & Firefox) for adding movies to Radarr or Series' to Sonarr while browsing IMDB or TVDB.
 - [traktarr](https://github.com/l3uddz/traktarr) Script to add new series & movies to Sonarr/Radarr based on Trakt lists.
+- [Mylar](https://github.com/evilhero/mylar) An automated Comic Book downloader (cbr/cbz) for use with SABnzbd, NZBGet and torrents
 - [CouchPotato](https://github.com/CouchPotato/CouchPotatoServer) Automatic Movie Downloading via NZBs & Torrents
 - [SickRage](https://github.com/SiCKRAGE/SiCKRAGE) Automatic Video Library Manager for TV Shows.
 - [SickChill](https://sickchill.github.io/) an automatic Video Library Manager for TV Shows.
@@ -715,6 +718,7 @@ premium services
 - [Gnutella](https://en.wikipedia.org/wiki/Gnutella) P2P network behind the popular LimeWire file sharing app
 - [FastTrack](https://en.wikipedia.org/wiki/FastTrack) Protocol used by the Kazaa, Grokster, iMesh, and Morpheus file sharing programs
 - [Napster](https://en.wikipedia.org/wiki/Napster) Peer-to-peer file sharing Internet service that emphasized sharing digital audio files, typically audio songs, encoded in MP3 format.
+- [Peer-to-peer file sharing](https://en.wikipedia.org/wiki/Peer-to-peer_file_sharing) Detailed Wikipedia page about file sharing
 
 ## Ripping, Transcoding, Converting
 - [Handbrake](https://handbrake.fr/) :star2: HandBrake is a tool for converting video from nearly any format to a selection of modern, widely supported codecs.
@@ -795,11 +799,25 @@ premium services
 ## IRC
 - [weechat](https://github.com/weechat/weechat) :star2: The extensible chat client.
 - [irssi](https://irssi.org/) Your text mode chatting application since 1999.
+- [HexChat](https://hexchat.github.io/) HexChat is an IRC client based on XChat, but unlike XChat it’s completely free for both Windows and Unix-like systems.
+- [KVIrc](https://github.com/kvirc/KVIrc) Graphical IRC client
+- [mIRC](https://www.mirc.com/) IRC client for Windows
+- [XDCC Tutorial](http://theloadguru.com/xdcc-irc-beginners-guide/) XDCC Downloading For Beginners: Do It Like A Pro
 - [autodl-irssi](https://autodl-community.github.io/autodl-irssi/) autodl-irssi is a plugin for irssi that monitors IRC announce channels for torrent trackers and downloads torrent files based on user-defined filters.
+- [XDCC](https://en.wikipedia.org/wiki/XDCC) XDCC (Xabi DCC or eXtended DCC) is a computer file sharing method which uses the Internet Relay Chat (IRC) network as a host service.
 
 ### IRC Networks
 - [irc.p2p-network.net](https://p2p-network.net/) P2P file sharing network
 - [Orpheus](https://orpheus.network/) Formerly known as Apollo
+- [Moviegods](irc://irc.abjects.net/MOVIEGODS) XDCC file sharing network, join #mg-chat to continue downloading
+- [The Source](irc://irc.scenep2p.net/THE.SOURCE) Another XDCC source
+- [Beast-XDCC](irc://irc.abjects.net/BEAST-XDCC) One more XDCC source
+- [irc.undernet.org/bookz](irc://irc.undernet.org/bookz) For downloading ebooks (use `@search <book name>` for a list of available ebooks)
+
+### IRC Search Engines
+- [xWeasel](http://xweasel.org) xWeasel is a free stand-alone Download Client based on IRC technology including a multifunctional XDCC Search Engine.
+- [ixIRC](https://ixirc.com/) ixIRC lets you search through 17 IRC networks, 32 channels, and over 189915 user supplied XDCC packs.
+- [SunXDCC](http://sunxdcc.com/) Another XDCC file search engine
 
 ## DC++
 - [Direct Connect (protocol)](https://en.wikipedia.org/wiki/Direct_Connect_(protocol)) Wikipedia page describing Direct Connect.
@@ -857,11 +875,7 @@ premium services
 
 ## Unsorted and To Do List
 
-- more wikipedia pages/further reading
-- userscripts
 - discord servers
-- more IRC stuff
-- upload to a few mirrors
 - non-anime cartoons
 
 ## Contribute
