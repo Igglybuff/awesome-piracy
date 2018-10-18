@@ -37,6 +37,7 @@
 	- [Premium Link Hosts](#premium-link-hosts)
 	- [Open Directories](#open-directories)
 	- [Downloaders](#downloaders)
+	- [Sports Streaming](#sports-streaming)
 	- [Streaming Sites](#streaming-sites)
 	- [Miscellaneous DDL Stuff](#miscellaneous-ddl-stuff)
 - [Media Centre Applications](#media-centre-applications)
