@@ -275,6 +275,10 @@ You will notice some items in this list have a :star2: next to them. Items with 
 - [Popcorn Time](https://github.com/popcorn-official/popcorn-desktop) Popcorn Time is a multi-platform, free software BitTorrent client that includes an integrated media player.
 - [Butter Project](http://butterproject.org/) A legal fork of Popcorn Time which is configurable to allow for custom sources of video
 - [magnetoo](https://www.magnetoo.io/) Fancy new in-browser WebTorrent streaming service
+- [Soda Player](https://www.sodaplayer.com/) Open and play magnet links and torrent files instantly.
+- [βTorrent](https://btorrent.xyz/) fully-featured [WebTorrent](https://webtorrent.io/) browser client written in HTML, JS and CSS
+- [WebTorrent Desktop](https://webtorrent.io/desktop/) WebTorrent Desktop is for streaming torrents.
+- [BitLord](http://www.bitlord.com/) Another BitTorrent streaming client
 - [Tixati](https://tixati.com/) Lightweight torrent client for Windows and Linux
 - [PicoTorrent](https://picotorrent.org/) Lightweight and minimalistic torrent client for Windows
 - [FrostWire](https://www.frostwire.com/) FrostWire is a Free and open-source BitTorrent client first released in September 2004, as a fork of LimeWire.
@@ -295,7 +299,6 @@ You will notice some items in this list have a :star2: next to them. Items with 
 - [Seedboxes.cc](https://seedboxes.cc/) Reliable and affordable web hosting, with the power of your friendly monsters!
 
 ### Miscellaneous Torrent Stuff
-- [βTorrent](https://btorrent.xyz/) fully-featured [WebTorrent](https://webtorrent.io/) browser client written in HTML, JS and CSS
 - [UNIT3D](https://github.com/HDInnovations/UNIT3D) The Nex-Gen Private Torrent Tracker (Aimed For Movie / TV Use)
 - [meanTorrent](https://github.com/taobataoma/meanTorrent) A BitTorrent Private Tracker CMS with Multilingual, and IRC announce support, CloudFlare support.
 - [NexusPHP](https://github.com/ZJUT/NexusPHP) BitTorrent private tracker scripts written in PHP.
@@ -354,6 +357,7 @@ You will notice some items in this list have a :star2: next to them. Items with 
 ### Premium Link DDL Indexers
 - [snahp.it](https://snahp.it/) :star2: replaced /r/megalinks
 - [ololo](https://ololo.to/) ololo is a video streaming link search engine.
+- [VideoSpider](https://videospider.in/) VideoSpider crawls various websites and search engines to find movie and TV episode streaming links
 - [MegaSearch](http://megasearch.co) Search engine for finding content hosted on Mega and other premium hosts like OpenLoad
 - [Orion](https://orionoid.com/) Orion is a service that indexes metadata and links from a variety of public websites and networks, including torrent, usenet, and hoster indexes.
 - [hdencode](https://hdencode.com/)
@@ -418,12 +422,24 @@ premium services
 - [ripme](https://github.com/RipMeApp/ripme) A album/video downloader with support for over 80 sites
 - [rdcli](https://github.com/ston3o/rdcli) The simple way to download and unrestrict DDL files, torrents and magnets using Real-Debrid
 - [get_iplayer](https://github.com/get-iplayer/get_iplayer) A utility for downloading TV and radio programmes from BBC iPlayer
+- [MEGAsync](https://mega.nz/sync) Easy automated synchronisation between your computer and your MEGA account. Can stream Mega videos directly.
 
 ### Streaming Sites
 - [StreamCR](https://scr.cr/)
 - [cine.to](https://cine.to/)
 - [Solarmovie](https://solarmoviez.ru/solar.html)
 - [FlixGo](https://flixgo.net/)
+- [LookMovie](https://lookmovie.ag/)
+- [FilmXY](https://www.filmxy.one/)
+- [onemov](https://onemov.net/)
+- [AZMovies](https://azmovies.xyz/)
+- [1Movies](http://1movies.nl)
+- [Rainierland](https://rainierland.is/)
+- [WatchFullMovie](http://watchfullmovie.co)
+- [MegaShare](http://megashare9.su)
+- [cinebloom](https://www2.cinebloom.com)
+- [QQMovies](http://qqmovies.co)
+- [HDEUROPIX](https://topeuropix.net/)
 - [/r/MovieStreamingSites](https://www.reddit.com/r/MovieStreamingSites/)
 - [/r/BestOfStreamingVideo](https://www.reddit.com/r/BestOfStreamingVideo/)
 - [CyTube](https://cytu.be/) Channel-based shared streaming platform for synchronised viewing of YouTube and Google Drive videos
@@ -442,6 +458,16 @@ premium services
 - [VIPBox](https://www.vipbox.live/) Spanish
 - [MamaHD](https://www.mamahd.org/)
 - [/r/soccerstreams](https://www.reddit.com/r/soccerstreams) A subreddit dedicated to the highest quality of free soccer / football streams. World Cup Streams, too.
+- [/r/nflstreams](https://www.reddit.com/r/nflstreams/)
+- [/r/nbastreams](https://www.reddit.com/r/nbastreams/)
+- [/r/MLBStreams](https://www.reddit.com/r/MLBStreams/)
+- [/r/NHLStreams](https://www.reddit.com/r/NHLStreams/)
+- [/r/MMAStreams](https://www.reddit.com/r/MMAStreams/)
+- [/r/ncaaBBallStreams](https://www.reddit.com/r/ncaaBBallStreams/)
+- [/r/CFBStreams](https://www.reddit.com/r/CFBStreams/)
+- [/r/WWEstreams](https://www.reddit.com/r/WWEstreams/)
+- [/r/rugbystreams](https://www.reddit.com/r/rugbystreams/)
+- [/r/mmafights](https://www.reddit.com/r/mmafights/)
 
 ### Miscellaneous DDL Stuff
 - [Leonflix](https://leonflix.net/) A multi-platform desktop app for finding movies and TV shows.
@@ -644,6 +670,7 @@ premium services
 - [TechBench](https://tb.rg-adguard.net/public.php) Find official Windows isos for Windows 7/8/10
 - [CrackingPatching.com](https://crackingpatching.com/) Cracked software
 - [Appked](https://www.macbed.com/) Mac application sharing site
+- [/r/piracy/wiki/tools](https://www.reddit.com/r/piracy/wiki/tools) Windows/Office activation tools, and images/installers for Windows, Office, and Adobe
 
 ## Ebooks
 - [LibGen](http://libgen.io/) search engine for articles and books on various topics, which allows free access to content that is otherwise paywalled or not digitized elsewhere
@@ -761,7 +788,7 @@ premium services
 - [FilePursuit Pro](https://play.google.com/store/apps/details?id=com.filepursuit.filepursuitpro) FilePursuit provides a very powerful file indexing and search service allowing you to find a file among millions of files located on web servers.
 - [YMusic](https://forum.xda-developers.com/android/apps-games/app-youtube-music-sound-stream-youtubes-t3399722) YouTube Music Player & Downloader
 - [Cygery AdSkip for YouTube](https://labs.xda-developers.com/store/app/com.cygery.adskip.xda) Automatically click on the "Skip ad" button in the YouTube™ app when it appears.
-- [Blokada](https://forum.mobilism.org/viewtopic.php?f=438&t=2538717&hilit=Blokada) Blokada is a compact app that transparently blocks unwanted content like ads, tracking, malware and other annoyances.
+- [Blokada](https://blokada.org) Blokada is a compact app that transparently blocks unwanted content like ads, tracking, malware and other annoyances.
 - [Tachiyomi](https://github.com/inorichi/tachiyomi) Tachiyomi is a free and open source manga reader for Android.
 
 ### Streaming Apps
@@ -844,6 +871,8 @@ premium services
 - [/r/FullMovieonViooz](https://www.reddit.com/r/FullMovieonViooz)
 - [/r/FullMoviesDailyMotion](https://www.reddit.com/r/FullMoviesDailyMotion)
 - [fullmoviesandtv multireddit](https://www.reddit.com/user/Asmailes/m/fullmoviesandtv/) All of the above subreddits as a multireddit
+- [/r/1080pMoviesOnline](https://www.reddit.com/r/1080pMoviesOnline)
+- [/r/fullmoviesonopenload](https://www.reddit.com/r/fullmoviesonopenload)
 
 ## Piracy Blogs and News
 - [TorrentFreak](https://torrentfreak.com) :star2: TorrentFreak is a publication dedicated to bringing the latest news about copyright, privacy, and everything related to filesharing.
@@ -877,6 +906,7 @@ premium services
 - [MediaServer-DockerComposeFiles](https://github.com/vaeyo/MediaServer-DockerComposeFiles) Docker-Compose Files for Media Server Related Apps [Radarr, Sonarr, Plex, rTorrent, NZBGet, Ombi, Emby, etc]
 - [usenet-docker](https://github.com/justinhamlett/usenet-docker) Docker-compose configuration for Sabnzbd, CouchPotato, Plex, Sonarr, Plexpy, Nzbhydra, Muximux, Radarr, NZBGet and Ombi with a Nginx proxy.
 - [/r/EmbyShares](https://www.reddit.com/r/EmbyShares) This subreddit is dedicated to the sharing of Emby servers.
+- [/r/freefolk](https://www.reddit.com/r/freefolk) Streams for new episodes of Game of Thrones
 
 ## Unsorted and To Do List
 
