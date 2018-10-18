@@ -660,6 +660,7 @@ premium services
 - [MagazineLib](https://magazinelib.com/) Free PDF and interactive e-magazines
 - [Bypass Paywalls](https://addons.mozilla.org/en-US/firefox/addon/bypasspaywalls/) Firefox add-on which allows you to bypass paywalls of many news sites
 - [Outline](https://chrome.google.com/webstore/detail/outline-read-without-clut/daoolpmoieinofbnddaofhkhmbagfmnj) Designed to remove ads, comments, and other junk from news articles but conveniently also bypasses paywalls
+- [All IT eBooks](http://www.allitebooks.com/) A big db of free (and direct-link) ebooks of programming and IT
 
 ## Education
 - [TUTSGALAXY](https://tutsgalaxy.com/)
