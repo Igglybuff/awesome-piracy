@@ -183,7 +183,7 @@ You will notice some items in this list have a :star2: next to them. Items with 
 - [HD-Forever](https://hdf.world/) HD-Forever (HD-F) is a French private tracker for HD movies.
 - [HD-Space](https://hd-space.org/) HD-Space (HDS) is a private torrent tracker hosting HD movies, TV shows and music torrents.
 - [Awesome HD](https://awesome-hd.me/) Awesome-HD (AHD) is a private tracker for quality enthusiasts.
-- [UHDBits](https://uhdbits.org/) UHDBits is a Vietnamese privat torrent tracker focused on HD movies and TV shows.
+- [UHDBits](https://uhdbits.org/) UHDBits is a Vietnamese private torrent tracker focused on HD movies and TV shows.
 - [Private Tracker Flowchart](https://wiki.installgentoo.com/images/9/97/Private_tracker_flowchart.png) V4 of the private tracker flow chart
 - [Private trackers](https://wiki.installgentoo.com/index.php/Private_trackers) Guide on how to get into (and survive) the world of private trackers.
 - [Redacted](https://redacted.ch/) Private music tracker
@@ -206,8 +206,8 @@ You will notice some items in this list have a :star2: next to them. Items with 
 
 #### Semi-Private Trackers
 - [ruTracker](https://rutracker.org/forum/index.php) :star2: RuTracker is a huge Russian torrent site with a thriving file-sharing community.
-- [Zamunda.net](http://zamunda.net) A bulgarian tracker with english and russian translations available.
-- [ArenaBG](https://arenabg.com/) A bulgarian tracker with an english translation available.
+- [Zamunda.net](http://zamunda.net) A Bulgarian tracker with English and Russian translations available.
+- [ArenaBG](https://arenabg.com/) A Bulgarian tracker with an English translation available.
 - [NoNaMe Club](https://nnmclub.to/) Russian semi-private tracker and forum
 
 #### Public Trackers
@@ -261,7 +261,7 @@ You will notice some items in this list have a :star2: next to them. Items with 
 - [Open sign-ups thread](https://www.reddit.com/r/trackers/comments/7ildxx/open_signups_thread/) /r/trackers thread for posting trackers that are currently open for registration.
 - [Opentrackers.org](https://opentrackers.org/) Private Torrent Trackers & File Sharing
 - [getting_into_private_trackers](https://www.reddit.com/r/trackers/wiki/getting_into_private_trackers) :star2: Helpful resource from the /r/trackers wiki
-- [BTRACS](http://btracs.com/) an automatic information site which periodicaly checks closed community Bittorrent trackers for being open for signup.
+- [BTRACS](http://btracs.com/) an automatic information site which periodicaly checks closed community BitTorrent trackers for being open for signup.
 
 ### Torrent Clients
 - [rTorrent](https://rakshasa.github.io/rtorrent/) :star2: rTorrent is a text-based ncurses BitTorrent client written in C++
@@ -463,7 +463,7 @@ premium services
 - [Myflix](https://github.com/pastapojken/Myflix) Myflix tries to be a somewhat simple and lightweight "DIY Netflix", similar to Plex, streama or Emby, for your DIY NAS, especially aimed at the Raspberry Pi/Odroid/etc ecosystem.
 - [Stremio](https://www.stremio.com/) Multi-platform video content aggregator with a comprehensive add-on system for extending functionality
 - [Gerbera](https://github.com/gerbera/gerbera) UPnP Media Server for 2018 (Based on MediaTomb)
-- [Serviio](http://serviio.org/) Serviio is a free media server. It allows you to stream your media files (music, video or images) to renderer devices (e.g. a TV set, Bluray player, games console or mobile phone) on your connected home network.
+- [Serviio](http://serviio.org/) Serviio is a free media server. It allows you to stream your media files (music, video or images) to renderer devices (e.g. a TV set, Blu-ray player, games console or mobile phone) on your connected home network.
 
 ## Plex
 
@@ -520,7 +520,7 @@ premium services
 - [Plex-Remote-Transcoder](https://github.com/wnielson/Plex-Remote-Transcoder) A distributed transcoding backend for Plex
 
 ### Plex Logging and Metrics
-- [Tautilli](https://tautulli.com/) :star2: Tautulli is a 3rd party application that you can run alongside your Plex Media Server to monitor activity and track various statistics.
+- [Tautulli](https://tautulli.com/) :star2: Tautulli is a 3rd party application that you can run alongside your Plex Media Server to monitor activity and track various statistics.
 - [plexWatch](https://github.com/ljunkie/plexWatch) Notify and Log watched content on a Plex Media Server
 - [Plex-Data-Collector-For-InfluxDB](https://github.com/barrycarey/Plex-Data-Collector-For-InfluxDB) Collects data about your Plex server and sends it to InfluxDB
 
@@ -588,7 +588,7 @@ premium services
 - [/r/SwitchHacks](https://www.reddit.com/r/SwitchHacks) Another Nintendo Switch hacking subreddit
 
 ## Anime
-- [Nyaa](https://nyaa.si/) Bittorrent software for cats [(Repo)](https://github.com/nyaadevs/nyaa)
+- [Nyaa](https://nyaa.si/) BitTorrent software for cats [(Repo)](https://github.com/nyaadevs/nyaa)
 - [Hi10 Anime](https://hi10anime.com/) High Quality 10-bit Anime Encodes
 - [Anime Kaizoku](https://www2.animekaizoku.com/) Up to 1080p DDL links, mostly Google Drive
 - [/r/animepiracy](https://www.reddit.com/r/animepiracy) This sub is about streaming and torrent websites for anime.
@@ -827,7 +827,7 @@ premium services
 - [Direct Connect (protocol)](https://en.wikipedia.org/wiki/Direct_Connect_(protocol)) Wikipedia page describing Direct Connect.
 - [DC++](https://en.wikipedia.org/wiki/DC%2B%2B) Wikipedia page describing DC++
 - [AirDC++](https://www.airdcpp.net/) Windows GUI and Linux Web DC++ client in active development, with ADC, IPv6 and DHT support.
-- [FlylinkDC++](http://www.flylinkdc.com/) Windows DC++ and Bittorrent client in active development, with ADC and DHT support.
+- [FlylinkDC++](http://www.flylinkdc.com/) Windows DC++ and BitTorrent client in active development, with ADC and DHT support.
 - [EiskaltDC++](https://github.com/eiskaltdcpp/eiskaltdcpp) Windows/Linux/macOS DC++ client, with ADC and DHT support
 - [LinuxDC++](https://launchpad.net/linuxdcpp) Utilizing the latest DC++ core, LinuxDC++ offers similar functionality to the Windows client like segmented downloading, TTH based file integrity, etc. with a GTK+ user interface.
 - [Tankafett](http://tankafett.biz/?do=hublist) List of public DC++ hubs, previously known as hublist.org and TheHubList.com.
@@ -870,7 +870,7 @@ premium services
 
 ## Proxy Sites
 - [Unblocked](https://unblocked-pw.github.io/) :star2: Proxy site for accessing your favourite blocked sites
-- [ByPassed](https://bypassed.wtf/) ByPassed is an all-in-one solution to unblock censored websites including thepiratebay, kickas, eztv, yts, extratorrent & more.
+- [ByPassed](https://bypassed.wtf/) ByPassed is an all-in-one solution to unblock censored websites including thepiratebay, kickass, eztv, yts, extratorrent & more.
 
 ## Miscellaneous
 - [autosub](https://github.com/agermanidis/autosub) Command-line utility for auto-generating subtitles for any video file
