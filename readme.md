@@ -806,6 +806,8 @@ premium services
 - [Flud](https://play.google.com/store/apps/details?id=com.delphicoder.flud&hl=en) Flud is a simple and beautiful BitTorrent client for Android.
 - [BiglyBT](https://f-droid.org/packages/com.biglybt.android.client/) Free, open source torrent client for Android phone, tablet, Chromebook, & Android TV
 - [LibreTorrent](https://f-droid.org/en/packages/org.proninyaroslav.libretorrent/) LibreTorrent is a Free as in Freedom torrent client for Android 4+, based on libtorrent.
+- [Vuze](https://play.google.com/store/apps/details?id=com.vuze.torrent.downloader) Lightweight yet powerful, this bittorrent app brings complete torrent management directly to your smartphone or tablet. It’s simple, fast and easy to use for torrent downloads. 
+- [aTorrent](https://play.google.com/store/apps/details?id=com.mobilityflow.torrent)  Native P2P BitTorrent Software for Android devices. Download files with ease right to your phone or tablet! Magnet links supported! Speed is not limited!
 
 ### APKs
 - [Mobilism Forum](https://forum.mobilism.org/index.php) :star2: Large forum of mobile apps and books
