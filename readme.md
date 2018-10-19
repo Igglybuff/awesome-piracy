@@ -262,7 +262,7 @@ You will notice some items in this list have a :star2: next to them. Items with 
 - [Open sign-ups thread](https://www.reddit.com/r/trackers/comments/7ildxx/open_signups_thread/) /r/trackers thread for posting trackers that are currently open for registration.
 - [Opentrackers.org](https://opentrackers.org/) Private Torrent Trackers & File Sharing
 - [getting_into_private_trackers](https://www.reddit.com/r/trackers/wiki/getting_into_private_trackers) :star2: Helpful resource from the /r/trackers wiki
-- [BTRACS](http://btracs.com/) an automatic information site which periodicaly checks closed community BitTorrent trackers for being open for signup.
+- [BTRACS](http://btracs.com/) an automatic information site which periodically checks closed community BitTorrent trackers for being open for signup.
 
 ### Torrent Clients
 - [rTorrent](https://rakshasa.github.io/rtorrent/) :star2: rTorrent is a text-based ncurses BitTorrent client written in C++
