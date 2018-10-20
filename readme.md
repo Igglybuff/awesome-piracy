@@ -13,6 +13,7 @@
 	- [Password Vaults](#password-vaults)
 	- [Antivirus](#antivirus)
 	- [Windows 10 Privacy](#windows-10-privacy)
+	- [Network Privacy](#network-privacy)
 - [Torrenting](#torrenting)
 	- [Trackers](#trackers)
 		- [Private Trackers](#private-trackers)
@@ -164,6 +165,9 @@ You will notice some items in this list have a :star2: next to them. Items with 
 - [Windows Privacy Tweaker](https://www.phrozen.io/freeware/windows-privacy-tweaker/) Freeware app from phrozen.io
 - [Winaero](https://winaero.com/blog/about-us/) Free, small and useful software for Windows.
 - [WPD](https://wpd.app/) The real privacy dashboard for Windows
+
+### Network Privacy
+- [Pi-hole](https://pi-hole.net/) Pi-hole is a Linux network-level advertisement and internet tracker blocking application which acts as a DNS sinkhole
 
 ## Torrenting
 
