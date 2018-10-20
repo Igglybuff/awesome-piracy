@@ -430,6 +430,7 @@ premium services
 - [curl](https://en.wikipedia.org/wiki/CURL) `curl` is a command-line tool for downloading data using a variety of protocols. Easily installable on most operating systems.
 
 ### Streaming Sites
+- [Daxiv Video](https://daxiv.com/) Movies & TV shows online or stream right to your smart TV, game console, PC, Mac, mobile, tablet and more. Primarily Chinese content.
 - [StreamCR](https://scr.cr/)
 - [cine.to](https://cine.to/)
 - [Solarmovie](https://solarmoviez.ru/solar.html)
@@ -643,6 +644,7 @@ premium services
 - [Toonova](http://www.toonova.net/) Another site for streaming cartoons
 
 ## Music
+- [Muxiv Music](https://muxiv.com/) Stream 45 million songs on all your devices, online or offline. Primarily Chinese content.
 - [Soulseek](http://www.soulseekqt.net/news/) Soulseek is an ad-free, spyware free, just plain free file sharing network for Windows, Mac and Linux.
 - [Gazelle](https://whatcd.github.io/Gazelle/) web framework geared towards private torrent trackers with a focus on music
 - [irs](https://github.com/kepoorhampond/irs) A music downloader that understands your metadata needs.
