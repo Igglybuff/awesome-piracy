@@ -150,6 +150,7 @@ You will notice some items in this list have a :star2: next to them. Items with 
 - [KeePass](https://keepass.info/) free, open source, light-weight and easy-to-use password manager.
 - [LastPass](https://www.lastpass.com/) LastPass remembers all your passwords, so you don't have to.
 - [Pass](https://www.passwordstore.org/) Simple GPG/Git password manager. Follows the Unix philosophy.
+- [Passbolt](https://www.passbolt.com/) Free, open source, self-hosted, extensible, OpenPGP based.
 
 ### Antivirus
 - [MalwareBytes](https://www.malwarebytes.com/) :star2: "crushes malware so you are protected and your machine keeps running smoothly."
@@ -761,6 +762,7 @@ premium services
 - [FastTrack](https://en.wikipedia.org/wiki/FastTrack) Protocol used by the Kazaa, Grokster, iMesh, and Morpheus file sharing programs
 - [Napster](https://en.wikipedia.org/wiki/Napster) Peer-to-peer file sharing Internet service that emphasized sharing digital audio files, typically audio songs, encoded in MP3 format.
 - [Peer-to-peer file sharing](https://en.wikipedia.org/wiki/Peer-to-peer_file_sharing) Detailed Wikipedia page about file sharing
+- [IPFS - Distributed Web](https://en.wikipedia.org/wiki/InterPlanetary_File_System) Peer-to-peer distributed file system that seeks to connect all computing devices with the same system of files
 
 ## Ripping, Transcoding, Converting
 - [Handbrake](https://handbrake.fr/) :star2: HandBrake is a tool for converting video from nearly any format to a selection of modern, widely supported codecs.
