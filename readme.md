@@ -498,6 +498,7 @@ premium services
 - [Stremio](https://www.stremio.com/) Multi-platform video content aggregator with a comprehensive add-on system for extending functionality
 - [Gerbera](https://github.com/gerbera/gerbera) UPnP Media Server for 2018 (Based on MediaTomb)
 - [Serviio](http://serviio.org/) Serviio is a free media server. It allows you to stream your media files (music, video or images) to renderer devices (e.g. a TV set, Blu-ray player, games console or mobile phone) on your connected home network.
+- [OSMC](https://osmc.tv/) OSMC (short for Open Source Media Center) is a Linux distribution based on Debian that brings Kodi to a variety of devices.
 
 ## Plex
 
