@@ -203,7 +203,7 @@ You will notice some items in this list have a :star2: next to them. Items with 
 - [/PTG tracker manifesto](https://pastebin.com/thLgSkNE) List of private trackers
 - [Tracker Spreadsheet](https://docs.google.com/spreadsheets/d/1zYZ2107xOZwQ37AjLTc5A4dUJl0ilg8oMrZyA0BGvc0/edit#gid=1357476050) Comprehensive spreadsheet of private trackers (somewhat out of date)
 - [0QoLttS.jpg](https://i.imgur.com/0QoLttS.jpg) Screenshot of a table from somewhere of private trackers and their sign-up requirements
-- [IPTorrents](https://iptorrents.com/) Private tracker with all kind of stuff, from movies, through books to 0-day packages.
+- [IPTorrents](https://iptorrents.com/) Private tracker with movies, books, and more.
 
 #### Semi-Private Trackers
 - [ruTracker](https://rutracker.org/forum/index.php) :star2: RuTracker is a huge Russian torrent site with a thriving file-sharing community.
