@@ -150,6 +150,7 @@ You will notice some items in this list have a :star2: next to them. Items with 
 - [KeePass](https://keepass.info/) free, open source, light-weight and easy-to-use password manager.
 - [LastPass](https://www.lastpass.com/) LastPass remembers all your passwords, so you don't have to.
 - [Pass](https://www.passwordstore.org/) Simple GPG/Git password manager. Follows the Unix philosophy.
+- [Dashlane](https://www.dashlane.com/) An intuitive password manager with over with over 8 million users worldwide.
 
 ### Antivirus
 - [MalwareBytes](https://www.malwarebytes.com/) :star2: "crushes malware so you are protected and your machine keeps running smoothly."
