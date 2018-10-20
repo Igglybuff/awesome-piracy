@@ -828,6 +828,7 @@ premium services
 - [BlackMod](https://blackmod.net/) Lots of cracked Android games
 - [Android Zone](https://android-zone.ws/) Another place to find premium links for APKs
 - [RevDl](https://www.revdl.com/) Direct download site for Android apps and games.
+- [F-Droid](https://f-droid.org) F-Droid is an installable catalogue of FOSS (Free and Open Source Software) applications for the Android platform.
 
 ## Discord Servers
 - [DoujinStyle](https://discord.gg/z2QDFdA) Discord server with Doujin related materials. Things such as Japanese doujin music and games
