@@ -429,6 +429,7 @@ premium services
 - [StreamCR](https://scr.cr/)
 - [cine.to](https://cine.to/)
 - [Solarmovie](https://solarmoviez.ru/solar.html)
+- [Movie123](http://movie123.club/)
 - [FlixGo](https://flixgo.net/)
 - [LookMovie](https://lookmovie.ag/)
 - [FilmXY](https://www.filmxy.one/)
