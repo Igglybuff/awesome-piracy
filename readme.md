@@ -719,7 +719,7 @@ premium services
 - [Madokami L-Q](https://archive.org/download/Madokami.Manga.L-Q) Download manga titles named L to Q.
 - [Madokami R-Z](https://archive.org/download/Madokami.Manga.R-Z) Download manga titles named R to Z.
 - [Madokami novels, raws and artbooks](https://archive.org/download/Madokami.NotManga) Download novels, manga raws and artbooks.
-- [MangaZone](http://mangazoneapp.com/) A Manga Reader APP. All sources in one app, to have a better mobile Manga reading experience.
+- [MangaZone](http://mangazoneapp.com/) A manga reader app.
 
 ## Documentaries
 - [/r/Documentaries](https://www.reddit.com/r/documentaries) Popular documentaries subreddit
