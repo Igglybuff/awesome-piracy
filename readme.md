@@ -425,6 +425,8 @@ premium services
 - [rdcli](https://github.com/ston3o/rdcli) The simple way to download and unrestrict DDL files, torrents and magnets using Real-Debrid
 - [get_iplayer](https://github.com/get-iplayer/get_iplayer) A utility for downloading TV and radio programmes from BBC iPlayer
 - [MEGAsync](https://mega.nz/sync) Easy automated synchronisation between your computer and your MEGA account. Can stream Mega videos directly.
+- [wget](https://www.gnu.org/software/wget/) `wget` is a free and open source tool for downloading files using HTTP, HTTPS, FTP and FTPS. It can be easily called from scripts, cronjobs, terminals without X-Windows support, etc.
+- [curl](https://en.wikipedia.org/wiki/CURL) `curl` is a command-line tool for downloading data using a variety of protocols. Easily installable on most operating systems.
 
 ### Streaming Sites
 - [StreamCR](https://scr.cr/)
