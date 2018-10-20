@@ -390,7 +390,7 @@ You will notice some items in this list have a :star2: next to them. Items with 
 - [Real-Debrid](https://real-debrid.com/) :star2: Real-Debrid is an unrestricted downloader that allows you to quickly download files hosted on the Internet or instantly stream them into an innovative web player
 - [Premiumize](https://www.premiumize.me/) Combine direct and secure access to
 premium services
-- [Offcloud](https://offcloud.com/?=85a8b709) A simple, elegant and intuitive SaaS to retrieve any data from the cloud.
+- [OffCloud](https://offcloud.com/?=85a8b709) A simple, elegant and intuitive SaaS to retrieve any data from the cloud.
 - [Reevown](https://reevown.com/) A free download service with which you can perform premium downloads.
 
 ### Premium Link Hosts
@@ -674,6 +674,7 @@ premium services
 - [CrackingPatching.com](https://crackingpatching.com/) Cracked software
 - [Appked](https://www.macbed.com/) Mac application sharing site
 - [/r/piracy/wiki/tools](https://www.reddit.com/r/piracy/wiki/tools) Windows/Office activation tools, and images/installers for Windows, Office, and Adobe
+- [Team-OS HKRG](https://www.teamos-hkrg.com/index.php) Windows software and various activation tools. 
 
 ## Ebooks
 - [LibGen](http://libgen.io/) search engine for articles and books on various topics, which allows free access to content that is otherwise paywalled or not digitized elsewhere
@@ -820,6 +821,7 @@ premium services
 - [ACMARKET](https://acmarket.net/) download cracked & modified android apps & games free
 - [BlackMod](https://blackmod.net/) Lots of cracked Android games
 - [Android Zone](https://android-zone.ws/) Another place to find premium links for APKs
+- [RevDl](https://www.revdl.com/) Direct download site for Android apps and games.
 
 ## Discord Servers
 - [DoujinStyle](https://discord.gg/z2QDFdA) Discord server with Doujin related materials. Things such as Japanese doujin music and games
