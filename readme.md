@@ -475,8 +475,8 @@ premium services
 - [curl](https://en.wikipedia.org/wiki/CURL) `curl` is a command-line tool for downloading data using a variety of protocols. Easily installable on most operating systems.
 
 ### Streaming Sites
-- [Daxiv Video](https://daxiv.com/) Movies & TV shows online or stream right to your smart TV, game console, PC, Mac, mobile, tablet and more. Primarily Chinese content.
-- [StreamCR](https://scr.cr/) :star2:
+- [How To Stream Movies, TV, Anime & Sports Online](https://www.reddit.com/r/FREEMEDIAFUCKYEAH/comments/9q11kg/how_to_stream_movies_tv_anime_sports_online/) :star2: Huge list by /u/nbatman
+- [StreamCR](https://scr.cr/)
 - [cine.to](https://cine.to/)
 - [Solarmovie](https://solarmoviez.ru/solar.html)
 - [Movie123](http://movie123.club/)
@@ -503,6 +503,7 @@ premium services
 - [HDOnline](https://www1.hdonline.eu)
 - [YMovies](https://ymovies.tv/) Streaming site full of YIFY and other releases
 - [WatchFree](https://watchfree.at/)
+- [Daxiv Video](https://daxiv.com/) Movies & TV shows online or stream right to your smart TV, game console, PC, Mac, mobile, tablet and more. Primarily Chinese content.
 
 ### Sports Streaming
 - [LiveTV](https://livesx.eu/)
@@ -974,8 +975,7 @@ for any IP address.
 
 ## Unsorted and To Do List
 
-- discord servers
-- non-anime cartoons
+- more discord servers
 - i2p https://geti2p.net/en/
 - tor
 - qubesOS
