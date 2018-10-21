@@ -65,7 +65,7 @@
 - [Software](#software)
 - [Ebooks](#ebooks)
 - [Magazines](#magazines)
-- [Academic Papers](#academic-papers)
+- [Academic Papers and Material](#academic-papers-and-material)
 - [Textbooks](#textbooks)
 - [Courses and Tutorials](#courses-and-tutorials)
 - [Audiobooks](#audiobooks)
@@ -732,10 +732,11 @@ premium services
 - [PDF Giant](http://pdf-giant.com/) Various categories of downloadable PDFs
 - [MagazineLib](https://magazinelib.com/) Free PDF and interactive e-magazines
 
-## Academic Papers
+## Academic Papers and Material
 - [LibGen](http://libgen.io/) search engine for articles and books on various topics, which allows free access to content that is otherwise paywalled or not digitized elsewhere
 - [Sci-Hub](https://sci-hub.tw/) the first pirate website in the world to provide mass and public access to tens of millions of research papers
 - [BookSC](http://booksc.org/) The world's largest scientific articles store. 50,000,000+ articles for free.
+- [Academic Torrents](http://academictorrents.com/) A Community-Maintained Distributed Repository for researchers, by researchers. Making 32.66TB of research data available!
 
 ## Textbooks
 - [All IT eBooks](http://www.allitebooks.com/) A big database of free, direct links for IT and programming ebooks
