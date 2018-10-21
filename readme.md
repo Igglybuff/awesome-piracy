@@ -519,6 +519,7 @@ premium services
 - [WatchFree](https://watchfree.at/)
 - [Daxiv Video](https://daxiv.com/) Movies & TV shows online or stream right to your smart TV, game console, PC, Mac, mobile, tablet and more. Primarily Chinese content.
 - [VodLocker](https://vodlocker.tv/)
+- [movies2k](http://www.movie2k.st)
 
 ### Sports Streaming
 - [LiveTV](https://livesx.eu/)
@@ -921,7 +922,7 @@ premium services
 ### IRC Networks
 - [irc.p2p-network.net](https://p2p-network.net/) P2P file sharing network
 - [Orpheus](https://orpheus.network/) Formerly known as Apollo
-- _Moviegods_  `irc://irc.abjects.net/MOVIEGODS` XDCC file sharing network, join #mg-chat to continue downloading
+- _Moviegods_  `irc://irc.abjects.net/MOVIEGODS` :star2: XDCC file sharing network, join #mg-chat to continue downloading
 - _The Source_ `irc://irc.scenep2p.net/THE.SOURCE` Another XDCC source
 - _Beast-XDCC_ `irc://irc.abjects.net/BEAST-XDCC` One more XDCC source
 - _irc.undernet.org/bookz_ `irc://irc.undernet.org/bookz` For downloading ebooks (use `@search <book name>` for a list of available ebooks)
@@ -934,7 +935,7 @@ premium services
 ## DC++
 - [Direct Connect (protocol)](https://en.wikipedia.org/wiki/Direct_Connect_(protocol)) Wikipedia page describing Direct Connect.
 - [DC++](https://en.wikipedia.org/wiki/DC%2B%2B) Wikipedia page describing DC++
-- [AirDC++](https://www.airdcpp.net/) Windows GUI and Linux Web DC++ client in active development, with ADC, IPv6 and DHT support.
+- [AirDC++](https://www.airdcpp.net/) :star2: Windows GUI and Linux Web DC++ client in active development, with ADC, IPv6 and DHT support.
 - [FlylinkDC++](http://www.flylinkdc.com/) Windows DC++ and BitTorrent client in active development, with ADC and DHT support.
 - [EiskaltDC++](https://github.com/eiskaltdcpp/eiskaltdcpp) Windows/Linux/macOS DC++ client, with ADC and DHT support
 - [LinuxDC++](https://launchpad.net/linuxdcpp) Utilizing the latest DC++ core, LinuxDC++ offers similar functionality to the Windows client like segmented downloading, TTH based file integrity, etc. with a GTK+ user interface.
