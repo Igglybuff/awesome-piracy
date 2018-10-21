@@ -3,7 +3,6 @@
 > A curated list of arrrrrrrrr!
 
 ## Contents
-
 - [Preamble](#preamble)
 - [Background Information](#background-information)
 - [VPNs](#vpns)
@@ -104,7 +103,6 @@
 - [Unsorted and To Do List](#unsorted-and-to-do-list)
 
 ## Preamble
-
 Over the past couple of years I've accumulated bookmarks, saved reddit posts, and GitHub stars all related to piracy in some form or another. This list is my attempt to add structure to those resources and share them. Everything you need to get started on your pirate voyage can be found below.
 
 I am aware that a number of websites featured in this list rely on operating under obscurity, and that this list could potentially contribute to their demise through excess exposure. I'm sorry about that - I just like making lists.
@@ -114,19 +112,15 @@ Please ensure you use an adblocker like [uBlock Origin](https://github.com/gorhi
 For discussion and feedback, please head to [the reddit thread on /r/Piracy](https://old.reddit.com/r/Piracy/comments/9nontk/awesome_piracy_a_curated_list_of_awesome_warez/). If you come across dead links, please report them by [creating an issue](https://github.com/Igglybuff/awesome-piracy/issues/new).
 
 ## Mirrors
-
 This list is periodically mirrored to [PasteBin](https://github.com/Igglybuff/awesome-piracy/blob/master/pastebin.url).
 
 ## How to use this list
-
 Some items in this list could easily fit in more than one category, so to make sure you find what you're looking for please use `Ctrl + F` (or `Cmd + F` on macOS).
 
 ## Emoji
-
 You will notice some items in this list have a :star2: next to them. Items with a :star2: represent the author's top pick for that category. This is an entirely opinionated rating from someone who doesn't know everything about every item on the list, so be sure to check out alternative options before assuming something is "the best". That said, I do explore and test every resource I add to this list wherever possible.
 
 ## Background Information
-
 - [Wikipedia "File sharing" category](https://en.wikipedia.org/wiki/Category:File_sharing) Wikipedia's full list of file sharing related articles.
 
 ## VPNs
@@ -188,7 +182,6 @@ You will notice some items in this list have a :star2: next to them. Items with 
 - [How to remove viruses and malware on your Windows PC](https://www.howtogeek.com/126911/what-to-do-if-you-get-a-virus-on-your-computer/) Helpful HowToGeek article on cleaning out the pipes
 
 ## Windows 10 Privacy
-
 - [O&O ShutUp10](https://www.oo-software.com/en/shutup10) O&O ShutUp10 means you have full control over which comfort functions under Windows 10 you wish to use, and you decide when the passing on of your data goes too far.
 - [Windows 10 Privacy Guide](https://github.com/adolfintel/Windows10-Privacy) :star2: In-depth guide on purging Windows 10 of Microsoft's attempts to track you
 - [Windows Privacy Tweaker](https://www.phrozen.io/freeware/windows-privacy-tweaker/) Freeware app from phrozen.io
@@ -211,7 +204,6 @@ You will notice some items in this list have a :star2: next to them. Items with 
 - [Njalla](https://njal.la/) a privacy-aware domain registration service
 
 ## Torrenting
-
 - [/r/torrents](https://www.reddit.com/r/torrents) Questions and discussion about all things torrent-related
 - [BitTorrent](https://en.wikipedia.org/wiki/BitTorrent) Wikipedia's article on the BitTorrent file sharing protocol
 - [Live Tracer](https://trace.corrupt-net.org/live.php) Pre-time tracer for scene releases
@@ -219,7 +211,6 @@ You will notice some items in this list have a :star2: next to them. Items with 
 - [Torrage](https://torrage.info/) Torrage is a free service for caching torrent files online.
 
 ### Trackers
-
 - [/r/trackers](https://www.reddit.com/r/trackers) :star2: A subreddit for discussing public & private trackers.
 - [A Simple Guide To A Better Ratio](https://www.reddit.com/r/trackers/comments/fthja/a_simple_guide_to_a_better_ratio/) A good tracker requires you to upload what you download. This guide explains many of the methods involved with keeping on top of this sometimes difficult task.
 - [Tracker Twitters](https://filenetworks.blogspot.com/2010/12/list-of-private-torrent-trackers.html) List Of Private Torrent Trackers & BitTorrent News Accounts To Follow On Twitter
@@ -316,7 +307,6 @@ You will notice some items in this list have a :star2: next to them. Items with 
 - [BTRACS](http://btracs.com/) an automatic information site which periodically checks closed community BitTorrent trackers for being open for signup.
 
 ### Torrent Clients
-
 - [qBitTorrent](https://www.qbittorrent.org/) Popular, lightweight, multi-platform torrent client
 - [qBitTorrent search function](https://www.techsupportalert.com/qbittorrent-help-torrent-search-engine) Allows you to search popular trackers directly from qBittorrent
 - [Transmission](https://transmissionbt.com/) Default torrent client in many distros.
@@ -368,7 +358,6 @@ You will notice some items in this list have a :star2: next to them. Items with 
 - [Gazelle](https://whatcd.github.io/Gazelle/) :star2: web framework geared towards private torrent trackers with a focus on music
 
 ## Usenet
-
 - [Usenet](https://en.wikipedia.org/wiki/Usenet) Usenet is a worldwide distributed discussion system available on computers.
 - [Usenet newsgroup](https://en.wikipedia.org/wiki/Usenet_newsgroup) A Usenet newsgroup is a repository usually within the Usenet system, for messages posted from many users in different locations using Internet.
 - [/r/Usenet](https://www.reddit.com/r/Usenet) :star2: a thriving community dedicated to helping users old and new understand and use usenet.
@@ -405,7 +394,6 @@ You will notice some items in this list have a :star2: next to them. Items with 
 - [NZBget](https://nzbget.net/) Efficient Usenet downloader written in C++
 
 ## Direct Downloads
-
 - [Leonflix](https://leonflix.net/) :star2: A multi-platform desktop app for finding movies and TV shows.
 - [maulvi.github.io](https://maulvi.github.io/) Google Drive direct download link generator
 - [RapidLeech](https://github.com/Th3-822/rapidleech) a free server transfer script for use on various popular upload/download sites such as uploaded.net, Rapidgator.net and more than 127 others.
@@ -571,7 +559,6 @@ premium services
 - [OSMC](https://osmc.tv/) OSMC (short for Open Source Media Center) is a Linux distribution based on Debian that brings Kodi to a variety of devices.
 
 ## Plex
-
 - [linuxserver/docker-plex](https://github.com/linuxserver/docker-plex) LinuxServer.io Plex Media Server docker image
 - [plexinc/pms-docker](https://github.com/plexinc/pms-docker) official Plex docker image
 - [timhaak/plex](https://github.com/timhaak/docker-plex) alternative Plex docker image
@@ -741,7 +728,6 @@ premium services
 - [MusicPleer](https://musicpleer.la/) Another music streaming site with a decent search engine
 
 ## Software
-
 - [/r/piracy/wiki/tools](https://www.reddit.com/r/piracy/wiki/tools) Windows/Office activation tools, and images/installers for Windows, Office, and Adobe
 - [nsane.down](https://www.nsanedown.com/) Popular file sharing forum focused on software
 - [CrackingPatching.com](https://crackingpatching.com/) Cracked software
@@ -894,7 +880,6 @@ premium services
 - [/r/datacurator](https://www.reddit.com/r/datacurator/) Subreddit for discussion about the curation of digital data. Be it sorting, file formats, file encoding, best practices, discussion of your setup, tips and tricks, asking for help etc.
 
 ## Mobile Apps
-
 - [nzb360](http://nzb360.com/) :star2: nzb360 is a full-featured NZB manager that focuses on providing the best experience possible for controlling all of your usenet needs.
 - [Ombi](https://play.google.com/store/apps/details?id=com.tidusjar.Ombi) Companion app for Ombi to request Plex content
 - [Tautulli Remote](https://play.google.com/store/apps/details?id=com.williamcomartin.plexpyremote) Mobile version of Tautilli for monitoring Plex on the go
@@ -907,7 +892,6 @@ premium services
 - [AnYme](https://github.com/zunjae/anYme) Unofficial Anime App for MyAnimeList
 
 ### Streaming Apps
-
 - [TerrariumTV](https://www.reddit.com/r/TTVreborn/comments/9n7zsf/terrariumtv_v6_mod_balatan/) :star2: V6 of this newly-fixed app for streaming TV and film. Features Trakt.tv and Real-Debrid integration
 - [Kokotime](https://www.kokotime.tv/) Kokotime is an addon-based, simple, free and elegantly designed app that will let you watch all your favorite media content in a unique and elegant user friendly design
 - [Mobdro](https://forum.mobilism.org/viewtopic.php?f=429&t=2720792&hilit=mobdro) Mobdro constantly searches the web for the best free video streams and brings them to your device.
@@ -915,7 +899,6 @@ premium services
 - [Fildo](https://fildo.net/android/en/) Music streaming app
 
 ### Torrent Apps
-
 - [Transdrone](https://play.google.com/store/apps/details?id=org.transdroid.lite) Transdrone allows you to manage the torrents you run on your home server or seedbox.
 - [Flud](https://play.google.com/store/apps/details?id=com.delphicoder.flud&hl=en) Flud is a simple and beautiful BitTorrent client for Android.
 - [BiglyBT](https://f-droid.org/packages/com.biglybt.android.client/) Free, open source torrent client for Android phone, tablet, Chromebook, & Android TV
@@ -949,7 +932,6 @@ premium services
 - [UlstreaMix](https://ssl.ustreamix.com/) Live TV streaming site, predominantly sports
 
 ## IRC
-
 - [XDCC Tutorial](http://theloadguru.com/xdcc-irc-beginners-guide/) XDCC Downloading For Beginners: Do It Like A Pro
 - [autodl-irssi](https://autodl-community.github.io/autodl-irssi/) autodl-irssi is a plugin for irssi that monitors IRC announce channels for torrent trackers and downloads torrent files based on user-defined filters.
 - [XDCC](https://en.wikipedia.org/wiki/XDCC) XDCC (Xabi DCC or eXtended DCC) is a computer file sharing method which uses the Internet Relay Chat (IRC) network as a host service.
@@ -1049,11 +1031,9 @@ for any IP address.
 - [DBREE](https://dbr.ee/) DBREE is a simplistic and easy way to upload and share any type of file.
 
 ## Contribute
-
 Contributions welcome! Read the [contribution guidelines](contributing.md) first.
 
 ## License
-
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](http://creativecommons.org/publicdomain/zero/1.0)
 
 To the extent possible under law, Igglybuff has waived all copyright and
