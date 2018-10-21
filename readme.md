@@ -6,14 +6,18 @@
 
 - [Preamble](#preamble)
 - [Background Information](#background-information)
-- [Protecting Yourself](#protecting-yourself)
-	- [VPNs](#vpns)
-	- [Browser Extensions](#browser-extensions)
-	- [Userscripts](#userscripts)
-	- [Password Vaults](#password-vaults)
-	- [Antivirus](#antivirus)
-	- [Windows 10 Privacy](#windows-10-privacy)
-	- [Network Privacy](#network-privacy)
+- [VPNs](#vpns)
+	- [VPN Guides and Tutorials](#vpn-guides-and-tutorials)
+	- [VPN Subscription Services](#vpn-subscription-services)
+	- [Self-hosted VPNs](#self-hosted-vpns)
+- [Browser Extensions](#browser-extensions)
+- [Userscripts](#userscripts)
+- [Password Vaults](#password-vaults)
+- [Antivirus](#antivirus)
+- [Windows 10 Privacy](#windows-10-privacy)
+- [Operating Systems](#operating-systems)
+- [Decentralised Networks](#decentralised-networks)
+- [Domain Name Registrars](#domain-name-registrars)
 - [Torrenting](#torrenting)
 	- [Trackers](#trackers)
 		- [Private Trackers](#private-trackers)
@@ -22,8 +26,11 @@
 	- [Tracker Aggregators](#tracker-aggregators)
 	- [Tracker Invites](#tracker-invites)
 	- [Torrent Clients](#torrent-clients)
+		- [rTorrent](#rtorrent)
 	- [Seedboxes](#seedboxes)
-	- [Miscellaneous Torrent Stuff](#miscellaneous-torrent-stuff)
+		- [Seedbox Hosting Providers](#seedbox-hosting-providers)
+		- [Seedbox Setup Tools and Guides](#seedbox-setup-tools-and-guides)
+	- [Tracker Frameworks](#tracker-frameworks)
 - [Usenet](#usenet)
 	- [Usenet Providers](#usenet-providers)
 	- [Usenet Indexers](#usenet-indexers)
@@ -40,7 +47,6 @@
 	- [Downloaders](#downloaders)
 	- [Sports Streaming](#sports-streaming)
 	- [Streaming Sites](#streaming-sites)
-	- [Miscellaneous DDL Stuff](#miscellaneous-ddl-stuff)
 - [Media Centre Applications](#media-centre-applications)
 - [Plex](#plex)
 	- [Plex Plugins](#plex-plugins)
@@ -50,19 +56,21 @@
 	- [Plex Transcoding](#plex-transcoding)
 	- [Plex Logging and Metrics](#plex-logging-and-metrics)
 	- [Plex Clients](#plex-clients)
-	- [Miscellaneous Plex Stuff](#miscellaneous-plex-stuff)
 - [Kodi](#kodi)
 - [Gaming](#gaming)
 	- [Repacks](#repacks)
 	- [ROMs](#roms)
 	- [Console Games](#console-games)
-	- [Homebrew](#homebrew)
+	- [Homebrew and Custom Firmware](#homebrew-and-custom-firmware)
 - [Anime](#anime)
 - [Cartoons](#cartoons)
 - [Music](#music)
 - [Software](#software)
 - [Ebooks](#ebooks)
-- [Education](#education)
+- [Magazines](#magazines)
+- [Academic Papers and Material](#academic-papers-and-material)
+- [Textbooks](#textbooks)
+- [Courses and Tutorials](#courses-and-tutorials)
 - [Audiobooks](#audiobooks)
 - [Comicbooks](#comicbooks)
 - [Manga](#manga)
@@ -78,6 +86,7 @@
 - [Discord Servers](#discord-servers)
 - [IPTV and DVR](#iptv-and-dvr)
 - [IRC](#irc)
+	- [IRC Clients](#irc-clients)
 	- [IRC Networks](#irc-networks)
 	- [IRC Search Engines](#irc-search-engines)
 - [DC++](#dc)
@@ -115,21 +124,31 @@ You will notice some items in this list have a :star2: next to them. Items with 
 
 - [Wikipedia "File sharing" category](https://en.wikipedia.org/wiki/Category:File_sharing) Wikipedia's full list of file sharing related articles.
 
-## Protecting Yourself
+## VPNs
 
-### VPNs
-- [Private Internet Access](https://www.privateinternetaccess.com/) :star2: Hugely popular subscription-based VPN provider with a proven track record for not keeping logs
-- [ProtonVPN](https://protonvpn.com/) High-speed Swiss VPN that safeguards your privacy.
-- [NordVPN](https://nordvpn.com/) With NordVPN, encrypt your online activity to protect your private data from hackers or snoopy advertisers.
+### VPN Guides and Tutorials
 - [That One Privacy Site](https://thatoneprivacysite.net/vpn-section/) VPN section of That One Privacy Site with VPN comparisons
 - [Choosing the best VPN (for you)](https://www.reddit.com/r/VPN/comments/4iho8e/that_one_privacy_guys_guide_to_choosing_the_best/?st=iu9u47u7&sh=459a76f2) That One Privacy Guy's - Guide to Choosing the Best VPN (for you)
 - [/r/VPN wiki](https://www.reddit.com/r/VPN/wiki/index) Helpful FAQ-type resource composed by the folks at /r/VPN
 - [Choosing the VPN that's right for you](https://ssd.eff.org/en/module/choosing-vpn-thats-right-you) Helpful guide from the EFF
 - [Which VPN services keep you anonymous in 2018?](https://torrentfreak.com/vpn-services-keep-anonymous-2018/) TorrentFreak article by Ernesto
 - [privacytools.io](https://www.privacytools.io/) "Encryption against global mass surveillance". Plenty of information to help protect your privacy online.
-- [WireGuard VPN](https://www.wireguard.com/) WireGuard is an extremely simple yet fast and modern VPN that utilizes state-of-the-art cryptography. It aims to be faster, simpler, leaner, and more useful than IPSec.
+- [VPN over SSH](https://wiki.archlinux.org/index.php/VPN_over_SSH) ArchWiki page describing how to achieve a poor man's VPN with SSH tunneling
 
-### Browser Extensions
+### VPN Subscription Services
+- [Private Internet Access](https://www.privateinternetaccess.com/) :star2: Hugely popular subscription-based VPN provider with a proven track record for not keeping logs
+- [ProtonVPN](https://protonvpn.com/) High-speed Swiss VPN that safeguards your privacy.
+- [NordVPN](https://nordvpn.com/) With NordVPN, encrypt your online activity to protect your private data from hackers or snoopy advertisers.
+
+### Self-hosted VPNs
+- [n2n](https://github.com/ntop/n2n) Peer-to-peer VPN
+- [PeerVPN](https://peervpn.net/) PeerVPN is a software that builds virtual ethernet networks between multiple computers.
+- [OpenVPN](https://openvpn.net/) OpenVPN provides flexible VPN solutions to secure your data communications, whether it's for Internet privacy, remote access for employees, securing IoT, or for networking Cloud data centers.
+- [Pritunl](https://pritunl.com/) Enterprise Distributed OpenVPN and IPsec Server
+- [WireGuard VPN](https://www.wireguard.com/) WireGuard is an extremely simple yet fast and modern VPN that utilizes state-of-the-art cryptography. It aims to be faster, simpler, leaner, and more useful than IPSec.
+- [sshuttle](https://github.com/sshuttle/sshuttle) Transparent proxy server that works as a poor man's VPN.
+
+## Browser Extensions
 - [Privacy Badger](https://www.eff.org/privacybadger) Privacy Badger blocks spying ads and invisible trackers.
 - [HTTPS Everywhere](https://www.eff.org/https-everywhere) HTTPS Everywhere is a Firefox, Chrome, and Opera extension that encrypts your communications with many major websites, making your browsing more secure.
 - [uBlock Origin](https://github.com/gorhill/uBlock) :star2: An efficient blocker for Chromium and Firefox. Fast and lean.
@@ -139,47 +158,60 @@ You will notice some items in this list have a :star2: next to them. Items with 
 - [WebRTC Network Limiter](https://chrome.google.com/webstore/detail/webrtc-network-limiter/npeicpdbkakmehahjeeohfdhnlpdklia?hl=en) Configures how WebRTC's network traffic is routed by changing Chrome's privacy settings.
 - [ScriptSafe](https://chrome.google.com/webstore/detail/scriptsafe/oiigbmnaadbkfbmpbfijlflahbdbdgdf?hl=en) A browser extension that gives users control of the web and more secure browsing while emphasizing simplicity and intuitiveness.
 - [NoScript](https://addons.mozilla.org/en-US/firefox/addon/noscript/) Allow active content to run only from sites you trust, and protect yourself against XSS and clickjacking attacks. Firefox only.
+- [Bypass Paywalls](https://addons.mozilla.org/en-US/firefox/addon/bypasspaywalls/) Firefox add-on which allows you to bypass paywalls of many news sites
+- [Outline](https://chrome.google.com/webstore/detail/outline-read-without-clut/daoolpmoieinofbnddaofhkhmbagfmnj) Designed to remove ads, comments, and other junk from news articles but conveniently also bypasses paywalls
 
-### Userscripts
+## Userscripts
 - [Anti-Adblock Killer](https://github.com/reek/anti-adblock-killer) Anti-Adblock Killer helps you keep your Ad-Blocker active, when you visit a website and it asks you to disable.
 - [IMDb Scout](https://greasyfork.org/en/scripts/3967-imdb-scout) Add links from IMDb pages to torrent sites -- easy downloading from IMDb
 - [AdsBypasser](https://adsbypasser.github.io/) This user script helps you to skip countdown ads or continue pages and prevent ad pop-up windows.
 
-### Password Vaults
+## Password Vaults
 - [BitWarden](https://bitwarden.com/) :star2: Open source password management solution, can be self-hosted
 - [1Password](https://1password.com/) Popular cloud-hosted password manager
 - [KeePass](https://keepass.info/) free, open source, light-weight and easy-to-use password manager.
 - [LastPass](https://www.lastpass.com/) LastPass remembers all your passwords, so you don't have to.
 - [Pass](https://www.passwordstore.org/) Simple GPG/Git password manager. Follows the Unix philosophy.
+- [Passbolt](https://www.passbolt.com/) Free, open source, self-hosted, extensible, OpenPGP based.
+- [LessPass](https://lesspass.com/) stateless open source password manager
 
-### Antivirus
+## Antivirus
 - [MalwareBytes](https://www.malwarebytes.com/) :star2: "crushes malware so you are protected and your machine keeps running smoothly."
 - [HitmanPro](https://www.hitmanpro.com) Antivirus product from Sophos
 - [VirusTotal](https://www.virustotal.com/) Web service for scanning files and URLs for viruses
 - [How to remove viruses and malware on your Windows PC](https://www.howtogeek.com/126911/what-to-do-if-you-get-a-virus-on-your-computer/) Helpful HowToGeek article on cleaning out the pipes
 
-### Windows 10 Privacy
+## Windows 10 Privacy
 
 - [O&O ShutUp10](https://www.oo-software.com/en/shutup10) O&O ShutUp10 means you have full control over which comfort functions under Windows 10 you wish to use, and you decide when the passing on of your data goes too far.
-- [Windows 10 Privacy Guide](https://github.com/adolfintel/Windows10-Privacy) In-depth guide on purging Windows 10 of Microsoft's attempts to track you
+- [Windows 10 Privacy Guide](https://github.com/adolfintel/Windows10-Privacy) :star2: In-depth guide on purging Windows 10 of Microsoft's attempts to track you
 - [Windows Privacy Tweaker](https://www.phrozen.io/freeware/windows-privacy-tweaker/) Freeware app from phrozen.io
 - [Winaero](https://winaero.com/blog/about-us/) Free, small and useful software for Windows.
 - [WPD](https://wpd.app/) The real privacy dashboard for Windows
 
-### Network Privacy
-- [Pi-hole](https://pi-hole.net/) Pi-hole is a Linux network-level advertisement and internet tracker blocking application which acts as a DNS sinkhole
+## Decentralised Networks
+- [Tor](https://www.torproject.org/) :star2: Tor is free software and an open network that helps you defend against traffic analysis.
+- [I2P](https://geti2p.net/en/) I2P is an anonymous overlay network - a network within a network. It is intended to protect communication from dragnet surveillance and monitoring by third parties such as ISPs.
+
+## Operating Systems
+- [Qubes OS](https://www.qubes-os.org/) Qubes OS is a security-oriented operating system
+- [Tails](https://tails.boum.org/) Tails is a live operating system that you can start on almost any computer from a USB stick or a DVD.
+
+## Domain Name Registrars
+- [Njalla](https://njal.la/) a privacy-aware domain registration service
 
 ## Torrenting
 
 - [/r/torrents](https://www.reddit.com/r/torrents) Questions and discussion about all things torrent-related
 - [BitTorrent](https://en.wikipedia.org/wiki/BitTorrent) Wikipedia's article on the BitTorrent file sharing protocol
+- [Live Tracer](https://trace.corrupt-net.org/live.php) Pre-time tracer for scene releases
+- [magent2torrent.me](http://magnet2torrent.me/) Converts magnet links to torrent files
 
 ### Trackers
 
-- [/r/trackers](https://www.reddit.com/r/trackers) A subreddit for discussing public & private trackers.
+- [/r/trackers](https://www.reddit.com/r/trackers) :star2: A subreddit for discussing public & private trackers.
 - [A Simple Guide To A Better Ratio](https://www.reddit.com/r/trackers/comments/fthja/a_simple_guide_to_a_better_ratio/) A good tracker requires you to upload what you download. This guide explains many of the methods involved with keeping on top of this sometimes difficult task.
 - [Tracker Twitters](https://filenetworks.blogspot.com/2010/12/list-of-private-torrent-trackers.html) List Of Private Torrent Trackers & BitTorrent News Accounts To Follow On Twitter
-- [magent2torrent.me](http://magnet2torrent.me/) Converts magnet links to torrent files
 
 #### Private Trackers
 - [TorrentLeech](https://torrentleech.org/) Well-known popular private tracker
@@ -272,10 +304,7 @@ You will notice some items in this list have a :star2: next to them. Items with 
 - [BTRACS](http://btracs.com/) an automatic information site which periodically checks closed community BitTorrent trackers for being open for signup.
 
 ### Torrent Clients
-- [rTorrent](https://rakshasa.github.io/rtorrent/) :star2: rTorrent is a text-based ncurses BitTorrent client written in C++
-- [ruTorrent](https://github.com/Novik/ruTorrent) Yet another web front-end for rTorrent
-- [rutorrent-themes](https://github.com/InAnimaTe/rutorrent-themes) A collection of default and new, original themes for ruTorrent.
-- [flood](https://github.com/jfurrow/flood) A web UI for rTorrent with a Node.js backend and React frontend.
+
 - [qBitTorrent](https://www.qbittorrent.org/) Popular, lightweight, multi-platform torrent client
 - [qBitTorrent search function](https://www.techsupportalert.com/qbittorrent-help-torrent-search-engine) Allows you to search popular trackers directly from qBittorrent
 - [Transmission](https://transmissionbt.com/) Default torrent client in many distros.
@@ -291,33 +320,46 @@ You will notice some items in this list have a :star2: next to them. Items with 
 - [PicoTorrent](https://picotorrent.org/) Lightweight and minimalistic torrent client for Windows
 - [FrostWire](https://www.frostwire.com/) FrostWire is a Free and open-source BitTorrent client first released in September 2004, as a fork of LimeWire.
 
+#### rTorrent
+- [rTorrent](https://rakshasa.github.io/rtorrent/) :star2: rTorrent is a text-based ncurses BitTorrent client written in C++
+- [ruTorrent](https://github.com/Novik/ruTorrent) Yet another web front-end for rTorrent
+- [rutorrent-themes](https://github.com/InAnimaTe/rutorrent-themes) A collection of default and new, original themes for ruTorrent.
+- [flood](https://github.com/jfurrow/flood) A web UI for rTorrent with a Node.js backend and React frontend.
+- [rTorrent ArchWiki Page](https://wiki.archlinux.org/index.php/RTorrent) Detailed article to answer most common questions about rTorrent
+- [rTorrent Seedbox Guide](https://jes.sc/kb/rTorrent-ruTorrent-Seedbox-Guide.php) This guide is a single-page, comprehensive guide to take you step-by-step through installation and configuration.
+
 ### Seedboxes
 - [/r/seedboxes](https://www.reddit.com/r/seedboxes) A place to discuss seedboxes and everything related to them.
+- [Seedr](https://www.seedr.cc/) Essentially a seedbox you can paste torrents into which returns a streamable direct link
+
+#### Seedbox Hosting Providers
+- [Kimsufi](https://www.kimsufi.com/uk/) Affordable dedicated servers
 - [Online.net](https://www.online.net/en) :star2: Seedbox-friendly, affordable, dedicated server host
 - [Heztner](https://hetzner.co.za/) Reliable and affordable server host
 - [/u/Andy10gbit](https://www.reddit.com/r/seedboxes/comments/9iu7o8/andy10gbit_server_and_seedbox_list/) Reddit user with good deals on servers and seedboxes
 - [Bytesized Hosting](https://bytesized-hosting.com/) "The best Plex server hosting in town"
 - [FeralHosting](https://www.feralhosting.com/pricing) Shared seedbox hosting provider
 - [Whatbox](https://whatbox.ca/) Whatbox is a BitTorrent CDN
+- [Seedboxes.cc](https://seedboxes.cc/) Reliable and affordable web hosting, with the power of your friendly monsters!
+
+#### Seedbox Setup Tools and Guides
 - [swizzin](https://swizzin.ltd/) a light, modular package management suite for media oriented servers
 - [Seedbox Guide](https://seedboxgui.de/) comparison tool to help you find the best fitting Seedbox
 - [rtinst](https://github.com/arakasi72/rtinst) seedbox installation script for Ubuntu and Debian systems
 - [sboxsetup](https://github.com/dannyti/sboxsetup) Another seedbox setup script
 - [QuickBox IO](https://quickbox.io/) Seedbox installer script
-- [Seedboxes.cc](https://seedboxes.cc/) Reliable and affordable web hosting, with the power of your friendly monsters!
 
-### Miscellaneous Torrent Stuff
+### Tracker Frameworks
 - [UNIT3D](https://github.com/HDInnovations/UNIT3D) The Nex-Gen Private Torrent Tracker (Aimed For Movie / TV Use)
 - [meanTorrent](https://github.com/taobataoma/meanTorrent) A BitTorrent Private Tracker CMS with Multilingual, and IRC announce support, CloudFlare support.
 - [NexusPHP](https://github.com/ZJUT/NexusPHP) BitTorrent private tracker scripts written in PHP.
-- [Live Tracer](https://trace.corrupt-net.org/live.php) Pre-time tracer for scene releases
-- [Seedr](https://www.seedr.cc/) Essentially a seedbox you can paste torrents into which returns a streamable direct link
+- [Gazelle](https://whatcd.github.io/Gazelle/) :star2: web framework geared towards private torrent trackers with a focus on music
 
 ## Usenet
 
 - [Usenet](https://en.wikipedia.org/wiki/Usenet) Usenet is a worldwide distributed discussion system available on computers.
 - [Usenet newsgroup](https://en.wikipedia.org/wiki/Usenet_newsgroup) A Usenet newsgroup is a repository usually within the Usenet system, for messages posted from many users in different locations using Internet.
-- [/r/Usenet](https://www.reddit.com/r/Usenet) a thriving community dedicated to helping users old and new understand and use usenet.
+- [/r/Usenet](https://www.reddit.com/r/Usenet) :star2: a thriving community dedicated to helping users old and new understand and use usenet.
 - [/r/UsenetInvites](https://www.reddit.com/r/UsenetInvites) Requests and offers for Usenet indexers
 
 ### Usenet Providers
@@ -349,6 +391,15 @@ You will notice some items in this list have a :star2: next to them. Items with 
 - [NZBget](https://nzbget.net/) Efficient Usenet downloader written in C++
 
 ## Direct Downloads
+
+- [Leonflix](https://leonflix.net/) :star2: A multi-platform desktop app for finding movies and TV shows.
+- [maulvi.github.io](https://maulvi.github.io/) Google Drive direct download link generator
+- [RapidLeech](https://github.com/Th3-822/rapidleech) a free server transfer script for use on various popular upload/download sites such as uploaded.net, Rapidgator.net and more than 127 others.
+- [megatools](https://github.com/megous/megatools) Open-source command line tools and C library (libmega) for accessing Mega.co.nz cloud storage.
+- [/r/megalinks](https://www.reddit.com/r/megalinks) Links to files on Mega. Has now moved to snahp.it
+- [/r/GDriveLinks](https://www.reddit.com/r/GDriveLinks/) Google Drive Download Links
+- [MegaCrypt.js](https://github.com/JohnDeved/megacrypt.js) MegaCrypt.js lets you share your Mega.nz files without actually having to share any Mega.nz links by encrypting them to create a secure proxy to your files.
+- [DirtyWarez Forum](https://forum.dirtywarez.com/) Popular warez forum with films, TV shows, ebooks, anime, games, and more
 
 ### Custom Google Search Engines
 - [FileChef](http://filechef.com/) These all
@@ -435,7 +486,7 @@ premium services
 - [curl](https://en.wikipedia.org/wiki/CURL) `curl` is a command-line tool for downloading data using a variety of protocols. Easily installable on most operating systems.
 
 ### Streaming Sites
-- [Daxiv Video](https://daxiv.com/) Movies & TV shows online or stream right to your smart TV, game console, PC, Mac, mobile, tablet and more. Primarily Chinese content.
+- [How To Stream Movies, TV, Anime & Sports Online](https://www.reddit.com/r/FREEMEDIAFUCKYEAH/comments/9q11kg/how_to_stream_movies_tv_anime_sports_online/) :star2: Huge list by /u/nbatman
 - [StreamCR](https://scr.cr/)
 - [cine.to](https://cine.to/)
 - [Solarmovie](https://solarmoviez.ru/solar.html)
@@ -463,6 +514,7 @@ premium services
 - [HDOnline](https://www1.hdonline.eu)
 - [YMovies](https://ymovies.tv/) Streaming site full of YIFY and other releases
 - [WatchFree](https://watchfree.at/)
+- [Daxiv Video](https://daxiv.com/) Movies & TV shows online or stream right to your smart TV, game console, PC, Mac, mobile, tablet and more. Primarily Chinese content.
 
 ### Sports Streaming
 - [LiveTV](https://livesx.eu/)
@@ -481,16 +533,6 @@ premium services
 - [/r/rugbystreams](https://www.reddit.com/r/rugbystreams/)
 - [/r/mmafights](https://www.reddit.com/r/mmafights/)
 
-### Miscellaneous DDL Stuff
-- [Leonflix](https://leonflix.net/) A multi-platform desktop app for finding movies and TV shows.
-- [maulvi.github.io](https://maulvi.github.io/) Google Drive direct download link generator
-- [RapidLeech](https://github.com/Th3-822/rapidleech) a free server transfer script for use on various popular upload/download sites such as uploaded.net, Rapidgator.net and more than 127 others.
-- [megatools](https://github.com/megous/megatools) Open-source command line tools and C library (libmega) for accessing Mega.co.nz cloud storage.
-- [/r/megalinks](https://www.reddit.com/r/megalinks) Links to files on Mega. Has now moved to snahp.it
-- [/r/GDriveLinks](https://www.reddit.com/r/GDriveLinks/) Google Drive Download Links
-- [MegaCrypt.js](https://github.com/JohnDeved/megacrypt.js) MegaCrypt.js lets you share your Mega.nz files without actually having to share any Mega.nz links by encrypting them to create a secure proxy to your files.
-- [DirtyWarez Forum](https://forum.dirtywarez.com/) Popular warez forum with films, TV shows, ebooks, anime, games, and more
-
 ## Media Centre Applications
 - [Plex](https://www.plex.tv/) :star2: Your content—from live and recorded TV and personal media, to on-demand web shows, video news, and podcasts—beautifully organized and ready to stream everywhere.
 - [Emby](https://emby.media/) a personal media server with apps on just about every device.
@@ -502,8 +544,15 @@ premium services
 - [Stremio](https://www.stremio.com/) Multi-platform video content aggregator with a comprehensive add-on system for extending functionality
 - [Gerbera](https://github.com/gerbera/gerbera) UPnP Media Server for 2018 (Based on MediaTomb)
 - [Serviio](http://serviio.org/) Serviio is a free media server. It allows you to stream your media files (music, video or images) to renderer devices (e.g. a TV set, Blu-ray player, games console or mobile phone) on your connected home network.
+- [OSMC](https://osmc.tv/) OSMC (short for Open Source Media Center) is a Linux distribution based on Debian that brings Kodi to a variety of devices.
 
 ## Plex
+
+- [linuxserver/docker-plex](https://github.com/linuxserver/docker-plex) LinuxServer.io Plex Media Server docker image
+- [plexinc/pms-docker](https://github.com/plexinc/pms-docker) official Plex docker image
+- [timhaak/plex](https://github.com/timhaak/docker-plex) alternative Plex docker image
+- [PlexGuide.com](https://plexguide.com/) :star2: Deploy a multi-app supported Plex Server with an HD or GDrive
+- [hoarding.me](https://hoarding.me/) Unlimited and Automated. How to setup your own dream Plex server.
 
 ### Plex Plugins
 - [WebTools.bundle](https://github.com/ukdtom/WebTools.bundle) a collection of tools for Plex Media Server. Like the Unsupported AppStore (UAS)
@@ -567,14 +616,6 @@ premium services
 - [PlexConnect](https://github.com/iBaa/PlexConnect) Unofficial Plex app for Apple TV devices
 - [go-plex-client](https://github.com/jrudio/go-plex-client) A Plex.tv and Plex Media Server Go client
 
-### Miscellaneous Plex Stuff
-
-- [linuxserver/docker-plex](https://github.com/linuxserver/docker-plex) LinuxServer.io Plex Media Server docker image
-- [plexinc/pms-docker](https://github.com/plexinc/pms-docker) official Plex docker image
-- [timhaak/plex](https://github.com/timhaak/docker-plex) alternative Plex docker image
-- [PlexGuide.com](https://plexguide.com/) Deploy a multi-app supported Plex Server with an HD or GDrive
-- [hoarding.me](https://hoarding.me/) Unlimited and Automated. How to setup your own dream Plex server.
-
 ## Kodi
 - [/r/Addons4Kodi](https://www.reddit.com/r/addons4kodi) discussion and links pertaining to unofficial addons for Kodi Media Center
 - [Placenta](http://www.wirelesshack.org/how-to-install-placenta-kodi-addon.html) a Fork of Exodus / Covenant with more options and links from Mr Blamo and Muad'Dib
@@ -615,7 +656,7 @@ premium services
 - [NoPayStation](https://nopaystation.com) A Database for PSN Content including Vita, PS3, PSX, and PSP
 - [/r/SwitchNSPs](https://www.reddit.com/r/SwitchNSPs/) Nintendo Switch games
 
-### Homebrew
+### Homebrew and Custom Firmware
 - [The ultimate guide to Nintendo 3DS Piracy](https://www.reddit.com/r/Piracy/comments/6h2vdd/the_ultimate_guide_to_nintendo_3ds_piracy/) Posted by /u/crazy5
 - [3DS Hacks Guide](https://3ds.hacks.guide/) A complete guide to 3DS custom firmware, from stock to boot9strap.
 - [/r/3dshacks](https://www.reddit.com/r/3dshacks) Nintendo 3DS hacking and homebrew.
@@ -651,7 +692,6 @@ premium services
 ## Music
 - [Muxiv Music](https://muxiv.com/) Stream 45 million songs on all your devices, online or offline. Primarily Chinese content.
 - [Soulseek](http://www.soulseekqt.net/news/) Soulseek is an ad-free, spyware free, just plain free file sharing network for Windows, Mac and Linux.
-- [Gazelle](https://whatcd.github.io/Gazelle/) web framework geared towards private torrent trackers with a focus on music
 - [irs](https://github.com/kepoorhampond/irs) A music downloader that understands your metadata needs.
 - [SMLoadr](https://git.fuwafuwa.moe/SMLoadrDev/SMLoadr) A streaming music downloader.
 - [Deezloader](https://www.reddit.com/r/DeezloadersIsBack/comments/9n3pf1/deezloader_alpha_latest_version_download10102018/) Tool for downloading music from Deezer
@@ -672,45 +712,56 @@ premium services
 - [MusicBrainz](https://musicbrainz.org/) MusicBrainz is an open music encyclopedia that collects music metadata and makes it available to the public.
 
 ## Software
+
+- [/r/piracy/wiki/tools](https://www.reddit.com/r/piracy/wiki/tools) Windows/Office activation tools, and images/installers for Windows, Office, and Adobe
+- [nsane.down](https://www.nsanedown.com/) Popular file sharing forum focused on software
+- [CrackingPatching.com](https://crackingpatching.com/) Cracked software
+- [Appked](https://www.macbed.com/) Mac application sharing site
+- [Team-OS HKRG](https://www.teamos-hkrg.com/index.php) Windows software and various activation tools.
+
+### Adobe CC
 - [Adobe CC 2018](https://www.reddit.com/r/sjain_guides/comments/9g4t2u/adobe_cc_2018_full_indepth_guide_to_installing/) Full in-depth guide to installing and cracking any application (Windows)
 - [How to patch Adobe CC 2017 applications on Windows](https://drive.google.com/file/d/0BxfywKwnIU2JdFFraUxhVkllbnc/view)
 - [HOW TO PATCH ADOBE APPLICATIONS ON MAC, WORKING EARLY 2017](https://drive.google.com/file/d/0BxfywKwnIU2JY1RxV0M0U0J1Z1E/view)
 - [Pirating Adobe CC for Dummies](https://www.reddit.com/r/Piracy/comments/5f5uz7/pirating_adobe_cc_for_dummies/) detailed guide about pirating Adobe CC for Windows
+
+### Windows
 - [/r/MSToolkit](https://www.reddit.com/r/mstoolkit) Tools for activating Windows software, including Windows 10 itself
 - [Windows 10 Digital License](https://www.nsaneforums.com/topic/312871-windows-10-digital-license-hwid-kms38%E2%84%A2-generation/?tab=comments#comment-1327529) Advanced tutorial from s1ave77 on activating Windows 10 "legitimately" by binding your HWID to a Microsoft account
 - [How to download and install Windows 10 LTSB](https://www.reddit.com/r/Piracy/comments/8pfnun/how_to_download_and_install_windows_10_ltsb/) Guide by /u/sq_skez. "Take everything we loved about Windows 7, add the under-the-hood improvements of Windows 8 and 10 but none of the marketing/cloud/phone app/user-tracking crap, and what do you get? Windows 10 Enterprise LTSC edition."
-- [nsane.down](https://www.nsanedown.com/) Popular file sharing forum focused on software
 - [TechBench](https://tb.rg-adguard.net/public.php) Find official Windows isos for Windows 7/8/10
-- [CrackingPatching.com](https://crackingpatching.com/) Cracked software
-- [Appked](https://www.macbed.com/) Mac application sharing site
-- [/r/piracy/wiki/tools](https://www.reddit.com/r/piracy/wiki/tools) Windows/Office activation tools, and images/installers for Windows, Office, and Adobe
-- [Team-OS HKRG](https://www.teamos-hkrg.com/index.php) Windows software and various activation tools. 
 
 ## Ebooks
-- [LibGen](http://libgen.io/) search engine for articles and books on various topics, which allows free access to content that is otherwise paywalled or not digitized elsewhere
 - [b-ok](http://b-ok.xyz/) Free ebook library
-- [Sci-Hub](https://sci-hub.tw/) the first pirate website in the world to provide mass and public access to tens of millions of research papers
-- [BookSC](http://booksc.org/) The world's largest scientific articles store. 50,000,000+ articles for free.
 - [The idiot proof guide to downloading ebooks off IRC](https://www.reddit.com/r/Piracy/comments/2oftbu/guide_the_idiot_proof_guide_to_downloading_ebooks/) Posted by /u/Servaplur
 - [Guide to Copy Kindle Content to PDF using Calibre](https://www.reddit.com/r/Piracy/comments/7vc3uv/guide_to_copy_kindle_content_to_pdf_using_calibre/)
 - [Apprentice Alf's Blog](https://apprenticealf.wordpress.com/) Everything you ever wanted to know about DRM and ebooks, but were afraid to ask.
 - [Calibre](https://calibre-ebook.com/) :star2: ebook management tool
 - [Custom Search Engine](https://cse.google.com/cse?cx=000661023013169144559:a1-kkiboeco) A Google custom search engine specifically for ebooks
-- [PDF/Ebook trackers for college textbooks](https://www.reddit.com/r/trackers/comments/hrgmv/tracker_with_pdfsebooks_of_college_textbooks/c1xrq44/) Old-but-still-useful list of ebook/textbook trackers, DDL sites, and IRC communities
+
+## Magazines
 - [PDF Giant](http://pdf-giant.com/) Various categories of downloadable PDFs
 - [MagazineLib](https://magazinelib.com/) Free PDF and interactive e-magazines
-- [Bypass Paywalls](https://addons.mozilla.org/en-US/firefox/addon/bypasspaywalls/) Firefox add-on which allows you to bypass paywalls of many news sites
-- [Outline](https://chrome.google.com/webstore/detail/outline-read-without-clut/daoolpmoieinofbnddaofhkhmbagfmnj) Designed to remove ads, comments, and other junk from news articles but conveniently also bypasses paywalls
-- [All IT eBooks](http://www.allitebooks.com/) A big database of free, direct links for IT and programming ebooks
 
-## Education
+## Academic Papers and Material
+- [LibGen](http://libgen.io/) search engine for articles and books on various topics, which allows free access to content that is otherwise paywalled or not digitized elsewhere
+- [Sci-Hub](https://sci-hub.tw/) the first pirate website in the world to provide mass and public access to tens of millions of research papers
+- [BookSC](http://booksc.org/) The world's largest scientific articles store. 50,000,000+ articles for free.
+- [Academic Torrents](http://academictorrents.com/) A Community-Maintained Distributed Repository for researchers, by researchers. Making 32.66TB of research data available!
+
+## Textbooks
+- [All IT eBooks](http://www.allitebooks.com/) A big database of free, direct links for IT and programming ebooks
+- [it-ebooks](http://it-ebooks.info) Large selection of free and open source IT ebooks
+- [PDF/Ebook trackers for college textbooks](https://www.reddit.com/r/trackers/comments/hrgmv/tracker_with_pdfsebooks_of_college_textbooks/c1xrq44/) Old-but-still-useful list of ebook/textbook trackers, DDL sites, and IRC communities
+- [How to "rent" your textbooks for free from Amazon](https://www.reddit.com/r/Piracy/comments/3ma9qe/guide_how_to_rent_your_textbooks_for_free_from/) "Going to college? Living off top ramen for dinner? Let me show you have to "rent" your textbooks for free & for life!"
+- [Guide for Finding Textbooks](https://www.reddit.com/r/Piracy/comments/3i9y7n/guide_for_finding_textbooks/) Extensive tutorial by /u/Amosqu
+
+## Courses and Tutorials
 - [TUTSGALAXY](https://tutsgalaxy.com/)
 - [FreeTutorials.eu](https://www.freetutorials.eu/) Lots of Udemy courses for free, has adblock detector
 - [coursehunter](https://www.coursehunters.net/) Watch paid tutorials online for free
 - [FrontendMasters.com Courses](https://drive.google.com/drive/folders/1GVDOv-9uCq_76VQ5UjkzIegagQ0GVXc2) A collection of web development courses from FrontendMasters.com
 - [Lynda Courses](https://www.reddit.com/r/megalinks/comments/7vlt4j/education_lynda_266_courses_207gb/) 266+ Lynda courses
-- [Guide for Finding Textbooks](https://www.reddit.com/r/Piracy/comments/3i9y7n/guide_for_finding_textbooks/) Extensive tutorial by /u/Amosqu
-- [How to "rent" your textbooks for free from Amazon](https://www.reddit.com/r/Piracy/comments/3ma9qe/guide_how_to_rent_your_textbooks_for_free_from/) "Going to college? Living off top ramen for dinner? Let me show you have to "rent" your textbooks for free & for life!"
 - [GFXDomain.net Tutorials board](http://forum.gfxdomain.net/forums/others-tutorials.42/) Forum with free tutorials for graphic design, mostly via premium file hosts but some torrents
 
 ## Audiobooks
@@ -765,6 +816,7 @@ premium services
 - [FastTrack](https://en.wikipedia.org/wiki/FastTrack) Protocol used by the Kazaa, Grokster, iMesh, and Morpheus file sharing programs
 - [Napster](https://en.wikipedia.org/wiki/Napster) Peer-to-peer file sharing Internet service that emphasized sharing digital audio files, typically audio songs, encoded in MP3 format.
 - [Peer-to-peer file sharing](https://en.wikipedia.org/wiki/Peer-to-peer_file_sharing) Detailed Wikipedia page about file sharing
+- [IPFS - Distributed Web](https://en.wikipedia.org/wiki/InterPlanetary_File_System) Peer-to-peer distributed file system that seeks to connect all computing devices with the same system of files
 
 ## Ripping, Transcoding, Converting
 - [Handbrake](https://handbrake.fr/) :star2: HandBrake is a tool for converting video from nearly any format to a selection of modern, widely supported codecs.
@@ -793,6 +845,7 @@ premium services
 - [Metatogger](https://www.luminescence-software.org/en/metatogger.html) Metatogger is the new generation of tag editor allowing you to rename, tag and easily sort your audio files.
 - [MediaInfo](https://mediaarea.net/en/MediaInfo) MediaInfo is a convenient unified display of the most relevant technical and tag data for video and audio files.
 - [iFlicks2](https://iflicksapp.com/) Useful for adding metadata to movies and TV shows
+- [/r/datacurator](https://www.reddit.com/r/datacurator/) Subreddit for discussion about the curation of digital data. Be it sorting, file formats, file encoding, best practices, discussion of your setup, tips and tricks, asking for help etc.
 
 ## Mobile Apps
 
@@ -846,14 +899,17 @@ premium services
 - [MythTV](https://www.mythtv.org/) Free Open Source software digital video recorder
 
 ## IRC
+
+- [XDCC Tutorial](http://theloadguru.com/xdcc-irc-beginners-guide/) XDCC Downloading For Beginners: Do It Like A Pro
+- [autodl-irssi](https://autodl-community.github.io/autodl-irssi/) autodl-irssi is a plugin for irssi that monitors IRC announce channels for torrent trackers and downloads torrent files based on user-defined filters.
+- [XDCC](https://en.wikipedia.org/wiki/XDCC) XDCC (Xabi DCC or eXtended DCC) is a computer file sharing method which uses the Internet Relay Chat (IRC) network as a host service.
+
+### IRC Clients
 - [weechat](https://github.com/weechat/weechat) :star2: The extensible chat client.
 - [irssi](https://irssi.org/) Your text mode chatting application since 1999.
 - [HexChat](https://hexchat.github.io/) HexChat is an IRC client based on XChat, but unlike XChat it’s completely free for both Windows and Unix-like systems.
 - [KVIrc](https://github.com/kvirc/KVIrc) Graphical IRC client
 - [mIRC](https://www.mirc.com/) IRC client for Windows
-- [XDCC Tutorial](http://theloadguru.com/xdcc-irc-beginners-guide/) XDCC Downloading For Beginners: Do It Like A Pro
-- [autodl-irssi](https://autodl-community.github.io/autodl-irssi/) autodl-irssi is a plugin for irssi that monitors IRC announce channels for torrent trackers and downloads torrent files based on user-defined filters.
-- [XDCC](https://en.wikipedia.org/wiki/XDCC) XDCC (Xabi DCC or eXtended DCC) is a computer file sharing method which uses the Internet Relay Chat (IRC) network as a host service.
 
 ### IRC Networks
 - [irc.p2p-network.net](https://p2p-network.net/) P2P file sharing network
@@ -921,15 +977,18 @@ premium services
 
 ## Miscellaneous
 - [autosub](https://github.com/agermanidis/autosub) Command-line utility for auto-generating subtitles for any video file
+- [FilePizza](https://file.pizza/) Free peer-to-peer file transfers in your browser.
 - [MediaServer-DockerComposeFiles](https://github.com/vaeyo/MediaServer-DockerComposeFiles) Docker-Compose Files for Media Server Related Apps [Radarr, Sonarr, Plex, rTorrent, NZBGet, Ombi, Emby, etc]
 - [usenet-docker](https://github.com/justinhamlett/usenet-docker) Docker-compose configuration for Sabnzbd, CouchPotato, Plex, Sonarr, Plexpy, Nzbhydra, Muximux, Radarr, NZBGet and Ombi with a Nginx proxy.
 - [/r/EmbyShares](https://www.reddit.com/r/EmbyShares) This subreddit is dedicated to the sharing of Emby servers.
 - [/r/freefolk](https://www.reddit.com/r/freefolk) Streams for new episodes of Game of Thrones
-
-## Unsorted and To Do List
-
-- discord servers
-- non-anime cartoons
+- [Shodan](https://www.shodan.io/) Shodan is the world's first search engine for Internet-connected devices.
+- [xip.io](http://xip.io/) magic domain name that provides wildcard DNS
+for any IP address.
+- [/r/Movie_Club](https://www.reddit.com/r/Movie_Club) Where you can get together with strangers and watch a great movie every week!
+- [sync](https://github.com/calzoneman/sync/) Node.JS Server and JavaScript/HTML Client for synchronizing online media
+- [watch2gether](https://www.watch2gether.com/) Enjoy the internet in sync with your friends. Watch videos, listen to music or go shopping on Watch2Gether.
+- [Pi-hole](https://pi-hole.net/) Pi-hole is a Linux network-level advertisement and internet tracker blocking application which acts as a DNS sinkhole
 
 ## Contribute
 
