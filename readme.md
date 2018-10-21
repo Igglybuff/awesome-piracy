@@ -400,6 +400,7 @@ You will notice some items in this list have a :star2: next to them. Items with 
 - [/r/GDriveLinks](https://www.reddit.com/r/GDriveLinks/) Google Drive Download Links
 - [MegaCrypt.js](https://github.com/JohnDeved/megacrypt.js) MegaCrypt.js lets you share your Mega.nz files without actually having to share any Mega.nz links by encrypting them to create a secure proxy to your files.
 - [DirtyWarez Forum](https://forum.dirtywarez.com/) Popular warez forum with films, TV shows, ebooks, anime, games, and more
+- [netclix](https://github.com/ston3o/netclix) A simple cli tool to get movie streaming premium links from VodLocker's API
 
 ### Custom Google Search Engines
 - [FileChef](http://filechef.com/) These all
@@ -515,6 +516,7 @@ premium services
 - [YMovies](https://ymovies.tv/) Streaming site full of YIFY and other releases
 - [WatchFree](https://watchfree.at/)
 - [Daxiv Video](https://daxiv.com/) Movies & TV shows online or stream right to your smart TV, game console, PC, Mac, mobile, tablet and more. Primarily Chinese content.
+- [VodLocker](https://vodlocker.tv/)
 
 ### Sports Streaming
 - [LiveTV](https://livesx.eu/)
