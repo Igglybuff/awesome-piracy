@@ -949,9 +949,10 @@ premium services
 - [/r/FullLengthFilms](https://www.reddit.com/r/FullLengthFilms/)
 - [/r/FullMovieonViooz](https://www.reddit.com/r/FullMovieonViooz)
 - [/r/FullMoviesDailyMotion](https://www.reddit.com/r/FullMoviesDailyMotion)
-- [fullmoviesandtv multireddit](https://www.reddit.com/user/Asmailes/m/fullmoviesandtv/) All of the above subreddits as a multireddit
 - [/r/1080pMoviesOnline](https://www.reddit.com/r/1080pMoviesOnline)
 - [/r/fullmoviesonopenload](https://www.reddit.com/r/fullmoviesonopenload)
+- [/r/BestOfStreamingVideo](https://www.reddit.com/r/BestOfStreamingVideo)
+- [fullmoviesandtv multireddit](https://www.reddit.com/user/Wiggly_Poop/m/fullmoviesandtv/) All of the above subreddits as a multireddit
 
 ## Piracy Blogs and News
 - [TorrentFreak](https://torrentfreak.com) :star2: TorrentFreak is a publication dedicated to bringing the latest news about copyright, privacy, and everything related to filesharing.
