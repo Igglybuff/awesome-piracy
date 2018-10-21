@@ -702,6 +702,7 @@ premium services
 - [All IT eBooks](http://www.allitebooks.com/) A big database of free, direct links for IT and programming ebooks
 
 ## Education
+- [Academic Torrents](http://academictorrents.com/) A Community-Maintained Distributed Repository for researchers, by researchers. Making 32.66TB of research data available!
 - [TUTSGALAXY](https://tutsgalaxy.com/)
 - [FreeTutorials.eu](https://www.freetutorials.eu/) Lots of Udemy courses for free, has adblock detector
 - [coursehunter](https://www.coursehunters.net/) Watch paid tutorials online for free
