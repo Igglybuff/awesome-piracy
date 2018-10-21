@@ -379,6 +379,7 @@ You will notice some items in this list have a :star2: next to them. Items with 
 - [DrunkenSlug](https://drunkenslug.com/) :star2: Popular NZB indexer with a free tier and decent retention
 - [NZBCat](https://nzb.cat/) Meow *cough* nzb-hair-bal
 - [DOGnzb](https://dognzb.cr/) Invite-only NZB site (although they do have a [registration page](https://dognzb.cr/register) at the moment)
+- [omgwtfnzbs](https://omgwtfnzbs.me/login) Invite-only NZB indexer with a funny name
 
 #### Free Indexers
 - [6box](https://6box.me/) :star2: A recently revived free Usenet indexing service with a generous API
@@ -667,6 +668,7 @@ premium services
 - [/r/ps4homebrew](https://www.reddit.com/r/ps4homebrew) News, releases, and questions regarding the PS4 jailbreak, homebrew, and mods.
 - [/r/SwitchHaxing](https://www.reddit.com/r/SwitchHaxing) Nintendo Switch hacking & homebrew subreddit
 - [/r/SwitchHacks](https://www.reddit.com/r/SwitchHacks) Another Nintendo Switch hacking subreddit
+- [/r/ps3homebrew](https://www.reddit.com/r/ps3homebrew/) News, updates, apps, and answers regarding PS3 homebrew!
 
 ## Anime
 - [Nyaa](https://nyaa.si/) BitTorrent software for cats [(Repo)](https://github.com/nyaadevs/nyaa)
@@ -860,6 +862,7 @@ premium services
 - [Cygery AdSkip for YouTube](https://labs.xda-developers.com/store/app/com.cygery.adskip.xda) Automatically click on the "Skip ad" button in the YouTube™ app when it appears.
 - [Blokada](https://blokada.org) Blokada is a compact app that transparently blocks unwanted content like ads, tracking, malware and other annoyances.
 - [Tachiyomi](https://github.com/inorichi/tachiyomi) Tachiyomi is a free and open source manga reader for Android.
+- [AnYme](https://github.com/zunjae/anYme) Unofficial Anime App for MyAnimeList
 
 ### Streaming Apps
 
