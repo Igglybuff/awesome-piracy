@@ -15,6 +15,9 @@
 - [Password Vaults](#password-vaults)
 - [Antivirus](#antivirus)
 - [Windows 10 Privacy](#windows-10-privacy)
+- [Operating Systems](#operating-systems)
+- [Decentralised Networks](#decentralised-networks)
+- [Domain Name Registrars](#domain-name-registrars)
 - [Torrenting](#torrenting)
 	- [Trackers](#trackers)
 		- [Private Trackers](#private-trackers)
@@ -185,6 +188,14 @@ You will notice some items in this list have a :star2: next to them. Items with 
 - [Windows Privacy Tweaker](https://www.phrozen.io/freeware/windows-privacy-tweaker/) Freeware app from phrozen.io
 - [Winaero](https://winaero.com/blog/about-us/) Free, small and useful software for Windows.
 - [WPD](https://wpd.app/) The real privacy dashboard for Windows
+
+## Decentralised Networks
+- [Tor](https://www.torproject.org/) :star2: Tor is free software and an open network that helps you defend against traffic analysis.
+- [I2P](https://geti2p.net/en/) I2P is an anonymous overlay network - a network within a network. It is intended to protect communication from dragnet surveillance and monitoring by third parties such as ISPs.
+
+## Operating Systems
+- [Qubes OS](https://www.qubes-os.org/) Qubes OS is a security-oriented operating system
+- [Tails](https://tails.boum.org/) Tails is a live operating system that you can start on almost any computer from a USB stick or a DVD.
 
 ## Domain Name Registrars
 - [Njalla](https://njal.la/) a privacy-aware domain registration service
@@ -834,6 +845,7 @@ premium services
 - [Metatogger](https://www.luminescence-software.org/en/metatogger.html) Metatogger is the new generation of tag editor allowing you to rename, tag and easily sort your audio files.
 - [MediaInfo](https://mediaarea.net/en/MediaInfo) MediaInfo is a convenient unified display of the most relevant technical and tag data for video and audio files.
 - [iFlicks2](https://iflicksapp.com/) Useful for adding metadata to movies and TV shows
+- [/r/datacurator](https://www.reddit.com/r/datacurator/) Subreddit for discussion about the curation of digital data. Be it sorting, file formats, file encoding, best practices, discussion of your setup, tips and tricks, asking for help etc.
 
 ## Mobile Apps
 
@@ -973,13 +985,9 @@ premium services
 - [Shodan](https://www.shodan.io/) Shodan is the world's first search engine for Internet-connected devices.
 - [xip.io](http://xip.io/) magic domain name that provides wildcard DNS
 for any IP address.
-
-## Unsorted and To Do List
-
-- more discord servers
-- i2p https://geti2p.net/en/
-- tor
-- qubesOS
+- [/r/Movie_Club](https://www.reddit.com/r/Movie_Club) Where you can get together with strangers and watch a great movie every week!
+- [sync](https://github.com/calzoneman/sync/) Node.JS Server and JavaScript/HTML Client for synchronizing online media
+- [watch2gether](https://www.watch2gether.com/) Enjoy the internet in sync with your friends. Watch videos, listen to music or go shopping on Watch2Gether.
 
 ## Contribute
 
