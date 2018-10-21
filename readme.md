@@ -600,6 +600,7 @@ premium services
 - [SyncLounge](https://synclounge.tv/) :star2: third party tool that allows you to watch Plex in sync with your friends/family, wherever you are.
 - [Plex Redirect](https://github.com/ITRav4/PlexRedirect) a Plex landing page that redirects you to various sites.
 - [Plaxt](https://plaxt.herokuapp.com/) Webhook-based Trakt.tv scrobbling for Plex
+- [plxdwnld](https://piplong.run/plxdwnld/) Bookmarklet for downloading original files from the Plex web interface
 
 ### Plex Shares
 - [/r/plexshares](https://www.reddit.com/r/plexshares/) A nice place to find Plex Media Server shares.
