@@ -22,7 +22,6 @@
 	- [Tracker Invites](#tracker-invites)
 	- [Torrent Clients](#torrent-clients)
 	- [Seedboxes](#seedboxes)
-	- [Miscellaneous Torrent Stuff](#miscellaneous-torrent-stuff)
 - [Usenet](#usenet)
 	- [Usenet Providers](#usenet-providers)
 	- [Usenet Indexers](#usenet-indexers)
@@ -39,7 +38,6 @@
 	- [Downloaders](#downloaders)
 	- [Sports Streaming](#sports-streaming)
 	- [Streaming Sites](#streaming-sites)
-	- [Miscellaneous DDL Stuff](#miscellaneous-ddl-stuff)
 - [Media Centre Applications](#media-centre-applications)
 - [Plex](#plex)
 	- [Plex Plugins](#plex-plugins)
@@ -49,7 +47,6 @@
 	- [Plex Transcoding](#plex-transcoding)
 	- [Plex Logging and Metrics](#plex-logging-and-metrics)
 	- [Plex Clients](#plex-clients)
-	- [Miscellaneous Plex Stuff](#miscellaneous-plex-stuff)
 - [Kodi](#kodi)
 - [Gaming](#gaming)
 	- [Repacks](#repacks)
@@ -61,7 +58,10 @@
 - [Music](#music)
 - [Software](#software)
 - [Ebooks](#ebooks)
-- [Education](#education)
+- [Magazines](#magazines)
+- [Academic Papers](#academic-papers)
+- [Textbooks](#textbooks)
+- [Courses and Tutorials](#courses-and-tutorials)
 - [Audiobooks](#audiobooks)
 - [Comicbooks](#comicbooks)
 - [Manga](#manga)
@@ -114,9 +114,7 @@ You will notice some items in this list have a :star2: next to them. Items with 
 
 - [Wikipedia "File sharing" category](https://en.wikipedia.org/wiki/Category:File_sharing) Wikipedia's full list of file sharing related articles.
 
-## Protecting Yourself
-
-### VPNs
+## VPNs
 - [Private Internet Access](https://www.privateinternetaccess.com/) :star2: Hugely popular subscription-based VPN provider with a proven track record for not keeping logs
 - [ProtonVPN](https://protonvpn.com/) High-speed Swiss VPN that safeguards your privacy.
 - [NordVPN](https://nordvpn.com/) With NordVPN, encrypt your online activity to protect your private data from hackers or snoopy advertisers.
@@ -128,7 +126,7 @@ You will notice some items in this list have a :star2: next to them. Items with 
 - [privacytools.io](https://www.privacytools.io/) "Encryption against global mass surveillance". Plenty of information to help protect your privacy online.
 - [WireGuard VPN](https://www.wireguard.com/) WireGuard is an extremely simple yet fast and modern VPN that utilizes state-of-the-art cryptography. It aims to be faster, simpler, leaner, and more useful than IPSec.
 
-### Browser Extensions
+## Browser Extensions
 - [Privacy Badger](https://www.eff.org/privacybadger) Privacy Badger blocks spying ads and invisible trackers.
 - [HTTPS Everywhere](https://www.eff.org/https-everywhere) HTTPS Everywhere is a Firefox, Chrome, and Opera extension that encrypts your communications with many major websites, making your browsing more secure.
 - [uBlock Origin](https://github.com/gorhill/uBlock) :star2: An efficient blocker for Chromium and Firefox. Fast and lean.
@@ -138,13 +136,15 @@ You will notice some items in this list have a :star2: next to them. Items with 
 - [WebRTC Network Limiter](https://chrome.google.com/webstore/detail/webrtc-network-limiter/npeicpdbkakmehahjeeohfdhnlpdklia?hl=en) Configures how WebRTC's network traffic is routed by changing Chrome's privacy settings.
 - [ScriptSafe](https://chrome.google.com/webstore/detail/scriptsafe/oiigbmnaadbkfbmpbfijlflahbdbdgdf?hl=en) A browser extension that gives users control of the web and more secure browsing while emphasizing simplicity and intuitiveness.
 - [NoScript](https://addons.mozilla.org/en-US/firefox/addon/noscript/) Allow active content to run only from sites you trust, and protect yourself against XSS and clickjacking attacks. Firefox only.
+- [Bypass Paywalls](https://addons.mozilla.org/en-US/firefox/addon/bypasspaywalls/) Firefox add-on which allows you to bypass paywalls of many news sites
+- [Outline](https://chrome.google.com/webstore/detail/outline-read-without-clut/daoolpmoieinofbnddaofhkhmbagfmnj) Designed to remove ads, comments, and other junk from news articles but conveniently also bypasses paywalls
 
-### Userscripts
+## Userscripts
 - [Anti-Adblock Killer](https://github.com/reek/anti-adblock-killer) Anti-Adblock Killer helps you keep your Ad-Blocker active, when you visit a website and it asks you to disable.
 - [IMDb Scout](https://greasyfork.org/en/scripts/3967-imdb-scout) Add links from IMDb pages to torrent sites -- easy downloading from IMDb
 - [AdsBypasser](https://adsbypasser.github.io/) This user script helps you to skip countdown ads or continue pages and prevent ad pop-up windows.
 
-### Password Vaults
+## Password Vaults
 - [BitWarden](https://bitwarden.com/) :star2: Open source password management solution, can be self-hosted
 - [1Password](https://1password.com/) Popular cloud-hosted password manager
 - [KeePass](https://keepass.info/) free, open source, light-weight and easy-to-use password manager.
@@ -152,13 +152,13 @@ You will notice some items in this list have a :star2: next to them. Items with 
 - [Pass](https://www.passwordstore.org/) Simple GPG/Git password manager. Follows the Unix philosophy.
 - [Passbolt](https://www.passbolt.com/) Free, open source, self-hosted, extensible, OpenPGP based.
 
-### Antivirus
+## Antivirus
 - [MalwareBytes](https://www.malwarebytes.com/) :star2: "crushes malware so you are protected and your machine keeps running smoothly."
 - [HitmanPro](https://www.hitmanpro.com) Antivirus product from Sophos
 - [VirusTotal](https://www.virustotal.com/) Web service for scanning files and URLs for viruses
 - [How to remove viruses and malware on your Windows PC](https://www.howtogeek.com/126911/what-to-do-if-you-get-a-virus-on-your-computer/) Helpful HowToGeek article on cleaning out the pipes
 
-### Windows 10 Privacy
+## Windows 10 Privacy
 
 - [O&O ShutUp10](https://www.oo-software.com/en/shutup10) O&O ShutUp10 means you have full control over which comfort functions under Windows 10 you wish to use, and you decide when the passing on of your data goes too far.
 - [Windows 10 Privacy Guide](https://github.com/adolfintel/Windows10-Privacy) In-depth guide on purging Windows 10 of Microsoft's attempts to track you
@@ -170,6 +170,8 @@ You will notice some items in this list have a :star2: next to them. Items with 
 
 - [/r/torrents](https://www.reddit.com/r/torrents) Questions and discussion about all things torrent-related
 - [BitTorrent](https://en.wikipedia.org/wiki/BitTorrent) Wikipedia's article on the BitTorrent file sharing protocol
+- [Live Tracer](https://trace.corrupt-net.org/live.php) Pre-time tracer for scene releases
+- [Seedr](https://www.seedr.cc/) Essentially a seedbox you can paste torrents into which returns a streamable direct link
 
 ### Trackers
 
@@ -303,12 +305,11 @@ You will notice some items in this list have a :star2: next to them. Items with 
 - [QuickBox IO](https://quickbox.io/) Seedbox installer script
 - [Seedboxes.cc](https://seedboxes.cc/) Reliable and affordable web hosting, with the power of your friendly monsters!
 
-### Miscellaneous Torrent Stuff
+### Tracker Frameworks
 - [UNIT3D](https://github.com/HDInnovations/UNIT3D) The Nex-Gen Private Torrent Tracker (Aimed For Movie / TV Use)
 - [meanTorrent](https://github.com/taobataoma/meanTorrent) A BitTorrent Private Tracker CMS with Multilingual, and IRC announce support, CloudFlare support.
 - [NexusPHP](https://github.com/ZJUT/NexusPHP) BitTorrent private tracker scripts written in PHP.
-- [Live Tracer](https://trace.corrupt-net.org/live.php) Pre-time tracer for scene releases
-- [Seedr](https://www.seedr.cc/) Essentially a seedbox you can paste torrents into which returns a streamable direct link
+- [Gazelle](https://whatcd.github.io/Gazelle/) :star2: web framework geared towards private torrent trackers with a focus on music
 
 ## Usenet
 
@@ -346,6 +347,15 @@ You will notice some items in this list have a :star2: next to them. Items with 
 - [NZBget](https://nzbget.net/) Efficient Usenet downloader written in C++
 
 ## Direct Downloads
+
+- [Leonflix](https://leonflix.net/) A multi-platform desktop app for finding movies and TV shows.
+- [maulvi.github.io](https://maulvi.github.io/) Google Drive direct download link generator
+- [RapidLeech](https://github.com/Th3-822/rapidleech) a free server transfer script for use on various popular upload/download sites such as uploaded.net, Rapidgator.net and more than 127 others.
+- [megatools](https://github.com/megous/megatools) Open-source command line tools and C library (libmega) for accessing Mega.co.nz cloud storage.
+- [/r/megalinks](https://www.reddit.com/r/megalinks) Links to files on Mega. Has now moved to snahp.it
+- [/r/GDriveLinks](https://www.reddit.com/r/GDriveLinks/) Google Drive Download Links
+- [MegaCrypt.js](https://github.com/JohnDeved/megacrypt.js) MegaCrypt.js lets you share your Mega.nz files without actually having to share any Mega.nz links by encrypting them to create a secure proxy to your files.
+- [DirtyWarez Forum](https://forum.dirtywarez.com/) Popular warez forum with films, TV shows, ebooks, anime, games, and more
 
 ### Custom Google Search Engines
 - [FileChef](http://filechef.com/) These all
@@ -478,16 +488,6 @@ premium services
 - [/r/rugbystreams](https://www.reddit.com/r/rugbystreams/)
 - [/r/mmafights](https://www.reddit.com/r/mmafights/)
 
-### Miscellaneous DDL Stuff
-- [Leonflix](https://leonflix.net/) A multi-platform desktop app for finding movies and TV shows.
-- [maulvi.github.io](https://maulvi.github.io/) Google Drive direct download link generator
-- [RapidLeech](https://github.com/Th3-822/rapidleech) a free server transfer script for use on various popular upload/download sites such as uploaded.net, Rapidgator.net and more than 127 others.
-- [megatools](https://github.com/megous/megatools) Open-source command line tools and C library (libmega) for accessing Mega.co.nz cloud storage.
-- [/r/megalinks](https://www.reddit.com/r/megalinks) Links to files on Mega. Has now moved to snahp.it
-- [/r/GDriveLinks](https://www.reddit.com/r/GDriveLinks/) Google Drive Download Links
-- [MegaCrypt.js](https://github.com/JohnDeved/megacrypt.js) MegaCrypt.js lets you share your Mega.nz files without actually having to share any Mega.nz links by encrypting them to create a secure proxy to your files.
-- [DirtyWarez Forum](https://forum.dirtywarez.com/) Popular warez forum with films, TV shows, ebooks, anime, games, and more
-
 ## Media Centre Applications
 - [Plex](https://www.plex.tv/) :star2: Your content—from live and recorded TV and personal media, to on-demand web shows, video news, and podcasts—beautifully organized and ready to stream everywhere.
 - [Emby](https://emby.media/) a personal media server with apps on just about every device.
@@ -502,6 +502,12 @@ premium services
 - [OSMC](https://osmc.tv/) OSMC (short for Open Source Media Center) is a Linux distribution based on Debian that brings Kodi to a variety of devices.
 
 ## Plex
+
+- [linuxserver/docker-plex](https://github.com/linuxserver/docker-plex) LinuxServer.io Plex Media Server docker image
+- [plexinc/pms-docker](https://github.com/plexinc/pms-docker) official Plex docker image
+- [timhaak/plex](https://github.com/timhaak/docker-plex) alternative Plex docker image
+- [PlexGuide.com](https://plexguide.com/) Deploy a multi-app supported Plex Server with an HD or GDrive
+- [hoarding.me](https://hoarding.me/) Unlimited and Automated. How to setup your own dream Plex server.
 
 ### Plex Plugins
 - [WebTools.bundle](https://github.com/ukdtom/WebTools.bundle) a collection of tools for Plex Media Server. Like the Unsupported AppStore (UAS)
@@ -564,14 +570,6 @@ premium services
 - [RasPlex](https://github.com/RasPlex/RasPlex) Rasplex is a community driven port of Plex Home Theater for the Raspberry Pi
 - [PlexConnect](https://github.com/iBaa/PlexConnect) Unofficial Plex app for Apple TV devices
 - [go-plex-client](https://github.com/jrudio/go-plex-client) A Plex.tv and Plex Media Server Go client
-
-### Miscellaneous Plex Stuff
-
-- [linuxserver/docker-plex](https://github.com/linuxserver/docker-plex) LinuxServer.io Plex Media Server docker image
-- [plexinc/pms-docker](https://github.com/plexinc/pms-docker) official Plex docker image
-- [timhaak/plex](https://github.com/timhaak/docker-plex) alternative Plex docker image
-- [PlexGuide.com](https://plexguide.com/) Deploy a multi-app supported Plex Server with an HD or GDrive
-- [hoarding.me](https://hoarding.me/) Unlimited and Automated. How to setup your own dream Plex server.
 
 ## Kodi
 - [/r/Addons4Kodi](https://www.reddit.com/r/addons4kodi) discussion and links pertaining to unofficial addons for Kodi Media Center
@@ -649,7 +647,6 @@ premium services
 ## Music
 - [Muxiv Music](https://muxiv.com/) Stream 45 million songs on all your devices, online or offline. Primarily Chinese content.
 - [Soulseek](http://www.soulseekqt.net/news/) Soulseek is an ad-free, spyware free, just plain free file sharing network for Windows, Mac and Linux.
-- [Gazelle](https://whatcd.github.io/Gazelle/) web framework geared towards private torrent trackers with a focus on music
 - [irs](https://github.com/kepoorhampond/irs) A music downloader that understands your metadata needs.
 - [SMLoadr](https://git.fuwafuwa.moe/SMLoadrDev/SMLoadr) A streaming music downloader.
 - [Deezloader](https://www.reddit.com/r/DeezloadersIsBack/comments/9n3pf1/deezloader_alpha_latest_version_download10102018/) Tool for downloading music from Deezer
@@ -670,45 +667,54 @@ premium services
 - [MusicBrainz](https://musicbrainz.org/) MusicBrainz is an open music encyclopedia that collects music metadata and makes it available to the public.
 
 ## Software
+
+- [/r/piracy/wiki/tools](https://www.reddit.com/r/piracy/wiki/tools) Windows/Office activation tools, and images/installers for Windows, Office, and Adobe
+- [nsane.down](https://www.nsanedown.com/) Popular file sharing forum focused on software
+- [CrackingPatching.com](https://crackingpatching.com/) Cracked software
+- [Appked](https://www.macbed.com/) Mac application sharing site
+- [Team-OS HKRG](https://www.teamos-hkrg.com/index.php) Windows software and various activation tools.
+
+### Adobe CC
 - [Adobe CC 2018](https://www.reddit.com/r/sjain_guides/comments/9g4t2u/adobe_cc_2018_full_indepth_guide_to_installing/) Full in-depth guide to installing and cracking any application (Windows)
 - [How to patch Adobe CC 2017 applications on Windows](https://drive.google.com/file/d/0BxfywKwnIU2JdFFraUxhVkllbnc/view)
 - [HOW TO PATCH ADOBE APPLICATIONS ON MAC, WORKING EARLY 2017](https://drive.google.com/file/d/0BxfywKwnIU2JY1RxV0M0U0J1Z1E/view)
 - [Pirating Adobe CC for Dummies](https://www.reddit.com/r/Piracy/comments/5f5uz7/pirating_adobe_cc_for_dummies/) detailed guide about pirating Adobe CC for Windows
+
+### Windows
 - [/r/MSToolkit](https://www.reddit.com/r/mstoolkit) Tools for activating Windows software, including Windows 10 itself
 - [Windows 10 Digital License](https://www.nsaneforums.com/topic/312871-windows-10-digital-license-hwid-kms38%E2%84%A2-generation/?tab=comments#comment-1327529) Advanced tutorial from s1ave77 on activating Windows 10 "legitimately" by binding your HWID to a Microsoft account
 - [How to download and install Windows 10 LTSB](https://www.reddit.com/r/Piracy/comments/8pfnun/how_to_download_and_install_windows_10_ltsb/) Guide by /u/sq_skez. "Take everything we loved about Windows 7, add the under-the-hood improvements of Windows 8 and 10 but none of the marketing/cloud/phone app/user-tracking crap, and what do you get? Windows 10 Enterprise LTSC edition."
-- [nsane.down](https://www.nsanedown.com/) Popular file sharing forum focused on software
 - [TechBench](https://tb.rg-adguard.net/public.php) Find official Windows isos for Windows 7/8/10
-- [CrackingPatching.com](https://crackingpatching.com/) Cracked software
-- [Appked](https://www.macbed.com/) Mac application sharing site
-- [/r/piracy/wiki/tools](https://www.reddit.com/r/piracy/wiki/tools) Windows/Office activation tools, and images/installers for Windows, Office, and Adobe
-- [Team-OS HKRG](https://www.teamos-hkrg.com/index.php) Windows software and various activation tools. 
 
 ## Ebooks
-- [LibGen](http://libgen.io/) search engine for articles and books on various topics, which allows free access to content that is otherwise paywalled or not digitized elsewhere
 - [b-ok](http://b-ok.xyz/) Free ebook library
-- [Sci-Hub](https://sci-hub.tw/) the first pirate website in the world to provide mass and public access to tens of millions of research papers
-- [BookSC](http://booksc.org/) The world's largest scientific articles store. 50,000,000+ articles for free.
 - [The idiot proof guide to downloading ebooks off IRC](https://www.reddit.com/r/Piracy/comments/2oftbu/guide_the_idiot_proof_guide_to_downloading_ebooks/) Posted by /u/Servaplur
 - [Guide to Copy Kindle Content to PDF using Calibre](https://www.reddit.com/r/Piracy/comments/7vc3uv/guide_to_copy_kindle_content_to_pdf_using_calibre/)
 - [Apprentice Alf's Blog](https://apprenticealf.wordpress.com/) Everything you ever wanted to know about DRM and ebooks, but were afraid to ask.
 - [Calibre](https://calibre-ebook.com/) :star2: ebook management tool
 - [Custom Search Engine](https://cse.google.com/cse?cx=000661023013169144559:a1-kkiboeco) A Google custom search engine specifically for ebooks
-- [PDF/Ebook trackers for college textbooks](https://www.reddit.com/r/trackers/comments/hrgmv/tracker_with_pdfsebooks_of_college_textbooks/c1xrq44/) Old-but-still-useful list of ebook/textbook trackers, DDL sites, and IRC communities
+
+## Magazines
 - [PDF Giant](http://pdf-giant.com/) Various categories of downloadable PDFs
 - [MagazineLib](https://magazinelib.com/) Free PDF and interactive e-magazines
-- [Bypass Paywalls](https://addons.mozilla.org/en-US/firefox/addon/bypasspaywalls/) Firefox add-on which allows you to bypass paywalls of many news sites
-- [Outline](https://chrome.google.com/webstore/detail/outline-read-without-clut/daoolpmoieinofbnddaofhkhmbagfmnj) Designed to remove ads, comments, and other junk from news articles but conveniently also bypasses paywalls
-- [All IT eBooks](http://www.allitebooks.com/) A big database of free, direct links for IT and programming ebooks
 
-## Education
+## Academic Papers
+- [LibGen](http://libgen.io/) search engine for articles and books on various topics, which allows free access to content that is otherwise paywalled or not digitized elsewhere
+- [Sci-Hub](https://sci-hub.tw/) the first pirate website in the world to provide mass and public access to tens of millions of research papers
+- [BookSC](http://booksc.org/) The world's largest scientific articles store. 50,000,000+ articles for free.
+
+## Textbooks
+- [All IT eBooks](http://www.allitebooks.com/) A big database of free, direct links for IT and programming ebooks
+- [PDF/Ebook trackers for college textbooks](https://www.reddit.com/r/trackers/comments/hrgmv/tracker_with_pdfsebooks_of_college_textbooks/c1xrq44/) Old-but-still-useful list of ebook/textbook trackers, DDL sites, and IRC communities
+- [How to "rent" your textbooks for free from Amazon](https://www.reddit.com/r/Piracy/comments/3ma9qe/guide_how_to_rent_your_textbooks_for_free_from/) "Going to college? Living off top ramen for dinner? Let me show you have to "rent" your textbooks for free & for life!"
+- [Guide for Finding Textbooks](https://www.reddit.com/r/Piracy/comments/3i9y7n/guide_for_finding_textbooks/) Extensive tutorial by /u/Amosqu
+
+## Courses and Tutorials
 - [TUTSGALAXY](https://tutsgalaxy.com/)
 - [FreeTutorials.eu](https://www.freetutorials.eu/) Lots of Udemy courses for free, has adblock detector
 - [coursehunter](https://www.coursehunters.net/) Watch paid tutorials online for free
 - [FrontendMasters.com Courses](https://drive.google.com/drive/folders/1GVDOv-9uCq_76VQ5UjkzIegagQ0GVXc2) A collection of web development courses from FrontendMasters.com
 - [Lynda Courses](https://www.reddit.com/r/megalinks/comments/7vlt4j/education_lynda_266_courses_207gb/) 266+ Lynda courses
-- [Guide for Finding Textbooks](https://www.reddit.com/r/Piracy/comments/3i9y7n/guide_for_finding_textbooks/) Extensive tutorial by /u/Amosqu
-- [How to "rent" your textbooks for free from Amazon](https://www.reddit.com/r/Piracy/comments/3ma9qe/guide_how_to_rent_your_textbooks_for_free_from/) "Going to college? Living off top ramen for dinner? Let me show you have to "rent" your textbooks for free & for life!"
 - [GFXDomain.net Tutorials board](http://forum.gfxdomain.net/forums/others-tutorials.42/) Forum with free tutorials for graphic design, mostly via premium file hosts but some torrents
 
 ## Audiobooks
