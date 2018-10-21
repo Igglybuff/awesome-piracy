@@ -395,6 +395,7 @@ You will notice some items in this list have a :star2: next to them. Items with 
 
 #### Free Indexers
 - [6box](https://6box.me/) :star2: A recently revived free Usenet indexing service with a generous API
+- [Usenet Crawler](https://usenet-crawler.com/) Usenet indexer with API access for registered users
 - [NZBIndex](https://www.nzbindex.com) The first free Usenet indexer you find in your Google search results
 - [Binsearch](https://www.binsearch.info/) With this site you can search and browse binary usenet newsgroups.
 - [NZBKing](http://nzbking.com/) This service allows you to search and browse binary files that have been posted to Usenet newsgroups.
