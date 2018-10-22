@@ -318,7 +318,6 @@ You will notice some items in this list have a :star2: next to them. Items with 
 - [Popcorn Time](https://github.com/popcorn-official/popcorn-desktop) Popcorn Time is a multi-platform, free software BitTorrent client that includes an integrated media player.
 - [Butter Project](http://butterproject.org/) A legal fork of Popcorn Time which is configurable to allow for custom sources of video
 - [magnetoo](https://www.magnetoo.io/) Fancy new in-browser WebTorrent streaming service
-- [Soda Player](https://www.sodaplayer.com/) Open and play magnet links and torrent files instantly.
 - [βTorrent](https://btorrent.xyz/) fully-featured [WebTorrent](https://webtorrent.io/) browser client written in HTML, JS and CSS
 - [WebTorrent Desktop](https://webtorrent.io/desktop/) WebTorrent Desktop is for streaming torrents.
 - [BitLord](http://www.bitlord.com/) Another BitTorrent streaming client
