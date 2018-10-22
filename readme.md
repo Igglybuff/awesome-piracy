@@ -160,6 +160,7 @@ You will notice some items in this list have a :star2: next to them. Items with 
 - [NoScript](https://addons.mozilla.org/en-US/firefox/addon/noscript/) Allow active content to run only from sites you trust, and protect yourself against XSS and clickjacking attacks. Firefox only.
 - [Bypass Paywalls](https://addons.mozilla.org/en-US/firefox/addon/bypasspaywalls/) Firefox add-on which allows you to bypass paywalls of many news sites
 - [Outline](https://chrome.google.com/webstore/detail/outline-read-without-clut/daoolpmoieinofbnddaofhkhmbagfmnj) Designed to remove ads, comments, and other junk from news articles but conveniently also bypasses paywalls
+- [Netflix Party](https://www.netflixparty.com/) Netflix Party is a Chrome extension for watching Netflix remotely with other users.
 
 ## Userscripts
 - [Anti-Adblock Killer](https://github.com/reek/anti-adblock-killer) Anti-Adblock Killer helps you keep your Ad-Blocker active, when you visit a website and it asks you to disable.
