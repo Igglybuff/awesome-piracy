@@ -65,6 +65,10 @@
 - [Anime](#anime)
 - [Cartoons](#cartoons)
 - [Music](#music)
+	- [Music Streaming](#music-streaming)
+	- [Music Downloading](#music-downloading)
+	- [Spotify](#spotify)
+	- [iTunes](#itunes)
 - [Software](#software)
 - [Ebooks](#ebooks)
 - [Magazines](#magazines)
@@ -346,6 +350,8 @@ You will notice some items in this list have a :star2: next to them. Items with 
 - [FeralHosting](https://www.feralhosting.com/pricing) Shared seedbox hosting provider
 - [Whatbox](https://whatbox.ca/) Whatbox is a BitTorrent CDN
 - [Seedboxes.cc](https://seedboxes.cc/) Reliable and affordable web hosting, with the power of your friendly monsters!
+- [UltraSeedbox](https://www.ultraseedbox.com/) "Plex optimized" servers to rent
+- [SeedHost](https://www.seedhost.eu/seedboxes.php) "Seedhost.eu is the oldest continuously operating seedbox hosting provider on the internet."
 
 #### Seedbox Setup Tools and Guides
 - [swizzin](https://swizzin.ltd/) a light, modular package management suite for media oriented servers
@@ -485,6 +491,7 @@ premium services
 - [youtube-dl](https://rg3.github.io/youtube-dl/) youtube-dl is a command-line program to download videos from YouTube.com and a few more sites.
 - [youtube-dl-gui](https://mrs0m30n3.github.io/youtube-dl-gui/) A cross platform front-end GUI of the popular youtube-dl written in wxPython
 - [YouTube MP3 Rip](https://youtubemp3.rip/) Download YouTube music videos as MP3 files without registration
+- [pyLoad](https://pyload.net/) Free and Open Source download manager written in Python and designed to be extremely lightweight, easily extensible and fully manageable via web
 - [annie](https://github.com/iawia002/annie) Fast, simple and clean video downloader
 - [aria2](https://aria2.github.io/) a lightweight multi-protocol & multi-source command-line download utility.
 - [ripme](https://github.com/RipMeApp/ripme) A album/video downloader with support for over 80 sites
@@ -560,6 +567,7 @@ premium services
 - [Gerbera](https://github.com/gerbera/gerbera) UPnP Media Server for 2018 (Based on MediaTomb)
 - [Serviio](http://serviio.org/) Serviio is a free media server. It allows you to stream your media files (music, video or images) to renderer devices (e.g. a TV set, Blu-ray player, games console or mobile phone) on your connected home network.
 - [OSMC](https://osmc.tv/) OSMC (short for Open Source Media Center) is a Linux distribution based on Debian that brings Kodi to a variety of devices.
+- [Subsonic](http://www.subsonic.org/pages/index.jsp) Music and movie streaming server with a client app and web frontend
 
 ## Plex
 - [linuxserver/docker-plex](https://github.com/linuxserver/docker-plex) LinuxServer.io Plex Media Server docker image
@@ -610,6 +618,7 @@ premium services
 - [Plex Redirect](https://github.com/ITRav4/PlexRedirect) a Plex landing page that redirects you to various sites.
 - [Plaxt](https://plaxt.herokuapp.com/) Webhook-based Trakt.tv scrobbling for Plex
 - [plxdwnld](https://piplong.run/plxdwnld/) Bookmarklet for downloading original files from the Plex web interface
+- [Kitana](https://github.com/pannal/Kitana) Kitana exposes your Plex plugin interfaces "to the outside world".
 
 ### Plex Shares
 - [/r/plexshares](https://www.reddit.com/r/plexshares/) A nice place to find Plex Media Server shares.
@@ -706,29 +715,38 @@ premium services
 - [Toonova](http://www.toonova.net/) Another site for streaming cartoons
 
 ## Music
+- [Madsonic](madsonic.org) Madsonic is a web-based media library and media streamer with jukebox functionality.
+- [MusicBrainz](https://musicbrainz.org/) MusicBrainz is an open music encyclopedia that collects music metadata and makes it available to the public.
+
+### Music Streaming
 - [Muxiv Music](https://muxiv.com/) Stream 45 million songs on all your devices, online or offline. Primarily Chinese content.
-- [Soulseek](http://www.soulseekqt.net/news/) Soulseek is an ad-free, spyware free, just plain free file sharing network for Windows, Mac and Linux.
-- [irs](https://github.com/kepoorhampond/irs) A music downloader that understands your metadata needs.
-- [SMLoadr](https://git.fuwafuwa.moe/SMLoadrDev/SMLoadr) A streaming music downloader.
-- [Deezloader](https://www.reddit.com/r/DeezloadersIsBack/comments/9n3pf1/deezloader_alpha_latest_version_download10102018/) Tool for downloading music from Deezer
-- [/r/DeezloaderIsBack](https://www.reddit.com/r/DeezloadersIsBack) Community supporting Deezloader
-- [Get rid of Spotify ads](https://www.reddit.com/r/Piracy/comments/9jvlf8/get_rid_of_spotify_adsbannerslimited_skips_and/) Short guide on avoiding ads, banners, limited skips, and locked shuffle mode in Spotify Free
-- [Spotify Megathread](https://www.reddit.com/r/Piracy/comments/82wzi0/spotify_megathread/) /r/Piracy Spotify-related discussion and future developments
-- [EZBlocker](https://github.com/Xeroday/Spotify-Ad-Blocker/) a Spotify Ad Blocker written in C# for Windows 7/8/10.
-- [TunesKit](https://www.tuneskit.com/) iTunes DRM removal tool
-- [Requiem](https://digiex.net/threads/requiem-4-1-remove-itunes-drm-fairplay-from-music-video-and-books.11796/) Requiem is a program that removes Apple's DRM (called FairPlay) from songs, videos, and books purchased on iTunes
-- [How to Remove DRM From iTunes Movies and TV Shows](https://www.howtogeek.com/291612/how-to-remove-drm-from-itunes-movies-and-tv-shows/) HowToGeek article on how to use TunesKit and Requiem
-- [Plus Premieres](https://www.pluspremieres.eu/) Download newest iTunes music in M4A format
 - [Hikarinoakariost](https://hikarinoakariost.info/) Site with Japanese music
 - [mp3Clan](http://mp3guild.com/) Free music streaming
 - [GoSong](https://gosong.unblocked.gdn/) Streamable MP3s
 - [MP3Juices](https://mp3juices.unblocked.gdn/) MP3 search engine tool which uses YouTube
 - [mp3.li](http://mp3li.unblckd.club) Another MP3 streaming site
 - [SongsPK](https://songs-pk.in/) Mainly for downloading Bollywood songs. Domain changes frequently.
-- [MusicBrainz](https://musicbrainz.org/) MusicBrainz is an open music encyclopedia that collects music metadata and makes it available to the public.
-- [New Album Releases](http://newalbumreleases.net/) Premium DDL links for full albums
 - [datmusic](https://datmusic.xyz/) Search engine with a clean UI for streaming music in your browser
 - [MusicPleer](https://musicpleer.la/) Another music streaming site with a decent search engine
+
+### Music Downloading
+- [Soulseek](http://www.soulseekqt.net/news/) Soulseek is an ad-free, spyware free, just plain free file sharing network for Windows, Mac and Linux.
+- [irs](https://github.com/kepoorhampond/irs) A music downloader that understands your metadata needs.
+- [SMLoadr](https://git.fuwafuwa.moe/SMLoadrDev/SMLoadr) A streaming music downloader.
+- [Deezloader](https://www.reddit.com/r/DeezloadersIsBack/comments/9n3pf1/deezloader_alpha_latest_version_download10102018/) Tool for downloading music from Deezer
+- [/r/DeezloaderIsBack](https://www.reddit.com/r/DeezloadersIsBack) Community supporting Deezloader
+- [New Album Releases](http://newalbumreleases.net/) Premium DDL links for full albums
+
+### Spotify
+- [Get rid of Spotify ads](https://www.reddit.com/r/Piracy/comments/9jvlf8/get_rid_of_spotify_adsbannerslimited_skips_and/) Short guide on avoiding ads, banners, limited skips, and locked shuffle mode in Spotify Free
+- [Spotify Megathread](https://www.reddit.com/r/Piracy/comments/82wzi0/spotify_megathread/) /r/Piracy Spotify-related discussion and future developments
+- [EZBlocker](https://github.com/Xeroday/Spotify-Ad-Blocker/) a Spotify Ad Blocker written in C# for Windows 7/8/10.
+
+### iTunes
+- [TunesKit](https://www.tuneskit.com/) iTunes DRM removal tool
+- [Requiem](https://digiex.net/threads/requiem-4-1-remove-itunes-drm-fairplay-from-music-video-and-books.11796/) Requiem is a program that removes Apple's DRM (called FairPlay) from songs, videos, and books purchased on iTunes
+- [How to Remove DRM From iTunes Movies and TV Shows](https://www.howtogeek.com/291612/how-to-remove-drm-from-itunes-movies-and-tv-shows/) HowToGeek article on how to use TunesKit and Requiem
+- [Plus Premieres](https://www.pluspremieres.eu/) Download newest iTunes music in M4A format
 
 ## Software
 - [/r/piracy/wiki/tools](https://www.reddit.com/r/piracy/wiki/tools) Windows/Office activation tools, and images/installers for Windows, Office, and Adobe
@@ -938,6 +956,7 @@ premium services
 - [XDCC Tutorial](http://theloadguru.com/xdcc-irc-beginners-guide/) XDCC Downloading For Beginners: Do It Like A Pro
 - [autodl-irssi](https://autodl-community.github.io/autodl-irssi/) autodl-irssi is a plugin for irssi that monitors IRC announce channels for torrent trackers and downloads torrent files based on user-defined filters.
 - [XDCC](https://en.wikipedia.org/wiki/XDCC) XDCC (Xabi DCC or eXtended DCC) is a computer file sharing method which uses the Internet Relay Chat (IRC) network as a host service.
+- [ZNC](https://github.com/znc/znc) An advanced IRC bouncer
 
 ### IRC Clients
 - [weechat](https://github.com/weechat/weechat) :star2: The extensible chat client.
@@ -945,6 +964,8 @@ premium services
 - [HexChat](https://hexchat.github.io/) HexChat is an IRC client based on XChat, but unlike XChat it’s completely free for both Windows and Unix-like systems.
 - [KVIrc](https://github.com/kvirc/KVIrc) Graphical IRC client
 - [mIRC](https://www.mirc.com/) IRC client for Windows
+- [Shout](https://github.com/erming/shout) The self-hosted web IRC client
+- [Kiwi IRC](https://kiwiirc.com/) Popular web-based IRC client
 
 ### IRC Networks
 - [irc.p2p-network.net](https://p2p-network.net/) P2P file sharing network
