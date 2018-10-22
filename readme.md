@@ -984,6 +984,10 @@ premium services
 
 ## Piracy Blogs and News
 - [TorrentFreak](https://torrentfreak.com) :star2: TorrentFreak is a publication dedicated to bringing the latest news about copyright, privacy, and everything related to filesharing.
+- [FileSharingTalk](https://filesharingtalk.com/) Mostly posts articles about copyright, filesharing, software etc.
+- [Slyck](http://Slyck.com/) Mostly posts articles about legal news within the Piracy world, and is usually pretty active, posting several articles per day.
+- [ZeroPaid](http://Zeropaid.com/) Not usually first with the news, but ZeroPaid posts a lot of legal news, and is pretty active with a few articles each day.
+- [FileShareFreak])http://fsfmirror.blogspot.com/) Posts latest news about copyright, privacy.
 
 ## Content Discovery
 - [Trakt.tv](https://trakt.tv/) :star2: a platform that does many things, but primarily keeps track of TV shows and movies you watch.
