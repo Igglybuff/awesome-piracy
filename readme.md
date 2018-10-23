@@ -24,9 +24,11 @@
 		- [Semi-Private Trackers](#semi-private-trackers)
 		- [Public Trackers](#public-trackers)
 	- [Tracker Aggregators](#tracker-aggregators)
+	- [Tracker Proxies](#tracker-proxies)
 	- [Tracker Invites](#tracker-invites)
 	- [Torrent Clients](#torrent-clients)
 		- [rTorrent](#rtorrent)
+		- [WebTorrent Clients](#webtorrent-clients)
 	- [Seedboxes](#seedboxes)
 		- [Seedbox Hosting Providers](#seedbox-hosting-providers)
 		- [Seedbox Setup Tools and Guides](#seedbox-setup-tools-and-guides)
@@ -38,13 +40,15 @@
 		- [Free Indexers](#free-indexers)
 	- [Usenet Clients](#usenet-clients)
 - [Direct Downloads](#direct-downloads)
+	- [Download Managers](#download-managers)
+	- [DDL Tools](#ddl-tools)
 	- [Custom Google Search Engines](#custom-google-search-engines)
-	- [Normal DDL Indexers](#normal-ddl-indexers)
-	- [Premium Link DDL Indexers](#premium-link-ddl-indexers)
+	- [FTP Indexers](#ftp-indexers)
+	- [DDL Search Engines and Crawlers](#ddl-search-engines-and-crawlers)
+	- [DDL Link Sites](#normal-ddl-indexers)
 	- [Premium Link Generators](#premium-link-generators)
 	- [Premium Link Hosts](#premium-link-hosts)
 	- [Open Directories](#open-directories)
-	- [Downloaders](#downloaders)
 	- [Sports Streaming](#sports-streaming)
 	- [Streaming Sites](#streaming-sites)
 - [Media Centre Applications](#media-centre-applications)
@@ -297,14 +301,16 @@ You will notice some items in this list have a :star2: next to them. Items with 
 - [WorldWide Torrents](https://worldwidetorrents.me/) Another public tracker with a reasonably nice UI
 
 ### Tracker Aggregators
-- [Jackett](https://github.com/Jackett/Jackett) API Support for your favorite torrent trackers.
-- [Cardigann](https://github.com/cardigann/cardigann) A proxy server for adding new indexers to Sonarr, SickRage and other media managers
-- [nzbhydra2](https://github.com/theotherp/nzbhydra2/) :star2: Primarily a Usenet meta search engine but also supports Torznab
 - [snowfl](https://snowfl.com/) snowfl is a torrent aggregator which searches various public torrent indexes in real-time
 - [TParser](http://tparser.org/) Russian torrent sites indexer
 - [Torrents.me](https://torrents.me/) Torrents.me combines popular torrent sites and specialized private trackers in a torrent multisearch.
 - [rats-search](https://github.com/DEgITx/rats-search) P2P Bittorrent search engine
 - [AIO Search](http://www.aiosearch.com/) Torrent search engine
+
+### Tracker Proxies
+- [Jackett](https://github.com/Jackett/Jackett) API Support for your favorite torrent trackers.
+- [Cardigann](https://github.com/cardigann/cardigann) A proxy server for adding new indexers to Sonarr, SickRage and other media managers
+- [nzbhydra2](https://github.com/theotherp/nzbhydra2/) :star2: Primarily a Usenet meta search engine but also supports Torznab
 
 ### Tracker Invites
 - [/r/OpenSignups](https://www.reddit.com/r/opensignups) Open Signups - When Private Trackers Open Their Doors To The Public
@@ -321,9 +327,6 @@ You will notice some items in this list have a :star2: next to them. Items with 
 - [Deluge](https://www.deluge-torrent.org/) Deluge is a lightweight, Free Software, cross-platform BitTorrent client.
 - [Popcorn Time](https://github.com/popcorn-official/popcorn-desktop) Popcorn Time is a multi-platform, free software BitTorrent client that includes an integrated media player.
 - [Butter Project](http://butterproject.org/) A legal fork of Popcorn Time which is configurable to allow for custom sources of video
-- [magnetoo](https://www.magnetoo.io/) Fancy new in-browser WebTorrent streaming service
-- [βTorrent](https://btorrent.xyz/) fully-featured [WebTorrent](https://webtorrent.io/) browser client written in HTML, JS and CSS
-- [WebTorrent Desktop](https://webtorrent.io/desktop/) WebTorrent Desktop is for streaming torrents.
 - [BitLord](http://www.bitlord.com/) Another BitTorrent streaming client
 - [Tixati](https://tixati.com/) Lightweight torrent client for Windows and Linux
 - [PicoTorrent](https://picotorrent.org/) Lightweight and minimalistic torrent client for Windows
@@ -336,6 +339,11 @@ You will notice some items in this list have a :star2: next to them. Items with 
 - [flood](https://github.com/jfurrow/flood) A web UI for rTorrent with a Node.js backend and React frontend.
 - [rTorrent ArchWiki Page](https://wiki.archlinux.org/index.php/RTorrent) Detailed article to answer most common questions about rTorrent
 - [rTorrent Seedbox Guide](https://jes.sc/kb/rTorrent-ruTorrent-Seedbox-Guide.php) This guide is a single-page, comprehensive guide to take you step-by-step through installation and configuration.
+
+#### WebTorrent Clients
+- [magnetoo](https://www.magnetoo.io/) Fancy new in-browser WebTorrent streaming service
+- [βTorrent](https://btorrent.xyz/) fully-featured [WebTorrent](https://webtorrent.io/) browser client written in HTML, JS and CSS
+- [WebTorrent Desktop](https://webtorrent.io/desktop/) WebTorrent Desktop is for streaming torrents.
 
 ### Seedboxes
 - [/r/seedboxes](https://www.reddit.com/r/seedboxes) A place to discuss seedboxes and everything related to them.
@@ -403,15 +411,32 @@ You will notice some items in this list have a :star2: next to them. Items with 
 - [NZBget](https://nzbget.net/) Efficient Usenet downloader written in C++
 
 ## Direct Downloads
+
+### Download Managers
+- [JDownloader2](http://www.jdownloader.org/home/index) :star2: JDownloader is a free, open-source download management tool with a huge community of developers that makes downloading as easy and fast as it should be.
+- [Internet Download Manager](https://www.internetdownloadmanager.com/) shareware download manager for Windows
+- [pyLoad](https://pyload.net/) Free and Open Source download manager written in Python and designed to be extremely lightweight, easily extensible and fully manageable via web
+
+### DDL Tools
+- [youtube-dl](https://rg3.github.io/youtube-dl/) :star2: youtube-dl is a command-line program to download videos from YouTube.com and a few more sites.
+- [youtube-dl-gui](https://mrs0m30n3.github.io/youtube-dl-gui/) A cross platform front-end GUI of the popular youtube-dl written in wxPython
+- [YouTube MP3 Rip](https://youtubemp3.rip/) Download YouTube music videos as MP3 files without registration
 - [Leonflix](https://leonflix.net/) :star2: A multi-platform desktop app for finding movies and TV shows.
 - [maulvi.github.io](https://maulvi.github.io/) Google Drive direct download link generator
 - [RapidLeech](https://github.com/Th3-822/rapidleech) a free server transfer script for use on various popular upload/download sites such as uploaded.net, Rapidgator.net and more than 127 others.
 - [megatools](https://github.com/megous/megatools) Open-source command line tools and C library (libmega) for accessing Mega.co.nz cloud storage.
-- [/r/megalinks](https://www.reddit.com/r/megalinks) Links to files on Mega. Has now moved to snahp.it
-- [/r/GDriveLinks](https://www.reddit.com/r/GDriveLinks/) Google Drive Download Links
 - [MegaCrypt.js](https://github.com/JohnDeved/megacrypt.js) MegaCrypt.js lets you share your Mega.nz files without actually having to share any Mega.nz links by encrypting them to create a secure proxy to your files.
-- [DirtyWarez Forum](https://forum.dirtywarez.com/) Popular warez forum with films, TV shows, ebooks, anime, games, and more
 - [netclix](https://github.com/ston3o/netclix) A simple cli tool to get movie streaming premium links from VodLocker's API
+- [FilePursuit](https://filepursuit.com) :star2: FilePursuit provides a very powerful file indexing and search service allowing you to find a file among millions of files located on web servers.
+- [grayhatwarfare S3 bucket search](https://buckets.grayhatwarfare.com/) Not likely to find much with this one but interesting nonetheless
+- [annie](https://github.com/iawia002/annie) Fast, simple and clean video downloader
+- [aria2](https://aria2.github.io/) a lightweight multi-protocol & multi-source command-line download utility.
+- [ripme](https://github.com/RipMeApp/ripme) A album/video downloader with support for over 80 sites
+- [rdcli](https://github.com/ston3o/rdcli) The simple way to download and unrestrict DDL files, torrents and magnets using Real-Debrid
+- [get_iplayer](https://github.com/get-iplayer/get_iplayer) A utility for downloading TV and radio programmes from BBC iPlayer
+- [MEGAsync](https://mega.nz/sync) Easy automated synchronisation between your computer and your MEGA account. Can stream Mega videos directly.
+- [wget](https://www.gnu.org/software/wget/) `wget` is a free and open source tool for downloading files using HTTP, HTTPS, FTP and FTPS. It can be easily called from scripts, cronjobs, terminals without X-Windows support, etc.
+- [curl](https://en.wikipedia.org/wiki/CURL) `curl` is a command-line tool for downloading data using a variety of protocols. Easily installable on most operating systems.
 
 ### Custom Google Search Engines
 - [FileChef](http://filechef.com/) These all
@@ -419,18 +444,21 @@ You will notice some items in this list have a :star2: next to them. Items with 
 - [lumpySoft.com](https://lumpysoft.com/) same
 - [mattpalm.com/search](https://mattpalm.com/search/) thing :)
 
-### Normal DDL Indexers
+### FTP Indexers
 - [Napalm FTP Indexer](https://www.searchftps.net/) NAPALM FTP Indexer lets you search and download files located on public FTP servers.
-- [FilePursuit](https://filepursuit.com) :star2: FilePursuit provides a very powerful file indexing and search service allowing you to find a file among millions of files located on web servers.
 - [Mamont's open FTP Index](http://www.mmnt.net/) Browsable directory listing of publicly available FTP-sites
-- [grayhatwarfare S3 bucket search](https://buckets.grayhatwarfare.com/) Not likely to find much with this one but interesting nonetheless
 
-### Premium Link DDL Indexers
-- [snahp.it](https://snahp.it/) :star2: replaced /r/megalinks
+### DDL Search Engines and Crawlers
 - [ololo](https://ololo.to/) ololo is a video streaming link search engine.
-- [VideoSpider](https://videospider.in/) VideoSpider crawls various websites and search engines to find movie and TV episode streaming links
 - [MegaSearch](http://megasearch.co) Search engine for finding content hosted on Mega and other premium hosts like OpenLoad
+- [VideoSpider](https://videospider.in/) VideoSpider crawls various websites and search engines to find movie and TV episode streaming links
 - [Orion](https://orionoid.com/) Orion is a service that indexes metadata and links from a variety of public websites and networks, including torrent, usenet, and hoster indexes.
+
+### DDL Link Sites
+- [/r/megalinks](https://www.reddit.com/r/megalinks) Links to files on Mega. Has now moved to snahp.it
+- [/r/GDriveLinks](https://www.reddit.com/r/GDriveLinks/) Google Drive Download Links
+- [DirtyWarez Forum](https://forum.dirtywarez.com/) Popular warez forum with films, TV shows, ebooks, anime, games, and more
+- [snahp.it](https://snahp.it/) :star2: replaced /r/megalinks
 - [hdencode](https://hdencode.com/)
 - [Movie Glide](https://www.movieglide.com/)
 - [Release BB](http://rlsbb.ru)
@@ -457,7 +485,7 @@ You will notice some items in this list have a :star2: next to them. Items with 
 - [ScnLog](https://scnlog.me/)
 
 ### Premium Link Generators
-- [File Hosting Wiki](https://filehostlist.miraheze.org/wiki/Main_Page)
+- [File Hosting Wiki](https://filehostlist.miraheze.org/wiki/Main_Page) This site aims to provide the most complete lists of premium link generators, torrent downloaders and more, with (possibly) frequent updates.
 - [Real-Debrid](https://real-debrid.com/) :star2: Real-Debrid is an unrestricted downloader that allows you to quickly download files hosted on the Internet or instantly stream them into an innovative web player
 - [Premiumize](https://www.premiumize.me/) Combine direct and secure access to
 premium services
@@ -466,6 +494,7 @@ premium services
 
 ### Premium Link Hosts
 - [Mega](https://mega.nz/) :star2:
+- [OpenLoad](https://openload.co/)
 - [RapidGator](https://rapidgator.net/)
 - [4shared](https://www.4shared.com/)
 - [Mediafire](https://www.mediafire.com/)
@@ -484,22 +513,6 @@ premium services
 - [FileMasta](https://github.com/HerbL27/FileMasta) Search servers for video, music, books, software, games, subtitles and much more
 - [/r/opendirectories](https://www.reddit.com/r/opendirectories) Unprotected directories of pics, vids, music, software and otherwise interesting files.
 - [Stremio Open Directories addon](https://www.reddit.com/r/opendirectories/comments/9n8ig8/stremio_open_directories/) Finds HTTP streams for movies/shows from open directories
-
-### Downloaders
-- [JDownloader2](http://www.jdownloader.org/home/index) :star2: JDownloader is a free, open-source download management tool with a huge community of developers that makes downloading as easy and fast as it should be.
-- [Internet Download Manager](https://www.internetdownloadmanager.com/) shareware download manager for Windows
-- [youtube-dl](https://rg3.github.io/youtube-dl/) youtube-dl is a command-line program to download videos from YouTube.com and a few more sites.
-- [youtube-dl-gui](https://mrs0m30n3.github.io/youtube-dl-gui/) A cross platform front-end GUI of the popular youtube-dl written in wxPython
-- [YouTube MP3 Rip](https://youtubemp3.rip/) Download YouTube music videos as MP3 files without registration
-- [pyLoad](https://pyload.net/) Free and Open Source download manager written in Python and designed to be extremely lightweight, easily extensible and fully manageable via web
-- [annie](https://github.com/iawia002/annie) Fast, simple and clean video downloader
-- [aria2](https://aria2.github.io/) a lightweight multi-protocol & multi-source command-line download utility.
-- [ripme](https://github.com/RipMeApp/ripme) A album/video downloader with support for over 80 sites
-- [rdcli](https://github.com/ston3o/rdcli) The simple way to download and unrestrict DDL files, torrents and magnets using Real-Debrid
-- [get_iplayer](https://github.com/get-iplayer/get_iplayer) A utility for downloading TV and radio programmes from BBC iPlayer
-- [MEGAsync](https://mega.nz/sync) Easy automated synchronisation between your computer and your MEGA account. Can stream Mega videos directly.
-- [wget](https://www.gnu.org/software/wget/) `wget` is a free and open source tool for downloading files using HTTP, HTTPS, FTP and FTPS. It can be easily called from scripts, cronjobs, terminals without X-Windows support, etc.
-- [curl](https://en.wikipedia.org/wiki/CURL) `curl` is a command-line tool for downloading data using a variety of protocols. Easily installable on most operating systems.
 
 ### Streaming Sites
 - [How To Stream Movies, TV, Anime & Sports Online](https://www.reddit.com/r/FREEMEDIAFUCKYEAH/comments/9q11kg/how_to_stream_movies_tv_anime_sports_online/) :star2: Huge list by /u/nbatman
