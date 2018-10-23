@@ -108,9 +108,9 @@
 
 ## Preamble
 Over the past couple of years I've accumulated bookmarks, saved reddit posts, and GitHub stars all related to piracy in some form or another. This list is my attempt to add structure to those resources and share them. Everything you need to get started on your pirate voyage can be found below.
+ng lists.
 
-I am aware that a number of websites featured in this list rely on operating under obscurity, and that this list could potentially contribute to their demise through excess exposure. I'm sorry about that - I just like making lists.
-
+I am aware that a number of websites featured in this list rely on operating under obscurity, and that this list could potentially contribute to their demise through excess exposure. I'm sorry about that - I just like maki
 Please ensure you use an adblocker like [uBlock Origin](https://github.com/gorhill/uBlock) to access any of the websites listed here, otherwise you will have a bad time.
 
 For discussion and feedback, please head to [the reddit thread on /r/Piracy](https://old.reddit.com/r/Piracy/comments/9nontk/awesome_piracy_a_curated_list_of_awesome_warez/). If you come across dead links, please report them by [creating an issue](https://github.com/Igglybuff/awesome-piracy/issues/new).
@@ -143,11 +143,12 @@ You will notice some items in this list have a :star2: next to them. Items with 
 - [ProtonVPN](https://protonvpn.com/) High-speed Swiss VPN that safeguards your privacy.
 - [NordVPN](https://nordvpn.com/) With NordVPN, encrypt your online activity to protect your private data from hackers or snoopy advertisers.
 - [TunnelBear](https://www.tunnelbear.com/) Really simple VPN to browse the web privately & securely. Unblock websites around the world with applications for Mac, PC, iOS, Android & your browser.
+- [ExpressVPN](https://www.expressvpn.com/vpnmentor1) Literally just another vpn. 256 bit encryption, 94 countries and no logs. Also rated one of the fastest vpn's out there.
 
 ### Self-hosted VPNs
 - [n2n](https://github.com/ntop/n2n) Peer-to-peer VPN
 - [PeerVPN](https://peervpn.net/) PeerVPN is a software that builds virtual ethernet networks between multiple computers.
-- [OpenVPN](https://openvpn.net/) OpenVPN provides flexible VPN solutions to secure your data communications, whether it's for Internet privacy, remote access for employees, securing IoT, or for networking Cloud data centers.
+- [OpenVPN](https://openvpn.net/) :star2: OpenVPN provides flexible VPN solutions to secure your data communications, whether it's for Internet privacy, remote access for employees, securing IoT, or for networking Cloud data centers.
 - [Pritunl](https://pritunl.com/) Enterprise Distributed OpenVPN and IPsec Server
 - [WireGuard VPN](https://www.wireguard.com/) WireGuard is an extremely simple yet fast and modern VPN that utilizes state-of-the-art cryptography. It aims to be faster, simpler, leaner, and more useful than IPSec.
 - [sshuttle](https://github.com/sshuttle/sshuttle) Transparent proxy server that works as a poor man's VPN.
@@ -203,10 +204,15 @@ You will notice some items in this list have a :star2: next to them. Items with 
 ## Decentralised Networks
 - [Tor](https://www.torproject.org/) :star2: Tor is free software and an open network that helps you defend against traffic analysis.
 - [I2P](https://geti2p.net/en/) I2P is an anonymous overlay network - a network within a network. It is intended to protect communication from dragnet surveillance and monitoring by third parties such as ISPs.
+- [dn42](https://dn42.net/home) As a not exactly "private" network, but it contains a lot of forums for hackers, pirates and techies. 
 
 ## Operating Systems
 - [Qubes OS](https://www.qubes-os.org/) Qubes OS is a security-oriented operating system
 - [Tails](https://tails.boum.org/) Tails is a live operating system that you can start on almost any computer from a USB stick or a DVD.
+- [IprediaOS](https://www.ipredia.org/os/) IprediaOS is a linux based OS. It uses the I2P Network for everything (garlic routing). Many applications are available in IprediaOS, including mail, peer-peer, bittorrent, IRC chat and others.
+- [TENS](https://www.tens.af.mil/download.htm) Developed by the US Airforce, and approved by the NSA. It's made to run as a live version, and dosen't include many applications from start. There is a "Public Deluxe" version, that includes LibreOffice and Adobe Reader.
+
+
 
 ## Domain Name Registrars
 - [Njalla](https://njal.la/) a privacy-aware domain registration service
