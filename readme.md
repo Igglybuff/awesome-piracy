@@ -221,6 +221,7 @@ You will notice some items in this list have a :star2: next to them. Items with 
 - [Live Tracer](https://trace.corrupt-net.org/live.php) Pre-time tracer for scene releases
 - [magent2torrent.me](http://magnet2torrent.me/) Converts magnet links to torrent files
 - [Torrage](https://torrage.info/) Torrage is a free service for caching torrent files online.
+- [peerflix Google Search](https://www.google.com/search?q=peerflix+site%3Aherokuapp.com) Searches Heroku-deployed instances of Peerflix for streaming torrents
 
 ### Trackers
 - [/r/trackers](https://www.reddit.com/r/trackers) :star2: A subreddit for discussing public & private trackers.
@@ -331,6 +332,7 @@ You will notice some items in this list have a :star2: next to them. Items with 
 - [Tixati](https://tixati.com/) Lightweight torrent client for Windows and Linux
 - [PicoTorrent](https://picotorrent.org/) Lightweight and minimalistic torrent client for Windows
 - [FrostWire](https://www.frostwire.com/) FrostWire is a Free and open-source BitTorrent client first released in September 2004, as a fork of LimeWire.
+- [peerflix](https://github.com/mafintosh/peerflix) Streaming torrent client for node.js
 
 #### rTorrent
 - [rTorrent](https://rakshasa.github.io/rtorrent/) :star2: rTorrent is a text-based ncurses BitTorrent client written in C++
