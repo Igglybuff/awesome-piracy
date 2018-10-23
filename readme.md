@@ -448,6 +448,7 @@ You will notice some items in this list have a :star2: next to them. Items with 
 - [mattpalm.com/search](https://mattpalm.com/search/) thing :)
 
 ### FTP Indexers
+- [Davos](https://github.com/linuxserver/davos) Web-based FTP automation for Linux servers.
 - [Napalm FTP Indexer](https://www.searchftps.net/) NAPALM FTP Indexer lets you search and download files located on public FTP servers.
 - [Mamont's open FTP Index](http://www.mmnt.net/) Browsable directory listing of publicly available FTP-sites
 
@@ -667,6 +668,7 @@ premium services
 - [PlexKodiConnect](https://github.com/croneter/PlexKodiConnect) Plex integration in Kodi done right
 - [Official Plex Addon](https://forums.plex.tv/t/installation-instructions/168854) Official Plex addon for Kodi
 - [Ultimate Kodi Guide](https://www.reddit.com/r/Piracy/comments/7wp42u/ultimate_guide_to_install_kodi_popular_streaming/) ULTIMATE GUIDE TO INSTALL KODI + POPULAR STREAMING ADDONS by /u/giorgiomilan
+- [kodi-headless](https://hub.docker.com/r/linuxserver/kodi-headless/) A headless install of kodi in a docker container, most useful for a mysql setup of kodi to allow library updates to be sent without the need for a player system to be permanently on.
 
 ## Gaming
 
@@ -734,6 +736,9 @@ premium services
 ## Music
 - [Madsonic](madsonic.org) Madsonic is a web-based media library and media streamer with jukebox functionality.
 - [MusicBrainz](https://musicbrainz.org/) MusicBrainz is an open music encyclopedia that collects music metadata and makes it available to the public.
+- [airsonic](https://airsonic.github.io/) Airsonic is a free, web-based media streamer, providing ubiquitous access to your music.
+- [Beets](http://beets.io/) The purpose of beets is to get your music collection right once and for all. It catalogs your collection, automatically improving its metadata as it goes using the MusicBrainz database.
+- [LibreSonic](https://github.com/Libresonic/libresonic) Media streaming software
 
 ### Music Streaming
 - [Muxiv Music](https://muxiv.com/) Stream 45 million songs on all your devices, online or offline. Primarily Chinese content.
@@ -764,6 +769,7 @@ premium services
 - [Requiem](https://digiex.net/threads/requiem-4-1-remove-itunes-drm-fairplay-from-music-video-and-books.11796/) Requiem is a program that removes Apple's DRM (called FairPlay) from songs, videos, and books purchased on iTunes
 - [How to Remove DRM From iTunes Movies and TV Shows](https://www.howtogeek.com/291612/how-to-remove-drm-from-itunes-movies-and-tv-shows/) HowToGeek article on how to use TunesKit and Requiem
 - [Plus Premieres](https://www.pluspremieres.eu/) Download newest iTunes music in M4A format
+- [forked-daapd](https://ejurgensen.github.io/forked-daapd/) Linux/FreeBSD DAAP (iTunes) and MPD media server with support for AirPlay devices (multiroom), Apple Remote (and compatibles), Chromecast, Spotify and internet radio.
 
 ## Software
 - [/r/piracy/wiki/tools](https://www.reddit.com/r/piracy/wiki/tools) Windows/Office activation tools, and images/installers for Windows, Office, and Adobe
@@ -787,11 +793,15 @@ premium services
 - [TechBench](https://tb.rg-adguard.net/public.php) Find official Windows isos for Windows 7/8/10
 
 ## Ebooks
+- [BookStack](https://www.bookstackapp.com/) BookStack is a simple, self-hosted, easy-to-use platform for organising and storing information.
+- [Ubooquity](http://vaemendis.net/ubooquity/) Ubooquity is a free home server for your comics and ebooks library
+- [COPS](https://github.com/seblucas/cops) Calibre OPDS (and HTML) PHP Server : web-based light alternative to Calibre content server / Calibre2OPDS to serve ebooks (epub, mobi, pdf, etc.)
 - [b-ok](http://b-ok.xyz/) Free ebook library
 - [The idiot proof guide to downloading ebooks off IRC](https://www.reddit.com/r/Piracy/comments/2oftbu/guide_the_idiot_proof_guide_to_downloading_ebooks/) Posted by /u/Servaplur
 - [Guide to Copy Kindle Content to PDF using Calibre](https://www.reddit.com/r/Piracy/comments/7vc3uv/guide_to_copy_kindle_content_to_pdf_using_calibre/)
 - [Apprentice Alf's Blog](https://apprenticealf.wordpress.com/) Everything you ever wanted to know about DRM and ebooks, but were afraid to ask.
 - [Calibre](https://calibre-ebook.com/) :star2: ebook management tool
+- [Calibre-Web](https://github.com/janeczku/calibre-web) Web app for browsing, reading and downloading eBooks stored in a Calibre database
 - [Custom Search Engine](https://cse.google.com/cse?cx=000661023013169144559:a1-kkiboeco) A Google custom search engine specifically for ebooks
 
 ## Magazines
@@ -823,12 +833,14 @@ premium services
 ## Audiobooks
 - [AudioBook Bay](http://audiobookbay.nl/) Download unabridged audiobook for free or share your audio books, safe, fast and high quality
 - [AAXtoMP3](https://github.com/KrumpetPirate/AAXtoMP3) Convert Audible's .aax filetype to MP3, FLAC, M4A, or OPUS
+- [Booksonic](http://booksonic.org/) Booksonic is a server and an app for streaming your audiobooks to any pc or android phone.
 
 ## Comicbooks
 - [readcomiconline.to](https://readcomiconline.to/) Manga and comics uploaded daily
 - [Readcomicbooksonline](https://readcomicbooksonline.org/) Tends to Error 520 occasionally
 - [Comic Extra](https://www.comicextra.com/) Daily comic uploads, clean UI
 - [GetComics](https://getcomics.info/) GetComics started as an alternative place to get downloaded comic files, particularly US based comics published by DC and Marvel.
+- [Gazee!](https://hub.docker.com/r/linuxserver/gazee/) A WebApp Comic Reader for your favorite digital comics. Reach and read your comic library from any web connected device with a modern web browser.
 
 ## Manga
 - [MangaDex](https://www.mangadex.org/) MangaDex is an online manga reader that caters to all languages.
@@ -983,6 +995,7 @@ premium services
 - [mIRC](https://www.mirc.com/) IRC client for Windows
 - [Shout](https://github.com/erming/shout) The self-hosted web IRC client
 - [Kiwi IRC](https://kiwiirc.com/) Popular web-based IRC client
+- [TheLounge](https://hub.docker.com/r/linuxserver/thelounge/) TheLounge (a fork of shoutIRC) is a web IRC client that you host on your own server.
 
 ### IRC Networks
 - [irc.p2p-network.net](https://p2p-network.net/) P2P file sharing network
