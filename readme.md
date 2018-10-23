@@ -204,7 +204,6 @@ You will notice some items in this list have a :star2: next to them. Items with 
 ## Decentralised Networks
 - [Tor](https://www.torproject.org/) :star2: Tor is free software and an open network that helps you defend against traffic analysis.
 - [I2P](https://geti2p.net/en/) I2P is an anonymous overlay network - a network within a network. It is intended to protect communication from dragnet surveillance and monitoring by third parties such as ISPs.
-- [dn42](https://dn42.net/home) As a not exactly "private" network, but it contains a lot of forums for hackers, pirates and techies. 
 
 ## Operating Systems
 - [Qubes OS](https://www.qubes-os.org/) Qubes OS is a security-oriented operating system
