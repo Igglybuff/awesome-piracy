@@ -193,6 +193,7 @@ You will notice some items in this list have a :star2: next to them. Items with 
 - [VirusTotal](https://www.virustotal.com/) Web service for scanning files and URLs for viruses
 - [How to remove viruses and malware on your Windows PC](https://www.howtogeek.com/126911/what-to-do-if-you-get-a-virus-on-your-computer/) Helpful HowToGeek article on cleaning out the pipes
 - [Avast Antivirus](https://www.avast.com) Avast Antivirus is a multi-platform antivirus application with a free tier. Be sure to opt out of sending anonymous usage statistics.
+- [AVG Antivirus](www.avg.com) this summer holidayAVG AntiVirus (previously known as AVG, abbreviation of Anti-Virus Guard) is a family of antivirus software developed by AVG Technologies, a subsidiary of Avast. It is available for Windows, macOS and Android.
 
 ## Windows 10 Privacy
 - [O&O ShutUp10](https://www.oo-software.com/en/shutup10) O&O ShutUp10 means you have full control over which comfort functions under Windows 10 you wish to use, and you decide when the passing on of your data goes too far.
