@@ -253,6 +253,8 @@ You will notice some items in this list have a :star2: next to them. Items with 
 - [Tixati](https://tixati.com/) Lightweight torrent client for Windows and Linux
 - [PicoTorrent](https://picotorrent.org/) Lightweight and minimalistic torrent client for Windows
 - [FrostWire](https://www.frostwire.com/) FrostWire is a Free and open-source BitTorrent client first released in September 2004, as a fork of LimeWire.
+- [uTorrent](https://www.utorrent.com/) The most popular BitTorrent client for windows and android/ios.
+
 
 ### Seedboxes
 - [/r/seedboxes](https://www.reddit.com/r/seedboxes) A place to discuss seedboxes and everything related to them.
@@ -401,7 +403,8 @@ premium services
 - [youtube-dl](https://rg3.github.io/youtube-dl/) youtube-dl is a command-line program to download videos from YouTube.com and a few more sites.
 - [youtube-dl-gui](https://mrs0m30n3.github.io/youtube-dl-gui/) A cross platform front-end GUI of the popular youtube-dl written in wxPython
 - [annie](https://github.com/iawia002/annie) Fast, simple and clean video downloader
-- [aria2](https://aria2.github.io/) a lightweight multi-protocol & multi-source command-line download utility.
+- [aria2](https://aria2.github.io/) A lightweight multi-protocol & multi-source command-line download utility.
+- [Persepolis](https://persepolisdm.github.io/) It is a front-end for aria2.
 - [ripme](https://github.com/RipMeApp/ripme) A album/video downloader with support for over 80 sites
 - [rdcli](https://github.com/ston3o/rdcli) The simple way to download and unrestrict DDL files, torrents and magnets using Real-Debrid
 
@@ -581,8 +584,9 @@ premium services
 - [/r/animepiracy wiki](https://www.reddit.com/r/animepiracy/wiki/index) Lists for sourcing Anime streaming sites, manga sites, and more
 - [Monimo](https://monimoapp.netlify.com/) Netflix like web app for watching animes
 - [AniLinkz](https://anilinkz.to/)
-- [KissAnime](http://kissanime.ru/)
-- [9Anime](https://9anime.to)
+- [KissAnime](http://kissanime.ru/)	Most popular website for watching anime,
+- [9Anime](https://9anime.to) 2nd most popular website for watching anime
+- [9Anime](https://www3.gogoanime.in/) Popular website for watching anime
 - [NyaaPantsu](https://nyaa.pantsu.cat/)
 - [Alternatives to Kiss websites](https://www.reddit.com/r/KissCartoon/wiki/alternatives) /r/KissCartoon wiki page with lots of anime sites
 - [anime-sharing](http://www.anime-sharing.com/forum/) Forum for sharing anime
@@ -784,6 +788,7 @@ premium services
 - [FlylinkDC++](http://www.flylinkdc.com/) Windows DC++ and Bittorrent client in active development, with ADC and DHT support.
 - [EiskaltDC++](https://github.com/eiskaltdcpp/eiskaltdcpp) Windows/Linux/macOS DC++ client, with ADC and DHT support.
 - [Tankafett](http://tankafett.biz/?do=hublist) List of public DC++ hubs, previously known as hublist.org and TheHubList.com.
+- [Linux DC++](https://launchpad.net/linuxdcpp) Easy to configure and use DC++ client
 
 ## Full Movies On
 - [/r/fullmoviesonyoutube](https://www.reddit.com/r/fullmoviesonyoutube/)
