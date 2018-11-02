@@ -463,6 +463,7 @@ for any IP address.
 - [grayhatwarfare S3 bucket search](https://buckets.grayhatwarfare.com/) Not likely to find much with this one but interesting nonetheless
 - [annie](https://github.com/iawia002/annie) Fast, simple and clean video downloader
 - [aria2](https://aria2.github.io/) a lightweight multi-protocol & multi-source command-line download utility.
+- [Persepolis](https://persepolisdm.github.io/) Front-end for aria2.
 - [axel](https://github.com/axel-download-accelerator/axel) light command line download accelerator
 - [uGet](https://ugetdm.com/) Open Source Download Manager
 - [ripme](https://github.com/RipMeApp/ripme) A album/video downloader with support for over 80 sites
@@ -754,9 +755,10 @@ premium services
 - [/r/animepiracy](https://www.reddit.com/r/animepiracy) This sub is about streaming and torrent websites for anime.
 - [/r/animepiracy wiki](https://www.reddit.com/r/animepiracy/wiki/index) Lists for sourcing Anime streaming sites, manga sites, and more
 - [Monimo](https://monimoapp.netlify.com/) Netflix like web app for watching animes
-- [AniLinkz](https://anilinkz.to/) Watch anime online your favorite anime series stream for free with the large database of Streaming Anime Episodes.
-- [KissAnime](http://kissanime.ru/) Watch anime online free in HD.
 - [9Anime](https://9anime.to) Watch anime online. English anime, dubbed, subbed.
+- [GoGo Anime](https://www3.gogoanime.in/) Popular website for watching anime
+- [AniLinkz](https://anilinkz.to/) Large database of streaming anime episodes.
+- [KissAnime](http://kissanime.ru/) Watch anime online free in HD.
 - [NyaaPantsu](https://nyaa.pantsu.cat/) Primarily Anime torrents but includes an open directory of DDL links too.
 - [Alternatives to Kiss websites](https://www.reddit.com/r/KissCartoon/wiki/alternatives) /r/KissCartoon wiki page with lots of anime sites
 - [anime-sharing](http://www.anime-sharing.com/forum/) Forum for sharing anime
@@ -1069,6 +1071,7 @@ premium services
 - [EiskaltDC++](https://github.com/eiskaltdcpp/eiskaltdcpp) Windows/Linux/macOS DC++ client, with ADC and DHT support
 - [LinuxDC++](https://launchpad.net/linuxdcpp) Utilizing the latest DC++ core, LinuxDC++ offers similar functionality to the Windows client like segmented downloading, TTH based file integrity, etc. with a GTK+ user interface.
 - [Tankafett](http://tankafett.biz/?do=hublist) List of public DC++ hubs, previously known as hublist.org and TheHubList.com.
+- [Linux DC++](https://launchpad.net/linuxdcpp) Easy to configure and use DC++ client
 
 ## Full Movies On
 - [/r/fullmoviesonyoutube](https://www.reddit.com/r/fullmoviesonyoutube/)
