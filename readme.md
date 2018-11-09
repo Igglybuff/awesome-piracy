@@ -388,12 +388,15 @@ for any IP address.
 - [QuickBox IO](https://quickbox.io/) Seedbox installer script
 - [MediaServer-DockerComposeFiles](https://github.com/vaeyo/MediaServer-DockerComposeFiles) Docker-Compose Files for Media Server Related Apps [Radarr, Sonarr, Plex, rTorrent, NZBGet, Ombi, Emby, etc]
 - [usenet-docker](https://github.com/justinhamlett/usenet-docker) Docker-compose configuration for Sabnzbd, CouchPotato, Plex, Sonarr, Plexpy, Nzbhydra, Muximux, Radarr, NZBGet and Ombi with a Nginx proxy.
+- [DockSTARTer](https://github.com/GhostWriters/DockSTARTer) DockSTARTer helps you get started with home server apps running in Docker.
 
 ### Tracker Frameworks
+- [Torrent-Tracker-Platforms](https://github.com/HDVinnie/Torrent-Tracker-Platforms) A Curated List Of Torrent Tracker Platforms/Codebases Written In Multiple Coding Languages
 - [UNIT3D](https://github.com/HDInnovations/UNIT3D) The Nex-Gen Private Torrent Tracker (Aimed For Movie / TV Use)
 - [meanTorrent](https://github.com/taobataoma/meanTorrent) A BitTorrent Private Tracker CMS with Multilingual, and IRC announce support, CloudFlare support.
 - [NexusPHP](https://github.com/ZJUT/NexusPHP) BitTorrent private tracker scripts written in PHP.
 - [Gazelle](https://whatcd.github.io/Gazelle/) :star2: web framework geared towards private torrent trackers with a focus on music
+- [opentracker](https://erdgeist.org/arts/software/opentracker/) opentracker is a open and free bittorrent tracker project.
 
 ## Usenet
 - [Usenet](https://en.wikipedia.org/wiki/Usenet) Usenet is a worldwide distributed discussion system available on computers.
@@ -401,9 +404,10 @@ for any IP address.
 - [/r/Usenet](https://www.reddit.com/r/Usenet) :star2: a thriving community dedicated to helping users old and new understand and use usenet.
 - [/r/UsenetInvites](https://www.reddit.com/r/UsenetInvites) Requests and offers for Usenet indexers
 - [NZBLINK](https://nzblnk.info/) The NZBLNK™ URI scheme defines the format of NZBLNK™ links to identify binary Usenet content and supplies some extra information to handle that content correct (similar to magnet links, but for NZBs).
+- [Usenet-Uploaders](https://github.com/animetosho/Nyuu/wiki/Usenet-Uploaders) Table of applications for uploading content to Usenet
 
 ### Usenet Providers
-- [Usenet Services Map](https://www.reddit.com/r/Usenet/comments/9mo9eg/Usenet_services_map_updated/) Mind map by /u/thepageunit
+- [Usenet Services Map](https://commons.wikimedia.org/wiki/File:Usenet_Services_MindMap.svg) Mind map by /u/thepageunit
 - [Usenet Providers and Backbones](https://commons.wikimedia.org/wiki/File:Usenet_Providers_and_Backbones.svg) This is a simple overview of the current companies, backbones, providers and resellers in the Usenet landscape.
 - [Eweka](https://www.eweka.nl/) Netherlands-based Usenet provider
 - [Newsdemon](https://www.newsdemon.com/) Cheap and cheerful Usenet provider with frequent discounts
@@ -474,6 +478,7 @@ for any IP address.
 - [wget - a noob's guide](https://chris.partridge.tech/data/wget-noobs.pdf) Beginner guide on how to use `wget`
 - [wget for Windows](https://eternallybored.org/misc/wget/) A command-line utility for retrieving files using HTTP, HTTPS and FTP protocols.
 - [curl](https://en.wikipedia.org/wiki/CURL) `curl` is a command-line tool for downloading data using a variety of protocols. Easily installable on most operating systems.
+- [FlixGrab](https://www.flixgrab.com/) FlixGrab+ is an unique application for downloading entire NetFlix serials, TV shows, documentaries, movies.
 
 ### Custom Google Search Engines
 - [FileChef](http://filechef.com/) These all
@@ -648,6 +653,7 @@ premium services
 - [RequestChannel.bundle](https://github.com/ngovil21/RequestChannel.bundle) A Plex Channel to create requests
 - [SRT2UTF-8.bundle](https://github.com/ukdtom/SRT2UTF-8.bundle) Plex Agent that'll convert sidecar subtitle files into UTF-8
 - [PlexTools.bundle](https://github.com/jwdempsey/PlexTools.bundle) Downloads subtitles for any videos in your library from OpenSubtitles and modifies them to work with Roku clients, and converts videos to MP4 for direct play
+- [FMoviesPlus.bundle](https://github.com/coder-alpha/FMoviesPlus.bundle) Plex Media Server plug-in designed for FMovies, G2G, Primewire and more.
 
 ### Plex Requests
 - [Ombi](http://ombi.io/) :star2: Want a Movie or TV Show on Plex or Emby? Use Ombi!
@@ -685,6 +691,7 @@ premium services
 - [kube-plex](https://github.com/munnerz/kube-plex) Scalable Plex Media Server on Kubernetes -- dispatch transcode jobs as pods on your cluster!
 - [UnicornTranscoder](https://github.com/UnicornTranscoder/UnicornTranscoder) a remote transcoder for Plex Media Server
 - [Plex-Remote-Transcoder](https://github.com/wnielson/Plex-Remote-Transcoder) A distributed transcoding backend for Plex
+- [Unlock the transcode or 'session' limit on nVidia consumer grade GPUs](http://slothtechtv.com/2018/09/unlock-the-transcode-or-session-limit-on-nvidia-consumer-grade-gpus) Article describing how to bypass the artifical single-transcode limit
 
 ### Plex Logging and Metrics
 - [Tautulli](https://tautulli.com/) :star2: Tautulli is a 3rd party application that you can run alongside your Plex Media Server to monitor activity and track various statistics.
@@ -830,6 +837,7 @@ premium services
 - [HOW TO PATCH ADOBE APPLICATIONS ON MAC, WORKING EARLY 2017](https://drive.google.com/file/d/0BxfywKwnIU2JY1RxV0M0U0J1Z1E/view)
 - [Pirating Adobe CC for Dummies](https://www.reddit.com/r/Piracy/comments/5f5uz7/pirating_adobe_cc_for_dummies/) detailed guide about pirating Adobe CC for Windows
 - [Adobe CC 2019 AIO Patcher Zer0Cod3](https://www.reddit.com/r/Piracy/comments/9s7be6/adobe_cc_2019_aio_patcher_zer0cod3/) :star2: Latest method for cracking Adobe CC 2019 applications on Windows
+- [Adobe Zii 4.0.3](https://www.reddit.com/r/Piracy/comments/9v7tr6/adobe_zii_403_released_now_includes_incopy/) Tool for patching and cracking Adobe CC applications
 
 ### Windows
 - [/r/MSToolkit](https://www.reddit.com/r/mstoolkit) Tools for activating Windows software, including Windows 10 itself
@@ -931,6 +939,7 @@ premium services
 ### Movie Automation
 - [Radarr](https://radarr.video/) :star2: A fork of Sonarr to work with movies à la Couchpotato.
 - [CouchPotato](https://github.com/CouchPotato/CouchPotatoServer) Automatic Movie Downloading via NZBs & Torrents
+- [Watcher](https://github.com/nosmokingbandit/Watcher3) Watcher is an automated movie NZB & Torrent searcher and snatcher.
 
 ### Music Automation
 - [Lidarr](https://github.com/lidarr/Lidarr) Looks and smells like Sonarr but made for music.
@@ -1105,6 +1114,7 @@ premium services
 - [2160p BluRay Remux List](https://docs.google.com/spreadsheets/d/1qU8E0JT9JQk_BaBCxZS79tn7YmUyY4XBEpHPm3j16jI/edit#gid=1007191598) Complete list of all available 2160p remuxes
 - [Flox](https://github.com/devfake/flox) Flox is a self-hosted movie, series and nime watch list.
 - [TVmaze](https://www.tvmaze.com/) TVmaze is a community of TV lovers and dedicated contributors that discuss and help maintain TV information on the web.
+- [JustWatch](https://www.justwatch.com/) On JustWatch you are able to find out where to watch your favorite movies & TV series
 
 ## Dashboards and Homepages
 - [Muximux](https://github.com/mescon/Muximux) A lightweight way to manage your HTPC
@@ -1140,6 +1150,7 @@ premium services
 - [How to use eMule in 2018](https://www.reddit.com/r/Piracy/comments/9p82e1/how_to_use_emule_in_2018/) An up-to-date guide detailing how to use eMule to download rare content from the eDonkey and Kad P2P networks.
 - [Anon.to](https://anon.to/) URL shortener to de-referer or null-referer your links.
 - [ghostbin](https://ghostbin.com/) Secure pastebin service
+- [Movie Release Types](https://i.imgur.com/kEOrKJT.png) Table of common movie release types, their labels, and descriptions.
 
 ## Contribute
 Contributions welcome! Read the [contribution guidelines](contributing.md) first.
