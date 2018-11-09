@@ -638,6 +638,7 @@ premium services
 - [hoarding.me](https://hoarding.me/) Unlimited and Automated. How to setup your own dream Plex server.
 
 ### Plex Plugins
+- [Official Plex Plugins](https://github.com/plexinc-plugins) Repos for every official Plex Inc. plugin
 - [WebTools.bundle](https://github.com/ukdtom/WebTools.bundle) a collection of tools for Plex Media Server. Like the Unsupported AppStore (UAS)
 - [Audiobooks.bundle](https://github.com/macr0dev/Audiobooks.bundle) Plex metadata scraper for Audiobooks
 - [Sub-Zero.bundle](https://github.com/pannal/Sub-Zero.bundle) :star2: Subtitles for Plex, as good you would expect them to be. (*read*: [plans for a world without Plex plugins](https://www.reddit.com/r/PleX/comments/9n9qjl/subzero_the_future/))
