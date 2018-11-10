@@ -54,6 +54,7 @@
 	- [Sports Streaming](#sports-streaming)
 	- [Streaming Sites](#streaming-sites)
 - [Media Centre Applications](#media-centre-applications)
+	- [Stremio Addons](#stremio-addons)
 - [Plex](#plex)
 	- [Plex Plugins](#plex-plugins)
 	- [Plex Requests](#plex-requests)
@@ -173,6 +174,7 @@ You will notice some items in this list have a :star2: next to them. Items with 
 - [NoScript](https://addons.mozilla.org/en-US/firefox/addon/noscript/) Allow active content to run only from sites you trust, and protect yourself against XSS and clickjacking attacks. Firefox only.
 - [Bypass Paywalls](https://addons.mozilla.org/en-US/firefox/addon/bypasspaywalls/) Firefox add-on which allows you to bypass paywalls of many news sites
 - [Outline](https://chrome.google.com/webstore/detail/outline-read-without-clut/daoolpmoieinofbnddaofhkhmbagfmnj) Designed to remove ads, comments, and other junk from news articles but conveniently also bypasses paywalls
+- [Burlesco](https://burles.co/en/) Read news without subscribing, bypass the paywall
 
 ## Userscripts
 - [Anti-Adblock Killer](https://github.com/reek/anti-adblock-killer) Anti-Adblock Killer helps you keep your Ad-Blocker active, when you visit a website and it asks you to disable.
@@ -207,10 +209,12 @@ You will notice some items in this list have a :star2: next to them. Items with 
 - [Windows Privacy Tweaker](https://www.phrozen.io/freeware/windows-privacy-tweaker/) Freeware app from phrozen.io
 - [Winaero](https://winaero.com/blog/about-us/) Free, small and useful software for Windows.
 - [WPD](https://wpd.app/) The real privacy dashboard for Windows
+- [Destroy-Windows-10-Spying](https://github.com/Nummer/Destroy-Windows-10-Spying) Destroy Windows Spying tool
 
 ## Email
 - [ProtonMail](https://protonmail.com/) Secure Email Based in Switzerland
 - [10 Minute Mail](https://10minutemail.net/) Disposable, private mailboxes
+- [Cock.li](https://cock.li/) Yeah it's mail with cocks
 
 ## Decentralised Networks
 - [Tor](https://www.torproject.org/) :star2: Tor is free software and an open network that helps you defend against traffic analysis.
@@ -225,6 +229,7 @@ You will notice some items in this list have a :star2: next to them. Items with 
 - [xip.io](http://xip.io/) magic domain name that provides wildcard DNS
 for any IP address.
 - [Domainr](https://domainr.com/) Domainr finds domain names and short URLs. Instantly check availability and register for all top-level domains.
+- [OpenLeaf](https://openleaf.net.ru/) Domain registrar for anonymous TLD purchases
 
 ## Torrenting
 - [/r/torrents](https://www.reddit.com/r/torrents) Questions and discussion about all things torrent-related
@@ -239,6 +244,7 @@ for any IP address.
 - [/r/trackers](https://www.reddit.com/r/trackers) :star2: A subreddit for discussing public & private trackers.
 - [A Simple Guide To A Better Ratio](https://www.reddit.com/r/trackers/comments/fthja/a_simple_guide_to_a_better_ratio/) A good tracker requires you to upload what you download. This guide explains many of the methods involved with keeping on top of this sometimes difficult task.
 - [Tracker Twitters](https://filenetworks.blogspot.com/2010/12/list-of-private-torrent-trackers.html) List Of Private Torrent Trackers & BitTorrent News Accounts To Follow On Twitter
+- [Bravo List](http://www.bvlist.com/) Tracker directory
 
 #### Private Trackers
 - [AlphaRatio ](https://alpharatio.cc) (AR) :star2: A good starter tracker with lots of freeleech content.
@@ -379,6 +385,10 @@ for any IP address.
 - [Seedboxes.cc](https://seedboxes.cc/) Reliable and affordable web hosting, with the power of your friendly monsters!
 - [UltraSeedbox](https://www.ultraseedbox.com/) "Plex optimized" servers to rent
 - [SeedHost](https://www.seedhost.eu/seedboxes.php) "Seedhost.eu is the oldest continuously operating seedbox hosting provider on the internet."
+- [Chmuranet](https://www.chmuranet.com/) Chmuranet is a small private boutique seedbox provider.
+- [Xirvik](https://www.xirvik.com/) Preconfigured seedbox servers
+- [OVH](https://www.ovh.com/world/) Large cloud server provider
+- [SoYouStart](https://www.soyoustart.com/us/) Another dedicated server host
 
 #### Seedbox Setup Tools and Guides
 - [swizzin](https://swizzin.ltd/) a light, modular package management suite for media oriented servers
@@ -405,6 +415,7 @@ for any IP address.
 - [/r/UsenetInvites](https://www.reddit.com/r/UsenetInvites) Requests and offers for Usenet indexers
 - [NZBLINK](https://nzblnk.info/) The NZBLNK™ URI scheme defines the format of NZBLNK™ links to identify binary Usenet content and supplies some extra information to handle that content correct (similar to magnet links, but for NZBs).
 - [Usenet-Uploaders](https://github.com/animetosho/Nyuu/wiki/Usenet-Uploaders) Table of applications for uploading content to Usenet
+- [QuickPar](http://www.quickpar.org.uk/index.htm) Tool for reconstructing damaged/missing/corrupt Usenet binaries
 
 ### Usenet Providers
 - [Usenet Services Map](https://commons.wikimedia.org/wiki/File:Usenet_Services_MindMap.svg) Mind map by /u/thepageunit
@@ -561,7 +572,6 @@ premium services
 - [36 GB of Flash Games](https://www.reddit.com/r/opendirectories/comments/902j1i/36_gb_of_flash_games_19k_files/) Posted by /u/blue_star_
 - [FileMasta](https://github.com/HerbL27/FileMasta) Search servers for video, music, books, software, games, subtitles and much more
 - [/r/opendirectories](https://www.reddit.com/r/opendirectories) Unprotected directories of pics, vids, music, software and otherwise interesting files.
-- [Stremio Open Directories addon](https://www.reddit.com/r/opendirectories/comments/9n8ig8/stremio_open_directories/) Finds HTTP streams for movies/shows from open directories
 - [opendirectories-bot](https://github.com/simon987/opendirectories-bot) Bot used on /r/opendirectories for analysing the contents of open directories posted on the subreddit
 
 ### Streaming Sites
@@ -595,6 +605,12 @@ premium services
 - [VodLocker](https://vodlocker.tv/)
 - [movies2k](http://www.movie2k.st)
 - [M4UFree.TV](http://m4ufree.tv/)
+- [Flixanity](https://flixanity.xyz/)
+- [xPau.se](http://xpau.se/)
+- [StreamCouch](https://www2.streamcouch.com/)
+- [Qwemovies](https://www3.qwemovies.com/)
+- [HDO](https://hdo.to/)
+- [#1 Movies Website](https://www1.1movies.is)
 
 ### Sports Streaming
 - [LiveTV](https://livesx.eu/)
@@ -612,6 +628,7 @@ premium services
 - [/r/WWEstreams](https://www.reddit.com/r/WWEstreams/)
 - [/r/rugbystreams](https://www.reddit.com/r/rugbystreams/)
 - [/r/mmafights](https://www.reddit.com/r/mmafights/)
+- [/r/motorsportsstreams](https://www.reddit.com/r/motorsportsstreams)
 - [Send It](https://sendit.gg/) Live stream listings for sports, news, gaming, and more.
 - [SportsHD](http://www.speedsports.me)
 - [720pStream](http://www.720pstream.me/)
@@ -629,6 +646,14 @@ premium services
 - [Serviio](http://serviio.org/) Serviio is a free media server. It allows you to stream your media files (music, video or images) to renderer devices (e.g. a TV set, Blu-ray player, games console or mobile phone) on your connected home network.
 - [OSMC](https://osmc.tv/) OSMC (short for Open Source Media Center) is a Linux distribution based on Debian that brings Kodi to a variety of devices.
 - [Subsonic](http://www.subsonic.org/pages/index.jsp) Music and movie streaming server with a client app and web frontend
+
+### Stremio Addons
+- [Open Directories addon](https://www.reddit.com/r/opendirectories/comments/9n8ig8/stremio_open_directories/) Finds HTTP streams for movies/shows from open directories
+- [Popcorn Time addon](https://pct.best4stremio.space/stremioget/stremio/v1) Watch from YTS and EZTV in Stremio
+- [Zooqle addon](https://stremio-zooqle.now.sh/stremio/v1) :star2: Watch movies and series indexed by Zooqle from RARBG, KAT, YTS, MegaTorrents and other torrent trackers
+- [PirateBay addon](https://piratebay-stremio-addon.herokuapp.com/stremio/v1) Fetch PirateBay entries on a single episode or series.
+- [RAR addon](https://rarbg.best4stremio.space/stremio/v1) Watch content from RARBG in Stremio
+- [Juan Carlos Torrents](https://jct.best4stremio.space/stremio/v1) Allows streaming from torrents collected from KAT.cr and others
 
 ## Plex
 - [linuxserver/docker-plex](https://github.com/linuxserver/docker-plex) LinuxServer.io Plex Media Server docker image
@@ -682,6 +707,7 @@ premium services
 - [plxdwnld](https://piplong.run/plxdwnld/) Bookmarklet for downloading original files from the Plex web interface
 - [Kitana](https://github.com/pannal/Kitana) Kitana exposes your Plex plugin interfaces "to the outside world".
 - [Python-PlexLibrary](https://github.com/adamgot/python-plexlibrary) Python command line utility for creating and maintaining dynamic Plex libraries based on "recipes".
+- [NowShowing](https://github.com/ninthwalker/NowShowing) Generates an email and web page of Plex recently added content
 
 ### Plex Shares
 - [/r/plexshares](https://www.reddit.com/r/plexshares/) A nice place to find Plex Media Server shares.
@@ -708,15 +734,20 @@ premium services
 - [/r/Addons4Kodi](https://www.reddit.com/r/addons4kodi) discussion and links pertaining to unofficial addons for Kodi Media Center
 - [Placenta](http://www.wirelesshack.org/how-to-install-placenta-kodi-addon.html) a Fork of Exodus / Covenant with more options and links from Mr Blamo and Muad'Dib
 - [Gaia](https://gaiakodi.com/) :star2: grants the ability to instantly watch high quality files via cached torrents from Real-Debrid or Premiumize.
-- [Yoda](https://kodiapps.com/how-to-install-yoda-on-kodi) another solid Exodus/Covenant fork, and this time its from S-media.
+- [Yoda](http://supremacy.org.uk/zip/repo/) Another solid Exodus/Covenant fork, and this time it's from S-media.
 - [Elementum](https://elementum.surge.sh/) Elementum addon is an addon for Kodi, that manages your virtual library, syncs with your Trakt account .
 - [Tooonmania2](https://github.com/doko-desuka/doko.repository/releases) lets you watch cartoons, dubbed anime and movies (from animetoon) and subbed anime and movies (from animeplus)
 - [PlexKodiConnect](https://github.com/croneter/PlexKodiConnect) Plex integration in Kodi done right
 - [Official Plex Addon](https://forums.plex.tv/t/installation-instructions/168854) Official Plex addon for Kodi
 - [Ultimate Kodi Guide](https://www.reddit.com/r/Piracy/comments/7wp42u/ultimate_guide_to_install_kodi_popular_streaming/) ULTIMATE GUIDE TO INSTALL KODI + POPULAR STREAMING ADDONS by /u/giorgiomilan
 - [kodi-headless](https://hub.docker.com/r/linuxserver/kodi-headless/) A headless install of kodi in a docker container, most useful for a mysql setup of kodi to allow library updates to be sent without the need for a player system to be permanently on.
+- [Exodus Redux](https://www.reddit.com/r/Addons4Kodi/comments/9tasx5/requests_recommendations_basics_november_2018/e8uti6w) The newest Exodus fork around, paired with LambdaScrapers.
+- [Sparkle](https://github.com/iwannabelikemike/plugin.video.sparkle) Kodi addon for finding acestream links
+- [Plexus](http://fusion.tvaddons.co/) Plexus is used in conjunction with Sparkle to play Ace Stream links.
 
 ## Gaming
+- [SmartSteamEmu](https://github.com/MAXBURAOT/SmartSteamEmu) Steam emulator
+- [Goldberg Steam Emu](https://www.reddit.com/r/CrackWatch/comments/979s5e/goldberg_steam_emu_lan_multiplayer_without_steam/) This project is an attempt to make a generic Steam ddl that lets you play multiplayer games on a LAN without any internet connection
 
 ### Repacks
 - [Good Old Downloads](https://goodolddownloads.com/) Very popular repacks site with scene games, retro games, and games from the GOG.com catalog
@@ -808,12 +839,14 @@ premium services
 - [Deezloader](https://www.reddit.com/r/DeezloadersIsBack/comments/9n3pf1/deezloader_alpha_latest_version_download10102018/) Tool for downloading music from Deezer
 - [/r/DeezloaderIsBack](https://www.reddit.com/r/DeezloadersIsBack) Community supporting Deezloader
 - [New Album Releases](http://newalbumreleases.net/) Premium DDL links for full albums
+- [Kingdom Leaks](https://kingdom-leaks.com/) DDL links for album leaks
 
 ### Spotify
 - [Get rid of Spotify ads](https://www.reddit.com/r/Piracy/comments/9jvlf8/get_rid_of_spotify_adsbannerslimited_skips_and/) Short guide on avoiding ads, banners, limited skips, and locked shuffle mode in Spotify Free
 - [Spotify AdBlock Host file](https://www.reddit.com/r/Piracy/comments/9tcbvc/spotify_adblock_host_file_uptodate_effective/) :star2: This is the most up-to-date list and will block all annoying Spotify ads & analytics.
 - [Spotify Megathread](https://www.reddit.com/r/Piracy/comments/82wzi0/spotify_megathread/) /r/Piracy Spotify-related discussion and future developments
 - [EZBlocker](https://github.com/Xeroday/Spotify-Ad-Blocker/) a Spotify Ad Blocker written in C# for Windows 7/8/10.
+- [BlockTheSpot](https://github.com/master131/BlockTheSpot) Video, audio & banner adblock/skip for Spotify
 
 ### iTunes
 - [TunesKit](https://www.tuneskit.com/) iTunes DRM removal tool
@@ -880,9 +913,9 @@ premium services
 - [TUTSGALAXY](https://tutsgalaxy.com/)
 - [FreeTutorials.eu](https://www.freetutorials.eu/) Lots of Udemy courses for free, has adblock detector
 - [coursehunter](https://www.coursehunters.net/) Watch paid tutorials online for free
-- [FrontendMasters.com Courses](https://drive.google.com/drive/folders/1GVDOv-9uCq_76VQ5UjkzIegagQ0GVXc2) A collection of web development courses from FrontendMasters.com
 - [Lynda Courses](https://www.reddit.com/r/megalinks/comments/7vlt4j/education_lynda_266_courses_207gb/) 266+ Lynda courses
 - [GFXDomain.net Tutorials board](http://forum.gfxdomain.net/forums/others-tutorials.42/) Forum with free tutorials for graphic design, mostly via premium file hosts but some torrents
+- [tpget](https://github.com/0x6a73/tpget) Tutorialspoint downloader
 
 ## Audiobooks
 - [AudioBook Bay](http://audiobookbay.nl/) Download unabridged audiobook for free or share your audio books, safe, fast and high quality
@@ -966,6 +999,7 @@ premium services
 - [sickbeard_mp4_automator](https://github.com/mdhiggins/sickbeard_mp4_automator) Automatically convert video files to a standardized mp4 format with proper metadata tagging to create a beautiful and uniform media library
 - [Automatic Ripping Machine](https://b3n.org/automatic-ripping-machine/) The A.R.M. (Automatic Ripping Machine) detects the insertion of an optical disc, identifies the type of media and autonomously performs the appropriate action
 - [DVD Decrypter](http://dvddecrypter.org.uk/) The original unofficial DVD Decrypter mirror since June 7th, 2005.
+- [DVDFab](https://www.dvdfab.cn/) DVD ripping tool
 
 ## Cloud Storage
 - [google-drive-ocamlfuse](https://github.com/astrada/google-drive-ocamlfuse) FUSE filesystem over Google Drive
@@ -1008,6 +1042,7 @@ premium services
 - [Mobdro](https://forum.mobilism.org/viewtopic.php?f=429&t=2720792&hilit=mobdro) Mobdro constantly searches the web for the best free video streams and brings them to your device.
 - [Cinema](https://forum.mobilism.org/viewtopic.php?t=2786441) a lot of Movies & TV/Shows to watch and download.
 - [Fildo](https://fildo.net/android/en/) Music streaming app
+- [TeaTV](https://teatv.net/) App for Android, Windows, and macOS for watching 1080p movies and TV shows for free
 
 ### Torrent Apps
 - [Transdrone](https://play.google.com/store/apps/details?id=org.transdroid.lite) Transdrone allows you to manage the torrents you run on your home server or seedbox.
@@ -1042,6 +1077,7 @@ premium services
 - [allsprk.tv](https://stream.allsprk.tv) Channel-hoppable live streaming site with a chat room
 - [UlstreaMix](https://ssl.ustreamix.com/) Live TV streaming site, predominantly sports
 - [Xtream Editor](http://www.xtream-editor.com/) Xtream Editor allow you to create, edit and sort m3u playlists online.
+- [xTeVe](https://xteve.de/) M3U Proxy for Plex DVR
 
 ## IRC
 - [XDCC Tutorial](http://theloadguru.com/xdcc-irc-beginners-guide/) XDCC Downloading For Beginners: Do It Like A Pro
@@ -1116,6 +1152,7 @@ premium services
 - [Flox](https://github.com/devfake/flox) Flox is a self-hosted movie, series and nime watch list.
 - [TVmaze](https://www.tvmaze.com/) TVmaze is a community of TV lovers and dedicated contributors that discuss and help maintain TV information on the web.
 - [JustWatch](https://www.justwatch.com/) On JustWatch you are able to find out where to watch your favorite movies & TV series
+- [WhereYouWatch](https://whereyouwatch.com/latest-reports/) Follow upcoming movies and receive email alerts when they are out online as a download or stream – pirated or via retail.
 
 ## Dashboards and Homepages
 - [Muximux](https://github.com/mescon/Muximux) A lightweight way to manage your HTPC
@@ -1125,6 +1162,8 @@ premium services
 - [Anonmasky](https://github.com/Anonmasky/anonmasky.github.io) Anonmasky is a beautiful startpage for geeks out there. Clone of weboas.is.
 - [iDashboard-PHP](https://github.com/causefx/iDashboard-PHP) HTPC Dashboard to load website services, written in PHP (predecessor to Organizr)
 - [HTPC-Manager](https://github.com/Hellowlol/HTPC-Manager) A fully responsive interface to manage all your favorite software on your Htpc.
+- [Monitorr](https://github.com/Monitorr/Monitorr) Self-hosted PHP-based web front platform that displays the status of any webapp or service in real time.
+- [Logarr](https://github.com/Monitorr/logarr) "Logarr" is a self-hosted, PHP-based, single-page log consolidation tool which formats and displays log files for easy analysis.
 
 ## Proxy Sites
 - [Unblocked](https://unblocked-pw.github.io/) :star2: Proxy site for accessing your favourite blocked sites
@@ -1152,6 +1191,8 @@ premium services
 - [Anon.to](https://anon.to/) URL shortener to de-referer or null-referer your links.
 - [ghostbin](https://ghostbin.com/) Secure pastebin service
 - [Movie Release Types](https://i.imgur.com/kEOrKJT.png) Table of common movie release types, their labels, and descriptions.
+- [How To Host "Questionable" Websites v4.0](https://weboas.is/media/host.pdf) PDF from weboas.is
+- [Privacy.com](https://privacy.com/) Privacy creates secure virtual cards and completes checkout forms for you, saving you time and money while masking your real card details.
 
 ## Contribute
 Contributions welcome! Read the [contribution guidelines](contributing.md) first.
