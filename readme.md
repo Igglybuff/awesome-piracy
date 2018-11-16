@@ -191,6 +191,7 @@ You will notice some items in this list have a :star2: next to them. Items with 
 - [Dashlane](https://www.dashlane.com/) An intuitive password manager with over with over 8 million users worldwide.
 - [Passbolt](https://www.passbolt.com/) Free, open source, self-hosted, extensible, OpenPGP based.
 - [LessPass](https://lesspass.com/) stateless open source password manager
+- [Psono](https://psono.com/) Open source and selfhosted password manager for teams
 
 ## Antivirus
 - [MalwareBytes](https://www.malwarebytes.com/) :star2: "crushes malware so you are protected and your machine keeps running smoothly."
