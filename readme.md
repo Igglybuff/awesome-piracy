@@ -101,6 +101,7 @@
 	- [APKs](#apks)
 - [Discord Servers](#discord-servers)
 - [IPTV and DVR](#iptv-and-dvr)
+	- [Acestreams](#acestreams)
 - [IRC](#irc)
 	- [IRC Clients](#irc-clients)
 	- [IRC Networks](#irc-networks)
@@ -175,12 +176,24 @@ You will notice some items in this list have a :star2: next to them. Items with 
 - [Bypass Paywalls](https://addons.mozilla.org/en-US/firefox/addon/bypasspaywalls/) Firefox add-on which allows you to bypass paywalls of many news sites
 - [Outline](https://chrome.google.com/webstore/detail/outline-read-without-clut/daoolpmoieinofbnddaofhkhmbagfmnj) Designed to remove ads, comments, and other junk from news articles but conveniently also bypasses paywalls
 - [Burlesco](https://burles.co/en/) Read news without subscribing, bypass the paywall
+- [Universal Bypass](https://chrome.google.com/webstore/detail/universal-bypass/aihomhdbhpnpmcnnbckjjcebjoikpihj) Universal Bypass automatically skips annoying link shorteners.
 
 ## Userscripts
 - [Anti-Adblock Killer](https://github.com/reek/anti-adblock-killer) Anti-Adblock Killer helps you keep your Ad-Blocker active, when you visit a website and it asks you to disable.
 - [IMDb Scout](https://greasyfork.org/en/scripts/3967-imdb-scout) Add links from IMDb pages to torrent sites -- easy downloading from IMDb
 - [AdsBypasser](https://adsbypasser.github.io/) This user script helps you to skip countdown ads or continue pages and prevent ad pop-up windows.
 - [AntiAdware](https://greasyfork.org/en/scripts/4294-antiadware) Remove forced download accelerators, managers, and adware on supported websites
+- [Direct download from Google Play](https://greasyfork.org/en/scripts/33005-direct-download-from-google-play/) Adds APKPure, APKMirror and Evozi download buttons to Google Play when browsing apps.
+- [Popup Blocker Script](https://greasyfork.org/en/scripts/37654-popup-blocker-script) The most efficient user script for blocking popups of all types. Designed to fight the sneakiest popups including the ones on adult and streaming websites.
+- [openload](https://greasyfork.org/en/scripts/17665-openload) Remove anti-adblock, ads, popups and timer waits, and show direct download link on OpenLoad
+- [anti-anti-copy](https://greasyfork.org/en/scripts/7197-anti-anti-copy) some websites prevent you from copying text. this script bypass it.
+- [Torrentz2 Magnet](https://greasyfork.org/en/scripts/21547-torrentz2-magnet) Add magnet link to torrentz2
+- [Bypass paywalls for scientific documents](https://greasyfork.org/en/scripts/35521-bypass-paywalls-for-scientific-documents) This script adds download buttons on Google Scholar, Scopus and Web Of Science, which lead to sci-hub.tw.
+- [Google Drive Direct Links](https://greasyfork.org/en/scripts/10052-google-drive-direct-links/feedback) Direct link functionality for Google Drive
+- [Bypass Google Sorry (reCAPTCHA)](https://greasyfork.org/en/scripts/33226-bypass-google-sorry-recaptcha) Redirect Google reCAPTCHA to new search
+- [Google Image "View Image" button](https://greasyfork.org/en/scripts/38953-google-image-view-image-button) Add "View Image" button.
+- [MoreCAPTCHA](https://greasyfork.org/en/scripts/31088-morecaptcha) Speeds up solving Google reCAPTCHA challenges by shortening transition effects and providing continuous selection ability.
+- [MAL-Sync](https://greasyfork.org/en/scripts/372847-mal-sync) Integrates MyAnimeList into various sites, with auto episode tracking.
 
 ## Password Vaults
 - [BitWarden](https://bitwarden.com/) :star2: Open source password management solution, can be self-hosted
@@ -367,6 +380,7 @@ for any IP address.
 - [flood](https://github.com/jfurrow/flood) A web UI for rTorrent with a Node.js backend and React frontend.
 - [rTorrent ArchWiki Page](https://wiki.archlinux.org/index.php/RTorrent) Detailed article to answer most common questions about rTorrent
 - [rTorrent Seedbox Guide](https://jes.sc/kb/rTorrent-ruTorrent-Seedbox-Guide.php) This guide is a single-page, comprehensive guide to take you step-by-step through installation and configuration.
+- [rtorrent-ps](https://github.com/pyroscope/rtorrent-ps) Extended rTorrent distribution with a fully customizable canvas and colors, other feature additions, and complete docs.
 
 #### WebTorrent Clients
 - [magnetoo](https://www.magnetoo.io/) Fancy new in-browser WebTorrent streaming service
@@ -437,6 +451,7 @@ for any IP address.
 - [nZEDb](https://github.com/nZEDb/nZEDb) a fork of nnplus(2011) | NNTP / Usenet / Newsgroup indexer.
 - [newznab-tmux](https://github.com/NNTmux/newznab-tmux) Laravel based usenet indexer
 - [newznab](http://www.newznab.com/) newznab is a usenet indexing application, that makes building a usenet community easy.
+- [nZEDb-deploy](https://github.com/PREngineer/nZEDb-deploy) A collection of scripts to automate and simplify the deployment of a nZEDb Usenet Indexer using the new format of their GitHub repository.
 
 #### Paid Indexers
 - [NZBgeek](https://nzbgeek.info/) Affordable Usenet indexer operating since 2014.
@@ -516,6 +531,7 @@ for any IP address.
 - [Orion](https://orionoid.com/) Orion is a service that indexes metadata and links from a variety of public websites and networks, including torrent, usenet, and hoster indexes.
 - [Alluc](https://w1.alluc.uno/) Search engine with over 80 million streaming-links from over 700 VOD services, video hosters and file-hosters
 - [OD-Database](https://od-db.the-eye.eu/) Database of searchable open directories curated by The-Eye.eu
+- [IPLIVE](https://iplive.club/) DDL search engine
 
 ### DDL Link Sites
 - [/r/megalinks](https://www.reddit.com/r/megalinks) Links to files on Mega. Has now moved to snahp.it
@@ -790,6 +806,7 @@ premium services
 - [/r/SwitchHaxing](https://www.reddit.com/r/SwitchHaxing) Nintendo Switch hacking & homebrew subreddit
 - [/r/SwitchHacks](https://www.reddit.com/r/SwitchHacks) Another Nintendo Switch hacking subreddit
 - [/r/ps3homebrew](https://www.reddit.com/r/ps3homebrew/) News, updates, apps, and answers regarding PS3 homebrew!
+- [/r/YuzuPiracy](https://www.reddit.com/r/YuzuPiracy) Links for Yuzu, the open-source Nintendo Switch emulator
 
 ## Anime
 - [Nyaa](https://nyaa.si/) BitTorrent software for cats [(Repo)](https://github.com/nyaadevs/nyaa)
@@ -1083,6 +1100,12 @@ premium services
 - [Xtream Editor](http://www.xtream-editor.com/) Xtream Editor allow you to create, edit and sort m3u playlists online.
 - [xTeVe](https://xteve.de/) M3U Proxy for Plex DVR
 
+### Acestreams
+- [acestream.org](http://acestream.org/) Ace Stream is a peer-to-peer streaming application that lets you stream live sports and other content
+- [AceStreamSearch](https://acestreamsearch.com/en/) Ace Stream Broadcasts Search
+- [aceproxy](https://github.com/ValdikSS/aceproxy) Ace Stream HTTP Proxy. (abandonware)
+- [iktason/aceproxy](https://hub.docker.com/r/ikatson/aceproxy/) A docker image to run aceengine + aceproxy, e.g. to watch Torrent-TV.ru.
+
 ## IRC
 - [XDCC Tutorial](http://theloadguru.com/xdcc-irc-beginners-guide/) XDCC Downloading For Beginners: Do It Like A Pro
 - [autodl-irssi](https://autodl-community.github.io/autodl-irssi/) autodl-irssi is a plugin for irssi that monitors IRC announce channels for torrent trackers and downloads torrent files based on user-defined filters.
@@ -1101,11 +1124,13 @@ premium services
 
 ### IRC Networks
 - [irc.p2p-network.net](https://p2p-network.net/) P2P file sharing network
+- [p2p-network.net channel list](https://search.mibbit.com/channels/p2p-network) List of all channels on the p2p-network.net IRC network
 - [Orpheus](https://orpheus.network/) Formerly known as Apollo
 - _Moviegods_  `irc://irc.abjects.net/MOVIEGODS` :star2: XDCC file sharing network, join #mg-chat to continue downloading
 - _The Source_ `irc://irc.scenep2p.net/THE.SOURCE` Another XDCC source
 - _Beast-XDCC_ `irc://irc.abjects.net/BEAST-XDCC` One more XDCC source
 - _irc.undernet.org/bookz_ `irc://irc.undernet.org/bookz` For downloading ebooks (use `@search <book name>` for a list of available ebooks)
+- _irc.irchighway.net/ebooks_ `irc://irc.irchighway.net/ebooks` A nice, friendly irc channel for trading ebooks
 
 ### IRC Search Engines
 - [xWeasel](http://xweasel.org) xWeasel is a free stand-alone Download Client based on IRC technology including a multifunctional XDCC Search Engine.
@@ -1197,6 +1222,10 @@ premium services
 - [Movie Release Types](https://i.imgur.com/kEOrKJT.png) Table of common movie release types, their labels, and descriptions.
 - [How To Host "Questionable" Websites v4.0](https://weboas.is/media/host.pdf) PDF from weboas.is
 - [Privacy.com](https://privacy.com/) Privacy creates secure virtual cards and completes checkout forms for you, saving you time and money while masking your real card details.
+- [/f/Piracy](https://raddle.me/f/Piracy) Raddle forum for Piracy
+- [2019 Oscar DVD Screeners](https://whereyouwatch.com/articles/here-are-the-2019-oscar-dvd-screeners/) List of DVD screeners for 2019's Oscars
+- [iNFekt](https://infekt.ws/) A text viewer application that has been carefully designed around its main task: viewing and presenting NFO files.
+- [How To Get Everything On Netflix](https://www.reddit.com/r/NetflixViaVPN/comments/4z5fiq/how_to_get_everything_on_netflix_not_only_the_us/d6t00gv) Posted by /u/huldre99
 
 ## Contribute
 Contributions welcome! Read the [contribution guidelines](contributing.md) first.
