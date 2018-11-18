@@ -766,6 +766,7 @@ premium services
 - [Plexus](http://fusion.tvaddons.co/) Plexus is used in conjunction with Sparkle to play Ace Stream links.
 
 ## Gaming
+- [/r/CrackWatch](https://reddit.com/r/CrackWatch/) New video game crack releases are posted here
 - [SmartSteamEmu](https://github.com/MAXBURAOT/SmartSteamEmu) Steam emulator
 - [Goldberg Steam Emu](https://www.reddit.com/r/CrackWatch/comments/979s5e/goldberg_steam_emu_lan_multiplayer_without_steam/) This project is an attempt to make a generic Steam ddl that lets you play multiplayer games on a LAN without any internet connection
 
