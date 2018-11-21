@@ -827,6 +827,7 @@ premium services
 - [animeEncodes](https://www.animencodes.com/)
 - [HorribleSubs](https://horriblesubs.info/) Download anime via torrent files, magnet links, XDCC, and premium link hosts.
 - [Anime Twist](https://twist.moe/) An anime direct streaming site with a decent UI and video player
+- [AnimeOut](https://www.animeout.xyz/) Over 1000's of Encoded Anime with DDL links.
 
 ## Cartoons
 - [KissCartoon](https://kisscartoon.ac/) Popular cartoon streaming site
