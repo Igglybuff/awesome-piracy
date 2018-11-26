@@ -177,6 +177,7 @@ You will notice some items in this list have a :star2: next to them. Items with 
 - [Outline](https://chrome.google.com/webstore/detail/outline-read-without-clut/daoolpmoieinofbnddaofhkhmbagfmnj) Designed to remove ads, comments, and other junk from news articles but conveniently also bypasses paywalls
 - [Burlesco](https://burles.co/en/) Read news without subscribing, bypass the paywall
 - [Universal Bypass](https://chrome.google.com/webstore/detail/universal-bypass/aihomhdbhpnpmcnnbckjjcebjoikpihj) Universal Bypass automatically skips annoying link shorteners.
+- [Violentmonkey](https://violentmonkey.github.io/) An open source userscript manager.
 
 ## Userscripts
 - [Anti-Adblock Killer](https://github.com/reek/anti-adblock-killer) Anti-Adblock Killer helps you keep your Ad-Blocker active, when you visit a website and it asks you to disable.
