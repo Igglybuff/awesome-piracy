@@ -154,6 +154,7 @@ You will notice some items in this list have a :star2: next to them. Items with 
 - [NordVPN](https://nordvpn.com/) With NordVPN, encrypt your online activity to protect your private data from hackers or snoopy advertisers.
 - [TunnelBear](https://www.tunnelbear.com/) Really simple VPN to browse the web privately & securely. Unblock websites around the world with applications for Mac, PC, iOS, Android & your browser.
 - [ExpressVPN](https://www.expressvpn.com/vpnmentor1) VPN with 256 bit encryption, 94 countries and no logs. Also rated one of the fastest VPNs out there.
+- [Windscribe](https://windscribe.com/) Privacy focused VPN, [their privacy page](https://windscribe.com/privacy) is here for anyone paranoid. It has a free 15GB/mo free plan and you can get + 1GB/mo by [signing up here](https://windscribe.com/?friend=6rubsvgm).
 
 ### Self-hosted VPNs
 - [n2n](https://github.com/ntop/n2n) Peer-to-peer VPN
