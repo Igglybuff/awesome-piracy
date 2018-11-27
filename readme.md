@@ -898,7 +898,6 @@ premium services
 - [How to patch Adobe CC 2017 applications on Windows](https://drive.google.com/file/d/0BxfywKwnIU2JdFFraUxhVkllbnc/view)
 - [HOW TO PATCH ADOBE APPLICATIONS ON MAC, WORKING EARLY 2017](https://drive.google.com/file/d/0BxfywKwnIU2JY1RxV0M0U0J1Z1E/view)
 - [Pirating Adobe CC for Dummies](https://www.reddit.com/r/Piracy/comments/5f5uz7/pirating_adobe_cc_for_dummies/) detailed guide about pirating Adobe CC for Windows
-- [Adobe CC 2019 AIO Patcher Zer0Cod3](https://www.reddit.com/r/Piracy/comments/9s7be6/adobe_cc_2019_aio_patcher_zer0cod3/) :star2: Latest method for cracking Adobe CC 2019 applications on Windows
 - [Adobe Zii 4.0.3](https://www.reddit.com/r/Piracy/comments/9v7tr6/adobe_zii_403_released_now_includes_incopy/) Tool for patching and cracking Adobe CC applications
 
 ### Windows
