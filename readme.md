@@ -177,16 +177,16 @@ You will notice some items in this list have a :star2: next to them. Items with 
 - [Outline](https://chrome.google.com/webstore/detail/outline-read-without-clut/daoolpmoieinofbnddaofhkhmbagfmnj) Designed to remove ads, comments, and other junk from news articles but conveniently also bypasses paywalls
 - [Burlesco](https://burles.co/en/) Read news without subscribing, bypass the paywall
 - [Universal Bypass](https://chrome.google.com/webstore/detail/universal-bypass/aihomhdbhpnpmcnnbckjjcebjoikpihj) Universal Bypass automatically skips annoying link shorteners.
+- [Violentmonkey](https://violentmonkey.github.io/) An open source userscript manager.
 
 ## Userscripts
-- [Anti-Adblock Killer](https://github.com/reek/anti-adblock-killer) Anti-Adblock Killer helps you keep your Ad-Blocker active when you visit a website and it asks you to disable.
 - [IMDb Scout](https://greasyfork.org/en/scripts/3967-imdb-scout) Add links from IMDb pages to torrent sites -- easy downloading from IMDb
 - [AdsBypasser](https://adsbypasser.github.io/) This user script helps you to skip countdown ads or continue pages and prevent ad pop-up windows.
 - [AntiAdware](https://greasyfork.org/en/scripts/4294-antiadware) Remove forced download accelerators, managers, and adware on supported websites
 - [Direct download from Google Play](https://greasyfork.org/en/scripts/33005-direct-download-from-google-play/) Adds APKPure, APKMirror and Evozi download buttons to Google Play when browsing apps.
-- [Popup Blocker Script](https://greasyfork.org/en/scripts/37654-popup-blocker-script) The most efficient user script for blocking popups of all types. Designed to fight the sneakiest popups including the ones on adult and streaming websites.
-- [openload](https://greasyfork.org/en/scripts/17665-openload) Remove anti-Adblock, ads, popups, and timer waits, and show direct download link on OpenLoad
-- [anti-anti-copy](https://greasyfork.org/en/scripts/7197-anti-anti-copy) some websites prevent you from copying text. This script bypasses it.
+- [AdGuard Popup Blocker](https://greasyfork.org/en/scripts/33396-adguard-popup-blocker) Blocks pop-up ads on web pages.
+- [openload](https://greasyfork.org/en/scripts/17665-openload) Remove anti-adblock, ads, pop-ups, and timer waits, and show direct download link on OpenLoad.
+- [anti-anti-copy](https://greasyfork.org/en/scripts/7197-anti-anti-copy) some websites prevent you from copying text. this script bypass it.
 - [Torrentz2 Magnet](https://greasyfork.org/en/scripts/21547-torrentz2-magnet) Add magnet link to torrentz2
 - [Bypass paywalls for scientific documents](https://greasyfork.org/en/scripts/35521-bypass-paywalls-for-scientific-documents) This script adds download buttons on Google Scholar, Scopus, and Web Of Science, which lead to sci-hub.tw.
 - [Google Drive Direct Links](https://greasyfork.org/en/scripts/10052-google-drive-direct-links/feedback) Direct link functionality for Google Drive
@@ -770,13 +770,13 @@ premium services
 - [Plexus](http://fusion.tvaddons.co/) Plexus is used in conjunction with Sparkle to play Ace Stream links.
 
 ## Gaming
-- [/r/CrackWatch](https://reddit.com/r/CrackWatch/) New video game crack releases are posted here
+- [/r/CrackWatch](https://reddit.com/r/CrackWatch/) :star2: New video game crack releases are posted here
+- [cs.rin.ru](https://cs.rin.ru/) Popular gaming piracy forum
 - [SmartSteamEmu](https://github.com/MAXBURAOT/SmartSteamEmu) Steam emulator
 - [Goldberg Steam Emu](https://www.reddit.com/r/CrackWatch/comments/979s5e/goldberg_steam_emu_lan_multiplayer_without_steam/) This project is an attempt to make a generic Steam ddl that lets you play multiplayer games on a LAN without any internet connection
 - [cream-api-autoinstaller](https://github.com/Douile/cream-api-autoinstaller) A python script to auto install Cream API for Steam games
 
 ### Repacks
-- [Good Old Downloads](https://goodolddownloads.com/) Very popular repacks site with scene games, retro games, and games from the GOG.com catalog
 - [Games Torrent](http://gamestorrent.co/) Torrent site, part of IGGGAMES with releases from CODEX, RELOADED, CPY, SKIDROW, and more
 - [FitGirl Repacks](http://fitgirl-repacks.site/) :star2: Popular DDL and torrent site for game repacks
 - [Xatab Repacks](https://xatab-repack.net) Russian game repacker, primarily torrents
@@ -898,7 +898,6 @@ premium services
 - [How to patch Adobe CC 2017 applications on Windows](https://drive.google.com/file/d/0BxfywKwnIU2JdFFraUxhVkllbnc/view)
 - [HOW TO PATCH ADOBE APPLICATIONS ON MAC, WORKING EARLY 2017](https://drive.google.com/file/d/0BxfywKwnIU2JY1RxV0M0U0J1Z1E/view)
 - [Pirating Adobe CC for Dummies](https://www.reddit.com/r/Piracy/comments/5f5uz7/pirating_adobe_cc_for_dummies/) detailed guide about pirating Adobe CC for Windows
-- [Adobe CC 2019 AIO Patcher Zer0Cod3](https://www.reddit.com/r/Piracy/comments/9s7be6/adobe_cc_2019_aio_patcher_zer0cod3/) :star2: Latest method for cracking Adobe CC 2019 applications on Windows
 - [Adobe Zii 4.0.3](https://www.reddit.com/r/Piracy/comments/9v7tr6/adobe_zii_403_released_now_includes_incopy/) Tool for patching and cracking Adobe CC applications
 
 ### Windows
