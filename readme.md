@@ -1093,6 +1093,7 @@ premium services
 - [DoujinStyle](https://discord.gg/z2QDFdA) Discord server with Doujin related materials. Things such as Japanese doujin music and games
 - [The Eye](https://discordapp.com/invite/py3kX3Z) :star2: Official Discord server for the-eye.eu
 - [PlayStation Homebrew](https://discord.gg/JJnvEN8) Home of /r/ps3homebrew and /r/ps4homebrew.
+- [Snahp.it](https://discord.gg/ypyKZCj) Official Discord server for snahp.it.
 
 ## IPTV and DVR
 - [telly](https://github.com/tellytv/telly) :star2: IPTV proxy for Plex Live written in Golang
