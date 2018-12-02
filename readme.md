@@ -393,6 +393,7 @@ for any IP address.
 - [/r/seedboxes](https://www.reddit.com/r/seedboxes) A place to discuss seedboxes and everything related to them.
 - [Seedr](https://www.seedr.cc/) Essentially a seedbox you can paste torrents into which returns a streamable direct link
 - [ZXCFiles](http://www.zxcfiles.net) A similar service that allows you to paste magnet links or upload torrent files and get a DDL. First 20GB are free.
+- [Bitport.io](https://bitport.io/) Another direct download site for pasting magnet links or .torrent files. Free accounts offer 1GB for free.
 
 #### Seedbox Hosting Providers
 - [novaDedi](https://novadedi.net/index.php) novaDedi formerly known as metaDedi was created to help to find you the cheapest dedicated server for your intended use case.
@@ -1236,6 +1237,7 @@ premium services
 - [2019 Oscar DVD Screeners](https://whereyouwatch.com/articles/here-are-the-2019-oscar-dvd-screeners/) List of DVD screeners for 2019's Oscars
 - [iNFekt](https://infekt.ws/) A text viewer application that has been carefully designed around its main task: viewing and presenting NFO files.
 - [How To Get Everything On Netflix](https://www.reddit.com/r/NetflixViaVPN/comments/4z5fiq/how_to_get_everything_on_netflix_not_only_the_us/d6t00gv) Posted by /u/huldre99
+- [TheTrove](https://thetrove.net/) The Trove is a non-profit website dedicated towards content archival and long-term preservation of RPGs.
 
 ## Contribute
 Contributions welcome! Read the [contribution guidelines](contributing.md) first.
