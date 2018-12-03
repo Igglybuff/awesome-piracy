@@ -1051,6 +1051,7 @@ premium services
 - [Metatogger](https://www.luminescence-software.org/en/metatogger.html) Metatogger is the new generation of tag editor allowing you to rename, tag and easily sort your audio files.
 - [MediaInfo](https://mediaarea.net/en/MediaInfo) MediaInfo is a convenient unified display of the most relevant technical and tag data for video and audio files.
 - [iFlicks2](https://iflicksapp.com/) Useful for adding metadata to movies and TV shows
+- [MediaElch](https://www.kvibes.de/mediaelch/) Media manager for Kodi. Metadata & artwork retrieval, as well as renaming.
 - [/r/datacurator](https://www.reddit.com/r/datacurator/) Subreddit for discussion about the curation of digital data. Be it sorting, file formats, file encoding, best practices, discussion of your setup, tips and tricks, asking for help etc.
 
 ## Mobile Apps
