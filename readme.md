@@ -545,7 +545,7 @@ for any IP address.
 - [DirtyWarez Forum](https://forum.dirtywarez.com/) Popular warez forum with films, TV shows, ebooks, anime, games, and more
 - [snahp.it](https://snahp.it/) :star2: replaced /r/megalinks
 - [hdencode](https://hdencode.com/)
-- [Movies "R" Us] (moviesrus.tk) The newest movies in 1080p. Available with DDL through MediaFire and streaming through AnonFile.
+- [Movies "R" Us](moviesrus.tk) The newest movies in 1080p. Available with DDL through MediaFire and streaming through AnonFile.
 - [Movie Glide](https://www.movieglide.com/)
 - [Release BB](http://rlsbb.ru)
 - [DDLValley](https://www.ddlvalley.me/) DDL links for Movies, Games, Tv Shows, Apps, Ebooks and Music.
