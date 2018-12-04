@@ -569,6 +569,7 @@ for any IP address.
 - [DownTurk](https://www.downturk.net/)
 - [ScnLog](https://scnlog.me/)
 - [filewarez.tv](https://filewarez.tv/) Invite-only, hosts both Mega and Google Drive links for TV shows
+- [AppNee Freeware Group](https://appnee.com/) Massive DDL site, eBooks, Programs, Games, Operating Systems, etc.
 
 ### Premium Link Generators
 - [File Hosting Wiki](https://filehostlist.miraheze.org/wiki/Main_Page) This site aims to provide the most complete lists of premium link generators, torrent downloaders and more, with (possibly) frequent updates.
