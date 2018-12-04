@@ -78,7 +78,7 @@
     - [iTunes](#itunes)
 - [Software](#software)
 - [Ebooks](#ebooks)
-- [Magazines](#magazines)
+- [Magazines](#magaines)
 - [Academic Papers and Material](#academic-papers-and-material)
 - [Textbooks](#textbooks)
 - [Courses and Tutorials](#courses-and-tutorials)
@@ -508,7 +508,7 @@ for any IP address.
 - [ripme](https://github.com/RipMeApp/ripme) A album/video downloader with support for over 80 sites
 - [rdcli](https://github.com/ston3o/rdcli) The simple way to download and unrestrict DDL files, torrents and magnets using Real-Debrid
 - [get_iplayer](https://github.com/get-iplayer/get_iplayer) A utility for downloading TV and radio programmes from BBC iPlayer
-- [MEGAsync](https://mega.nz/sync) Easily automated synchronization between your computer and your MEGA account. Can stream Mega videos directly.
+- [MEGAsync](https://mega.nz/sync) Easily automated synchronisation between your computer and your MEGA account. Can stream Mega videos directly.
 - [wget](https://www.gnu.org/software/wget/) `wget` is a free and open source tool for downloading files using HTTP, HTTPS, FTP, and FTPS. It can be easily called from scripts, cronjobs, terminals without X-Windows support, etc.
 - [wget - a noob's guide](https://chris.partridge.tech/data/wget-noobs.pdf) Beginner guide on how to use `wget`
 - [wget for Windows](https://eternallybored.org/misc/wget/) A command-line utility for retrieving files using HTTP, HTTPS, and FTP protocols.
@@ -598,7 +598,7 @@ premium services
 - [36 GB of Flash Games](https://www.reddit.com/r/opendirectories/comments/902j1i/36_gb_of_flash_games_19k_files/) Posted by /u/blue_star_
 - [FileMasta](https://github.com/HerbL27/FileMasta) Search servers for video, music, books, software, games, subtitles and much more
 - [/r/opendirectories](https://www.reddit.com/r/opendirectories) Unprotected directories of pics, vids, music, software, and otherwise interesting files.
-- [opendirectories-bot](https://github.com/simon987/opendirectories-bot) Bot used on /r/opendirectories for analyzing the contents of open directories posted on the subreddit
+- [opendirectories-bot](https://github.com/simon987/opendirectories-bot) Bot used on /r/opendirectories for analysing the contents of open directories posted on the subreddit
 - [Panelshow.club](http://panelshow.club/) Directory of panel show TV episodes from [/r/panelshow](https://www.reddit.com/r/panelshow)
 
 ### Streaming Sites
