@@ -47,7 +47,7 @@
     - [Custom Google Search Engines](#custom-google-search-engines)
     - [FTP Indexers](#ftp-indexers)
     - [DDL Search Engines and Crawlers](#ddl-search-engines-and-crawlers)
-    - [DDL Link Sites](#normal-ddl-indexers)
+    - [DDL Link Sites](#ddl-link-sites)
     - [Premium Link Generators](#premium-link-generators)
     - [Premium Link Hosts](#premium-link-hosts)
     - [Open Directories](#open-directories)
@@ -194,6 +194,8 @@ You will notice some items in this list have a :star2: next to them. Items with 
 - [Google Image "View Image" button](https://greasyfork.org/en/scripts/38953-google-image-view-image-button) Add "View Image" button.
 - [MoreCAPTCHA](https://greasyfork.org/en/scripts/31088-morecaptcha) Speeds up solving Google reCAPTCHA challenges by shortening transition effects and providing continuous selection ability.
 - [MAL-Sync](https://greasyfork.org/en/scripts/372847-mal-sync) Integrates MyAnimeList into various sites, with auto episode tracking.
+- [Remove fake TPB torrents](https://www.reddit.com/r/Piracy/comments/78aicx/i_wrote_a_small_script_that_automatically_hides/) Script that automatically hides fake torrents on The Pirate Bay based on conditional logic.
+- [Get DLC Info from SteamDB](https://cs.rin.ru/forum/viewtopic.php?t=71837) For use with CreamAPI and similar tools.
 
 ## Password Vaults
 - [BitWarden](https://bitwarden.com/) :star2: Open source password management solution, can be self-hosted
@@ -313,7 +315,6 @@ for any IP address.
 - [RARBG](https://rarbg.to/) :star2: Public tracker with its own release group
 - [YTS](https://yts.am/) Small-size HD movies from YIFY
 - [The Pirate Bay](https://thepiratebay.org/) Infamous torrent site which is somehow still running, blocked in most places
-- [Remove fake TPB torrents](https://www.reddit.com/r/Piracy/comments/78aicx/i_wrote_a_small_script_that_automatically_hides/) Script that automatically hides fake torrents on The Pirate Bay based on conditional logic
 - [The Proxy Bay](https://proxybay.bz/) Can't access The Pirate Bay? Try one of these proxy sites.
 - [Torrentz2](https://torrentz2.eu/) A good replacement of the defunct Torrentz.eu
 - [Idope (Clone)](https://idope.top/) iDope is a torrent search engine presenting direct magnet links, comments and up to date seeder/leecher statistics.
@@ -516,11 +517,12 @@ for any IP address.
 - [FlixGrab](https://www.flixgrab.com/) FlixGrab+ is a unique application for downloading entire NetFlix serials, TV shows, documentaries, movies.
 
 ### Custom Google Search Engines
-- [FileChef](http://filechef.com/) These all
-- [The Eye CGS Engine](https://cgs.the-eye.eu/) do
-- [opendirectory-finder](https://ewasion.github.io/opendirectory-finder/) the
-- [lumpySoft.com](https://lumpysoft.com/) same
-- [mattpalm.com/search](https://mattpalm.com/search/) thing :)
+- [FileChef](http://filechef.com/) These
+- [The Eye CGS Engine](https://cgs.the-eye.eu/) all
+- [opendirectory-finder](https://ewasion.github.io/opendirectory-finder/) do
+- [lumpySoft.com](https://lumpysoft.com/) the
+- [mattpalm.com/search](https://mattpalm.com/search/) same
+- [Filer](https://rsch.neocities.org/gen2/filer.html) thing :)
 - [Musgle](http://www.musgle.com/) Searches specifically for music
 - [Jimmyr](http://www.jimmyr.com/mp3_search.php) Also searches for music
 
@@ -570,6 +572,10 @@ for any IP address.
 - [DownTurk](https://www.downturk.net/)
 - [ScnLog](https://scnlog.me/)
 - [filewarez.tv](https://filewarez.tv/) Invite-only, hosts both Mega and Google Drive links for TV shows
+- [Movie-blog.org](http://movie-blog.to/) German site for movies
+- [Movieworld.to](http://movieworld.to/) Another German site for movies
+- [DDL-Warez](https://ddl-warez.to/) German site for movies, shows, books and games
+- [DDL-Music](https://ddl-music.to/) German site for music
 - [AppNee Freeware Group](https://appnee.com/) Massive DDL site, eBooks, Programs, Games, Operating Systems, etc.
 
 ### Premium Link Generators
@@ -779,6 +785,7 @@ premium services
 - [cs.rin.ru](https://cs.rin.ru/) Popular gaming piracy forum
 - [SmartSteamEmu](https://github.com/MAXBURAOT/SmartSteamEmu) Steam emulator
 - [Goldberg Steam Emu](https://www.reddit.com/r/CrackWatch/comments/979s5e/goldberg_steam_emu_lan_multiplayer_without_steam/) This project is an attempt to make a generic Steam ddl that lets you play multiplayer games on a LAN without any internet connection
+- [CreamAPI](https://cs.rin.ru/forum/viewtopic.php?t=70576) "A Legit DLC Unlocker" for Steam
 - [cream-api-autoinstaller](https://github.com/Douile/cream-api-autoinstaller) A python script to automatically install Cream API for Steam games
 
 ### Repacks
@@ -870,10 +877,13 @@ premium services
 - [Soulseek](http://www.soulseekqt.net/news/) Soulseek is an ad-free, spyware free, just plain free file sharing network for Windows, Mac, and Linux.
 - [irs](https://github.com/kepoorhampond/irs) A music downloader that understands your metadata needs.
 - [SMLoadr](https://git.fuwafuwa.moe/SMLoadrDev/SMLoadr) A streaming music downloader.
-- [Deezloader](https://www.reddit.com/r/DeezloadersIsBack/comments/9n3pf1/deezloader_alpha_latest_version_download10102018/) Tool for downloading music from Deezer
+- [Deezloader Remaster](https://www.reddit.com/r/DeezloadersIsBack/comments/9n3pf1/deezloader_alpha_latest_version_download10102018/) Tool for downloading music from Deezer
+- [Deezloader Remix](https://notabug.org/RemixDevs/DeezloaderRemix) Another program with the same purpose, both based on the original, now defunct Deezloader.
 - [/r/DeezloaderIsBack](https://www.reddit.com/r/DeezloadersIsBack) Community supporting Deezloader
 - [New Album Releases](http://newalbumreleases.net/) Premium DDL links for full albums
 - [Kingdom Leaks](https://kingdom-leaks.com/) DDL links for album leaks
+- [KHInsider](https://downloads.khinsider.com/) Site collecting soundtracks, mostly MP3, some FLAC, OGG or M4A.
+- [VGMLoader](https://github.com/TheLastZombie/VGMLoader) Tool for bulk downloading from KHInsider.
 
 ### Spotify
 - [Get rid of Spotify ads](https://www.reddit.com/r/Piracy/comments/9jvlf8/get_rid_of_spotify_adsbannerslimited_skips_and/) Short guide on avoiding ads, banners, limited skips, and locked shuffle mode in Spotify Free
@@ -966,6 +976,7 @@ premium services
 - [MangaDex](https://www.mangadex.org/) MangaDex is an online manga reader that caters to all languages.
 - [KissManga](http://kissmanga.com/) Another manga website
 - [/r/manga](https://www.reddit.com/r/manga) Everything and anything manga! (manhwa is okay too!)
+- [Madokami](https://manga.madokami.al/) Requires sign-up (currently closed), see mirrors below.
 - [Madokami 0-E](https://archive.org/download/Madokami.Manga.0-E) Download manga titles named 0 to E.
 - [Madokami F-K](https://archive.org/download/Madokami.Manga.F-K) Download manga titles named F to K.
 - [Madokami L-Q](https://archive.org/download/Madokami.Manga.L-Q) Download manga titles named L to Q.
@@ -1101,6 +1112,7 @@ premium services
 - [The Eye](https://discordapp.com/invite/py3kX3Z) :star2: Official Discord server for the-eye.eu
 - [PlayStation Homebrew](https://discord.gg/JJnvEN8) Home of /r/ps3homebrew and /r/ps4homebrew.
 - [Snahp.it](https://discord.gg/ypyKZCj) Official Discord server for snahp.it.
+- [WarezNX](https://discord.gg/d6xxuPq) Nintendo Switch Warez server.
 
 ## IPTV and DVR
 - [telly](https://github.com/tellytv/telly) :star2: IPTV proxy for Plex Live written in Golang
