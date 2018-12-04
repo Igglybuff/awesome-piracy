@@ -1253,6 +1253,7 @@ premium services
 - [iNFekt](https://infekt.ws/) A text viewer application that has been carefully designed around its main task: viewing and presenting NFO files.
 - [How To Get Everything On Netflix](https://www.reddit.com/r/NetflixViaVPN/comments/4z5fiq/how_to_get_everything_on_netflix_not_only_the_us/d6t00gv) Posted by /u/huldre99
 - [TheTrove](https://thetrove.net/) The Trove is a non-profit website dedicated to content archival and long-term preservation of RPGs.
+- [serials](http://www.serials.ws/) Serial keys for software that may or may not work.
 
 ## Contribute
 Contributions welcome! Read the [contribution guidelines](contributing.md) first.
