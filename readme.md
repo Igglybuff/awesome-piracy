@@ -47,17 +47,17 @@
     - [Custom Google Search Engines](#custom-google-search-engines)
     - [FTP Indexers](#ftp-indexers)
     - [DDL Search Engines and Crawlers](#ddl-search-engines-and-crawlers)
-    - [DDL Link Sites](#normal-ddl-indexers)
+    - [DDL Link Sites](#ddl-link-sites)
     - [Premium Link Generators](#premium-link-generators)
     - [Premium Link Hosts](#premium-link-hosts)
     - [Open Directories](#open-directories)
-    - [Sports Streaming](#sports-streaming)
     - [Streaming Sites](#streaming-sites)
         - [HD Streaming](#hd-streaming)
         - [Big Media Libraries](#big-media-libraries)
         - [TV & Anime Streaming](#tv-and-anime-streaming)
+        - [Sports Streaming](#sports-streaming)
         - [Specialty Sites](#specialty-sites)
-        - [Openload Hosts](#openload-hosts)
+        - [Openload Hosts](#third-party-hosts)
         - [Uncategorized](#uncategorized)
 - [Media Centre Applications](#media-centre-applications)
     - [Stremio Addons](#stremio-addons)
@@ -612,7 +612,11 @@ premium services
 - [How To Stream Movies, TV, Anime & Sports Online](https://www.removeddit.com/r/FREEMEDIAFUCKYEAH/comments/8fwnxr/how_to_stream_movies_tv_anime_online/) :star2: Huge list by /u/nbatman
 
 #### HD Streaming
+- [Best Free Streaming](https://www.bestfreestreaming.com/) Site that rates streaming services
+- [/r/MovieStreamingSites](https://www.reddit.com/r/MovieStreamingSites/)
+- [/r/BestOfStreamingVideo](https://www.reddit.com/r/BestOfStreamingVideo/)
 - [HD MultiredditHD](https://www.reddit.com/user/nbatman/m/streaming2/)
+- [r/Megalinks](https://www.reddit.com/r/megalinks/) HD Movies/TV Shows hosted on mega site (DDL)
 - [StreamCR](https://scr.cr/)
 - [HDFlix](http://hdflix.net/)
 - [Yes! Movies](https://yesmovies.to)
@@ -625,8 +629,18 @@ premium services
 - [Spacemov](http://spacemov.io/)
 - [XMovies8](https://xmovies8.ru/)
 - [IWatchFlix](https://www.iwatchflix.xyz/)
-- [r/Megalinks](https://www.reddit.com/r/megalinks/)
 - [IceFilms](http://www.icefilms.info/)
+- [FlixGo](https://flixgo.net/)
+- [Movie123](http://movie123.club/)
+- [LookMovie](https://lookmovie.ag/)
+- [FilmXY](https://www.filmxy.one/)
+- [AZMovies](https://azmovies.xyz/)
+- [1Movies](http://1movies.nl)
+- [Rainierland](https://rainierland.is/)
+- [WatchFullMovie](http://watchfullmovie.co)
+- [FMOVIES](https://www3.fmovies.to/)
+- [HDOnline](https://www1.hdonline.eu)
+- [YMovies](https://ymovies.tv/) Streaming site full of YIFY and other releases
 
 #### Big Media Libraries
 - [Streaming Multireddit](https://www.reddit.com/user/nbatman/m/streaming/)
@@ -658,67 +672,8 @@ premium services
 - [Anime8](https://anime8.me/)
 - [NineAnime](https://www.nineanime.com/)
 
-#### Specialty Sites
-- [Einthusan](https://einthusan.tv/intro/) (Foreign)
-- [Dramago](http://www.dramago.com/)
-- [WatchAsian](https://www2.watchasian.co/) (Foreign)
-- [Layarkaca](http://layarkaca21.ru/) (Foreign)
-- [DramaCool](http://www1.dramacoolfirst.com/) (Foreign)
-- [KingsofHorror](https://www.youtube.com/user/TheKingsofHorror/) (Youtube Horror)
-- [MutantSorority](https://www.youtube.com/channel/UCWcF6KTn_sSSJ1AIj1bQmRg) (Youtube Horror)
-- [TromaMovies](https://www.youtube.com/channel/UC4O0LNYmaOczcSMHA_FE1Mw) (Youtube Horror)
-- [Film1k](http://www.film1k.com/la-bestia-uccide-a-sangue-freddo-1971.html) (Movies with nudity)
-- [Rulu](https://www.rulu.co/) (Youtube Red Series)
-- [Club MST3k](http://www.club-mst3k.com/) (Every episode of MST3K)
-- [Archive.org](https://archive.org/) (Old movies)
-
-#### Openload Hosts
-- [Ololo](https://ololo.to/)
-- [MovieZion](https://www.nicemoviezion.pro/)
-- [FMovies](https://www4.fmovies.se/)
-- [Vmovee](https://vmovee.me/)
-- [MovieJagg](https://www.coolmoviejagg.pro/)
-- [IWannaWatch](https://www.iwannawatch.is/)
-- [Solarmoviefreez](http://solarmoviefreez.com/)
-- [UWatchFree](https://www.uwatchfree.tv/)
-- [Oakmovies](http://oakmovies.com/)
-- [Vexmovies](http://vexmovies.org/)
-- [Openloadmovie](https://openloadmovie.ws/)
-
-#### Uncategorized
-- [cine.to](https://cine.to/)
-- [Movie123](http://movie123.club/)
-- [FlixGo](https://flixgo.net/)
-- [LookMovie](https://lookmovie.ag/)
-- [FilmXY](https://www.filmxy.one/)
-- [onemov](https://onemov.net/)
-- [AZMovies](https://azmovies.xyz/)
-- [1Movies](http://1movies.nl)
-- [Rainierland](https://rainierland.is/)
-- [WatchFullMovie](http://watchfullmovie.co)
-- [MegaShare](http://megashare9.su)
-- [cinebloom](https://www2.cinebloom.com)
-- [QQMovies](http://qqmovies.co)
-- [HDEUROPIX](https://topeuropix.net/)
-- [/r/MovieStreamingSites](https://www.reddit.com/r/MovieStreamingSites/)
-- [/r/BestOfStreamingVideo](https://www.reddit.com/r/BestOfStreamingVideo/)
-- [FMOVIES](https://www3.fmovies.to/)
-- [openloadmovies.net](https://openloadmovies.net/) Reliable movie streaming site which uses OpenLoad
-- [HD MOVIES](https://hdm.to/) Another streaming site which uses OpenLoad
-- [HDOnline](https://www1.hdonline.eu)
-- [YMovies](https://ymovies.tv/) Streaming site full of YIFY and other releases
-- [WatchFree](https://watchfree.at/)
-- [Daxiv Video](https://daxiv.com/) Movies & TV shows online or stream right to your smart TV, game console, PC, Mac, mobile, tablet and more. Primarily Chinese content.
-- [VodLocker](https://vodlocker.tv/)
-- [movies2k](http://www.movie2k.st)
-- [M4UFree.TV](http://m4ufree.tv/)
-- [Flixanity](https://flixanity.xyz/)
-- [xPau.se](http://xpau.se/)
-- [StreamCouch](https://www2.streamcouch.com/)
-- [Qwemovies](https://www3.qwemovies.com/)
-- [#1 Movies Website](https://www1.1movies.is)
-
-### Sports Streaming
+#### Sports Streaming
+- [Best Sport Streaming](https://www.bestsportstreaming.com/) Site that rates sport streaming services
 - [LiveTV](https://livesx.eu/)
 - [Cricfree](https://crickfree.org/)
 - [VIPBox](https://www.vipbox.live/) Spanish
@@ -738,6 +693,53 @@ premium services
 - [Send It](https://sendit.gg/) Live stream listings for sports, news, gaming, and more.
 - [SportsHD](http://www.speedsports.me)
 - [720pStream](http://www.720pstream.me/)
+
+#### Specialty Sites
+- [Einthusan](https://einthusan.tv/intro/) (Foreign)
+- [Dramago](http://www.dramago.com/)
+- [WatchAsian](https://www2.watchasian.co/) (Foreign)
+- [Layarkaca](http://layarkaca21.ru/) (Foreign)
+- [DramaCool](http://www1.dramacoolfirst.com/) (Foreign)
+- [KingsofHorror](https://www.youtube.com/user/TheKingsofHorror/) (Youtube Horror)
+- [MutantSorority](https://www.youtube.com/channel/UCWcF6KTn_sSSJ1AIj1bQmRg) (Youtube Horror)
+- [TromaMovies](https://www.youtube.com/channel/UC4O0LNYmaOczcSMHA_FE1Mw) (Youtube Horror)
+- [Film1k](http://www.film1k.com/la-bestia-uccide-a-sangue-freddo-1971.html) (Movies with nudity)
+- [Rulu](https://www.rulu.co/) (Youtube Red Series)
+- [Club MST3k](http://www.club-mst3k.com/) (Every episode of MST3K)
+- [Archive.org](https://archive.org/) (Old movies)
+
+#### Third Party Hosts
+- [Ololo](https://ololo.to/)
+- [MovieZion](https://www.nicemoviezion.pro/)
+- [FMovies](https://www4.fmovies.se/)
+- [Vmovee](https://vmovee.me/)
+- [MovieJagg](https://www.coolmoviejagg.pro/)
+- [IWannaWatch](https://www.iwannawatch.is/)
+- [Solarmoviefreez](http://solarmoviefreez.com/)
+- [UWatchFree](https://www.uwatchfree.tv/)
+- [Oakmovies](http://oakmovies.com/)
+- [Vexmovies](http://vexmovies.org/)
+- [Openloadmovie](https://openloadmovie.ws/)
+- [cine.to](https://cine.to/)
+- [cinebloom](https://www2.cinebloom.com)
+- [QQMovies](http://qqmovies.co)
+- [HDEUROPIX](https://topeuropix.net/)
+- [openloadmovies.net](https://openloadmovies.net/) Reliable movie streaming site which uses OpenLoad
+- [HD MOVIES](https://hdm.to/) Another streaming site which uses OpenLoad
+- [VodLocker](https://vodlocker.tv/)
+- [StreamCouch](https://www2.streamcouch.com/)
+- [Qwemovies](https://www3.qwemovies.com/) OpenLoad
+
+#### Uncategorized
+- [onemov](https://onemov.net/)
+- [MegaShare](http://megashare9.su)
+- [WatchFree](https://watchfree.at/)
+- [Daxiv Video](https://daxiv.com/) Movies & TV shows online or stream right to your smart TV, game console, PC, Mac, mobile, tablet and more. Primarily Chinese content.
+- [movies2k](http://www.movie2k.st)
+- [M4UFree.TV](http://m4ufree.tv/)
+- [Flixanity](https://flixanity.xyz/)
+- [xPau.se](http://xpau.se/)
+- [#1 Movies Website](https://www1.1movies.is)
 
 ## Media Centre Applications
 - [Plex](https://www.plex.tv/) :star2: Your content—from live and recorded TV and personal media, to on-demand web shows, video news, and podcasts—beautifully organized and ready to stream everywhere.
