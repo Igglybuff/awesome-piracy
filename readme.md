@@ -53,6 +53,12 @@
     - [Open Directories](#open-directories)
     - [Sports Streaming](#sports-streaming)
     - [Streaming Sites](#streaming-sites)
+        - [HD Streaming](#hd-streaming)
+        - [Big Media Libraries](#big-media-libraries)
+        - [TV & Anime Streaming](#tv-and-anime-streaming)
+        - [Specialty Sites](#specialty-sites)
+        - [Openload Hosts](#openload-hosts)
+        - [Uncategorized](#uncategorized)
 - [Media Centre Applications](#media-centre-applications)
     - [Stremio Addons](#stremio-addons)
 - [Plex](#plex)
@@ -603,10 +609,84 @@ premium services
 - [Panelshow.club](http://panelshow.club/) Directory of panel show TV episodes from [/r/panelshow](https://www.reddit.com/r/panelshow)
 
 ### Streaming Sites
-- [How To Stream Movies, TV, Anime & Sports Online](https://www.reddit.com/r/FREEMEDIAFUCKYEAH/comments/9q11kg/how_to_stream_movies_tv_anime_sports_online/) :star2: Huge list by /u/nbatman
+- [How To Stream Movies, TV, Anime & Sports Online](https://www.removeddit.com/r/FREEMEDIAFUCKYEAH/comments/8fwnxr/how_to_stream_movies_tv_anime_online/) :star2: Huge list by /u/nbatman
+
+#### HD Streaming
+- [HD MultiredditHD](https://www.reddit.com/user/nbatman/m/streaming2/)
 - [StreamCR](https://scr.cr/)
-- [cine.to](https://cine.to/)
+- [HDFlix](http://hdflix.net/)
+- [Yes! Movies](https://yesmovies.to)
+- [HDO](https://hdo.to/)
 - [Solarmovie](https://solarmoviez.ru/solar.html)
+- [FFilms](http://ffilms.org/)
+- [Flixtor](https://flixtor.to/)
+- [Flenix](https://flenix.co/)
+- [Streamlord](http://www.streamlord.com/)
+- [Spacemov](http://spacemov.io/)
+- [XMovies8](https://xmovies8.ru/)
+- [IWatchFlix](https://www.iwatchflix.xyz/)
+- [r/Megalinks](https://www.reddit.com/r/megalinks/)
+- [IceFilms](http://www.icefilms.info/)
+
+#### Big Media Libraries
+- [Streaming Multireddit](https://www.reddit.com/user/nbatman/m/streaming/)
+- [Alluc.uno](https://w1.alluc.uno/)
+- [Ololo](https://ololo.to/)
+- [Viooz](https://vzm.ag/)
+- [5Movies](http://5movies.to/)
+- [2TwoMovies](https://two-movies.net/)
+- [CafeHulu](http://cafehulu.com/)
+- [Solarmovie](http://www.solarmovie.fm/)
+- [Primewire](http://www.primewire.is/)
+- [Afdah](http://afdah.to/)
+- [FreeMoviez](https://freemoviesz/)
+- [Solarmovies](https://solamovies.cc/)
+- [Youtube](http://youtube.com/)
+
+#### TV and Anime Streaming
+- [TVRaven](https://www.onetvraven.pro/)
+- [WatchSeries](http://dwatchseries.to/)
+- [WatchSeries 2.0](https://watch-series.io/)
+- [TVBox](https://tvbox.ag/)
+- [PutlockerSeries](http://putlockerseries.to/)
+- [480mkv](http://480mkv.com/)
+- [KimCartoon](https://kimcartoon.co/)
+- [WatchCartoon](https://www.watchcartoononline.io/)
+- [9Anime](https://www4.9anime.is/)
+- [Kissanime.ru](http://kissanime.ru/) or [Kissanime.ac](https://kissanime.ac/)
+- [MioMio](http://www.miomio.tv/)
+- [Anime8](https://anime8.me/)
+- [NineAnime](https://www.nineanime.com/)
+
+#### Specialty Sites
+- [Einthusan](https://einthusan.tv/intro/) (Foreign)
+- [Dramago](http://www.dramago.com/)
+- [WatchAsian](https://www2.watchasian.co/) (Foreign)
+- [Layarkaca](http://layarkaca21.ru/) (Foreign)
+- [DramaCool](http://www1.dramacoolfirst.com/) (Foreign)
+- [KingsofHorror](https://www.youtube.com/user/TheKingsofHorror/) (Youtube Horror)
+- [MutantSorority](https://www.youtube.com/channel/UCWcF6KTn_sSSJ1AIj1bQmRg) (Youtube Horror)
+- [TromaMovies](https://www.youtube.com/channel/UC4O0LNYmaOczcSMHA_FE1Mw) (Youtube Horror)
+- [Film1k](http://www.film1k.com/la-bestia-uccide-a-sangue-freddo-1971.html) (Movies with nudity)
+- [Rulu](https://www.rulu.co/) (Youtube Red Series)
+- [Club MST3k](http://www.club-mst3k.com/) (Every episode of MST3K)
+- [Archive.org](https://archive.org/) (Old movies)
+
+#### Openload Hosts
+- [Ololo](https://ololo.to/)
+- [MovieZion](https://www.nicemoviezion.pro/)
+- [FMovies](https://www4.fmovies.se/)
+- [Vmovee](https://vmovee.me/)
+- [MovieJagg](https://www.coolmoviejagg.pro/)
+- [IWannaWatch](https://www.iwannawatch.is/)
+- [Solarmoviefreez](http://solarmoviefreez.com/)
+- [UWatchFree](https://www.uwatchfree.tv/)
+- [Oakmovies](http://oakmovies.com/)
+- [Vexmovies](http://vexmovies.org/)
+- [Openloadmovie](https://openloadmovie.ws/)
+
+#### Uncategorized
+- [cine.to](https://cine.to/)
 - [Movie123](http://movie123.club/)
 - [FlixGo](https://flixgo.net/)
 - [LookMovie](https://lookmovie.ag/)
@@ -622,7 +702,6 @@ premium services
 - [HDEUROPIX](https://topeuropix.net/)
 - [/r/MovieStreamingSites](https://www.reddit.com/r/MovieStreamingSites/)
 - [/r/BestOfStreamingVideo](https://www.reddit.com/r/BestOfStreamingVideo/)
-- [Yes! Movies](https://yesmovies.to)
 - [FMOVIES](https://www3.fmovies.to/)
 - [openloadmovies.net](https://openloadmovies.net/) Reliable movie streaming site which uses OpenLoad
 - [HD MOVIES](https://hdm.to/) Another streaming site which uses OpenLoad
@@ -637,7 +716,6 @@ premium services
 - [xPau.se](http://xpau.se/)
 - [StreamCouch](https://www2.streamcouch.com/)
 - [Qwemovies](https://www3.qwemovies.com/)
-- [HDO](https://hdo.to/)
 - [#1 Movies Website](https://www1.1movies.is)
 
 ### Sports Streaming
