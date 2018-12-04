@@ -78,7 +78,7 @@
     - [iTunes](#itunes)
 - [Software](#software)
 - [Ebooks](#ebooks)
-- [Magazines](#magaines)
+- [Magazines](#magazines)
 - [Academic Papers and Material](#academic-papers-and-material)
 - [Textbooks](#textbooks)
 - [Courses and Tutorials](#courses-and-tutorials)
