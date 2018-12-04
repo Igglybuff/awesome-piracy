@@ -789,7 +789,6 @@ premium services
 - [cream-api-autoinstaller](https://github.com/Douile/cream-api-autoinstaller) A python script to automatically install Cream API for Steam games
 
 ### Repacks
-- [Games Torrent](http://gamestorrent.co/) Torrent site, part of IGG GAMES with releases from CODEX, RELOADED, CPY, SKIDROW, and more
 - [FitGirl Repacks](http://fitgirl-repacks.site/) :star2: Popular DDL and torrent site for game repacks
 - [Xatab Repacks](https://xatab-repack.net) Russian game repacker, primarily torrents
 - [ElAmigos Games](https://www.elamigos-games.com/) Premium links to cracked games
