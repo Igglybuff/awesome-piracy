@@ -1240,6 +1240,7 @@ premium services
 - [ArconaiTV](https://www.arconaitv.us/) Another stream sharing platform with a nice UI
 
 ## Miscellaneous
+- [The Eye](https://the-eye.eu) A non-profit website dedicated towards content archival and long-term preservation.
 - [/r/EmbyShares](https://www.reddit.com/r/EmbyShares) This subreddit is dedicated to the sharing of Emby servers.
 - [/r/freefolk](https://www.reddit.com/r/freefolk) Streams for new episodes of Game of Thrones
 - [Shodan](https://www.shodan.io/) Shodan is the world's first search engine for Internet-connected devices.
