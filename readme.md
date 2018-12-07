@@ -641,10 +641,13 @@ premium services
 - [FMOVIES](https://www3.fmovies.to/)
 - [HDOnline](https://www1.hdonline.eu)
 - [YMovies](https://ymovies.tv/) Streaming site full of YIFY and other releases
+- [WatchFree](https://watchfree.at/)
+- [#1 Movies Website](https://www1.1movies.is)
+- [M4UFree.TV](http://m4ufree.tv/)
 
 #### Big Media Libraries
 - [Streaming Multireddit](https://www.reddit.com/user/nbatman/m/streaming/)
-- [Alluc.uno](https://w1.alluc.uno/)
+- [Alluc.uno](https://w1.alluc.uno/) Currently Only Searches Openload
 - [Ololo](https://ololo.to/)
 - [Viooz](https://vzm.ag/)
 - [5Movies](http://5movies.to/)
@@ -695,51 +698,43 @@ premium services
 - [720pStream](http://www.720pstream.me/)
 
 #### Specialty Sites
-- [Einthusan](https://einthusan.tv/intro/) (Foreign)
-- [Dramago](http://www.dramago.com/)
-- [WatchAsian](https://www2.watchasian.co/) (Foreign)
-- [Layarkaca](http://layarkaca21.ru/) (Foreign)
-- [DramaCool](http://www1.dramacoolfirst.com/) (Foreign)
-- [KingsofHorror](https://www.youtube.com/user/TheKingsofHorror/) (Youtube Horror)
-- [MutantSorority](https://www.youtube.com/channel/UCWcF6KTn_sSSJ1AIj1bQmRg) (Youtube Horror)
-- [TromaMovies](https://www.youtube.com/channel/UC4O0LNYmaOczcSMHA_FE1Mw) (Youtube Horror)
-- [Film1k](http://www.film1k.com/la-bestia-uccide-a-sangue-freddo-1971.html) (Movies with nudity)
-- [Rulu](https://www.rulu.co/) (Youtube Red Series)
-- [Club MST3k](http://www.club-mst3k.com/) (Every episode of MST3K)
-- [Archive.org](https://archive.org/) (Old movies)
+- [Einthusan](https://einthusan.tv/intro/) Foreign
+- [Dramago](http://www.dramago.com/) Drama Movies/Series
+- [WatchAsian](https://www2.watchasian.co/) Foreign
+- [Layarkaca](http://layarkaca21.ru/) Foreign
+- [DramaCool](http://www1.dramacoolfirst.com/) Foreign
+- [Daxiv Video](https://daxiv.com/) Primarily Chinese Content
+- [KingsofHorror](https://www.youtube.com/user/TheKingsofHorror/) Youtube Horror
+- [MutantSorority](https://www.youtube.com/channel/UCWcF6KTn_sSSJ1AIj1bQmRg) Youtube Horror
+- [TromaMovies](https://www.youtube.com/channel/UC4O0LNYmaOczcSMHA_FE1Mw) Youtube Horror
+- [Film1k](http://www.film1k.com/la-bestia-uccide-a-sangue-freddo-1971.html) Movies with Nudity
+- [Rulu](https://www.rulu.co/) Youtube Red Series
+- [Club MST3k](http://www.club-mst3k.com/) Every episode of MST3K
+- [Archive.org](https://archive.org/) Old movies
 
 #### Third Party Hosts
-- [Ololo](https://ololo.to/)
-- [MovieZion](https://www.nicemoviezion.pro/)
-- [FMovies](https://www4.fmovies.se/)
-- [Vmovee](https://vmovee.me/)
-- [MovieJagg](https://www.coolmoviejagg.pro/)
-- [IWannaWatch](https://www.iwannawatch.is/)
-- [Solarmoviefreez](http://solarmoviefreez.com/)
-- [UWatchFree](https://www.uwatchfree.tv/)
-- [Oakmovies](http://oakmovies.com/)
-- [Vexmovies](http://vexmovies.org/)
-- [Openloadmovie](https://openloadmovie.ws/)
-- [cine.to](https://cine.to/)
-- [cinebloom](https://www2.cinebloom.com)
-- [QQMovies](http://qqmovies.co)
-- [HDEUROPIX](https://topeuropix.net/)
-- [openloadmovies.net](https://openloadmovies.net/) Reliable movie streaming site which uses OpenLoad
-- [HD MOVIES](https://hdm.to/) Another streaming site which uses OpenLoad
-- [VodLocker](https://vodlocker.tv/)
-- [StreamCouch](https://www2.streamcouch.com/)
+- [Ololo](https://ololo.to/) Searches videos on Openload, Streamango, Streamcherry
+- [MovieZion](https://www.nicemoviezion.pro/) Openload
+- [Vmovee](https://vmovee.me/) Openload (Many Outdated/Removed Links;Not Updated)
+- [MovieJagg](https://www.coolmoviejagg.pro/) Openload
+- [IWannaWatch](https://www.iwannawatch.is/) Openload, Streamango
+- [UWatchFree](https://www.uwatchfree.tv/) VidPlayer, ViDeoZa
+- [Oakmovies](http://oakmovies.com/) Openload, NT, NY, NW (Unknown what Abbreviations are)
+- [Vexmovies](http://vexmovies.org/) Openload, NY, NW, MC-2 (Unknown what Abbreviations are)
+- [Openloadmovie](https://openloadmovie.ws/) Openload (Some Outdated Links)
+- [cine.to](https://cine.to/) Openload, Vivo, Streamcloud, Flashx, Streamango
+- [cinebloom](https://www2.cinebloom.com) Openload, Streamango
+- [QQMovies](http://qqmovies.co) Openload
+- [HDEUROPIX](https://topeuropix.net/) Openload, Rapidvideo
+- [openloadmovies.net](https://openloadmovies.net/) OpenLoad
+- [HD MOVIES](https://hdm.to/) OpenLoad, Streamango, Streamcherry
+- [VodLocker](https://vodlocker.tv/) Openload, Streamango
+- [StreamCouch](https://www2.streamcouch.com/) Openload, Streamango
 - [Qwemovies](https://www3.qwemovies.com/) OpenLoad
-
-#### Uncategorized
-- [onemov](https://onemov.net/)
-- [MegaShare](http://megashare9.su)
-- [WatchFree](https://watchfree.at/)
-- [Daxiv Video](https://daxiv.com/) Movies & TV shows online or stream right to your smart TV, game console, PC, Mac, mobile, tablet and more. Primarily Chinese content.
-- [movies2k](http://www.movie2k.st)
-- [M4UFree.TV](http://m4ufree.tv/)
-- [Flixanity](https://flixanity.xyz/)
-- [xPau.se](http://xpau.se/)
-- [#1 Movies Website](https://www1.1movies.is)
+- [movies2k](http://www.movie2k.st) Openload, Streamango, Streamcloud, Rapidvideo, Upvid
+- [xPau.se](http://xpau.se/) Googledrive
+- [Flixanity](https://flixanity.xyz/) Openload, Streamango, hls.22x.cartoonhd.pw (Subtitle)
+- [MegaShare](http://megashare9.su) Openload
 
 ## Media Centre Applications
 - [Plex](https://www.plex.tv/) :star2: Your content—from live and recorded TV and personal media, to on-demand web shows, video news, and podcasts—beautifully organized and ready to stream everywhere.
