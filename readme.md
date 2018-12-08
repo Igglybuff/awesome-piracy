@@ -613,37 +613,25 @@ premium services
 
 #### HD Streaming
 - [Best Free Streaming](https://www.bestfreestreaming.com/) Site that rates streaming services
-- [/r/MovieStreamingSites](https://www.reddit.com/r/MovieStreamingSites/)
-- [/r/BestOfStreamingVideo](https://www.reddit.com/r/BestOfStreamingVideo/)
-- [HD MultiredditHD](https://www.reddit.com/user/nbatman/m/streaming2/)
+- [/r/MovieStreamingSites](https://www.reddit.com/r/MovieStreamingSites/) Reddit, Random Movies on Random Sites
+- [/r/BestOfStreamingVideo](https://www.reddit.com/r/BestOfStreamingVideo/) Reddit, Random Movies on Best? Random Sites
+- [HD MultiredditHD](https://www.reddit.com/user/nbatman/m/streaming2/) Alternate Subreddit curated by /u/nbatman
 - [r/Megalinks](https://www.reddit.com/r/megalinks/) HD Movies/TV Shows hosted on mega site (DDL)
-- [StreamCR](https://scr.cr/)
-- [HDFlix](http://hdflix.net/)
-- [Yes! Movies](https://yesmovies.to)
-- [HDO](https://hdo.to/)
-- [Solarmovie](https://solarmoviez.ru/solar.html)
-- [FFilms](http://ffilms.org/)
-- [Flixtor](https://flixtor.to/)
-- [Flenix](https://flenix.co/)
-- [Streamlord](http://www.streamlord.com/)
-- [Spacemov](http://spacemov.io/)
-- [XMovies8](https://xmovies8.ru/)
-- [IWatchFlix](https://www.iwatchflix.xyz/)
-- [IceFilms](http://www.icefilms.info/)
-- [FlixGo](https://flixgo.net/)
-- [Movie123](http://movie123.club/)
-- [LookMovie](https://lookmovie.ag/)
-- [FilmXY](https://www.filmxy.one/)
-- [AZMovies](https://azmovies.xyz/)
-- [1Movies](http://1movies.nl)
-- [Rainierland](https://rainierland.is/)
-- [WatchFullMovie](http://watchfullmovie.co)
-- [FMOVIES](https://www3.fmovies.to/)
-- [HDOnline](https://www1.hdonline.eu)
-- [YMovies](https://ymovies.tv/) Streaming site full of YIFY and other releases
-- [WatchFree](https://watchfree.at/)
-- [#1 Movies Website](https://www1.1movies.is)
-- [M4UFree.TV](http://m4ufree.tv/)
+- [StreamCR](https://scr.cr/) Clean design, very nice speeds, large variety of films and series, HD Server, Popular Site
+- [HDFlix](http://hdflix.net/) Basic Streaming Site Layout, HD Server with Additional Hosts
+- [Yes! Movies](https://yesmovies.to) Basic Streaming Site Layout, HD Server with Additional Hosts
+- [HDO](https://hdo.to/) Unique Design, HD server with additional hosts, also country specific films/series
+- [Solarmovie](https://solarmoviez.ru/solar.html) Basic Streaming Site Layout, HD Server with Additional Hosts, Popular Site
+- [Streamlord](http://www.streamlord.com/) Unique Design, HD Server (Subtitles)
+- [Spacemov](http://spacemov.io/) Basic Streaming Site Layout, HD Server, Only Certain Films have Additional Hosts
+- [FlixGo](https://flixgo.net/) Unique Design, HD Server, Very Nice Speeds
+- [Movie123](http://movie123.club/) Unique Design, HD Server with Backup and Additional Hosts
+- [LookMovie](https://lookmovie.ag/) Unique Design, HD Server, Very Nice Speeds (Offers Auto Quality)
+- [AZMovies](https://azmovies.xyz/) Unique Design, HD Server with Additional Hosts, Also on Reddit
+- [HDOnline](https://www1.hdonline.eu) Basic Streaming Site Layout, HD Server with Additional Hosts
+- [YMovies](https://ymovies.tv/) Unique Design, HD Server with Additional Hosts, Nice Speeds, YIFY and other Releases (+Torrents) 
+- [#1 Movies Website](https://www1.1movies.is) Basic Streaming Site Layout, HD Server with Additional Hosts
+- [M4UFree.TV](http://m4ufree.tv/) Unique Design, HD Server with Backup and Additional Hosts
 
 #### Big Media Libraries
 - [Streaming Multireddit](https://www.reddit.com/user/nbatman/m/streaming/) Reddit with all types of Streaming Links
@@ -710,8 +698,8 @@ premium services
 - [MovieJagg](https://www.coolmoviejagg.pro/) Openload
 - [IWannaWatch](https://www.iwannawatch.is/) Openload, Streamango
 - [UWatchFree](https://www.uwatchfree.tv/) VidPlayer, ViDeoZa
-- [Oakmovies](http://oakmovies.com/) Openload, NT, NY, NW (Unknown what Abbreviations are)
-- [Vexmovies](http://vexmovies.org/) Openload, NY, NW, MC-2 (Unknown what Abbreviations are)
+- [Oakmovies](http://oakmovies.com/) Openload, NT, NY, NW
+- [Vexmovies](http://vexmovies.org/) Openload, NY, NW, MC-2
 - [Openloadmovie](https://openloadmovie.ws/) Openload (Some Outdated Links)
 - [cine.to](https://cine.to/) Openload, Vivo, Streamcloud, Flashx, Streamango
 - [cinebloom](https://www2.cinebloom.com) Openload, Streamango
@@ -726,6 +714,14 @@ premium services
 - [xPau.se](http://xpau.se/) Googledrive
 - [Flixanity](https://flixanity.xyz/) Openload, Streamango, hls.22x.cartoonhd.pw (Subtitle)
 - [MegaShare](http://megashare9.su) Openload
+- [XMovies8](https://xmovies8.ru/) Openload, FServer, PTServer
+- [IceFilms](http://www.icefilms.info/) Openload, FileUpload
+- [FilmXY](https://www.filmxy.one/) RapidVideo, Vidoza, Uptostream (Offers Download Links)
+- [1Movies](http://1movies.nl) Openload, FServer
+- [Rainierland](https://rainierland.is/) Openload, Streamango 
+- [WatchFullMovie](http://watchfullmovie.co) Openload
+- [FMOVIES](https://www3.fmovies.to/) Openload, MyCloud, RapidVideo, Streamango
+- [WatchFree](https://watchfree.at/) Openload, FServer
 
 ## Media Centre Applications
 - [Plex](https://www.plex.tv/) :star2: Your content—from live and recorded TV and personal media, to on-demand web shows, video news, and podcasts—beautifully organized and ready to stream everywhere.
