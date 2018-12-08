@@ -575,6 +575,7 @@ for any IP address.
 - [ScnLog](https://scnlog.me/)
 - [filewarez.tv](https://filewarez.tv/) Invite-only, hosts both Mega and Google Drive links for TV shows
 - [AppNee Freeware Group](https://appnee.com/) Massive DDL site, eBooks, Programs, Games, Operating Systems, etc.
+- [480mkv](http://480mkv.com/) 480p DDL for TV Shows
 
 ### Premium Link Generators
 - [File Hosting Wiki](https://filehostlist.miraheze.org/wiki/Main_Page) This site aims to provide the most complete lists of premium link generators, torrent downloaders and more, with (possibly) frequent updates.
@@ -656,19 +657,13 @@ premium services
 - [Youtube](http://youtube.com/) Contains Very Old Films/Indie Films/Vlogs/Tutorials/Etc
 
 #### TV and Anime Streaming
-- [TVRaven](https://www.onetvraven.pro/)
-- [WatchSeries](http://dwatchseries.to/)
-- [WatchSeries 2.0](https://watch-series.io/)
-- [TVBox](https://tvbox.ag/)
-- [PutlockerSeries](http://putlockerseries.to/)
-- [480mkv](http://480mkv.com/)
-- [KimCartoon](https://kimcartoon.co/)
-- [WatchCartoon](https://www.watchcartoononline.io/)
-- [9Anime](https://www4.9anime.is/)
-- [Kissanime.ru](http://kissanime.ru/) or [Kissanime.ac](https://kissanime.ac/)
-- [MioMio](http://www.miomio.tv/)
-- [Anime8](https://anime8.me/)
-- [NineAnime](https://www.nineanime.com/)
+- [TVRaven](https://www.onetvraven.pro/) Large TV Collection, Friendly/Easy to Use Interface
+- [WatchSeries](http://dwatchseries.to/) TV/Series, Multiple Links/Backups to Different Streaming Hosts
+- [TVBox](https://tvbox.ag/) TV/Movies, Easy to Navigate Site, Multiple Links/Backups to Different Streaming Hosts
+- [KimCartoon](https://kimcartoon.co/) Large Cartoon Collection, Primarily Openload
+- [WatchCartoon](https://www.watchcartoononline.io/) Outdated Site Layout, Still Active, Uses Openload
+- [Kissanime.ru](http://kissanime.ru/) or [Kissanime.ac](https://kissanime.ac/) Large Cartoon Collection, Uses RapidVideo/Openload
+- [Anime8](https://anime8.me/) Basic Streaming Site Layout, Large Collection of Anime Shows
 
 #### Sports Streaming
 - [Best Sport Streaming](https://www.bestsportstreaming.com/) Site that rates sport streaming services
@@ -706,6 +701,7 @@ premium services
 - [Rulu](https://www.rulu.co/) Youtube Red Series
 - [Club MST3k](http://www.club-mst3k.com/) Every episode of MST3K
 - [Archive.org](https://archive.org/) Old movies
+- [MioMio](http://www.miomio.tv/) Asian TV Shows/Anime
 
 #### Third Party Hosts
 - [Ololo](https://ololo.to/) Searches videos on Openload, Streamango, Streamcherry
@@ -1041,6 +1037,7 @@ premium services
 - [Madokami R-Z](https://archive.org/download/Madokami.Manga.R-Z) Download manga titles named R to Z.
 - [Madokami novels, raws and artbooks](https://archive.org/download/Madokami.NotManga) Download novels, manga raws and artbooks.
 - [MangaZone](http://mangazoneapp.com/) A manga reader app.
+- [NineAnime](https://www.nineanime.com/) Updated/Active Manga Site
 
 ## Documentaries
 - [/r/Documentaries](https://www.reddit.com/r/documentaries) Popular documentaries subreddit
