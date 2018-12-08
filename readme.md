@@ -655,25 +655,25 @@ premium services
 
 #### Sports Streaming
 - [Best Sport Streaming](https://www.bestsportstreaming.com/) Site that rates sport streaming services
-- [LiveTV](https://livesx.eu/)
-- [Cricfree](https://crickfree.org/)
-- [VIPBox](https://www.vipbox.live/) Spanish
-- [MamaHD](https://www.mamahd.org/)
-- [/r/soccerstreams](https://www.reddit.com/r/soccerstreams) A subreddit dedicated to the highest quality of free soccer / football streams. World Cup Streams, too.
-- [/r/nflstreams](https://www.reddit.com/r/nflstreams/)
-- [/r/nbastreams](https://www.reddit.com/r/nbastreams/)
-- [/r/MLBStreams](https://www.reddit.com/r/MLBStreams/)
-- [/r/NHLStreams](https://www.reddit.com/r/NHLStreams/)
-- [/r/MMAStreams](https://www.reddit.com/r/MMAStreams/)
-- [/r/ncaaBBallStreams](https://www.reddit.com/r/ncaaBBallStreams/)
-- [/r/CFBStreams](https://www.reddit.com/r/CFBStreams/)
-- [/r/WWEstreams](https://www.reddit.com/r/WWEstreams/)
-- [/r/rugbystreams](https://www.reddit.com/r/rugbystreams/)
-- [/r/mmafights](https://www.reddit.com/r/mmafights/)
-- [/r/motorsportsstreams](https://www.reddit.com/r/motorsportsstreams)
+- [LiveTV](https://livesx.eu/) Wide Variety of Sports, Offers Results/Live Scores, Video Archive and Betting
+- [Cricfree](https://crickfree.org/) Offers Popular Sport Streams
+- [VIPBox](https://www.vipbox.live/) Many Sport Streams offered, Different Sports, Also TV Channel/Shows, Friendly Design
+- [MamaHD](https://www.mamahd.org/) 24/7 Feeds, Different Sports/Streams Offered, Clean Design
+- [/r/soccerstreams](https://www.reddit.com/r/soccerstreams) Reddit - Soccer Streams
+- [/r/nflstreams](https://www.reddit.com/r/nflstreams/) Reddit - NFL Streams
+- [/r/nbastreams](https://www.reddit.com/r/nbastreams/) Reddit - NBA Streams
+- [/r/MLBStreams](https://www.reddit.com/r/MLBStreams/) Reddit - MLB Streams
+- [/r/NHLStreams](https://www.reddit.com/r/NHLStreams/) Reddit - NHL Streams
+- [/r/MMAStreams](https://www.reddit.com/r/MMAStreams/) Reddit - MMA Streams
+- [/r/ncaaBBallStreams](https://www.reddit.com/r/ncaaBBallStreams/) Reddit - NCAABBall Streams
+- [/r/CFBStreams](https://www.reddit.com/r/CFBStreams/) Reddit - CFB Streams
+- [/r/WWEstreams](https://www.reddit.com/r/WWEstreams/) Reddit - WWE Streams
+- [/r/rugbystreams](https://www.reddit.com/r/rugbystreams/) Reddit - Rugby Streams
+- [/r/mmafights](https://www.reddit.com/r/mmafights/) Reddit - MMA Streams
+- [/r/motorsportsstreams](https://www.reddit.com/r/motorsportsstreams) Reddit - MotorSports Streams 
 - [Send It](https://sendit.gg/) Live stream listings for sports, news, gaming, and more.
-- [SportsHD](http://www.speedsports.me)
-- [720pStream](http://www.720pstream.me/)
+- [SportsHD](http://www.speedsports.me) Variety of Sports including College Sports, Clean Design
+- [720pStream](http://www.720pstream.me/) Popular Sports Only, Simple Design
 
 #### Specialty Sites
 - [Einthusan](https://einthusan.tv/intro/) Foreign
