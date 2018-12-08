@@ -645,19 +645,15 @@ premium services
 - [M4UFree.TV](http://m4ufree.tv/)
 
 #### Big Media Libraries
-- [Streaming Multireddit](https://www.reddit.com/user/nbatman/m/streaming/)
+- [Streaming Multireddit](https://www.reddit.com/user/nbatman/m/streaming/) Reddit with all types of Streaming Links
 - [Alluc.uno](https://w1.alluc.uno/) Currently Only Searches Openload
-- [Ololo](https://ololo.to/)
-- [Viooz](https://vzm.ag/)
-- [5Movies](http://5movies.to/)
-- [2TwoMovies](https://two-movies.net/)
-- [CafeHulu](http://cafehulu.com/)
-- [Solarmovie](http://www.solarmovie.fm/)
-- [Primewire](http://www.primewire.is/)
-- [Afdah](http://afdah.to/)
-- [FreeMoviez](https://freemoviesz/)
-- [Solarmovies](https://solamovies.cc/)
-- [Youtube](http://youtube.com/)
+- [Ololo](https://ololo.to/) Searches videos on Openload, Streamango, Streamcherry
+- [5Movies](http://5movies.to/) Large Collection Dating as far back as 1990
+- [2TwoMovies](https://two-movies.net/) Large Collection Dating as far back as 1895
+- [CafeHulu](http://cafehulu.com/) Collection of Regular Movies/TV Shows + Many Foreign Films
+- [Solarmovie.fm](http://www.solarmovie.fm/) or [Solarmovies.cc](https://solamovies.cc/) Plenty of Movies and TV Shows
+- [Afdah](http://afdah.to/) Large Collection Dating as far back as 1920
+- [Youtube](http://youtube.com/) Contains Very Old Films/Indie Films/Vlogs/Tutorials/Etc
 
 #### TV and Anime Streaming
 - [TVRaven](https://www.onetvraven.pro/)
