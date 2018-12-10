@@ -207,6 +207,10 @@ You will notice some items in this list have a :star2: next to them. Items with 
 - [BitWarden](https://bitwarden.com/) :star2: Open source password management solution, can be self-hosted
 - [1Password](https://1password.com/) Popular cloud-hosted password manager
 - [KeePass](https://keepass.info/) free, open source, light-weight, and easy-to-use password manager.
+  - Android : [KeePassDroid](http://www.keepassdroid.com/)
+  - iPhone : [MiniKeePass](https://minikeepass.github.io/)
+  - Chrome / Firefox : [Tusk](https://subdavis.com/Tusk/)
+  - Web App : [KeeWeb](https://keeweb.info/)
 - [LastPass](https://www.lastpass.com/) LastPass remembers all your passwords, so you don't have to.
 - [Pass](https://www.passwordstore.org/) Simple GPG/Git password manager. Follows the Unix philosophy.
 - [Dashlane](https://www.dashlane.com/) An intuitive password manager with over with over 8 million users worldwide.
