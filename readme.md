@@ -1155,6 +1155,8 @@ premium services
 - [/r/datacurator](https://www.reddit.com/r/datacurator/) Subreddit for discussion about the curation of digital data. Be it sorting, file formats, file encoding, best practices, discussion of your setup, tips and tricks, asking for help etc.
 
 ## Mobile Apps
+- [AdAway](https://adaway.org/) An open source ad blocker for Android using the hosts file. It needs ROOT access
+- [NewPipe](https://newpipe.schabi.org/) The original YouTube experience without annoying ads and questionable permissions
 - [nzb360](http://nzb360.com/) :star2: nzb360 is a full-featured NZB manager that focuses on providing the best experience possible for controlling all of your Usenet needs.
 - [Ombi](https://play.google.com/store/apps/details?id=com.tidusjar.Ombi) Companion app for Ombi to request Plex content
 - [Tautulli Remote](https://play.google.com/store/apps/details?id=com.williamcomartin.plexpyremote) Mobile version of Tautilli for monitoring Plex on the go
@@ -1185,6 +1187,9 @@ premium services
 - [aTorrent](https://play.google.com/store/apps/details?id=com.mobilityflow.torrent) Another popular torrent client for Android.
 
 ### APKs
+- [Aptoide](https://en.aptoide.com/) An alternative repository-based marketplace for Android applications
+- [F-Droid](https://f-droid.org/fr/) An installable catalogue of FOSS (Free and Open Source Software) Android applications
+- [Yalp Store](https://github.com/yeriomin/YalpStore) Download apks from Google Play Store
 - [Mobilism Forum](https://forum.mobilism.org/index.php) :star2: Large forum of mobile apps and books
 - [On HAX](https://onhax.me/) APK mirrors
 - [APKMirror](https://www.apkmirror.com/) Download free Android APKs
