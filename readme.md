@@ -621,94 +621,94 @@ premium services
 
 #### HD Streaming
 - [Best Free Streaming](https://www.bestfreestreaming.com/) Site that rates streaming services
-- [/r/MovieStreamingSites](https://www.reddit.com/r/MovieStreamingSites/) Reddit, Random Movies on Random Sites
-- [/r/BestOfStreamingVideo](https://www.reddit.com/r/BestOfStreamingVideo/) Reddit, Random Movies on Best? Random Sites
-- [HD MultiredditHD](https://www.reddit.com/user/nbatman/m/streaming2/) Alternate Subreddit curated by /u/nbatman
-- [r/Megalinks](https://www.reddit.com/r/megalinks/) HD Movies/TV Shows hosted on mega site (DDL)
-- [StreamCR](https://scr.cr/) Clean design, very nice speeds, large variety of films and series, HD Server, Popular Site
-- [HDFlix](http://hdflix.net/) Basic Streaming Site Layout, HD Server with Additional Hosts
-- [Yes! Movies](https://yesmovies.to) Basic Streaming Site Layout, HD Server with Additional Hosts
-- [HDO](https://hdo.to/) Unique Design, HD server with additional hosts, also country specific films/series
-- [Solarmovie](https://solarmoviez.ru/solar.html) Basic Streaming Site Layout, HD Server with Additional Hosts, Popular Site
-- [Streamlord](http://www.streamlord.com/) Unique Design, HD Server (Subtitles)
-- [Spacemov](http://spacemov.io/) Basic Streaming Site Layout, HD Server, Only Certain Films have Additional Hosts
-- [FlixGo](https://flixgo.net/) Unique Design, HD Server, Very Nice Speeds
-- [Movie123](http://movie123.club/) Unique Design, HD Server with Backup and Additional Hosts
-- [LookMovie](https://lookmovie.ag/) Unique Design, HD Server, Very Nice Speeds (Offers Auto Quality)
-- [AZMovies](https://azmovies.xyz/) Unique Design, HD Server with Additional Hosts, Also on Reddit
-- [HDOnline](https://www1.hdonline.eu) Basic Streaming Site Layout, HD Server with Additional Hosts
-- [YMovies](https://ymovies.tv/) Unique Design, HD Server with Additional Hosts, Nice Speeds, YIFY and other Releases (+Torrents) 
-- [#1 Movies Website](https://www1.1movies.is) Basic Streaming Site Layout, HD Server with Additional Hosts
-- [M4UFree.TV](http://m4ufree.tv/) Unique Design, HD Server with Backup and Additional Hosts
+- [/r/MovieStreamingSites](https://www.reddit.com/r/MovieStreamingSites/) Reddit, random movies on random sites
+- [/r/BestOfStreamingVideo](https://www.reddit.com/r/BestOfStreamingVideo/) Reddit, random movies and sites
+- [HD MultiredditHD](https://www.reddit.com/user/nbatman/m/streaming2/) Alternate subreddit curated by /u/nbatman
+- [r/Megalinks](https://www.reddit.com/r/megalinks/) HD movies/TV shows hosted on Mega (DDL)
+- [StreamCR](https://scr.cr/) Clean design, very nice speeds, large variety of films and series, HD server, Popular Site
+- [HDFlix](http://hdflix.net/) Basic streaming site layout, HD server with additional hosts
+- [Yes! Movies](https://yesmovies.to) Basic streaming site layout, HD server with additional hosts
+- [HDO](https://hdo.to/) Unique design, HD server with additional hosts, also country specific films/series
+- [Solarmovie](https://solarmoviez.ru/solar.html) Basic streaming site layout, HD server with additional hosts, Popular Site
+- [Streamlord](http://www.streamlord.com/) Unique design, HD server (subtitles)
+- [Spacemov](http://spacemov.io/) Basic streaming site layout, HD server, only certain films have additional hosts
+- [FlixGo](https://flixgo.net/) Unique design, HD server, very nice speeds
+- [Movie123](http://movie123.club/) Unique design, HD server with Backup and additional hosts
+- [LookMovie](https://lookmovie.ag/) Unique design, HD server, very nice speeds (offers auto quality)
+- [AZMovies](https://azmovies.xyz/) Unique design, HD server with additional hosts, also on Reddit
+- [HDOnline](https://www1.hdonline.eu) Basic streaming site layout, HD server with additional hosts
+- [YMovies](https://ymovies.tv/) Unique design, HD server with additional hosts, nice speeds, YIFY and other releases (+ torrents) 
+- [#1 Movies Website](https://www1.1movies.is) Basic streaming site layout, HD server with additional hosts
+- [M4UFree.TV](http://m4ufree.tv/) Unique design, HD server with backup and additional hosts
 
 #### Big Media Libraries
 - [Streaming Multireddit](https://www.reddit.com/user/nbatman/m/streaming/) Reddit with all types of Streaming Links
-- [Alluc.uno](https://w1.alluc.uno/) Currently Only Searches Openload
+- [Alluc.uno](https://w1.alluc.uno/) Currently only searches Openload
 - [Ololo](https://ololo.to/) Searches videos on Openload, Streamango, Streamcherry
-- [5Movies](http://5movies.to/) Large Collection Dating as far back as 1990
-- [2TwoMovies](https://two-movies.net/) Large Collection Dating as far back as 1895
-- [CafeHulu](http://cafehulu.com/) Collection of Regular Movies/TV Shows + Many Foreign Films
-- [Solarmovie.fm](http://www.solarmovie.fm/) or [Solarmovies.cc](https://solamovies.cc/) Plenty of Movies and TV Shows
-- [Afdah](http://afdah.to/) Large Collection Dating as far back as 1920
-- [Youtube](http://youtube.com/) Contains Very Old Films/Indie Films/Vlogs/Tutorials/Etc
+- [5Movies](http://5movies.to/) Large collection dating as far back as 1990
+- [2TwoMovies](https://two-movies.net/) Large collection dating as far back as 1895
+- [CafeHulu](http://cafehulu.com/) Collection of movies/TV shows + many foreign films
+- [Solarmovie.fm](http://www.solarmovie.fm/) or [Solarmovies.cc](https://solamovies.cc/) Plenty of movies and TV shows
+- [Afdah](http://afdah.to/) Large collection dating as far back as 1920
+- [YouTube](http://YouTube.com/) Contains very old films/vlogs/tutorials
 
 #### TV and Anime Streaming
-- [TVRaven](https://www.onetvraven.pro/) Large TV Collection, Friendly/Easy to Use Interface
-- [WatchSeries](http://dwatchseries.to/) TV/Series, Multiple Links/Backups to Different Streaming Hosts
-- [TVBox](https://tvbox.ag/) TV/Movies, Easy to Navigate Site, Multiple Links/Backups to Different Streaming Hosts
-- [KimCartoon](https://kimcartoon.co/) Large Cartoon Collection, Primarily Openload
-- [WatchCartoon](https://www.watchcartoononline.io/) Outdated Site Layout, Still Active, Uses Openload
-- [Kissanime.ru](http://kissanime.ru/) or [Kissanime.ac](https://kissanime.ac/) Large Cartoon Collection, Uses RapidVideo/Openload
-- [Anime8](https://anime8.me/) Basic Streaming Site Layout, Large Collection of Anime Shows
+- [TVRaven](https://www.onetvraven.pro/) Large TV collection, friendly UI
+- [WatchSeries](http://dwatchseries.to/) TV series, multiple links/backups to different streaming hosts
+- [TVBox](https://tvbox.ag/) TV/Movies, easy to navigate site, multiple links/backups to different streaming hosts
+- [KimCartoon](https://kimcartoon.co/) Large cartoon collection, primarily Openload
+- [WatchCartoon](https://www.watchcartoononline.io/) Outdated site layout, still active, uses Openload
+- [Kissanime.ru](http://kissanime.ru/) or [Kissanime.ac](https://kissanime.ac/) Large cartoon collection, uses RapidVideo/Openload
+- [Anime8](https://anime8.me/) Basic streaming site layout, large collection of anime shows
 
 #### Sports Streaming
 - [Best Sport Streaming](https://www.bestsportstreaming.com/) Site that rates sport streaming services
-- [LiveTV](https://livesx.eu/) Wide Variety of Sports, Offers Results/Live Scores, Video Archive and Betting
-- [Cricfree](https://crickfree.org/) Offers Popular Sport Streams
-- [VIPBox](https://www.vipbox.live/) Many Sport Streams offered, Different Sports, Also TV Channel/Shows, Friendly Design
-- [MamaHD](https://www.mamahd.org/) 24/7 Feeds, Different Sports/Streams Offered, Clean Design
-- [/r/soccerstreams](https://www.reddit.com/r/soccerstreams) Reddit - Soccer Streams
-- [/r/nflstreams](https://www.reddit.com/r/nflstreams/) Reddit - NFL Streams
-- [/r/nbastreams](https://www.reddit.com/r/nbastreams/) Reddit - NBA Streams
-- [/r/MLBStreams](https://www.reddit.com/r/MLBStreams/) Reddit - MLB Streams
-- [/r/NHLStreams](https://www.reddit.com/r/NHLStreams/) Reddit - NHL Streams
-- [/r/MMAStreams](https://www.reddit.com/r/MMAStreams/) Reddit - MMA Streams
-- [/r/ncaaBBallStreams](https://www.reddit.com/r/ncaaBBallStreams/) Reddit - NCAABBall Streams
-- [/r/CFBStreams](https://www.reddit.com/r/CFBStreams/) Reddit - CFB Streams
-- [/r/WWEstreams](https://www.reddit.com/r/WWEstreams/) Reddit - WWE Streams
-- [/r/rugbystreams](https://www.reddit.com/r/rugbystreams/) Reddit - Rugby Streams
-- [/r/mmafights](https://www.reddit.com/r/mmafights/) Reddit - MMA Streams
-- [/r/motorsportsstreams](https://www.reddit.com/r/motorsportsstreams) Reddit - MotorSports Streams 
+- [LiveTV](https://livesx.eu/) Wide variety of sports, results/live scores, video archive and betting
+- [Cricfree](https://crickfree.org/) Offers popular sports streams
+- [VIPBox](https://www.vipbox.live/) Many sport streams, TV, friendly UI
+- [MamaHD](https://www.mamahd.org/) 24/7 feeds, sports streams, clean UI
+- [/r/soccerstreams](https://www.reddit.com/r/soccerstreams) Reddit - soccer streams
+- [/r/nflstreams](https://www.reddit.com/r/nflstreams/) Reddit - NFL streams
+- [/r/nbastreams](https://www.reddit.com/r/nbastreams/) Reddit - NBA streams
+- [/r/MLBstreams](https://www.reddit.com/r/MLBstreams/) Reddit - MLB streams
+- [/r/NHLstreams](https://www.reddit.com/r/NHLstreams/) Reddit - NHL streams
+- [/r/MMAstreams](https://www.reddit.com/r/MMAstreams/) Reddit - MMA streams
+- [/r/ncaaBBallstreams](https://www.reddit.com/r/ncaaBBallstreams/) Reddit - NCAABBall streams
+- [/r/CFBstreams](https://www.reddit.com/r/CFBstreams/) Reddit - CFB streams
+- [/r/WWEstreams](https://www.reddit.com/r/WWEstreams/) Reddit - WWE streams
+- [/r/rugbystreams](https://www.reddit.com/r/rugbystreams/) Reddit - rugby streams
+- [/r/mmafights](https://www.reddit.com/r/mmafights/) Reddit - MMA streams
+- [/r/motorsportsstreams](https://www.reddit.com/r/motorsportsstreams) Reddit - motorsports streams 
 - [Send It](https://sendit.gg/) Live stream listings for sports, news, gaming, and more.
-- [SportsHD](http://www.speedsports.me) Variety of Sports including College Sports, Clean Design
-- [720pStream](http://www.720pstream.me/) Popular Sports Only, Simple Design
+- [SportsHD](http://www.speedsports.me) Variety of sports including college sports, clean design
+- [720pStream](http://www.720pstream.me/) Popular sports only, simple design
 
 #### Specialty Sites
 - [Einthusan](https://einthusan.tv/intro/) Foreign
-- [Dramago](http://www.dramago.com/) Drama Movies/Series
+- [Dramago](http://www.dramago.com/) Drama movies/series
 - [WatchAsian](https://www2.watchasian.co/) Foreign
 - [Layarkaca](http://layarkaca21.ru/) Foreign
 - [DramaCool](http://www1.dramacoolfirst.com/) Foreign
-- [Daxiv Video](https://daxiv.com/) Primarily Chinese Content
-- [KingsofHorror](https://www.youtube.com/user/TheKingsofHorror/) Youtube Horror
-- [MutantSorority](https://www.youtube.com/channel/UCWcF6KTn_sSSJ1AIj1bQmRg) Youtube Horror
-- [TromaMovies](https://www.youtube.com/channel/UC4O0LNYmaOczcSMHA_FE1Mw) Youtube Horror
-- [Film1k](http://www.film1k.com/la-bestia-uccide-a-sangue-freddo-1971.html) Movies with Nudity
-- [Rulu](https://www.rulu.co/) Youtube Red Series
+- [Daxiv Video](https://daxiv.com/) Primarily Chinese content
+- [KingsofHorror](https://www.YouTube.com/user/TheKingsofHorror/) YouTube Horror
+- [MutantSorority](https://www.YouTube.com/channel/UCWcF6KTn_sSSJ1AIj1bQmRg) YouTube horror
+- [TromaMovies](https://www.YouTube.com/channel/UC4O0LNYmaOczcSMHA_FE1Mw) YouTube horror
+- [Film1k](http://www.film1k.com/la-bestia-uccide-a-sangue-freddo-1971.html) Movies with nudity
+- [Rulu](https://www.rulu.co/) YouTube Red series
 - [Club MST3k](http://www.club-mst3k.com/) Every episode of MST3K
 - [Archive.org](https://archive.org/) Old movies
-- [MioMio](http://www.miomio.tv/) Asian TV Shows/Anime
+- [MioMio](http://www.miomio.tv/) Asian TV shows/anime
 
 #### Third Party Hosts
 - [Ololo](https://ololo.to/) Searches videos on Openload, Streamango, Streamcherry
 - [MovieZion](https://www.nicemoviezion.pro/) Openload
-- [Vmovee](https://vmovee.me/) Openload (Many Outdated/Removed Links;Not Updated)
+- [Vmovee](https://vmovee.me/) Openload (Many outdated/removed links, not updated)
 - [MovieJagg](https://www.coolmoviejagg.pro/) Openload
 - [IWannaWatch](https://www.iwannawatch.is/) Openload, Streamango
 - [UWatchFree](https://www.uwatchfree.tv/) VidPlayer, ViDeoZa
 - [Oakmovies](http://oakmovies.com/) Openload, NT, NY, NW
 - [Vexmovies](http://vexmovies.org/) Openload, NY, NW, MC-2
-- [Openloadmovie](https://openloadmovie.ws/) Openload (Some Outdated Links)
+- [Openloadmovie](https://openloadmovie.ws/) Openload (some outdated links)
 - [cine.to](https://cine.to/) Openload, Vivo, Streamcloud, Flashx, Streamango
 - [cinebloom](https://www2.cinebloom.com) Openload, Streamango
 - [QQMovies](http://qqmovies.co) Openload
@@ -720,11 +720,11 @@ premium services
 - [Qwemovies](https://www3.qwemovies.com/) OpenLoad
 - [movies2k](http://www.movie2k.st) Openload, Streamango, Streamcloud, Rapidvideo, Upvid
 - [xPau.se](http://xpau.se/) Googledrive
-- [Flixanity](https://flixanity.xyz/) Openload, Streamango, hls.22x.cartoonhd.pw (Subtitle)
+- [Flixanity](https://flixanity.xyz/) Openload, Streamango, hls.22x.cartoonhd.pw (subtitles)
 - [MegaShare](http://megashare9.su) Openload
 - [XMovies8](https://xmovies8.ru/) Openload, FServer, PTServer
 - [IceFilms](http://www.icefilms.info/) Openload, FileUpload
-- [FilmXY](https://www.filmxy.one/) RapidVideo, Vidoza, Uptostream (Offers Download Links)
+- [FilmXY](https://www.filmxy.one/) RapidVideo, Vidoza, Uptostream (offers download links)
 - [1Movies](http://1movies.nl) Openload, FServer
 - [Rainierland](https://rainierland.is/) Openload, Streamango 
 - [WatchFullMovie](http://watchfullmovie.co) Openload
