@@ -1051,6 +1051,7 @@ premium services
 - [Booksonic](http://booksonic.org/) Booksonic is a server and an app for streaming your audiobooks to any pc or android phone.
 
 ## Comicbooks
+- [Kindle Comic Converter](https://kcc.iosphe.re/) Comic and manga converter for ebook readers
 - [readcomiconline.to](https://readcomiconline.to/) Manga and comics uploaded daily
 - [Readcomicbooksonline](https://readcomicbooksonline.org/) Tends to Error 520 occasionally
 - [Comic Extra](https://www.comicextra.com/) Daily comic uploads, clean UI
