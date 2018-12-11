@@ -644,7 +644,7 @@ premium services
 - [LookMovie](https://lookmovie.ag/) Unique design, HD server, very nice speeds (offers auto quality)
 - [AZMovies](https://azmovies.xyz/) Unique design, HD server with additional hosts, also on Reddit
 - [HDOnline](https://www1.hdonline.eu) Basic streaming site layout, HD server with additional hosts
-- [YMovies](https://ymovies.tv/) Unique design, HD server with additional hosts, nice speeds, YIFY and other releases (+ torrents) 
+- [YMovies](https://ymovies.tv/) Unique design, HD server with additional hosts, nice speeds, YIFY and other releases (+ torrents)
 - [#1 Movies Website](https://www1.1movies.is) Basic streaming site layout, HD server with additional hosts
 - [M4UFree.TV](http://m4ufree.tv/) Unique design, HD server with backup and additional hosts
 
@@ -685,7 +685,7 @@ premium services
 - [/r/WWEstreams](https://www.reddit.com/r/WWEstreams/) Reddit - WWE streams
 - [/r/rugbystreams](https://www.reddit.com/r/rugbystreams/) Reddit - rugby streams
 - [/r/mmafights](https://www.reddit.com/r/mmafights/) Reddit - MMA streams
-- [/r/motorsportsstreams](https://www.reddit.com/r/motorsportsstreams) Reddit - motorsports streams 
+- [/r/motorsportsstreams](https://www.reddit.com/r/motorsportsstreams) Reddit - motorsports streams
 - [Send It](https://sendit.gg/) Live stream listings for sports, news, gaming, and more.
 - [SportsHD](http://www.speedsports.me) Variety of sports including college sports, clean design
 - [720pStream](http://www.720pstream.me/) Popular sports only, simple design
@@ -733,7 +733,7 @@ premium services
 - [IceFilms](http://www.icefilms.info/) Openload, FileUpload
 - [FilmXY](https://www.filmxy.one/) RapidVideo, Vidoza, Uptostream (offers download links)
 - [1Movies](http://1movies.nl) Openload, FServer
-- [Rainierland](https://rainierland.is/) Openload, Streamango 
+- [Rainierland](https://rainierland.is/) Openload, Streamango
 - [WatchFullMovie](http://watchfullmovie.co) Openload
 - [FMOVIES](https://www3.fmovies.to/) Openload, MyCloud, RapidVideo, Streamango
 - [WatchFree](https://watchfree.at/) Openload, FServer
@@ -1164,6 +1164,7 @@ premium services
 - [TeaTV](https://teatv.net/) App for Android, Windows, and macOS for watching 1080p movies and TV shows for free
 
 ### Torrent Apps
+- [Trireme for Deluge](A Deluge thin client for Android. Written in Flutter.)
 - [Transdrone](https://play.google.com/store/apps/details?id=org.transdroid.lite) Transdrone allows you to manage the torrents you run on your home server or seedbox.
 - [Flud](https://play.google.com/store/apps/details?id=com.delphicoder.flud&hl=en) Flud is a simple and beautiful BitTorrent client for Android.
 - [BiglyBT](https://f-droid.org/packages/com.biglybt.android.client/) Free, open source torrent client for Android phone, tablet, Chromebook, & Android TV
