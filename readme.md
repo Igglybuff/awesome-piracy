@@ -612,26 +612,26 @@ premium services
 - [How To Stream Movies, TV, Anime & Sports Online](https://www.removeddit.com/r/FREEMEDIAFUCKYEAH/comments/8fwnxr/how_to_stream_movies_tv_anime_online/) :star2: Huge list by /u/nbatman
 
 #### HD Streaming
-- [Best Free Streaming](https://www.bestfreestreaming.com/) Site that rates streaming services
 - [/r/MovieStreamingSites](https://www.reddit.com/r/MovieStreamingSites/) Reddit, Random Movies on Random Sites
 - [/r/BestOfStreamingVideo](https://www.reddit.com/r/BestOfStreamingVideo/) Reddit, Random Movies on Best? Random Sites
-- [HD MultiredditHD](https://www.reddit.com/user/nbatman/m/streaming2/) Alternate Subreddit curated by /u/nbatman
 - [r/Megalinks](https://www.reddit.com/r/megalinks/) HD Movies/TV Shows hosted on mega site (DDL)
+- [HD MultiredditHD](https://www.reddit.com/user/nbatman/m/streaming2/) Alternate Subreddit curated by /u/nbatman
+- [Best Free Streaming](https://www.bestfreestreaming.com/) Site that rates streaming services
 - [StreamCR](https://scr.cr/) Clean design, very nice speeds, large variety of films and series, HD Server, Popular Site
+- [YMovies](https://ymovies.tv/) Unique Design, HD Server with Additional Hosts, Nice Speeds, YIFY and other Releases (+Torrents) 
+- [LookMovie](https://lookmovie.ag/) Unique Design, HD Server, Very Nice Speeds (Offers Auto Quality)
+- [Movie123](http://movie123.club/) Unique Design, HD Server with Backup and Additional Hosts
+- [AZMovies](https://azmovies.xyz/) Unique Design, HD Server with Additional Hosts, Also on Reddit
+- [HDO](https://hdo.to/) Unique Design, HD server with additional hosts, also country specific films/series
+- [FlixGo](https://flixgo.net/) Unique Design, HD Server, Very Nice Speeds
+- [Streamlord](http://www.streamlord.com/) Unique Design, HD Server (Subtitles)
+- [M4UFree.TV](http://m4ufree.tv/) Unique Design, HD Server with Backup and Additional Hosts
 - [HDFlix](http://hdflix.net/) Basic Streaming Site Layout, HD Server with Additional Hosts
 - [Yes! Movies](https://yesmovies.to) Basic Streaming Site Layout, HD Server with Additional Hosts
-- [HDO](https://hdo.to/) Unique Design, HD server with additional hosts, also country specific films/series
 - [Solarmovie](https://solarmoviez.ru/solar.html) Basic Streaming Site Layout, HD Server with Additional Hosts, Popular Site
-- [Streamlord](http://www.streamlord.com/) Unique Design, HD Server (Subtitles)
 - [Spacemov](http://spacemov.io/) Basic Streaming Site Layout, HD Server, Only Certain Films have Additional Hosts
-- [FlixGo](https://flixgo.net/) Unique Design, HD Server, Very Nice Speeds
-- [Movie123](http://movie123.club/) Unique Design, HD Server with Backup and Additional Hosts
-- [LookMovie](https://lookmovie.ag/) Unique Design, HD Server, Very Nice Speeds (Offers Auto Quality)
-- [AZMovies](https://azmovies.xyz/) Unique Design, HD Server with Additional Hosts, Also on Reddit
 - [HDOnline](https://www1.hdonline.eu) Basic Streaming Site Layout, HD Server with Additional Hosts
-- [YMovies](https://ymovies.tv/) Unique Design, HD Server with Additional Hosts, Nice Speeds, YIFY and other Releases (+Torrents) 
 - [#1 Movies Website](https://www1.1movies.is) Basic Streaming Site Layout, HD Server with Additional Hosts
-- [M4UFree.TV](http://m4ufree.tv/) Unique Design, HD Server with Backup and Additional Hosts
 
 #### Big Media Libraries
 - [Streaming Multireddit](https://www.reddit.com/user/nbatman/m/streaming/) Reddit with all types of Streaming Links
@@ -654,11 +654,6 @@ premium services
 - [Anime8](https://anime8.me/) Basic Streaming Site Layout, Large Collection of Anime Shows
 
 #### Sports Streaming
-- [Best Sport Streaming](https://www.bestsportstreaming.com/) Site that rates sport streaming services
-- [LiveTV](https://livesx.eu/) Wide Variety of Sports, Offers Results/Live Scores, Video Archive and Betting
-- [Cricfree](https://crickfree.org/) Offers Popular Sport Streams
-- [VIPBox](https://www.vipbox.live/) Many Sport Streams offered, Different Sports, Also TV Channel/Shows, Friendly Design
-- [MamaHD](https://www.mamahd.org/) 24/7 Feeds, Different Sports/Streams Offered, Clean Design
 - [/r/soccerstreams](https://www.reddit.com/r/soccerstreams) Reddit - Soccer Streams
 - [/r/nflstreams](https://www.reddit.com/r/nflstreams/) Reddit - NFL Streams
 - [/r/nbastreams](https://www.reddit.com/r/nbastreams/) Reddit - NBA Streams
@@ -671,6 +666,11 @@ premium services
 - [/r/rugbystreams](https://www.reddit.com/r/rugbystreams/) Reddit - Rugby Streams
 - [/r/mmafights](https://www.reddit.com/r/mmafights/) Reddit - MMA Streams
 - [/r/motorsportsstreams](https://www.reddit.com/r/motorsportsstreams) Reddit - MotorSports Streams 
+- [Best Sport Streaming](https://www.bestsportstreaming.com/) Site that rates sport streaming services
+- [LiveTV](https://livesx.eu/) Wide Variety of Sports, Offers Results/Live Scores, Video Archive and Betting
+- [Cricfree](https://crickfree.org/) Offers Popular Sport Streams
+- [VIPBox](https://www.vipbox.live/) Many Sport Streams offered, Different Sports, Also TV Channel/Shows, Friendly Design
+- [MamaHD](https://www.mamahd.org/) 24/7 Feeds, Different Sports/Streams Offered, Clean Design
 - [Send It](https://sendit.gg/) Live stream listings for sports, news, gaming, and more.
 - [SportsHD](http://www.speedsports.me) Variety of Sports including College Sports, Clean Design
 - [720pStream](http://www.720pstream.me/) Popular Sports Only, Simple Design
