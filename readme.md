@@ -1104,6 +1104,7 @@ premium services
 
 ### Movie Automation
 - [Radarr](https://radarr.video/) :star2: A fork of Sonarr to work with movies à la Couchpotato.
+- [RadarrSync](https://github.com/Sperryfreak01/RadarrSync) Syncs two Radarr servers through web API.
 - [CouchPotato](https://github.com/CouchPotato/CouchPotatoServer) Automatic Movie Downloading via NZBs & Torrents
 - [Watcher](https://github.com/nosmokingbandit/Watcher3) Watcher is an automated movie NZB & Torrent searcher and snatcher.
 
@@ -1325,6 +1326,7 @@ premium services
 - [ByPassed](https://bypassed.wtf/) ByPassed is an all-in-one solution to unblock censored websites including thepiratebay, kickass, eztv, yts, extratorrent & more.
 
 ## File Sharing Tools
+- [transfer.sh](https://transfer.sh/) Easy file sharing from the command line
 - [FilePizza](https://file.pizza/) Free peer-to-peer file transfers in your browser.
 - [DBREE](https://dbr.ee/) DBREE is a simplistic and easy way to upload and share any type of file.
 - [WeTransfer](https://wetransfer.com/) WeTransfer was founded in 2009 as the simplest way to send big files around the world.
