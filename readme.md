@@ -1205,6 +1205,7 @@ premium services
 - [RevDl](https://www.revdl.com/) Direct download site for Android apps and games.
 
 ## Discord Servers
+- [The Ratio](https://discord.gg/RUew8Zg) :star2: Community of seedbox enthusiasts. Buying advice, application setup, and automation help.
 - [DoujinStyle](https://discord.gg/z2QDFdA) Discord server with Doujin related materials. Things such as Japanese doujin music and games
 - [The Eye](https://discordapp.com/invite/py3kX3Z) :star2: Official Discord server for the-eye.eu
 - [PlayStation Homebrew](https://discord.gg/JJnvEN8) Home of /r/ps3homebrew and /r/ps4homebrew.
