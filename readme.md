@@ -639,7 +639,6 @@ premium services
 #### HD Streaming
 - [/r/MovieStreamingSites](https://www.reddit.com/r/MovieStreamingSites/) Reddit, random streaming sites
 - [/r/BestOfStreamingVideo](https://www.reddit.com/r/BestOfStreamingVideo/) Reddit, random streaming sites
-- [r/Megalinks](https://www.reddit.com/r/megalinks/) Reddit, streaming hosted on mega DDL site
 - [HD MultiredditHD](https://www.reddit.com/user/nbatman/m/streaming2/) Alternate subreddit curated by /u/nbatman
 - [Best Free Streaming](https://www.bestfreestreaming.com/) Site that rates streaming services
 - [StreamCR](https://scr.cr/) Clean design, very nice speeds, large variety of films and series, HD server, Popular Site
