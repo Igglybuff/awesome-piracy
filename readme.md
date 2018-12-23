@@ -28,6 +28,7 @@
     - [Tracker Proxies](#tracker-proxies)
     - [Tracker Invites](#tracker-invites)
     - [Torrent Clients](#torrent-clients)
+    -   - [Deluge](#deluge)
         - [rTorrent](#rtorrent)
         - [WebTorrent Clients](#webtorrent-clients)
     - [autodl-irssi](#autodl-irssi)
