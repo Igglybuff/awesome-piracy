@@ -30,6 +30,7 @@
     - [Torrent Clients](#torrent-clients)
         - [rTorrent](#rtorrent)
         - [WebTorrent Clients](#webtorrent-clients)
+    - [autodl-irssi](#autodl-irssi)
     - [Seedboxes](#seedboxes)
         - [Seedbox Hosting Providers](#seedbox-hosting-providers)
         - [Seedbox Setup Tools and Guides](#seedbox-setup-tools-and-guides)
