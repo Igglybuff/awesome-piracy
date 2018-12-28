@@ -231,6 +231,7 @@ You will notice some items in this list have a :star2: next to them. Items with 
 ## Privacy
 - [Prism Break](https://prism-break.org/en/) Opt out of global data surveillance programs like PRISM, XKeyscore, and Tempora.
 - [/r/privacy](https://www.reddit.com/r/privacy/) The intersection of technology, privacy, and freedom in a digital world.
+- [Any Soft Keyboard](https://github.com/AnySoftKeyboard/AnySoftKeyboard) A privacy focused keyboard
 
 ### Windows 10 Privacy
 - [O&O ShutUp10](https://www.oo-software.com/en/shutup10) O&O ShutUp10 means you have full control over which comfort functions under Windows 10 you wish to use, and you decide when the passing on of your data goes too far.
@@ -1222,7 +1223,6 @@ premium services
 - [Trireme](https://www.f-droid.org/en/packages/org.deluge.trireme/) Use this app to connect and manage your Deluge Daemon.
 
 ### APKs
-- [Any Soft Keyboard](https://github.com/AnySoftKeyboard/AnySoftKeyboard) A privacy focused keyboard
 - [Aptoide](https://en.aptoide.com/) An alternative repository-based marketplace for Android applications
 - [F-Droid](https://f-droid.org/fr/) An installable catalogue of FOSS (Free and Open Source Software) Android applications
 - [Yalp Store](https://github.com/yeriomin/YalpStore) Download apks from Google Play Store
