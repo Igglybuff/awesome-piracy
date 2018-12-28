@@ -231,6 +231,7 @@ You will notice some items in this list have a :star2: next to them. Items with 
 ## Privacy
 - [Prism Break](https://prism-break.org/en/) Opt out of global data surveillance programs like PRISM, XKeyscore, and Tempora.
 - [/r/privacy](https://www.reddit.com/r/privacy/) The intersection of technology, privacy, and freedom in a digital world.
+- [Any Soft Keyboard](https://github.com/AnySoftKeyboard/AnySoftKeyboard) A privacy focused keyboard
 
 ### Windows 10 Privacy
 - [O&O ShutUp10](https://www.oo-software.com/en/shutup10) O&O ShutUp10 means you have full control over which comfort functions under Windows 10 you wish to use, and you decide when the passing on of your data goes too far.
@@ -676,6 +677,7 @@ premium services
 - [Yes! Movies](https://yesmovies.to) Basic streaming site layout, HD server with additional hosts
 - [Spacemov](http://spacemov.io/) Basic streaming site layout, HD server, only certain films have additional hosts
 - [HDOnline](https://www1.hdonline.eu) Basic streaming site layout, HD server with additional hosts
+- [YMovies](https://ymovies.tv/) Unique design, HD server with additional hosts, nice speeds, YIFY and other releases (+ torrents)
 - [#1 Movies Website](https://www1.1movies.is) Basic streaming site layout, HD server with additional hosts
 
 #### Big Media Libraries
@@ -710,7 +712,7 @@ premium services
 - [/r/WWEstreams](https://www.reddit.com/r/WWEstreams/) Reddit - WWE streams
 - [/r/rugbystreams](https://www.reddit.com/r/rugbystreams/) Reddit - rugby streams
 - [/r/mmafights](https://www.reddit.com/r/mmafights/) Reddit - MMA streams
-- [/r/motorsportsstreams](https://www.reddit.com/r/motorsportsstreams) Reddit - motorsports streams 
+- [/r/motorsportsstreams](https://www.reddit.com/r/motorsportsstreams) Reddit - motorsports streams
 - [Best Sport Streaming](https://www.bestsportstreaming.com/) Site that rates sport streaming services
 - [LiveTV](https://livesx.eu/) Wide variety of sports, results/live scores, video archive and betting
 - [Cricfree](https://crickfree.org/) Offers popular sports streams
@@ -763,7 +765,7 @@ premium services
 - [IceFilms](http://www.icefilms.info/) Openload, FileUpload
 - [FilmXY](https://www.filmxy.one/) RapidVideo, Vidoza, Uptostream (offers download links)
 - [1Movies](http://1movies.nl) Openload, FServer
-- [Rainierland](https://rainierland.is/) Openload, Streamango 
+- [Rainierland](https://rainierland.is/) Openload, Streamango
 - [WatchFullMovie](http://watchfullmovie.co) Openload
 - [FMOVIES](https://www3.fmovies.to/) Openload, MyCloud, RapidVideo, Streamango
 - [WatchFree](https://watchfree.at/) Openload, FServer
