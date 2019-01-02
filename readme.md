@@ -684,8 +684,6 @@ premium services
 
 #### Big Media Libraries
 - [Streaming Multireddit](https://www.reddit.com/user/nbatman/m/streaming/) Reddit with all types of Streaming Links
-- [Alluc.uno](https://w1.alluc.uno/) Currently only searches Openload
-- [Ololo](https://ololo.to/) Searches videos on Openload, Streamango, Streamcherry
 - [5Movies](http://5movies.to/) Large collection dating as far back as 1990
 - [2TwoMovies](https://two-movies.net/) Large collection dating as far back as 1895
 - [CafeHulu](http://cafehulu.com/) Collection of movies/TV shows + many foreign films
@@ -741,7 +739,6 @@ premium services
 - [MioMio](http://www.miomio.tv/) Asian TV shows/anime
 
 #### Third Party Hosts
-- [Ololo](https://ololo.to/) Searches videos on Openload, Streamango, Streamcherry
 - [MovieZion](https://www.nicemoviezion.pro/) Openload
 - [Vmovee](https://vmovee.me/) Openload (Many outdated/removed links, not updated)
 - [MovieJagg](https://www.coolmoviejagg.pro/) Openload
