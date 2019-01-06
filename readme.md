@@ -904,7 +904,6 @@ premium services
 - [qoob.name](http://qoob.name/) Repacker site
 - [Nicoblog](https://nicoblog.org/) Plenty of ISOs, ROMs, and repacks
 - [Dark Umbra](https://darkumbra.net/) Forum for sourcing games
-- [PCGames-Download](https://pcgames-download.com/) Premium links to repacks from a variety of release groups
 - [Skidrow Repacks](https://skidrowrepacks.com/) Repacks from popular repacker SKIDROW. Lots of anime stuff too
 
 ### ROMs
