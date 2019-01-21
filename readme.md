@@ -1002,6 +1002,7 @@ premium services
 - [Spotify Megathread](https://www.reddit.com/r/Piracy/comments/82wzi0/spotify_megathread/) /r/Piracy Spotify-related discussion and future developments
 - [EZBlocker](https://github.com/Xeroday/Spotify-Ad-Blocker/) a Spotify Ad Blocker written in C# for Windows 7/8/10.
 - [BlockTheSpot](https://github.com/master131/BlockTheSpot) Video, audio & banner AdBlock/skip for Spotify
+- [Spytify](https://jwallet.github.io/spy-spotify/) Records Spotify without ads while it plays and includes media tags and album cover to the recorded files
 
 ### iTunes
 - [TunesKit](https://www.tuneskit.com/) iTunes DRM removal tool
