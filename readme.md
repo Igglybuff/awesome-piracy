@@ -1415,6 +1415,10 @@ premium services
 - [piracy Telegram group](https://t.me/joinchat/JSoye0ykWKHhixE0_EV4dw) A modest group of 400+ pirates chatting on Telegram.
 - [@itorrentsearchbot](https://t.me/itorrentsearchbot) Search bot for finding torrent and magnet links on 1337x.to by keyword search
 - [@vkmusic_bot](https://telegram.me/vkmusic_bot) Find and download pretty much any song
+- [@RickyChristanto](https://t.me/RickyChristanto) Channel for movie releases, usually from YTS in MKV format.
+- [iMediaShare channel](https://t.me/iMediaShare) Movies, TV shows, apps, and more
+- [@movies_inc](https://t.me/movies_inc) Another Telegram channel for downloading movies
+- [@Qualitymovies](https://t.me/Qualitymovies) Lots of 720p Blu-Ray movie releases
 
 ## Miscellaneous
 - [UK ISP Court Orders](http://www.ukispcourtorders.co.uk/) :star2: List of websites recently taken down in the UK by the High Court. Use a VPN to access them, they must be pretty good!
