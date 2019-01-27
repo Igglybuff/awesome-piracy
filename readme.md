@@ -124,6 +124,7 @@
 - [Proxy Sites](#proxy-sites)
 - [File Sharing Tools](#file-sharing-tools)
 - [Stream Synchronisation](#stream-synchronisation)
+- [Telegram Piracy](#telegram-piracy)
 - [Miscellaneous](#miscellaneous)
 
 ## Preamble
@@ -1041,6 +1042,7 @@ premium services
 - [Nulled](https://www.nulled.to/) Nulled is a cracking community where you can find links to cracked software
 - [Vestathemes](https://www.vestathemes.com/) Vestathemes is a website for [WordPress](https://www.wordpress.com/) themes and plugins.
 - [/r/sjain_guides](https://www.reddit.com/r/sjain_guides/) Guides and downloads for CS:GO, Windows 10 gaming optimisations, and more
+- [My Digital Life Forums](https://forums.mydigitallife.net/) Popular forum for modded/cracked software and apps
 
 ### Adobe CC
 - [Adobe CC 2018](https://www.reddit.com/r/sjain_guides/comments/9g4t2u/adobe_cc_2018_full_indepth_guide_to_installing/) Full in-depth guide to installing and cracking any application (Windows)
@@ -1294,7 +1296,6 @@ premium services
 
 ## IRC
 - [XDCC Tutorial](http://theloadguru.com/xdcc-irc-beginners-guide/) XDCC Downloading For Beginners: Do It Like A Pro
-
 - [XDCC](https://en.wikipedia.org/wiki/XDCC) XDCC (Xabi DCC or eXtended DCC) is a computer file sharing method which uses the Internet Relay Chat (IRC) network as a host service.
 - [ZNC](https://github.com/znc/znc) An advanced IRC bouncer
 
@@ -1410,6 +1411,11 @@ premium services
 - [CyTube](https://cytu.be/) Channel-based shared streaming platform for synchronized viewing of YouTube and Google Drive videos
 - [ArconaiTV](https://www.arconaitv.us/) Another stream sharing platform with a nice UI
 
+## Telegram Piracy
+- [piracy Telegram group](https://t.me/joinchat/JSoye0ykWKHhixE0_EV4dw) A modest group of 400+ pirates chatting on Telegram.
+- [@itorrentsearchbot](https://t.me/itorrentsearchbot) Search bot for finding torrent and magnet links on 1337x.to by keyword search
+- [@vkmusic_bot](https://telegram.me/vkmusic_bot) Find and download pretty much any song
+
 ## Miscellaneous
 - [UK ISP Court Orders](http://www.ukispcourtorders.co.uk/) :star2: List of websites recently taken down in the UK by the High Court. Use a VPN to access them, they must be pretty good!
 - [Counterfeit and Piracy Watch List 2018](https://torrentfreak.com/images/tradoc_157564.pdf)
@@ -1437,7 +1443,6 @@ premium services
 - [Grabber](https://grabber.co.in/) Download stock images from Shutterstock
 - [The Pirate Society](https://thepiratesociety.org/forums/) A mysterious members-only forum for pirates.
 - [Bandersnatch Interactive Player](https://mehotkhan.github.io/BandersnatchInteractive/) Online video player for watching the new interactive episode of Black Mirror, "Bandersnatch".
-- [piracy Telegram group](https://t.me/joinchat/JSoye0ykWKHhixE0_EV4dw) A modest group of 400+ pirates chatting on Telegram.
 
 ## Contribute
 Contributions welcome! Read the [contribution guidelines](contributing.md) first.
