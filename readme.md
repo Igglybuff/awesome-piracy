@@ -1237,7 +1237,7 @@ premium services
 - [/r/ApksApps](https://www.reddit.com/r/apksapps) "The best Modded apps on the reddit."
 
 ## Discord Servers
-- [The Ratio](https://discord.gg/RUew8Zg) :star2: Community of seedbox enthusiasts. Buying advice, application setup, and automation help.
+- [The Ratio](https://discordapp.com/invite/wab3Qag) :star2: Community of seedbox enthusiasts. Buying advice, application setup, and automation help.
 - [DoujinStyle](https://discord.gg/z2QDFdA) Discord server with Doujin related materials. Things such as Japanese doujin music and games
 - [The Eye](https://discordapp.com/invite/py3kX3Z) Official Discord server for the-eye.eu
 - [PlayStation Homebrew](https://discord.gg/JJnvEN8) Home of /r/ps3homebrew and /r/ps4homebrew.
