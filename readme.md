@@ -1435,6 +1435,7 @@ premium services
 - [Grabber](https://grabber.co.in/) Download stock images from Shutterstock
 - [The Pirate Society](https://thepiratesociety.org/forums/) A mysterious members-only forum for pirates.
 - [Bandersnatch Interactive Player](https://mehotkhan.github.io/BandersnatchInteractive/) Online video player for watching the new interactive episode of Black Mirror, "Bandersnatch".
+- [piracy Telegram group](https://t.me/joinchat/JSoye0ykWKHhixE0_EV4dw) A modest group of 400+ pirates chatting on Telegram.
 
 ## Contribute
 Contributions welcome! Read the [contribution guidelines](contributing.md) first.
