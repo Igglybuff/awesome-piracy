@@ -312,6 +312,8 @@ for any IP address.
 - [MySpleen](http://www.myspleen.org/login.php) (MS) MySpleen is a private tracker which specialises in comedy, animation, and TV series.
 - [Nostalgic Torrents](https://nostalgic.is/) (NT) Private tracker for anime, comics/manga, documentaries, movies, TV - PRE 2013, TV - PRE 2009 With Original Commercials, etc. Also known as The-Archive and HeyNow.
 - [PassThePopcorn](https://passthepopcorn.me/) (PTP) ratio-based torrent tracker for movies
+- [PolishTracker](https://pte.nu/) (PT) PolishTracker is the oldest private Polish tracker existing to this day
+- [PolishSource](https://polishsource.cz/) (PS) PolishSource is a big private Polish ratio-less tracker
 - [PrivateHD](https://privatehd.to/) (PHD) PrivateHD is a private BitTorrent tracker focused on high definition movies and TV show torrents.
 - [Redacted](https://redacted.ch/) (RED) Largest private music tracker at 1.5 million torrents.
 - [TheGeeks](https://thegeeks.click/) (TGBZ) Private tracker for e-learning
@@ -403,7 +405,7 @@ for any IP address.
 #### Deluge
 - [Deluge](https://www.deluge-torrent.org/) :star2: Deluge is a lightweight, Free Software, cross-platform BitTorrent client.
 - [AutoRemovePlus](https://github.com/omaralvarez/deluge-autoremoveplus) Auto removing of deluge torrents
-- [ltConfig](https://github.com/ratanakvlun/deluge-ltconfig/releases) 
+- [ltConfig](https://github.com/ratanakvlun/deluge-ltconfig/releases)
 ltConfig is a plugin for Deluge that allows direct modification to libtorrent settings and has preset support.
 - [Deluge Plugins](https://dev.deluge-torrent.org/wiki/Plugins) List of official and third-party plugins for Deluge
 
@@ -682,7 +684,7 @@ premium services
 - [HD MultiredditHD](https://www.reddit.com/user/nbatman/m/streaming2/) Alternate subreddit curated by /u/nbatman
 - [Best Free Streaming](https://www.bestfreestreaming.com/) Site that rates streaming services
 - [StreamCR](https://scr.cr/) Clean design, very nice speeds, large variety of films and series, HD server, Popular Site
-- [YMovies](https://ymovies.tv/) Unique design, HD server with additional hosts, nice speeds, YIFY and other releases (+ torrents) 
+- [YMovies](https://ymovies.tv/) Unique design, HD server with additional hosts, nice speeds, YIFY and other releases (+ torrents)
 - [HDO](https://hdo.to/) Unique design, HD server with additional hosts, also country specific films/series
 - [M4UFree.TV](http://m4ufree.tv/) Unique design, HD server with backup and additional hosts
 - [Movie123](http://movie123.club/) Unique design, HD server with Backup and additional hosts
