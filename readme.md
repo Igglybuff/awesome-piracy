@@ -225,6 +225,7 @@ You will notice some items in this list have a :star2: next to them. Items with 
 - [Passbolt](https://www.passbolt.com/) Free, open source, self-hosted, extensible, OpenPGP based.
 - [LessPass](https://lesspass.com/) stateless open source password manager
 - [Psono](https://psono.com/) Open source and self-hosted password manager for teams
+- [Buttercup](https://buttercup.pw/) Another open source password manager with desktop, mobile, and browser clients.
 
 ## Antivirus
 - [MalwareBytes](https://www.malwarebytes.com/) :star2: "crushes malware so you are protected and your machine keeps running smoothly."
@@ -268,6 +269,7 @@ You will notice some items in this list have a :star2: next to them. Items with 
 - [xip.io](http://xip.io/) magic domain name that provides wildcard DNS
 for any IP address.
 - [Domainr](https://domainr.com/) Domainr finds domain names and short URLs. Instantly check availability and register for all top-level domains.
+- [dot.tk](http://dot.tk) Free .tk and other domain names.
 
 ## Torrenting
 - [/r/torrents](https://www.reddit.com/r/torrents) Questions and discussion about all things torrent-related
@@ -941,7 +943,6 @@ premium services
 - [Skidrow Repacks](https://skidrowrepacks.com/) Repacks from popular repacker SKIDROW. Lots of anime stuff too
 
 ### ROMs
-- [All the FullSets from EmuParadise](http://od.phirephly.design/lib/emuparadise/fullsets/) Link discovered by /u/PhirePhly on /r/opendirectories
 - [Vimm's Lair](https://vimm.net/?p=vault) Large collection of ROMs
 - [ROM/ISO sites](http://emulation.gametechwiki.com/index.php/ROM/ISO_Sites) Wiki page from gametechwiki.com with more links
 - [Romulation.net](https://www.romulation.net/) collection of ~28,000 console game ROMs
@@ -1039,6 +1040,7 @@ premium services
 - [EZBlocker](https://github.com/Xeroday/Spotify-Ad-Blocker/) a Spotify Ad Blocker written in C# for Windows 7/8/10.
 - [BlockTheSpot](https://github.com/master131/BlockTheSpot) Video, audio & banner AdBlock/skip for Spotify
 - [Spytify](https://jwallet.github.io/spy-spotify/) Records Spotify without ads while it plays and includes media tags and album cover to the recorded files
+- [Spotify modded APK](https://forum.mobilism.org/viewtopic.php?f=1332&t=2950704) Modded APK with no ads.
 
 ### iTunes
 - [TunesKit](https://www.tuneskit.com/) iTunes DRM removal tool
