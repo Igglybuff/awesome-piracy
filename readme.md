@@ -1273,7 +1273,6 @@ premium services
 - [BeeTV](http://beetvapk.me/)
 - [Cinema](https://cinemaapk.com/)
 - [CKayTV](http://ckaytv.com/)
-- [CoToMovies](https://cotomovies.com/)
 - [Cyberflix](https://cybercloud.media/) Terrarium clone
 - [DreamTV](http://dream-tv.xyz/) Terrarium clone
 - [Morph TV](http://titaniumtv.xyz/Morph2.apk) Morpheus fork
