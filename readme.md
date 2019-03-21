@@ -4,6 +4,9 @@
 
 ## Contents
 - [Preamble](#preamble)
+- [Mirrors](#mirrors)
+- [How to use this list](#how-to-use-this-list)
+- [Emoji](#emoji)
 - [Background Information](#background-information)
 - [VPNs](#vpns)
     - [VPN Guides and Tutorials](#vpn-guides-and-tutorials)
