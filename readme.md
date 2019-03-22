@@ -279,6 +279,7 @@ for any IP address.
 - [BitTorrent](https://en.wikipedia.org/wiki/BitTorrent) Wikipedia's article on the BitTorrent file sharing protocol
 - [Live Tracer](https://trace.corrupt-net.org/live.php) Pre-time tracer for scene releases
 - [magent2torrent.me](http://magnet2torrent.me/) Converts magnet links to torrent files
+- [mgnet.me](http://mgnet.me/) Magnet URI shortener
 - [Torrage](https://torrage.info/) Torrage is a free service for caching torrent files online.
 - [peerflix Google Search](https://www.google.com/search?q=peerflix+site%3Aherokuapp.com) Searches Heroku-deployed instances of Peerflix for streaming torrents
 - [Torznab](https://nzbdrone.readthedocs.io/Implementing-a-Torznab-indexer/) Newznab-like API offering a standardized recent/search API for both TV and movies
@@ -559,6 +560,7 @@ ltConfig is a plugin for Deluge that allows direct modification to libtorrent se
 - [JDownloader2](http://www.jdownloader.org/home/index) :star2: JDownloader is a free, open-source download management tool with a huge community of developers that makes downloading as easy and fast as it should be.
 - [Internet Download Manager](https://www.internetdownloadmanager.com/) shareware download manager for Windows
 - [pyLoad](https://pyload.net/) Free and Open Source download manager written in Python and designed to be extremely lightweight, easily extensible and fully manageable via web
+- [Xtreme Download Manager](https://subhra74.github.io/xdm/#) Xtreme Download Manager is a tool which claims to increase download speeds by up-to 500%.
 
 ### DDL Tools
 - [youtube-dl](https://rg3.github.io/youtube-dl/) :star2: youtube-dl is a command-line program to download videos from YouTube.com and a few more sites.
@@ -611,6 +613,7 @@ ltConfig is a plugin for Deluge that allows direct modification to libtorrent se
 - [Alluc](https://w1.alluc.uno/) Search engine with over 80 million streaming-links from over 700 VOD services, video hosters, and file-hosters
 - [OD-Database](https://od-db.the-eye.eu/) Database of searchable open directories curated by The-Eye.eu
 - [IPLIVE](https://iplive.club/) DDL search engine
+- [SoftArchive](https://sanet.st/full/) SoftArchive or SA is a scene release website, more known for new release of software, games, music, movies, and eBooks.
 
 ### DDL Link Sites
 - [/r/megalinks](https://www.reddit.com/r/megalinks) Links to files on Mega. Has now moved to snahp.it
@@ -627,7 +630,6 @@ ltConfig is a plugin for Deluge that allows direct modification to libtorrent se
 - [TwoDDL](http://2ddl.ws) Direct download links
 - [RapidMoviez](http://rmz.cr/)
 - [SceneSource](https://scnsrc.me/) WordPress powered website dedicated to bringing you the latest info on new scene releases
-- [SoftArchive](https://sanet.st/full/) SoftArchive or SA is a scene release website, more known for new release of software, games, music, movies, and eBooks.
 - [MkvCage](https://www.mkvcage.ws/)
 - [MovieFiles](https://moviefiles.org/) Direct download search engine which generates Google Drive links
 - [IceFilms.info](https://www.icefilms.info/) Another DDL site with TV and movie links on FileUpload, GoUnlimited, Filecandy, and more
@@ -1044,6 +1046,7 @@ premium services
 - [BlockTheSpot](https://github.com/master131/BlockTheSpot) Video, audio & banner AdBlock/skip for Spotify
 - [Spytify](https://jwallet.github.io/spy-spotify/) Records Spotify without ads while it plays and includes media tags and album cover to the recorded files
 - [Spotify modded APK](https://forum.mobilism.org/viewtopic.php?f=1332&t=2950704) Modded APK with no ads.
+- [Downtify](https://github.com/Superhackman/downtify-premium) Downtify is an open source Spofity downloader which makes it possible to download all your favourite songs and/or playlists directly from spotify.
 
 ### iTunes
 - [TunesKit](https://www.tuneskit.com/) iTunes DRM removal tool
@@ -1133,6 +1136,7 @@ premium services
 - [Comic Extra](https://www.comicextra.com/) Daily comic uploads, clean UI
 - [GetComics](https://getcomics.info/) GetComics started as an alternative place to get downloaded comic files, particularly US-based comics published by DC and Marvel.
 - [Gazee!](https://hub.docker.com/r/linuxserver/gazee/) A WebApp Comic Reader for your favorite digital comics. Reach and read your comic library from any web-connected device with a modern web browser.
+- [Comix-Load](https://comix-load.in/) DDL links for comicbooks and manga in English and German.
 
 ## Manga
 - [MangaDex](https://www.mangadex.org/) MangaDex is an online manga reader that caters to all languages.
@@ -1461,6 +1465,7 @@ premium services
 
 ## Telegram Piracy
 - [piracy Telegram group](https://t.me/joinchat/JSoye0ykWKHhixE0_EV4dw) A modest group of 400+ pirates chatting on Telegram.
+- [piratebazaar](https://t.me/piratebazaar) Curated list of piracy-related links.
 - [@itorrentsearchbot](https://t.me/itorrentsearchbot) Search bot for finding torrent and magnet links on 1337x.to by keyword search
 - [@vkmusic_bot](https://telegram.me/vkmusic_bot) Find and download pretty much any song
 - [@RickyChristanto](https://t.me/RickyChristanto) Channel for movie releases, usually from YTS in MKV format.
@@ -1486,6 +1491,7 @@ premium services
 - [How To Host "Questionable" Websites v4.0](https://weboas.is/media/host.pdf) PDF from weboas.is. There are also [PNG](https://weboas.is/media/host.png), [PSD](https://weboas.is/media/host.psd), and [TXT](https://weboas.is/media/host.txt) versions
 - [Privacy.com](https://privacy.com/) Privacy creates secure virtual cards and completes checkout forms for you, saving you time and money while masking your real card details.
 - [/f/Piracy](https://raddle.me/f/Piracy) Raddle forum for Piracy
+- [/s/piracy](https://saidit.net/s/piracy) Saidit forum for Piracy - unofficiallly the backup forum for /r/Piracy if/when it is banned by the reddit moderators.
 - [2019 Oscar DVD Screeners](https://whereyouwatch.com/articles/here-are-the-2019-oscar-dvd-screeners/) List of DVD screeners for 2019's Oscars
 - [Academy Awards 2019 Screeners Megathread](https://www.reddit.com/r/Piracy/comments/aaqc0b/academy_awards_2019_screeners_megathread/) Post by /u/idoideas listing all available DVDSCR releases for 2019
 - [iNFekt](https://infekt.ws/) A text viewer application that has been carefully designed around its main task: viewing and presenting NFO files.
@@ -1501,6 +1507,7 @@ premium services
 - [Multiup](https://multiup.org/) Website which allows you to upload files to several different file hosting websites.
 - [DirtyWarez](https://dirtywarez.org/) Lists top warez sites with Alexa rankings and other metadata.
 - [MacGuffin](https://github.com/hwkns/macguffin) Automated tools for handling Scene and P2P film releases.
+- [Archive of r/Piracy subreddit 2019-03-19](https://ourproject.org/forum/forum.php?thread_id=44721&forum_id=4917&group_id=2645) An archive of all gilded /r/Piracy comments and threads.
 
 ## Contribute
 Contributions welcome! Read the [contribution guidelines](contributing.md) first.
