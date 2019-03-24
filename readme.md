@@ -857,7 +857,7 @@ premium services
 - [Ombi](http://ombi.io/) :star2: Want a Movie or TV Show on Plex or Emby? Use Ombi!
 - [Plex Requests](http://plexrequests.8bits.ca/) Simple automated way for users to request new content for Plex
 - [plexrequests-meteor](https://github.com/lokenx/plexrequests-meteor) Meteor version of the original Plex Requests
-- [Mellow](https://github.com/v0idp/Mellow/) Discord Bot which can communicate with several APIs like Ombi, Sonarr, Radarr and Tautulli which are related to home streaming. Based off of node:9.3
+- [Mellow](https://github.com/v0idp/Mellow/) Bot which can communicate with several APIs like Ombi, Sonarr, Radarr and Tautulli which are related to home streaming. Based off of node:9.3
 - [MediaButler](https://github.com/physk/MediaButler) Discord bot for use with PleX and several other apps that work with it.
 
 ### Plex Scripts and Tools
@@ -1321,6 +1321,7 @@ premium services
 - [WarezNX](https://discord.gg/d6xxuPq) Nintendo Switch Warez server.
 - [/r/soccerstreams](https://discord.gg/geyTtth) Official Discord server for the recently-killed /r/soccerstreams subreddit.
 - [APK'S 2 Day](https://discord.gg/2qWqzN8) This is a discord server that acts as a hub for numerous streaming apps.
+- [9YearOldPirates](https://discord.gg/3YCF8u) Discord server for the 9YearOldPirates relaese group.
 
 ## IPTV and DVR
 - [telly](https://github.com/tellytv/telly) IPTV proxy for Plex Live written in Golang
