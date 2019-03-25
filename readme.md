@@ -948,13 +948,15 @@ premium services
 - [Skidrow Repacks](https://skidrowrepacks.com/) Repacks from popular repacker SKIDROW. Lots of anime stuff too
 
 ### ROMs
+- [Romsmania](https://romsmania.cc/) Good ROMs collection with a decent UI.
+- [Doperoms](https://www.doperoms.com/) Huge collection with over 170,000 ROM files. PS3 included.
 - [Vimm's Lair](https://vimm.net/?p=vault) Large collection of ROMs
 - [ROM/ISO sites](http://emulation.gametechwiki.com/index.php/ROM/ISO_Sites) Wiki page from gametechwiki.com with more links
-- [Romulation.net](https://www.romulation.net/) collection of ~28,000 console game ROMs
-- [The Eye ROMs](http://the-eye.eu/public/rom/) open directory of ROMs from The Eye
+- [Romulation.net](https://www.romulation.net/) Collection of ~28,000 console game ROMs
+- [The Eye ROMs](http://the-eye.eu/public/rom/) Open directory of ROMs from The Eye
 - [myabandonware](https://www.myabandonware.com/) More than 14000 old games to download for free!
 - [Old Games Finder](http://www.oldgamesfinder.com/) Old Games Finder is an automated old game search engine. (avoid ISO Zone links, as that site is dead)
-- [The ROM Depot](https://theromdepot.com/roms/) About 3TB of ROMs.
+- [The ROM Depot](https://theromdepot.com/roms/) About 3TB of ROMs. You may need a VPN.
 - [Emulator.Games](https://emulator.games/) Download or play ROMs on your PC, Mobile, Mac, iOS and Android devices.
 - ["A simple script for easily downloading emulator.games roms"](https://www.reddit.com/r/Piracy/comments/aytutr/a_simple_script_for_easily_downloading/) Reddit guide and userscript created by /u/estel_smith to allow you to easily download ROMs from Emulator.Games.
 
