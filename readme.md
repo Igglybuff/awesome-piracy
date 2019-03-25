@@ -1321,7 +1321,6 @@ premium services
 - [WarezNX](https://discord.gg/d6xxuPq) Nintendo Switch Warez server.
 - [/r/soccerstreams](https://discord.gg/geyTtth) Official Discord server for the recently-killed /r/soccerstreams subreddit.
 - [APK'S 2 Day](https://discord.gg/2qWqzN8) This is a discord server that acts as a hub for numerous streaming apps.
-- [9YearOldPirates](https://discord.gg/3YCF8u) Discord server for the 9YearOldPirates relaese group.
 
 ## IPTV and DVR
 - [telly](https://github.com/tellytv/telly) IPTV proxy for Plex Live written in Golang
