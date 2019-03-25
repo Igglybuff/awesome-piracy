@@ -948,12 +948,12 @@ premium services
 - [Skidrow Repacks](https://skidrowrepacks.com/) Repacks from popular repacker SKIDROW. Lots of anime stuff too
 
 ### ROMs
-- [Romsmania](https://romsmania.cc/) Good ROMs collection with a decent UI
-- [Doperoms](https://www.doperoms.com/) Huge collection with over 170,000 ROM files. PS3 Included.
+- [Romsmania](https://romsmania.cc/) Good ROMs collection with a decent UI.
+- [Doperoms](https://www.doperoms.com/) Huge collection with over 170,000 ROM files. PS3 included.
 - [Vimm's Lair](https://vimm.net/?p=vault) Large collection of ROMs
 - [ROM/ISO sites](http://emulation.gametechwiki.com/index.php/ROM/ISO_Sites) Wiki page from gametechwiki.com with more links
 - [Romulation.net](https://www.romulation.net/) Collection of ~28,000 console game ROMs
-- [The Eye ROMs](http://the-eye.eu/public/rom/) open directory of ROMs from The Eye
+- [The Eye ROMs](http://the-eye.eu/public/rom/) Open directory of ROMs from The Eye
 - [myabandonware](https://www.myabandonware.com/) More than 14000 old games to download for free!
 - [Old Games Finder](http://www.oldgamesfinder.com/) Old Games Finder is an automated old game search engine. (avoid ISO Zone links, as that site is dead)
 - [The ROM Depot](https://theromdepot.com/roms/) About 3TB of ROMs. You may need a VPN.
