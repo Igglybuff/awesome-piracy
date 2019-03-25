@@ -1323,7 +1323,7 @@ premium services
 - [WarezNX](https://discord.gg/d6xxuPq) Nintendo Switch Warez server.
 - [/r/soccerstreams](https://discord.gg/geyTtth) Official Discord server for the recently-killed /r/soccerstreams subreddit.
 - [APK'S 2 Day](https://discord.gg/2qWqzN8) This is a discord server that acts as a hub for numerous streaming apps.
-
+- [9YearOldPirates](https://discord.gg/F7Je7kT) This is the Discord server for the 9YearOldPirates release group.
 ## IPTV and DVR
 - [telly](https://github.com/tellytv/telly) IPTV proxy for Plex Live written in Golang
 - [tvheadend](https://github.com/tvheadend/tvheadend) Tvheadend is a TV streaming server for Linux supporting DVB-S, DVB-S2, DVB-C, DVB-T, ATSC, IPTV, SAT>IP, and other formats through the Unix pipe as input sources.
