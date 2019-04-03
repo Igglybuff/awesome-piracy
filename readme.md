@@ -1004,6 +1004,7 @@ premium services
 - [/r/PkgLinks](https://www.reddit.com/r/PkgLinks/) A place to share working Playstation 4 PKGs
 - [NoPayStation](https://nopaystation.com) A Database for PSN content including Vita, PS3, PSX, and PSP
 - [/r/SwitchNSPs](https://www.reddit.com/r/SwitchNSPs/) Nintendo Switch games
+- See [Discord Servers](#discord-servers) for more Switch games
 
 ### Homebrew and Custom Firmware
 - [The ultimate guide to Nintendo 3DS Piracy](https://www.reddit.com/r/Piracy/comments/6h2vdd/the_ultimate_guide_to_nintendo_3ds_piracy/) Posted by /u/crazy5
@@ -1339,9 +1340,11 @@ premium services
 - [The Eye](https://discordapp.com/invite/py3kX3Z) Official Discord server for the-eye.eu
 - [PlayStation Homebrew](https://discord.gg/JJnvEN8) Home of /r/ps3homebrew and /r/ps4homebrew.
 - [Snahp.it](https://discord.gg/ypyKZCj) Official Discord server for snahp.it.
-- [WarezNX](https://discord.gg/d6xxuPq) Nintendo Switch Warez server.
+- [WarezNX](https://discord.gg/d6xxuPq) Nintendo Switch Warez server. (/hbg/ as more up to date games as of April 2019)
+- [/hbg/ Homebrew General](https://discord.io/homebrew) A Discord server that shares Nintendo Switch Games.
 - [/r/soccerstreams](https://discord.gg/geyTtth) Official Discord server for the recently-killed /r/soccerstreams subreddit.
 - [APK'S 2 Day](https://discord.gg/2qWqzN8) This is a discord server that acts as a hub for numerous streaming apps.
+
 
 ## IPTV and DVR
 - [telly](https://github.com/tellytv/telly) IPTV proxy for Plex Live written in Golang
