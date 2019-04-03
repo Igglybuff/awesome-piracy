@@ -999,7 +999,6 @@ premium services
 - [Anime Kaizoku](https://www2.animekaizoku.com/) Up to 1080p DDL links, mostly Google Drive
 - [/r/animepiracy](https://www.reddit.com/r/animepiracy) This sub is about streaming and torrent websites for anime.
 - [/r/animepiracy wiki](https://www.reddit.com/r/animepiracy/wiki/index) Lists for sourcing Anime streaming sites, manga sites, and more
-- [Monimo](https://monimoapp.netlify.com/) Netflix like web app for watching animes
 - [9Anime](https://9anime.to) Watch anime online. English anime, dubbed, subbed.
 - [GoGo Anime](https://www3.gogoanime.in/) Popular website for watching anime
 - [AniLinkz](https://anilinkz.to/) Large database of streaming anime episodes.
@@ -1012,7 +1011,6 @@ premium services
 - [HorribleSubs](https://horriblesubs.info/) Download anime via torrent files, magnet links, XDCC, and premium link hosts.
 - [Anime Twist](https://twist.moe/) An anime direct streaming site with a decent UI and video player
 - [AnimeOut](https://www.animeout.xyz/) Over 1000's of Encoded Anime with DDL links.
-- [Masterani.me](https://www.masterani.me/) Large library of streamable anime with scheduling features.
 
 ## Cartoons
 - [KissCartoon](https://kisscartoon.ac/) Popular cartoon streaming site
