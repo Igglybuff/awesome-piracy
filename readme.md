@@ -1289,7 +1289,6 @@ premium services
 - [YouTube Vanced](https://vanced.app/) Vanced is a well known modded version of YouTube with many features such as adblocking and background playback and many more.
 
 ### Streaming Apps
-- [TerrariumTV](https://www.reddit.com/r/TTVreborn/comments/9n7zsf/terrariumtv_v6_mod_balatan/) :star2: V6 of this newly-fixed app for streaming TV and film. Features Trakt.tv and Real-Debrid integration
 - [Kokotime](https://www.kokotime.tv/) Kokotime is an addon-based, simple, free and elegantly designed app that will let you watch all your favorite media content in a unique and elegant user-friendly design
 - [Mobdro](https://forum.mobilism.org/viewtopic.php?f=429&t=2720792&hilit=mobdro) Mobdro constantly searches the web for the best free video streams and brings them to your device.
 - [Cinema](https://forum.mobilism.org/viewtopic.php?t=2786441) a lot of Movies & TV/Shows to watch and download.
