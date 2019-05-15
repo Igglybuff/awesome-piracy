@@ -839,7 +839,7 @@ premium services
 - [linuxserver/docker-plex](https://github.com/linuxserver/docker-plex) LinuxServer.io Plex Media Server docker image
 - [plexinc/pms-docker](https://github.com/plexinc/pms-docker) official Plex docker image
 - [timhaak/plex](https://github.com/timhaak/docker-plex) alternative Plex docker image
-- [PlexGuide.com](https://plexguide.com/) :star2: Deploy a multi-app supported Plex Server with an HD or GDrive
+- [PGBlitz.com](https://pgblitz.com/) :star2: Deploy a Hastey Server through Docker & Ansible with local or Unlimited Google HD Space (Former Name: PlexGuide)
 - [hoarding.me](https://hoarding.me/) Unlimited and Automated. How to setup your own dream Plex server.
 - [PlexPi](http://plexpi.com/) Plex Media Server for Raspberry Pi 3
 
