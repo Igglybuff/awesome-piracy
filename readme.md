@@ -167,7 +167,7 @@ You will notice some items in this list have a :star2: next to them. Items with 
 - [Private Internet Access](https://www.privateinternetaccess.com/) :star2: Hugely popular subscription-based VPN provider with a proven track record for not keeping logs
 - [ProtonVPN](https://protonvpn.com/) High-speed Swiss VPN that safeguards your privacy.
 - [NordVPN](https://nordvpn.com/) With NordVPN, encrypt your online activity to protect your private data from hackers or snoopy advertisers.
-- [TunnelBear](https://www.tunnelbear.com/) Really simple VPN to browse the web privately & securely. Unblock websites around the world with applications for Mac, PC, iOS, Android & your browser.
+- [Windscribe](https://windscribe.com/) Simple VPN, has a free plan that gives you 10gb/mo bandwith, paid version even has port forwarding for static IPs, privacy focused.
 - [ExpressVPN](https://www.expressvpn.com/vpnmentor1) VPN with 256-bit encryption, 94 countries, and no logs. Also rated one of the fastest VPNs out there.
 
 ### Self-hosted VPNs
