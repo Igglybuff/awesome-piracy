@@ -470,7 +470,7 @@ ltConfig is a plugin for Deluge that allows direct modification to libtorrent se
 - [CheckServers.OVH](https://checkservers.ovh/) Checks the availability of OVH servers.
 - [Kimsufi](https://www.kimsufi.com/uk/) Affordable dedicated servers
 - [Online.net](https://www.online.net/en) :star2: Seedbox-friendly, affordable, dedicated server host
-- [Heztner](https://hetzner.co.za/) Reliable and affordable server host
+- [Hetzner](https://hetzner.co.za/) Reliable and affordable server host
 - [/u/Andy10gbit](https://www.reddit.com/r/seedboxes/comments/9iu7o8/andy10gbit_server_and_seedbox_list/) Reddit user with good deals on servers and seedboxes
 - [Bytesized Hosting](https://bytesized-hosting.com/) "The best Plex server hosting in town"
 - [FeralHosting](https://www.feralhosting.com/pricing) Shared seedbox hosting provider
