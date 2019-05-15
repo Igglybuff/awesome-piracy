@@ -60,7 +60,9 @@
     - [Streaming Sites](#streaming-sites)
         - [HD Streaming](#hd-streaming)
         - [Big Media Libraries](#big-media-libraries)
-        - [TV & Anime Streaming](#tv-and-anime-streaming)
+        - [TV](#tv)
+        - [Anime](#anime)
+        - [Cartoons](#cartoons)
         - [Sports Streaming](#sports-streaming)
         - [Specialty Sites](#specialty-sites)
         - [Openload Hosts](#third-party-hosts)
@@ -80,8 +82,6 @@
     - [ROMs](#roms)
     - [Console Games](#console-games)
     - [Homebrew and Custom Firmware](#homebrew-and-custom-firmware)
-- [Anime](#anime)
-- [Cartoons](#cartoons)
 - [Music](#music)
     - [Music Streaming](#music-streaming)
     - [Music Downloading](#music-downloading)
@@ -729,14 +729,40 @@ premium services
 - [YouTube](http://YouTube.com/) Contains very old films/vlogs/tutorials
 - [WorldSrc](https://worldsrc.org) Movies, software, apps, games, music, and images available for fast direct download + torrents.
 
-#### TV and Anime Streaming
+#### TV
 - [TVRaven](https://www.onetvraven.pro/) Large TV collection, friendly UI
 - [WatchSeries](http://dwatchseries.to/) TV series, multiple links/backups to different streaming hosts
 - [TVBox](https://tvbox.ag/) TV/Movies, easy to navigate site, multiple links/backups to different streaming hosts
-- [KimCartoon](https://kimcartoon.co/) Large cartoon collection, primarily Openload
-- [WatchCartoon](https://www.watchcartoononline.io/) Outdated site layout, still active, uses Openload
+
+#### Anime
+- [Nyaa](https://nyaa.si/) BitTorrent software for cats [(Repo)](https://github.com/nyaadevs/nyaa)
+- [Hi10 Anime](https://hi10anime.com/) High-Quality 10-bit Anime Encodes
+- [Anime Kaizoku](https://www2.animekaizoku.com/) Up to 1080p DDL links, mostly Google Drive
+- [/r/animepiracy](https://www.reddit.com/r/animepiracy) This sub is about streaming and torrent websites for anime.
+- [/r/animepiracy wiki](https://www.reddit.com/r/animepiracy/wiki/index) Lists for sourcing Anime streaming sites, manga sites, and more
+- [9Anime](https://9anime.to) Watch anime online. English anime, dubbed, subbed.
+- [GoGo Anime](https://www3.gogoanime.in/) Popular website for watching anime
+- [AniLinkz](https://anilinkz.to/) Large database of streaming anime episodes.
+- [NyaaPantsu](https://nyaa.pantsu.cat/) Primarily Anime torrents but includes an open directory of DDL links too.
+- [Alternatives to Kiss websites](https://www.reddit.com/r/KissCartoon/wiki/alternatives) /r/KissCartoon wiki page with lots of anime sites
+- [anime-sharing](http://www.anime-sharing.com/forum/) Forum for sharing anime
+- [AniDex](https://anidex.info) Torrent tracker and indexer, primarily for English fansub groups of anime
+- [animeEncodes](https://www.animencodes.com/)
+- [HorribleSubs](https://horriblesubs.info/) Download anime via torrent files, magnet links, XDCC, and premium link hosts.
+- [Anime Twist](https://twist.moe/) An anime direct streaming site with a decent UI and video player
+- [AnimeOut](https://www.animeout.xyz/) Over 1000's of Encoded Anime with DDL links.
 - [Kissanime.ru](http://kissanime.ru/) or [Kissanime.ac](https://kissanime.ac/) Large cartoon collection, uses RapidVideo/Openload
 - [Anime8](https://anime8.me/) Basic streaming site layout, large collection of anime shows
+- [4anime](https://4anime.to/) A relatively new site the might become the new Masterani.me. Clean interface.
+
+#### Cartoons
+- [KissCartoon](https://kisscartoon.ac/) Popular cartoon streaming site
+- [watchcartoononline.com](https://www.watchcartoononline.com/) Cartoons, dubbed/subbed anime streaming site
+- [watchcartoononline.io](https://www.watchcartoononline.io/) Large DDL site for cartoons as well as anime and movies
+- [animetoon](http://www.animetoon.org/) Lots of streaming via premium hosts for cartoons
+- [Toonova](http://www.toonova.net/) Another site for streaming cartoons
+- [KimCartoon](https://kimcartoon.co/) Large cartoon collection, primarily Openload
+- [WatchCartoon](https://www.watchcartoononline.io/) Outdated site layout, still active, uses Openload
 
 #### Sports Streaming
 - [/r/redsoccer](https://www.reddit.com/r/redsoccer) A subreddit dedicated to the highest quality of free soccer / football streams. PL Streams.
@@ -978,6 +1004,7 @@ premium services
 - [/r/PkgLinks](https://www.reddit.com/r/PkgLinks/) A place to share working Playstation 4 PKGs
 - [NoPayStation](https://nopaystation.com) A Database for PSN content including Vita, PS3, PSX, and PSP
 - [/r/SwitchNSPs](https://www.reddit.com/r/SwitchNSPs/) Nintendo Switch games
+- See [Discord Servers](#discord-servers) for more Switch games
 
 ### Homebrew and Custom Firmware
 - [The ultimate guide to Nintendo 3DS Piracy](https://www.reddit.com/r/Piracy/comments/6h2vdd/the_ultimate_guide_to_nintendo_3ds_piracy/) Posted by /u/crazy5
@@ -992,34 +1019,6 @@ premium services
 - [/r/ps3homebrew](https://www.reddit.com/r/ps3homebrew/) News, updates, apps, and answers regarding PS3 homebrew!
 - [/r/YuzuPiracy](https://www.reddit.com/r/YuzuPiracy) Links for Yuzu, the open-source Nintendo Switch emulator
 - [/r/VitaPiracy](https://www.reddit.com/r/VitaPiracy/) Fairly active community of PS Vita pirates with guides and releases
-
-## Anime
-- [Nyaa](https://nyaa.si/) BitTorrent software for cats [(Repo)](https://github.com/nyaadevs/nyaa)
-- [Hi10 Anime](https://hi10anime.com/) High-Quality 10-bit Anime Encodes
-- [Anime Kaizoku](https://www2.animekaizoku.com/) Up to 1080p DDL links, mostly Google Drive
-- [/r/animepiracy](https://www.reddit.com/r/animepiracy) This sub is about streaming and torrent websites for anime.
-- [/r/animepiracy wiki](https://www.reddit.com/r/animepiracy/wiki/index) Lists for sourcing Anime streaming sites, manga sites, and more
-- [Monimo](https://monimoapp.netlify.com/) Netflix like web app for watching animes
-- [9Anime](https://9anime.to) Watch anime online. English anime, dubbed, subbed.
-- [GoGo Anime](https://www3.gogoanime.in/) Popular website for watching anime
-- [AniLinkz](https://anilinkz.to/) Large database of streaming anime episodes.
-- [KissAnime](http://kissanime.ru/) Watch anime online free in HD.
-- [NyaaPantsu](https://nyaa.pantsu.cat/) Primarily Anime torrents but includes an open directory of DDL links too.
-- [Alternatives to Kiss websites](https://www.reddit.com/r/KissCartoon/wiki/alternatives) /r/KissCartoon wiki page with lots of anime sites
-- [anime-sharing](http://www.anime-sharing.com/forum/) Forum for sharing anime
-- [AniDex](https://anidex.info) Torrent tracker and indexer, primarily for English fansub groups of anime
-- [animeEncodes](https://www.animencodes.com/)
-- [HorribleSubs](https://horriblesubs.info/) Download anime via torrent files, magnet links, XDCC, and premium link hosts.
-- [Anime Twist](https://twist.moe/) An anime direct streaming site with a decent UI and video player
-- [AnimeOut](https://www.animeout.xyz/) Over 1000's of Encoded Anime with DDL links.
-- [Masterani.me](https://www.masterani.me/) Large library of streamable anime with scheduling features.
-
-## Cartoons
-- [KissCartoon](https://kisscartoon.ac/) Popular cartoon streaming site
-- [watchcartoononline.com](https://www.watchcartoononline.com/) Cartoons, dubbed/subbed anime streaming site
-- [watchcartoononline.io](https://www.watchcartoononline.io/) Large DDL site for cartoons as well as anime and movies
-- [animetoon](http://www.animetoon.org/) Lots of streaming via premium hosts for cartoons
-- [Toonova](http://www.toonova.net/) Another site for streaming cartoons
 
 ## Music
 - [MOOVAL](https://www.mooval.de/) Easily move your playlists, tracks, and likes from one streaming service to another.
@@ -1341,9 +1340,11 @@ premium services
 - [The Eye](https://discordapp.com/invite/py3kX3Z) Official Discord server for the-eye.eu
 - [PlayStation Homebrew](https://discord.gg/JJnvEN8) Home of /r/ps3homebrew and /r/ps4homebrew.
 - [Snahp.it](https://discord.gg/ypyKZCj) Official Discord server for snahp.it.
-- [WarezNX](https://discord.gg/d6xxuPq) Nintendo Switch Warez server.
+- [WarezNX](https://discord.gg/d6xxuPq) Nintendo Switch Warez server. (/hbg/ has more up to date games as of April 2019)
+- [/hbg/ Homebrew General](https://discord.io/homebrew) A Discord server that shares Nintendo Switch Games.
 - [/r/soccerstreams](https://discord.gg/geyTtth) Official Discord server for the recently-killed /r/soccerstreams subreddit.
 - [APK'S 2 Day](https://discord.gg/2qWqzN8) This is a discord server that acts as a hub for numerous streaming apps.
+
 
 ## IPTV and DVR
 - [telly](https://github.com/tellytv/telly) IPTV proxy for Plex Live written in Golang
