@@ -1494,7 +1494,7 @@ premium services
 - [&chill](https://andchill.tv/) Watch videos with people.
 
 ## Telegram Piracy
-- [piracy Telegram group](https://t.me/joinchat/JSoye0ykWKHhixE0_EV4dw) A modest group of 400+ pirates chatting on Telegram.
+- [piracy Telegram group](https://t.me/joinchat/JSoye0ykWKGZc_jueXqlcg) A modest group of 1000+ pirates chatting on Telegram.
 - [piratebazaar](https://t.me/piratebazaar) Curated list of piracy-related links.
 - [@itorrentsearchbot](https://t.me/itorrentsearchbot) Search bot for finding torrent and magnet links on 1337x.to by keyword search
 - [@vkmusic_bot](https://telegram.me/vkmusic_bot) Find and download pretty much any song
