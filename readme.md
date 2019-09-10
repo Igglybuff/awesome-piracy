@@ -1134,6 +1134,7 @@ premium services
 
 ## Courses and Tutorials
 - [CourseClub](https://courseclub.me/) Download courses from (Lynda, Pluralsight, CBG Nuggets, etc)
+- [FreeCourseSite](https://freecoursesite.com/) Mostly highest rated udemy courses torrent
 - [TUTSGALAXY](https://tutsgalaxy.com/)
 - [FreeTutorials.eu](https://www.freetutorials.eu/) Lots of Udemy courses for free; Has Adblock detector
 - [coursehunter](https://www.coursehunters.net/) Watch paid tutorials online for free
