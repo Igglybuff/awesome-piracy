@@ -721,8 +721,10 @@ premium services
 - [Yes! Movies](https://yesmovies.to) Basic streaming site layout, HD server with additional hosts
 - [Spacemov](http://spacemov.io/) Basic streaming site layout, HD server, only certain films have additional hosts
 - [HDOnline](https://www1.hdonline.eu) Basic streaming site layout, HD server with additional hosts
-- [YMovies](https://ymovies.tv/) Unique design, HD server with additional hosts, nice speeds, YIFY and other releases (+ torrents)
 - [#1 Movies Website](https://www1.1movies.is) Basic streaming site layout, HD server with additional hosts
+- [CMoviesHD](https://www2.cmovieshd.bz) Basic streaming site layout, HD server with additional hosts
+- [Vidcloud](https://vidcloud.icu/) Basic streaming site layout, HD server with additional hosts
+- [Series9](https://www2.series9.io/)  Unique design, HD server with additional hosts
 
 #### Big Media Libraries
 - [Streaming Multireddit](https://www.reddit.com/user/nbatman/m/streaming/) Reddit with all types of Streaming Links
