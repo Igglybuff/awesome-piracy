@@ -178,6 +178,7 @@ You will notice some items in this list have a :star2: next to them. Items with 
 - [WireGuard VPN](https://www.wireguard.com/) WireGuard is an extremely simple yet fast and modern VPN that utilizes state-of-the-art cryptography. It aims to be faster, simpler, leaner, and more useful than IPSec.
 - [sshuttle](https://github.com/sshuttle/sshuttle) Transparent proxy server that works as a poor man's VPN.
 - [ZeroTier](https://www.zerotier.com) Peer-to-peer multi-platform VPN
+- [Outline by Alphabet](https://www.getoutline.org/) Not exactly a VPN, but is strong in privacy and security. Works with DO, Google Cloud, AWS and more. 
 
 ## Browser Extensions
 - [Decentraleyes](https://decentraleyes.org/) Protects against tracking with a local CDN (Content Delivery Network) emulation.
