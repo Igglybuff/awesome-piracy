@@ -570,6 +570,7 @@ ltConfig is a plugin for Deluge that allows direct modification to libtorrent se
 - [idm-trial-reset](https://github.com/J2TeaM/idm-trial-reset) Use IDM forever without cracking.
 - [pyLoad](https://pyload.net/) Free and Open Source download manager written in Python and designed to be extremely lightweight, easily extensible and fully manageable via web
 - [Xtreme Download Manager](https://subhra74.github.io/xdm/#) Xtreme Download Manager is a tool which claims to increase download speeds by up-to 500%.
+- [Plowshare](https://github.com/mcrapet/plowshare) Command-line tool and engine for managing sharing websites
 
 ### DDL Tools
 - [youtube-dl](https://rg3.github.io/youtube-dl/) :star2: youtube-dl is a command-line program to download videos from YouTube.com and a few more sites.
