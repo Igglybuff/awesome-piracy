@@ -865,6 +865,7 @@ premium services
 - [PimpMyStremio](https://github.com/sungshon/PimpMyStremio) - Local add-on manager for Stremio add-ons, adds tens of new (self-hosted, and much more powerful) add-ons to Stremio
 - [Stremio - Watch together with friends](https://www.reddit.com/r/StremioAddons/comments/cvmu80/guide_stremio_how_to_watch_together/) - A guide explaining how to watch videos on Stremio remotely with friends, keeping the playback in sync
 - [Stremio - Phone Remote](https://www.reddit.com/r/StremioAddons/comments/cuc3yo/news_phone_remote_for_stremio/) - A guide explaining how to control Stremio with your phone
+- [Stremio Catalog Builder](https://www.reddit.com/r/StremioAddons/comments/atizrk/news_stremio_catalog_builder/) - a website that allows users to customize catalogs in Stremio
 
 ## Plex
 - [linuxserver/docker-plex](https://github.com/linuxserver/docker-plex) LinuxServer.io Plex Media Server docker image
