@@ -66,6 +66,7 @@
         - [Sports Streaming](#sports-streaming)
         - [Specialty Sites](#specialty-sites)
         - [Openload Hosts](#third-party-hosts)
+- [Media Centre Applications](#media-centre-applications)
 - [Stremio](#stremio)
 - [Plex](#plex)
     - [Plex Plugins](#plex-plugins)
