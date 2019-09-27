@@ -67,7 +67,7 @@
         - [Specialty Sites](#specialty-sites)
         - [Openload Hosts](#third-party-hosts)
 - [Media Centre Applications](#media-centre-applications)
-    - [Stremio Addons](#stremio-addons)
+- [Stremio](#stremio)
 - [Plex](#plex)
     - [Plex Plugins](#plex-plugins)
     - [Plex Requests](#plex-requests)
@@ -859,14 +859,13 @@ premium services
 - [Rygel](https://wiki.gnome.org/Projects/Rygel) Rygel is a home media solution (UPnP AV MediaServer) that allows you to easily share audio, video and pictures to other devices.
 - [jellyfin](https://github.com/jellyfin/jellyfin) An open-source fork of Emby
 
-### Stremio Add-ons
-- [Open Directories addon](https://www.reddit.com/r/opendirectories/comments/9n8ig8/stremio_open_directories/) Finds HTTP streams for movies/shows from open directories
-- [Popcorn Time addon](https://pct.best4stremio.space/stremioget/stremio/v1) Watch from YTS and EZTV in Stremio
-- [Zooqle addon](https://stremio-zooqle.now.sh/stremio/v1) :star2: Watch movies and series indexed by Zooqle from RARBG, KAT, YTS, MegaTorrents and other torrent trackers
-- [PirateBay addon](https://piratebay-stremio-addon.herokuapp.com/stremio/v1) Fetch PirateBay entries on a single episode or series.
-- [RAR addon](https://rarbg.best4stremio.space/stremio/v1) Watch content from RARBG in Stremio
-- [Juan Carlos Torrents](https://jct.best4stremio.space/stremio/v1) Allows streaming from torrents collected from KAT.cr and others
-- [Jackett addon](https://github.com/BoredLama/stremio-jackett-addon) Search on all your favorite torrent sites directly in Stremio!
+## Stremio
+- [r/StremioAddons](https://www.reddit.com/r/StremioAddons/) - discussion and links pertaining to unofficial add-ons for Stremio
+- [A complete curated list of all working Stremio Add-ons](https://www.reddit.com/r/StremioAddons/comments/ahd6gk/sticky_stremio_addons_list/)
+- [PimpMyStremio](https://github.com/sungshon/PimpMyStremio) - Local add-on manager for Stremio add-ons, adds tens of new (self-hosted, and much more powerful) add-ons to Stremio
+- [Stremio - Watch together with friends](https://www.reddit.com/r/StremioAddons/comments/cvmu80/guide_stremio_how_to_watch_together/) - A guide explaining how to watch videos on Stremio remotely with friends, keeping the playback in sync
+- [Stremio - Phone Remote](https://www.reddit.com/r/StremioAddons/comments/cuc3yo/news_phone_remote_for_stremio/) - A guide explaining how to control Stremio with your phone
+- [Stremio Catalog Builder](https://www.reddit.com/r/StremioAddons/comments/atizrk/news_stremio_catalog_builder/) - a website that allows users to customize catalogs in Stremio
 
 ## Plex
 - [linuxserver/docker-plex](https://github.com/linuxserver/docker-plex) LinuxServer.io Plex Media Server docker image
