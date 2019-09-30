@@ -1526,7 +1526,6 @@ premium services
 - [Pi-hole](https://pi-hole.net/) Pi-hole is a Linux network-level advertisement and internet tracker blocking application which acts as a DNS sinkhole
 - [How to use eMule in 2018](https://www.reddit.com/r/Piracy/comments/9p82e1/how_to_use_emule_in_2018/) An up-to-date guide detailing how to use eMule to download rare content from the eDonkey and Kad P2P networks.
 - [Anon.to](https://anon.to/) URL shortener to de-referer or null-referer your links.
-- [ghostbin](https://ghostbin.com/) Secure Pastebin service
 - [Movie Release Types](https://i.imgur.com/kEOrKJT.png) Table of common movie release types, their labels, and descriptions.
 - [How To Host "Questionable" Websites v4.0](https://weboas.is/media/host.pdf) PDF from weboas.is. There are also [PNG](https://weboas.is/media/host.png), [PSD](https://weboas.is/media/host.psd), and [TXT](https://weboas.is/media/host.txt) versions
 - [Privacy.com](https://privacy.com/) Privacy creates secure virtual cards and completes checkout forms for you, saving you time and money while masking your real card details.
