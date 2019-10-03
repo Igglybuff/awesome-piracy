@@ -1178,6 +1178,7 @@ premium services
 - [MangaZone](http://mangazoneapp.com/) A manga reader app.
 - [NineAnime](https://www.nineanime.com/) Updated/Active Manga Site
 - [MangaRock](https://mangarock.com) Another manga site with a decent in-browser reader
+- [Free Manga Downloader (FMD)](https://github.com/fmd-project-team/FMD) A manga download manager and reader that support downloading from various websites.
 
 ## Documentaries
 - [/r/Documentaries](https://www.reddit.com/r/documentaries) Popular documentaries subreddit
