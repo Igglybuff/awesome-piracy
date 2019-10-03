@@ -763,7 +763,6 @@ premium services
 - [4anime](https://4anime.to/) A relatively new site the might become the new Masterani.me. Clean interface.
 
 #### Cartoons
-- [KissCartoon](https://kisscartoon.ac/) Popular cartoon streaming site
 - [watchcartoononline.com](https://www.watchcartoononline.com/) Cartoons, dubbed/subbed anime streaming site
 - [watchcartoononline.io](https://www.watchcartoononline.io/) Large DDL site for cartoons as well as anime and movies
 - [animetoon](http://www.animetoon.org/) Lots of streaming via premium hosts for cartoons
