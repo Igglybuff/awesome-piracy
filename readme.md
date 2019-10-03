@@ -772,12 +772,9 @@ premium services
 - [WatchCartoon](https://www.watchcartoononline.io/) Outdated site layout, still active, uses Openload
 
 #### Sports Streaming
-- [/r/redsoccer](https://www.reddit.com/r/redsoccer) A subreddit dedicated to the highest quality of free soccer / football streams. PL Streams.
 - [/r/nflstreams](https://www.reddit.com/r/nflstreams/) Reddit - NFL streams
-- [/r/nbastreams](https://www.reddit.com/r/nbastreams/) Reddit - NBA streams
 - [/r/MLBstreams](https://www.reddit.com/r/MLBstreams/) Reddit - MLB streams
 - [/r/NHLstreams](https://www.reddit.com/r/NHLstreams/) Reddit - NHL streams
-- [/r/MMAstreams](https://www.reddit.com/r/MMAstreams/) Reddit - MMA streams
 - [/r/ncaaBBallstreams](https://www.reddit.com/r/ncaaBBallstreams/) Reddit - NCAABBall streams
 - [/r/CFBstreams](https://www.reddit.com/r/CFBstreams/) Reddit - CFB streams
 - [/r/WWEstreams](https://www.reddit.com/r/WWEstreams/) Reddit - WWE streams
