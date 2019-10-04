@@ -1553,6 +1553,7 @@ premium services
 - [Archive of r/Piracy subreddit 2019-03-19](https://ourproject.org/forum/forum.php?thread_id=44721&forum_id=4917&group_id=2645) An archive of all gilded /r/Piracy comments and threads.
 - [PiracyArchive](https://github.com/nid666/PiracyArchive) A complete backup of the Reddit /r/Piracy subreddit
 - [List of warez groups](https://en.wikipedia.org/wiki/List_of_warez_groups) Wikipedia's list of warez groups and individuals.
+- [Privacy Tools - Encryption Against Mass Surveillance](https://www.privacytools.io/index.html) privacytools.io provides services, tools and knowledge to protect your privacy against global mass surveillance
 
 ## Contribute
 Contributions welcome! Read the [contribution guidelines](contributing.md) first.
