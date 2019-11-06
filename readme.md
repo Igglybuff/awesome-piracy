@@ -634,6 +634,7 @@ ltConfig is a plugin for Deluge that allows direct modification to libtorrent se
 - [DirtyWarez Forum](https://forum.dirtywarez.com/) Popular warez forum with films, TV shows, ebooks, anime, games, and more
 - [snahp.it](https://snahp.it/) :star2: replaced /r/megalinks
 - [hdencode](https://hdencode.com/)
+- [WarezForums](https://warezforums.com/) Warez forum with films, TV shows, ebooks, anime, games, and more.
 - [Movies "R" Us](https://moviesrus.tk) The newest movies in 1080p. Available with DDL through MediaFire and streaming through AnonFile.
 - [Movie Glide](https://www.movieglide.com/)
 - [Release BB](http://rlsbb.ru)
