@@ -179,7 +179,8 @@ You will notice some items in this list have a :star2: next to them. Items with 
 - [WireGuard VPN](https://www.wireguard.com/) WireGuard is an extremely simple yet fast and modern VPN that utilizes state-of-the-art cryptography. It aims to be faster, simpler, leaner, and more useful than IPSec.
 - [sshuttle](https://github.com/sshuttle/sshuttle) Transparent proxy server that works as a poor man's VPN.
 - [ZeroTier](https://www.zerotier.com) Peer-to-peer multi-platform VPN
-- [Outline by Alphabet](https://www.getoutline.org/) Not exactly a VPN, but is strong in privacy and security. Works with DO, Google Cloud, AWS and more. 
+- [Outline by Alphabet](https://www.getoutline.org/) Not exactly a VPN, but is strong in privacy and security. Works with DO, Google Cloud, AWS and more.
+- [Mysterium Network](https://mysterium.network/) Open-source VPN client and server software. Can be used to sell your spare bandwidth for cryptocurrency.
 
 ## Browser Extensions
 - [Decentraleyes](https://decentraleyes.org/) Protects against tracking with a local CDN (Content Delivery Network) emulation.
@@ -382,6 +383,7 @@ for any IP address.
 - [WorldWide Torrents](https://worldwidetorrents.me/) Another public tracker with a reasonably nice UI
 - [Rock Box](https://rawkbawx.rocks/) Metal music tracker
 - [Music Torrent](http://music-torrent.net) General music tracker
+- [7torrents](https://www.7torrents.cc/) Fast, clean, ad-free, privacy-focused DHT search engine
 
 ### Tracker Aggregators
 - [snowfl](https://snowfl.com/) snowfl is a torrent aggregator which searches various public torrent indexes in real-time
@@ -632,6 +634,7 @@ ltConfig is a plugin for Deluge that allows direct modification to libtorrent se
 - [/r/ZippyShare](https://www.reddit.com/r/ZippyShare) DDL links hosted on ZippyShare
 - [DirtyWarez Forum](https://forum.dirtywarez.com/) Popular warez forum with films, TV shows, ebooks, anime, games, and more
 - [snahp.it](https://snahp.it/) :star2: replaced /r/megalinks
+- [BlackPearl.biz](https://blackpearl.biz/) Drop-in replacement for snahp.it while their registrations remain closed
 - [hdencode](https://hdencode.com/)
 - [WarezForums](https://warezforums.com/) Warez forum with films, TV shows, ebooks, anime, games, and more.
 - [Movies "R" Us](https://moviesrus.tk) The newest movies in 1080p. Available with DDL through MediaFire and streaming through AnonFile.
@@ -936,7 +939,7 @@ premium services
 - [kube-plex](https://github.com/munnerz/kube-plex) Scalable Plex Media Server on Kubernetes -- dispatch transcode jobs as pods on your cluster!
 - [UnicornTranscoder](https://github.com/UnicornTranscoder/UnicornTranscoder) a remote transcoder for Plex Media Server
 - [Plex-Remote-Transcoder](https://github.com/wnielson/Plex-Remote-Transcoder) A distributed transcoding backend for Plex
-- [Unlock the transcode or 'session' limit on nVidia consumer grade GPUs](http://slothtechtv.com/2018/09/unlock-the-transcode-or-session-limit-on-nvidia-consumer-grade-gpus) Article describing how to bypass the artificial single-transcode limit
+- [nvidia-patch](https://github.com/keylase/nvidia-patch) Unlock the transcode or 'session' limit on nVidia consumer grade GPUs
 
 ### Plex Logging and Metrics
 - [Tautulli](https://tautulli.com/) :star2: Tautulli is a 3rd party application that you can run alongside your Plex Media Server to monitor activity and track various statistics.
@@ -1062,7 +1065,6 @@ premium services
 ### Spotify
 - [Get rid of Spotify ads](https://www.reddit.com/r/Piracy/comments/9jvlf8/get_rid_of_spotify_adsbannerslimited_skips_and/) Short guide on avoiding ads, banners, limited skips, and locked shuffle mode in Spotify Free
 - [Spotify AdBlock Host file](https://www.reddit.com/r/Piracy/comments/9tcbvc/spotify_adblock_host_file_uptodate_effective/) :star2: This is the most up-to-date list and will block all annoying Spotify ads & analytics.
-- [Spotify Megathread](https://www.reddit.com/r/Piracy/comments/82wzi0/spotify_megathread/) /r/Piracy Spotify-related discussion and future developments
 - [EZBlocker](https://github.com/Xeroday/Spotify-Ad-Blocker/) a Spotify Ad Blocker written in C# for Windows 7/8/10.
 - [BlockTheSpot](https://github.com/master131/BlockTheSpot) Video, audio & banner AdBlock/skip for Spotify
 - [Spytify](https://jwallet.github.io/spy-spotify/) Records Spotify without ads while it plays and includes media tags and album cover to the recorded files
@@ -1084,7 +1086,6 @@ premium services
 - [Team-OS HKRG](https://www.teamos-hkrg.com/index.php) Windows software and various activation tools.
 - [CracksNow](https://cracksnow.com/) Cracks for Android, Windows, and macOS applications.
 - [Nulled](https://www.nulled.to/) Nulled is a cracking community where you can find links to cracked software
-- [Vestathemes](https://www.vestathemes.com/) Vestathemes is a website for [WordPress](https://www.wordpress.com/) themes and plugins.
 - [/r/sjain_guides](https://www.reddit.com/r/sjain_guides/) Guides and downloads for CS:GO, Windows 10 gaming optimisations, and more
 - [My Digital Life Forums](https://forums.mydigitallife.net/) Popular forum for modded/cracked software and apps
 - [Pro Design Tools](https://prodesigntools.com) Site focused on Adobe Development including cracked software and ebooks.
@@ -1306,7 +1307,6 @@ premium services
 - [Cinema](https://forum.mobilism.org/viewtopic.php?t=2786441) a lot of Movies & TV/Shows to watch and download.
 - [Fildo](https://fildo.net/android/en/) Music streaming app
 - [TeaTV](https://teatv.net/) App for Android, Windows, and macOS for watching 1080p movies and TV shows for free
-- [CotoMovies](https://cotomovies.com/) Stream movies and TV shows online/offline for Android/iOS
 - [AniméGlare](https://animeglare.xyz/)
 - [AniméVibe](http://animevibe.tv/)
 - [ApolloTV](https://apollotv.xyz/)
