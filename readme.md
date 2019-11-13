@@ -43,7 +43,7 @@
 - [Usenet](#usenet)
     - [Usenet Providers](#usenet-providers)
     - [Usenet Indexers](#usenet-indexers)
-        - [Usenet Indexing](#usenet-indexing-software)
+        - [Usenet Indexing Software](#usenet-indexing-software)
         - [Paid Indexers](#paid-indexers)
         - [Free Indexers](#free-indexers)
     - [Usenet Clients](#usenet-clients)
