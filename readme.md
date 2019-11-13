@@ -1087,6 +1087,9 @@ premium services
 - [Vestathemes](https://www.vestathemes.com/) Vestathemes is a website for [WordPress](https://www.wordpress.com/) themes and plugins.
 - [/r/sjain_guides](https://www.reddit.com/r/sjain_guides/) Guides and downloads for CS:GO, Windows 10 gaming optimisations, and more
 - [My Digital Life Forums](https://forums.mydigitallife.net/) Popular forum for modded/cracked software and apps
+- [Pro Design Tools](https://prodesigntools.com) Site focused on Adobe Development including cracked software and ebooks.
+- [ShareAppsCrack](https://shareappscrack.com/) Website with a plethora of development tools and engineering focused software, including video tutorials, and some ebooks.
+- [Photokaaran](http://photokaaran.com/) Indian site with direct download links of cracked productivity tools.
 
 ### Adobe CC
 - [Adobe CC 2018](https://www.reddit.com/r/sjain_guides/comments/9g4t2u/adobe_cc_2018_full_indepth_guide_to_installing/) Full in-depth guide to installing and cracking any application (Windows)
@@ -1144,6 +1147,8 @@ premium services
 - [GFXDomain.net Tutorials board](http://forum.gfxdomain.net/forums/others-tutorials.42/) Forum with free tutorials for graphic design, mostly via premium file hosts but some torrents
 - [tpget](https://github.com/0x6a73/tpget) Tutorialspoint downloader
 - [udemy-downloader-gui](https://github.com/FaisalUmair/udemy-downloader-gui) A cross platform (Windows, Mac, Linux) desktop application for downloading Udemy Courses.
+- [tut4dl](https://tut4dl.com/) Download tutorial and training courses from many paid MOOCs, with categories ranging from Cuisine to Cryptography.
+
 
 ## Audiobooks
 - [AudioBook Bay](http://audiobookbay.nl/) Download unabridged audiobooks for free or share your audio books, safe, fast and high quality
