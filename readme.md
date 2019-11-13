@@ -43,8 +43,7 @@
 - [Usenet](#usenet)
     - [Usenet Providers](#usenet-providers)
     - [Usenet Indexers](#usenet-indexers)
-        - [Usenet Indexing 
-        ](#usenet-indexing-software)
+        - [Usenet Indexing](#usenet-indexing-software)
         - [Paid Indexers](#paid-indexers)
         - [Free Indexers](#free-indexers)
     - [Usenet Clients](#usenet-clients)
@@ -1093,7 +1092,7 @@ premium services
 - [My Digital Life Forums](https://forums.mydigitallife.net/) Popular forum for modded/cracked software and apps
 - [Pro Design Tools](https://prodesigntools.com) Site focused on Adobe Development including cracked software and ebooks.
 - [ShareAppsCrack](https://shareappscrack.com/) Website with a plethora of development tools and engineering focused software, including video tutorials, and some ebooks.
-- [Photokaaran](http://photokaaran.com/) Indian site with cracked direct download links of cracked productivity tools.
+- [Photokaaran](http://photokaaran.com/) Indian site with direct download links of cracked productivity tools.
 
 ### Adobe CC
 - [Adobe CC 2018](https://www.reddit.com/r/sjain_guides/comments/9g4t2u/adobe_cc_2018_full_indepth_guide_to_installing/) Full in-depth guide to installing and cracking any application (Windows)
