@@ -628,8 +628,6 @@ ltConfig is a plugin for Deluge that allows direct modification to libtorrent se
 - [SoftArchive](https://sanet.st/full/) SoftArchive or SA is a scene release website, more known for new release of software, games, music, movies, and eBooks.
 
 ### DDL Link Sites
-- [/r/megalinks](https://www.reddit.com/r/megalinks) Links to files on Mega. Has now moved to snahp.it
-- [/r/GDriveLinks](https://www.reddit.com/r/GDriveLinks/) Google Drive Download Links
 - [/r/ZippyShare](https://www.reddit.com/r/ZippyShare) DDL links hosted on ZippyShare
 - [DirtyWarez Forum](https://forum.dirtywarez.com/) Popular warez forum with films, TV shows, ebooks, anime, games, and more
 - [snahp.it](https://snahp.it/) :star2: replaced /r/megalinks
@@ -705,7 +703,6 @@ premium services
 
 #### HD Streaming
 - [/r/MovieStreamingSites](https://www.reddit.com/r/MovieStreamingSites/) Reddit, random streaming sites
-- [/r/BestOfStreamingVideo](https://www.reddit.com/r/BestOfStreamingVideo/) Reddit, random streaming sites
 - [HD MultiredditHD](https://www.reddit.com/user/nbatman/m/streaming2/) Alternate subreddit curated by /u/nbatman
 - [Best Free Streaming](https://www.bestfreestreaming.com/) Site that rates streaming services
 - [StreamCR](https://scr.cr/) Clean design, very nice speeds, large variety of films and series, HD server, Popular Site
@@ -773,12 +770,9 @@ premium services
 - [WatchCartoon](https://www.watchcartoononline.io/) Outdated site layout, still active, uses Openload
 
 #### Sports Streaming
-- [/r/redsoccer](https://www.reddit.com/r/redsoccer) A subreddit dedicated to the highest quality of free soccer / football streams. PL Streams.
 - [/r/nflstreams](https://www.reddit.com/r/nflstreams/) Reddit - NFL streams
-- [/r/nbastreams](https://www.reddit.com/r/nbastreams/) Reddit - NBA streams
 - [/r/MLBstreams](https://www.reddit.com/r/MLBstreams/) Reddit - MLB streams
 - [/r/NHLstreams](https://www.reddit.com/r/NHLstreams/) Reddit - NHL streams
-- [/r/MMAstreams](https://www.reddit.com/r/MMAstreams/) Reddit - MMA streams
 - [/r/ncaaBBallstreams](https://www.reddit.com/r/ncaaBBallstreams/) Reddit - NCAABBall streams
 - [/r/CFBstreams](https://www.reddit.com/r/CFBstreams/) Reddit - CFB streams
 - [/r/WWEstreams](https://www.reddit.com/r/WWEstreams/) Reddit - WWE streams
@@ -1422,18 +1416,14 @@ premium services
 
 ## Full Movies On
 - [/r/fullmoviesonyoutube](https://www.reddit.com/r/fullmoviesonyoutube/)
-- [/r/fullmoviesongoogle](https://www.reddit.com/r/fullmoviesongoogle/)
 - [/r/fullmovierequest](https://www.reddit.com/r/fullmovierequest/)
 - [/r/Fullmoviesonvimeo](https://www.reddit.com/r/Fullmoviesonvimeo/)
 - [/r/fulltvshowsonyoutube](https://www.reddit.com/r/fulltvshowsonyoutube/)
 - [/r/fulltvshowsonvimeo](https://www.reddit.com/r/fulltvshowsonvimeo/)
 - [/r/fullcartoonsonyoutube](https://www.reddit.com/r/fullcartoonsonyoutube/)
 - [/r/FullLengthFilms](https://www.reddit.com/r/FullLengthFilms/)
-- [/r/FullMovieonViooz](https://www.reddit.com/r/FullMovieonViooz)
 - [/r/FullMoviesDailyMotion](https://www.reddit.com/r/FullMoviesDailyMotion)
 - [/r/1080pMoviesOnline](https://www.reddit.com/r/1080pMoviesOnline)
-- [/r/fullmoviesonopenload](https://www.reddit.com/r/fullmoviesonopenload)
-- [/r/BestOfStreamingVideo](https://www.reddit.com/r/BestOfStreamingVideo)
 - [fullmoviesandtv multireddit](https://www.reddit.com/user/Wiggly_Poop/m/fullmoviesandtv/) All of the above subreddits as a multireddit
 
 ## Piracy Blogs and News
