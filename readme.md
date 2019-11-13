@@ -1299,6 +1299,7 @@ premium services
 - [YouTube Vanced](https://vanced.app/) Vanced is a well known modded version of YouTube with many features such as adblocking and background playback and many more.
 
 ### Streaming Apps
+- [MediaBox HD](https://mediaboxhd.net) MediaBox HD is a free streaming app with movies, tv shows and music. VIP membership grants access to 1000s of reliable high quality streams. Can cast to Chromecast, Apple TV, Fire TV, and Xbox.
 - [Kokotime](https://www.kokotime.tv/) Kokotime is an addon-based, simple, free and elegantly designed app that will let you watch all your favorite media content in a unique and elegant user-friendly design
 - [Mobdro](https://forum.mobilism.org/viewtopic.php?f=429&t=2720792&hilit=mobdro) Mobdro constantly searches the web for the best free video streams and brings them to your device.
 - [Cinema](https://forum.mobilism.org/viewtopic.php?t=2786441) a lot of Movies & TV/Shows to watch and download.
