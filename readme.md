@@ -1086,7 +1086,7 @@ premium services
 - [Team-OS HKRG](https://www.teamos-hkrg.com/index.php) Windows software and various activation tools.
 - [CracksNow](https://cracksnow.com/) Cracks for Android, Windows, and macOS applications.
 - [Nulled](https://www.nulled.to/) Nulled is a cracking community where you can find links to cracked software
-- [/r/sjain_guides](https://www.reddit.com/r/sjain_guides/) Guides and downloads for CS:GO, Windows 10 gaming optimisations, and more
+- [/s/sjain_guides](https://saidit.net/s/sjain_guides) Guides and downloads for CS:GO, Windows 10 gaming optimisations, and more
 - [My Digital Life Forums](https://forums.mydigitallife.net/) Popular forum for modded/cracked software and apps
 - [Pro Design Tools](https://prodesigntools.com) Site focused on Adobe Development including cracked software and ebooks.
 - [ShareAppsCrack](https://shareappscrack.com/) Website with a plethora of development tools and engineering focused software, including video tutorials, and some ebooks.
@@ -1500,7 +1500,7 @@ premium services
 - [&chill](https://andchill.tv/) Watch videos with people.
 
 ## Telegram Piracy
-- [Raymond's Piracy Group](https://t.me/raymondfreesoftware) A modest group of 1000+ pirates chatting on Telegram. This group replaces the now-defunct piracy group which suicideboy used to run.
+- [Raymond's Piracy Group](https://t.me/raymondfreesoftware) A group of 5000+ pirates chatting on Telegram. This group replaces the now-defunct piracy group which suicideboy used to run.
 - [Piracy Links Portal](https://t.me/PiracyLinks) Official invite links portal for piracy groups & channels.
 - [piratebazaar](https://t.me/piratebazaar) Curated list of piracy-related links.
 - [@itorrentsearchbot](https://t.me/itorrentsearchbot) Search bot for finding torrent and magnet links on 1337x.to by keyword search
