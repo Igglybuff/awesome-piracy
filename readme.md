@@ -753,6 +753,7 @@ premium services
 - [/r/animepiracy](https://www.reddit.com/r/animepiracy) This sub is about streaming and torrent websites for anime.
 - [/r/animepiracy wiki](https://www.reddit.com/r/animepiracy/wiki/index) Lists for sourcing Anime streaming sites, manga sites, and more
 - [9Anime](https://9anime.to) Watch anime online. English anime, dubbed, subbed.
+- [All-animes](https://all-animes.com) Watch Online Anime In HD English Subbed, Dubbed.
 - [GoGo Anime](https://www3.gogoanime.in/) Popular website for watching anime
 - [AniLinkz](https://anilinkz.to/) Large database of streaming anime episodes.
 - [NyaaPantsu](https://nyaa.pantsu.cat/) Primarily Anime torrents but includes an open directory of DDL links too.
