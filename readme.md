@@ -730,7 +730,8 @@ premium services
 - [#1 Movies Website](https://www1.1movies.is) Basic streaming site layout, HD server with additional hosts
 - [CMoviesHD](https://www2.cmovieshd.bz) Basic streaming site layout, HD server with additional hosts
 - [Vidcloud](https://vidcloud.icu/) Basic streaming site layout, HD server with additional hosts
-- [Series9](https://www2.series9.io/)  Unique design, HD server with additional hosts
+- [Series9](https://www2.series9.io/) Unique design, HD server with additional hosts
+- [Soap2day](https://www.soap2day.com/) Unique design, very nice speeds, HD server with subtitles. 
 
 #### Big Media Libraries
 - [Streaming Multireddit](https://www.reddit.com/user/nbatman/m/streaming/) Reddit with all types of Streaming Links
@@ -1130,6 +1131,7 @@ premium services
 - [Custom Search Engine](https://cse.google.com/cse?cx=000661023013169144559:a1-kkiboeco) A Google custom search engine specifically for ebooks
 - [Exploring over 1,800 Calibre ebook servers](https://blog.chrisbonk.ca/2018/12/knowledge-is-power-exploring-over-1800.html?m=1) Blog post detailing how to use Shodan to find Calibre ebook servers
 - [DeDRM_tools](https://github.com/apprenticeharper/DeDRM_tools) DeDRM tools for ebooks.
+- [ReadAnyBook](https://readanybook.com/) Free online reading.
 
 ## Magazines
 - [PDF Giant](http://pdf-giant.com/) Various categories of downloadable PDFs
