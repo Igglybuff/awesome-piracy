@@ -223,7 +223,8 @@ You will notice some items in this list have a :star2: next to them. Items with 
 - [BitWarden](https://bitwarden.com/) :star2: Open source password management solution, can be self-hosted
 - [1Password](https://1password.com/) Popular cloud-hosted password manager
 - [KeePass](https://keepass.info/) Free, open source, light-weight, and easy-to-use password manager.
-  - Android : [KeePassDroid](http://www.keepassdroid.com/)
+  - [Plugins](https://keepass.info/plugins.html) : A list of third-party plugins for KeePass
+  - Android : [Keepass2Android](https://github.com/PhilippC/keepass2android)
   - iPhone : [MiniKeePass](https://minikeepass.github.io/)
   - Chrome / Firefox : [Tusk](https://subdavis.com/Tusk/)
   - Web App : [KeeWeb](https://keeweb.info/)
@@ -729,7 +730,8 @@ premium services
 - [#1 Movies Website](https://www1.1movies.is) Basic streaming site layout, HD server with additional hosts
 - [CMoviesHD](https://www2.cmovieshd.bz) Basic streaming site layout, HD server with additional hosts
 - [Vidcloud](https://vidcloud.icu/) Basic streaming site layout, HD server with additional hosts
-- [Series9](https://www2.series9.io/)  Unique design, HD server with additional hosts
+- [Series9](https://www2.series9.io/) Unique design, HD server with additional hosts
+- [Soap2day](https://www.soap2day.com/) Unique design, very nice speeds, HD server with subtitles. 
 
 #### Big Media Libraries
 - [Streaming Multireddit](https://www.reddit.com/user/nbatman/m/streaming/) Reddit with all types of Streaming Links
@@ -1129,6 +1131,7 @@ premium services
 - [Custom Search Engine](https://cse.google.com/cse?cx=000661023013169144559:a1-kkiboeco) A Google custom search engine specifically for ebooks
 - [Exploring over 1,800 Calibre ebook servers](https://blog.chrisbonk.ca/2018/12/knowledge-is-power-exploring-over-1800.html?m=1) Blog post detailing how to use Shodan to find Calibre ebook servers
 - [DeDRM_tools](https://github.com/apprenticeharper/DeDRM_tools) DeDRM tools for ebooks.
+- [ReadAnyBook](https://readanybook.com/) Free online reading.
 
 ## Magazines
 - [PDF Giant](http://pdf-giant.com/) Various categories of downloadable PDFs
@@ -1191,6 +1194,7 @@ premium services
 - [NineAnime](https://www.nineanime.com/) Updated/Active Manga Site
 - [MangaRock](https://mangarock.com) Another manga site with a decent in-browser reader
 - [Free Manga Downloader (FMD)](https://github.com/fmd-project-team/FMD) A manga download manager and reader that supports downloading from various websites.
+- [HakuNeko](https://github.com/manga-download/hakuneko) A cross-platform downloader for manga and anime from +400 websites. Manga and anime in multiple languages and formats (cbz, folder with images, epub).
 
 ## Documentaries
 - [/r/Documentaries](https://www.reddit.com/r/documentaries) Popular documentaries subreddit
