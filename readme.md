@@ -578,6 +578,7 @@ ltConfig is a plugin for Deluge that allows direct modification to libtorrent se
 - [pyLoad](https://pyload.net/) Free and Open Source download manager written in Python and designed to be extremely lightweight, easily extensible and fully manageable via web
 - [Xtreme Download Manager](https://subhra74.github.io/xdm/#) Xtreme Download Manager is a tool which claims to increase download speeds by up-to 500%.
 - [Plowshare](https://github.com/mcrapet/plowshare) Command-line tool and engine for managing sharing websites
+- [FreeDownloadManager](https://www.freedownloadmanager.org/) FDM can boost all your downloads up to 10 times, process media files of various popular formats, drag & drop URLs right from a web browser as well as simultaneously download multiple files! Compatible with  Google Chrome, Mozilla Firefox, Microsoft Edge, Internet Explorer and Safari
 
 ### DDL Tools
 - [youtube-dl](https://rg3.github.io/youtube-dl/) :star2: youtube-dl is a command-line program to download videos from YouTube.com and a few more sites.
