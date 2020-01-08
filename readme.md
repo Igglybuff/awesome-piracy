@@ -771,6 +771,8 @@ premium services
 - [Kissanime.ru](http://kissanime.ru/) or [Kissanime.ac](https://kissanime.ac/) Large cartoon collection, uses RapidVideo/Openload
 - [Anime8](https://anime8.me/) Basic streaming site layout, large collection of anime shows
 - [4anime](https://4anime.to/) A relatively new site the might become the new Masterani.me. Clean interface.
+- [AnimeRam](https://ww2.animeram.cc/) A streaming website for dubbed/subbed anime.
+- [animepahe](https://animepahe.com/) A minimilistic anime streaming/download website, subs only. 
 
 #### Cartoons
 - [KissCartoon](https://kisscartoon.ac/) Popular cartoon streaming site
