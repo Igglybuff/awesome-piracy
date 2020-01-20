@@ -1105,6 +1105,7 @@ premium services
 - [Photokaaran](http://photokaaran.com/) Indian site with direct download links of cracked productivity tools.
 
 ### Adobe CC
+- [Adobe CC 2019/2020 AIO Patcher](https://cracked.to/Thread-Cracked-Crack-Adobe-CC-2019-2020-GenP-v2-4) Latest Working All-In-One Patcher for all Adobe Creative Cloud 2019/2020 Applications (Windows)
 - [Adobe CC 2018](https://www.reddit.com/r/sjain_guides/comments/9g4t2u/adobe_cc_2018_full_indepth_guide_to_installing/) Full in-depth guide to installing and cracking any application (Windows)
 - [How to patch Adobe CC 2017 applications on Windows](https://drive.google.com/file/d/0BxfywKwnIU2JdFFraUxhVkllbnc/view)
 - [HOW TO PATCH ADOBE APPLICATIONS ON MAC, WORKING EARLY 2017](https://drive.google.com/file/d/0BxfywKwnIU2JY1RxV0M0U0J1Z1E/view)
