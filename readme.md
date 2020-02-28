@@ -181,6 +181,7 @@ You will notice some items in this list have a :star2: next to them. Items with 
 - [ZeroTier](https://www.zerotier.com) Peer-to-peer multi-platform VPN
 - [Outline by Alphabet](https://www.getoutline.org/) Not exactly a VPN, but is strong in privacy and security. Works with DO, Google Cloud, AWS and more.
 - [Mysterium Network](https://mysterium.network/) Open-source VPN client and server software. Can be used to sell your spare bandwidth for cryptocurrency.
+- [algo](https://github.com/trailofbits/algo) Algo VPN is a set of Ansible scripts that simplify the setup of a personal WireGuard and IPsec VPN.
 
 ## Browser Extensions
 - [Decentraleyes](https://decentraleyes.org/) Protects against tracking with a local CDN (Content Delivery Network) emulation.
