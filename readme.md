@@ -187,7 +187,7 @@ You will notice some items on this list have a :star2: next to them. Items with 
 - [TamperMonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=en) The world's most popular userscript manager
 - [WebRTC Network Limiter](https://chrome.google.com/webstore/detail/webrtc-network-limiter/npeicpdbkakmehahjeeohfdhnlpdklia?hl=en) Configures how WebRTC's network traffic is routed by changing Chrome's privacy settings.
 - [ScriptSafe](https://chrome.google.com/webstore/detail/scriptsafe/oiigbmnaadbkfbmpbfijlflahbdbdgdf?hl=en) A browser extension that gives users control of the web and more secure browsing while emphasizing simplicity and intuitiveness.
-- [NoScript](https://addons.mozilla.org/en-US/firefox/addon/noscript/) Allow active content to run only from sites you trust, and protect yourself against XSS and clickjacking attacks. Firefox only.
+- [NoScript](https://noscript.net/getit) Allow active content to run only from sites you trust, and protect yourself against XSS and clickjacking attacks. Firefox only.
 - [Outline](https://chrome.google.com/webstore/detail/outline-read-without-clut/daoolpmoieinofbnddaofhkhmbagfmnj) Designed to remove ads, comments, and other junk from news articles but conveniently also bypasses paywalls
 - [Burlesco](https://burles.co/en/) Read the news without subscribing, bypass the paywall
 - [Universal Bypass](https://chrome.google.com/webstore/detail/universal-bypass/aihomhdbhpnpmcnnbckjjcebjoikpihj) Universal Bypass automatically skips annoying link shorteners.
@@ -219,11 +219,11 @@ You will notice some items on this list have a :star2: next to them. Items with 
 - [1Password](https://1password.com/) Popular cloud-hosted password manager
 - [KeePass](https://keepass.info/) Free, open source, light-weight, and easy-to-use password manager.
   - [Plugins](https://keepass.info/plugins.html) : A list of third-party plugins for KeePass
-  - Android : [Keepass2Android](https://github.com/PhilippC/keepass2android)
-  - iPhone : [KeePassium](https://keepassium.com/)
-  - Chrome : [Tusk](https://chrome.google.com/webstore/detail/keepass-tusk-password-acc/fmhmiaejopepamlcjkncpgpdjichnecm)
-  - Firefox : [Tusk](https://addons.mozilla.org/en-US/firefox/addon/keepass-tusk)
-  - Web App : [KeeWeb](https://keeweb.info/)
+  - Android: [Keepass2Android](https://github.com/PhilippC/keepass2android)
+  - iPhone: [KeePassium](https://keepassium.com/)
+  - Chrome: [Tusk](https://chrome.google.com/webstore/detail/keepass-tusk-password-acc/fmhmiaejopepamlcjkncpgpdjichnecm)
+  - Firefox: [Tusk](https://addons.mozilla.org/en-US/firefox/addon/keepass-tusk)
+  - Web App: [KeeWeb](https://keeweb.info/)
 - [LastPass](https://www.lastpass.com/) LastPass remembers all your passwords, so you don't have to.
 - [Pass](https://www.passwordstore.org/) Simple GPG/Git password manager. Follows the Unix philosophy.
 - [Dashlane](https://www.dashlane.com/) An intuitive password manager with over with over 8 million users worldwide.
@@ -852,7 +852,7 @@ premium services
 - [Gerbera](https://github.com/gerbera/gerbera) UPnP Media Server for 2018 (Based on MediaTomb)
 - [Serviio](http://serviio.org/) Serviio is a free media server. It allows you to stream your media files (music, video or images) to renderer devices (e.g. a TV set, Blu-ray player, games console or mobile phone) on your connected home network.
 - [OSMC](https://osmc.tv/) OSMC (short for Open Source Media Center) is a Linux distribution based on Debian that brings Kodi to a variety of devices.
-- [Subsonic](http://www.subsonic.org/pages/index.jsp) Music and movie streaming service with a client app and web frontend
+- [Subsonic](http://www.subsonic.org/pages/index.jsp) Music and movie streaming server with a client app and web frontend
 - [Rygel](https://wiki.gnome.org/Projects/Rygel) Rygel is a home media solution (UPnP AV MediaServer) that allows you to easily share audio, video, and pictures to other devices.
 - [jellyfin](https://github.com/jellyfin/jellyfin) An open-source fork of Emby
 
@@ -1144,7 +1144,6 @@ premium services
 ## Courses and Tutorials
 - [CourseClub](https://courseclub.me/) Download courses from (Lynda, Pluralsight, CBG Nuggets, etc)
 - [FreeCourseSite](https://freecoursesite.com/) Mostly highest rated udemy courses torrent
-- [TUTSGALAXY](https://tutsgalaxy.com/)
 - [FreeTutorials.eu](https://www.freetutorials.eu/) Lots of Udemy courses for free; Has Adblock detector
 - [GFXDomain.net Tutorials board](http://forum.gfxdomain.net/forums/others-tutorials.42/) Forum with free tutorials for graphic design, mostly via premium file hosts but some torrents
 - [tpget](https://github.com/0x6a73/tpget) Tutorialspoint downloader
@@ -1182,7 +1181,6 @@ premium services
 - [Madokami novels, raws and artbooks](https://archive.org/download/Madokami.NotManga) Download novels, manga raws and artbooks.
 - [MangaZone](http://mangazoneapp.com/) A manga reader app.
 - [NineAnime](https://www.nineanime.com/) Updated/Active Manga Site
-- [MangaRock](https://mangarock.com) Another manga site with a decent in-browser reader
 - [Free Manga Downloader (FMD)](https://github.com/fmd-project-team/FMD) A manga download manager and reader that supports downloading from various websites.
 - [HakuNeko](https://github.com/manga-download/hakuneko) A cross-platform downloader for manga and anime from +400 websites. Manga and anime in multiple languages and formats (cbz, a folder with images, epub).
 
