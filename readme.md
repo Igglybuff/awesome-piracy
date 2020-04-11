@@ -24,11 +24,6 @@ You will notice some items on this list have a :star2: next to them. Items with 
 - [Wikipedia "File sharing" category](https://en.wikipedia.org/wiki/Category:File_sharing) Wikipedia's full list of file-sharing related articles.
 
 ## Contents
-- [Preamble](#preamble)
-- [Mirrors](#mirrors)
-- [How to use this list](#how-to-use-this-list)
-- [Emoji](#emoji)
-- [Background Information](#background-information)
 - [VPNs](#vpns)
     - [VPN Guides and Tutorials](#vpn-guides-and-tutorials)
     - [VPN Subscription Services](#vpn-subscription-services)
