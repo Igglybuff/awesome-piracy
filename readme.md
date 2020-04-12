@@ -265,6 +265,9 @@ You will notice some items on this list have a :star2: next to them. Items with 
 - [I2P](https://geti2p.net/en/) I2P is an anonymous overlay network - a network within a network. It is intended to protect communication from dragnet surveillance and monitoring by third parties such as ISPs.
 - [Freenet](https://freenetproject.org) Freenet is free software which lets you anonymously share files, browse and publish "freesites" (web sites accessible only through Freenet) and chat on forums, without fear of censorship.
 - [Zeronet](https://zeronet.io/) Open, free and uncensorable websites, using Bitcoin cryptography and BitTorrent network
+- [Loki](https://github.com/loki-project/loki-network) Lokinet is an anonymous, decentralized and IP based overlay network for the internet.
+- [IPFS](https://ipfs.io/) A peer-to-peer hypermedia protocol designed to make the web faster, safer, and more open.
+- [Yggdrasil](https://yggdrasil-network.github.io/about.html) Makes use of a global spanning tree to form a scalable IPv6 encrypted mesh network.
 
 ## Operating Systems
 - [Qubes OS](https://www.qubes-os.org/) Qubes OS is a security-oriented operating system
@@ -275,7 +278,6 @@ You will notice some items on this list have a :star2: next to them. Items with 
 - [xip.io](http://xip.io/) magic domain name that provides wildcard DNS
 for any IP address.
 - [Domainr](https://domainr.com/) Domainr finds domain names and short URLs. Instantly check availability and register for all top-level domains.
-- [dot.tk](http://dot.tk) Free .tk and other domain names.
 
 ## Torrenting
 - [/r/torrents](https://www.reddit.com/r/torrents) Questions and discussion about all things torrent-related
@@ -567,7 +569,7 @@ ltConfig is a plugin for Deluge that allows direct modification to libtorrent se
 ## Direct Downloads
 
 ### Download Managers
-- [JDownloader2](http://www.jdownloader.org/home/index) :star2: JDownloader is a free, open-source download management tool with a huge community of developers that makes downloading as easy and fast as it should be.
+- [JDownloader2](https://jdownloader.org/jdownloader2) :star2: JDownloader is a free, open-source download management tool with a huge community of developers that makes downloading as easy and fast as it should be.
 - [Internet Download Manager](https://www.internetdownloadmanager.com/) shareware download manager for Windows
 - [idm-trial-reset](https://github.com/J2TeaM/idm-trial-reset) Use IDM forever without cracking.
 - [pyLoad](https://pyload.net/) Free and Open Source download manager written in Python and designed to be extremely lightweight, easily extensible and fully manageable via web
@@ -651,6 +653,7 @@ ltConfig is a plugin for Deluge that allows direct modification to libtorrent se
 - [AvaxHome](https://avxhm.se) Another DDL site with eBooks, TV, movies, magazines, software, comics, newspapers, games, graphics, etc.
 - [Moviesleak](https://moviesleak.net/)
 - [Dospelis](https://www.dospelis.net) Spanish DDL indexer
+- [movidy](https://movidy.co) Links for movies and shows in Spanish
 - [Vidics](https://www.vidics.to/)
 - [watchepisodeseries](https://watchepisodeseries.bypassed.wtf/)
 - [watchtvseries](http://watchtvseries.unblckd.club/)
@@ -1106,7 +1109,7 @@ premium services
 - [Windows 10 Digital License](https://www.nsaneforums.com/topic/316668-microsoft-activation-scripts/) Scripts for activating Windows 10 "legitimately" by binding your HWID to a Microsoft account
 - [How to download and install Windows 10 LTSB](https://www.reddit.com/r/Piracy/comments/8pfnun/how_to_download_and_install_windows_10_ltsb/) Guide by /u/sq_skez. "Take everything we loved about Windows 7, add the under-the-hood improvements of Windows 8 and 10 but none of the marketing/cloud/phone app/user-tracking crap, and what do you get? Windows 10 Enterprise LTSC edition."
 - [TechBench](https://tb.rg-adguard.net/public.php) Find official Windows isos for Windows 7/8/10
-- [Windows 10 Digital License (HWID) & KMS38 Generation](https://www.reddit.com/r/s1ave77_library/comments/9o13fq/windows_10_digital_license_hwid_kms38_generation/) Reddit guide by /u/s1ave77 with instructions on how to use HWID to activate various editions of Windows 10.
+- [Windows 10 Digital License (HWID) & KMS38 Generation](https://web.archive.org/web/20190114172332/https://www.reddit.com/r/s1ave77_library/comments/9o13fq/windows_10_digital_license_hwid_kms38_generation/) Reddit guide by /u/s1ave77 with instructions on how to use HWID to activate various editions of Windows 10.
 
 ## Ebooks
 - [BookStack](https://www.bookstackapp.com/) BookStack is a simple, self-hosted, easy-to-use platform for organizing and storing information.
@@ -1347,6 +1350,8 @@ premium services
 - [/r/ApksApps](https://www.reddit.com/r/apksapps) "The best Modded apps on Reddit."
 - [/r/moddedandroidapps](https://www.reddit.com/r/moddedandroidapps) Modded Android app releases subreddit.
 - [IndexOutOfBounds Store](https://store.ioob.pw/) Streaming apps including Liveflix, PopFlix, SeriesDroid S2, and AnimeDroid S2.
+- [Aurora OSS](https://gitlab.com/AuroraOSS/AuroraStore) An open-source alternative for the Google Play Store.
+- [AuroraDroid](https://gitlab.com/AuroraOSS/auroradroid) Aurora Droid is an unofficial, FOSS client for F-Droid.
 
 ## Discord Servers
 - [The Ratio](https://discordapp.com/invite/wab3Qag) :star2: Community of seedbox enthusiasts. Buying advice, application setup, and automation help.
@@ -1491,8 +1496,7 @@ premium services
 - [DBREE](https://dbr.ee/) DBREE is a simplistic and easy way to upload and share any type of file.
 - [WeTransfer](https://wetransfer.com/) WeTransfer was founded in 2009 as the simplest way to send big files around the world.
 - [dmca.gripe](https://dmca.gripe/) A DMCA-resistant, permanent file hosting service.
-- [reep.io](https://reep.io/) With reep.io you can transfer files directly to another browser.
-- [FireDrop](https://firedrop.com/) 100GB free cloud storage.
+- [FileBin](https://filebin.net/) Convenient file sharing on the web, without registration.
 
 ## Stream Synchronisation
 - [/r/Movie_Club](https://www.reddit.com/r/Movie_Club) Where you can get together with strangers and watch a great movie every week!
