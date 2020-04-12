@@ -192,7 +192,6 @@ You will notice some items on this list have a :star2: next to them. Items with 
 - [WebRTC Network Limiter](https://chrome.google.com/webstore/detail/webrtc-network-limiter/npeicpdbkakmehahjeeohfdhnlpdklia?hl=en) Configures how WebRTC's network traffic is routed by changing Chrome's privacy settings.
 - [ScriptSafe](https://chrome.google.com/webstore/detail/scriptsafe/oiigbmnaadbkfbmpbfijlflahbdbdgdf?hl=en) A browser extension that gives users control of the web and more secure browsing while emphasizing simplicity and intuitiveness.
 - [NoScript](https://noscript.net/getit) Allow active content to run only from sites you trust, and protect yourself against XSS and clickjacking attacks. Firefox only.
-- [Outline](https://chrome.google.com/webstore/detail/outline-read-without-clut/daoolpmoieinofbnddaofhkhmbagfmnj) Designed to remove ads, comments, and other junk from news articles but conveniently also bypasses paywalls
 - [Burlesco](https://burles.co/en/) Read the news without subscribing, bypass the paywall
 - [Universal Bypass](https://chrome.google.com/webstore/detail/universal-bypass/aihomhdbhpnpmcnnbckjjcebjoikpihj) Universal Bypass automatically skips annoying link shorteners.
 - [Violentmonkey](https://violentmonkey.github.io/) An open-source userscript manager.
@@ -1103,11 +1102,11 @@ premium services
 - [Photokaaran](http://photokaaran.com/) Indian site with direct download links of cracked productivity tools.
 
 ### Adobe CC
+- [Adobe CC 2019/2020 AIO Patcher](https://cracked.to/Thread-Cracked-Crack-Adobe-CC-2019-2020-GenP-v2-4) Latest Working All-In-One Patcher for all Adobe Creative Cloud 2019/2020 Applications (Windows)
 - [Adobe Master Collector](https://saidit.net/s/sjain_guides/wiki/downloads#wiki_adobe_master_collector.3A) This tool downloads pre-activated Adobe applications released by m0nkrus, ranging from CS6 to CC 2020.
 - [Adobe CC 2018](https://saidit.net/s/sjain_guides/comments/9oz/adobe_cc_2018_full_indepth_guide_to_installing/) Full in-depth guide to installing and cracking any application (Windows)
 - [Adobe Zii 4.0.3](https://www.reddit.com/r/Piracy/comments/9v7tr6/adobe_zii_403_released_now_includes_incopy/) Tool for patching and cracking Adobe CC applications.
 - [Adobe Acrobat Pro DC](https://saidit.net/s/sjain_guides/comments/9p5/adobe_acrobat_pro_dc_full_indepth_guide_to/) Full in-depth guide to downloading, installing, activating and optimising.
-
 
 ### Windows
 - [/f/MSToolkit](https://raddle.me/f/MSToolkit) Tools for activating Windows software, including Windows 10 itself.
@@ -1550,7 +1549,7 @@ premium services
 - [Academy Awards 2019 Screeners Megathread](https://www.reddit.com/r/Piracy/comments/aaqc0b/academy_awards_2019_screeners_megathread/) Post by /u/idoideas listing all available DVDSCR releases for 2019
 - [iNFekt](https://infekt.ws/) A text viewer application that has been carefully designed around its main task: viewing and presenting NFO files.
 - [NFForce](http://nfforce.temari.fr/) Another NFO viewer.
-- [How To Get Everything On Netflix](https://www.reddit.com/r/NetflixViaVPN/comments/4z5fiq/how_to_get_everything_on_netflix_not_only_the_us/d6t00gv) Posted by /u/huldre99
+- [How To Get Everything On Netflix](https://www.removeddit.com/r/NetflixViaVPN/comments/4z5fiq/how_to_get_everything_on_netflix_not_only_the_us/d6t00gv/) Recovered Link to a post by /u/huldre99
 - [TheTrove](https://thetrove.net/) The Trove is a non-profit website dedicated to content archival and long-term preservation of RPGs.
 - [serials](http://www.serials.ws/) Serial keys for software that may or may not work.
 - [scenerules](https://scenerules.org/) NFOs with rules and guidelines for scene releasing standards.
@@ -1568,6 +1567,7 @@ premium services
 - [List of warez groups](https://en.wikipedia.org/wiki/List_of_warez_groups) Wikipedia's list of warez groups and individuals.
 - [netflix-proxy](https://github.com/ab77/netflix-proxy/) Smart DNS proxy to watch Netflix out-of-region
 - [k8s-usenet](https://github.com/aldoborrero/k8s-usenet) A collection of Helm (Kubernetes) charts related to different Usenet services (sabnzbd, radarr, sonarr...).
+- [Outline](https://outline.com/) Designed to remove ads, comments, and other junk from news articles but conveniently also bypasses paywalls
 
 ## Contribute
 Contributions welcome! Read the [contribution guidelines](contributing.md) first.
