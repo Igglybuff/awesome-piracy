@@ -176,6 +176,9 @@ You will notice some items on this list have a :star2: next to them. Items with 
 - [ZeroTier](https://www.zerotier.com) Peer-to-peer multi-platform VPN
 - [Outline by Alphabet](https://www.getoutline.org/) Not exactly a VPN, but is strong in privacy and security. Works with DO, Google Cloud, AWS and more.
 - [Mysterium Network](https://mysterium.network/) Open-source VPN client and server software. It can be used to sell your spare bandwidth for cryptocurrency.
+- [tinc](https://tinc-vpn.org/) Peer-to-peer VPN software with mesh routing.
+- [OpenConnect](https://www.infradead.org/openconnect/) Multiplatform VPN compatible with Cisco's AnyConnect. Uses well-tested, standard TLS connections which easily bypass DPI.
+- [Shadowsocks](https://shadowsocks.org/) Secure SOCKS proxy used in China for bypassing the Great Firewall.
 
 ## Browser Extensions
 - [Decentraleyes](https://decentraleyes.org/) Protects against tracking with a local CDN (Content Delivery Network) emulation.
