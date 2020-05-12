@@ -1,4 +1,4 @@
-# Awesome Piracy [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome Piracy apkpakfree.blogspot.com [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 > A curated list of arrrrrrrrr!
 
@@ -10,13 +10,13 @@ I am aware that a number of websites featured in this list rely on operating und
 Please ensure you use an adblocker like [uBlock Origin](https://github.com/gorhill/uBlock) to access any of the websites listed here, otherwise, you will have a bad time.
 
 For discussion and feedback, please head to [the Reddit thread on /r/Piracy](https://www.reddit.com/r/Piracy/comments/9nontk/awesome_piracy_a_curated_list_of_awesome_warez/). If you come across dead links, please report them by [creating an issue](https://github.com/Igglybuff/awesome-piracy/issues/new).
-
+apkpakfree.blogspot.com
 ## Mirrors
 This list is periodically mirrored to [PasteBin](https://github.com/Igglybuff/awesome-piracy/blob/master/pastebin.url).
 
 ## How to use this list
 Some items in this list could easily fit in more than one category, so to make sure you find what you're looking for please use `Ctrl + F` (or `Cmd + F` on macOS).
-
+apkpakfree.blogspot.com
 ## Emoji
 You will notice some items on this list have a :star2: next to them. Items with a :star2: represent the author's top pick for that category. This is an entirely opinionated rating from someone who doesn't know everything about every item on the list, so be sure to check out alternative options before assuming something is "the best". That said, I do explore and test every resource I add to this list wherever possible.
 
@@ -38,7 +38,7 @@ You will notice some items on this list have a :star2: next to them. Items with 
 - [Operating Systems](#operating-systems)
 - [Decentralised Networks](#decentralised-networks)
 - [Domain Names](#domain-names)
-- [Torrenting](#torrenting)
+- [Torrenting](#torrenting)apkpakfree.blogspot.com
     - [Trackers](#trackers)
         - [Private Trackers](#private-trackers)
         - [Semi-Private Trackers](#semi-private-trackers)
@@ -103,7 +103,7 @@ You will notice some items on this list have a :star2: next to them. Items with 
     - [Music Downloading](#music-downloading)
     - [Spotify](#spotify)
     - [iTunes](#itunes)
-- [Software](#software)
+- [Software](#software)apkpakfree.blogspot.com
 - [Ebooks](#ebooks)
 - [Magazines](#magazines)
 - [Academic Papers and Material](#academic-papers-and-material)
@@ -165,7 +165,7 @@ You will notice some items on this list have a :star2: next to them. Items with 
 - [NordVPN](https://nordvpn.com/) With NordVPN, encrypt your online activity to protect your private data from hackers or snoopy advertisers.
 - [Windscribe](https://windscribe.com/) Simple VPN, has a free plan that gives you 10gb/mo bandwidth, paid version even has port forwarding for static IPs, privacy-focused.
 - [ExpressVPN](https://www.expressvpn.com/vpnmentor1) VPN with 256-bit encryption, 94 countries, and no logs. It is also rated as one of the fastest VPNs out there.
-
+apkpakfree.blogspot.com
 ### Self-hosted VPNs
 - [n2n](https://github.com/ntop/n2n) Peer-to-peer VPN
 - [PeerVPN](https://peervpn.net/) PeerVPN is a software that builds virtual ethernet networks between multiple computers.
@@ -241,7 +241,7 @@ You will notice some items on this list have a :star2: next to them. Items with 
 - [VirusTotal](https://www.virustotal.com/) Web service for scanning files and URLs for viruses
 - [How to remove viruses and malware on your Windows PC](https://www.howtogeek.com/126911/what-to-do-if-you-get-a-virus-on-your-computer/) Helpful HowToGeek article on cleaning out the pipes
 - [Avast Antivirus](https://www.avast.com) Avast Antivirus is a multi-platform antivirus application with a free tier. Be sure to opt-out of sending anonymous usage statistics.
-
+apkpakfree.blogspot.com
 ## Privacy
 - [Prism Break](https://prism-break.org/en/) Opt out of global data surveillance programs like PRISM, XKeyscore, and Tempora.
 - [/r/privacy](https://www.reddit.com/r/privacy/) The intersection of technology, privacy, and freedom in a digital world.
