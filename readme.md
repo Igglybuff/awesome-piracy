@@ -262,6 +262,7 @@ You will notice some items on this list have a :star2: next to them. Items with 
 - [10 Minute Mail](https://10minutemail.net/) Disposable, private mailboxes
 - [Cock.li](https://cock.li/) Yeah it's mail with cocks
 - [Tutanota](https://tutanota.com/) Secure, open source email service
+- [Posteo](https://posteo.de) Email service focused on security, privacy, and sustainability
 
 ## Decentralised Networks
 - [Tor](https://www.torproject.org/) :star2: Tor is free software and an open network that helps you defend against traffic analysis.
