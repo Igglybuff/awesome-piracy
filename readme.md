@@ -1535,6 +1535,7 @@ premium services
 - [CrackWatch trackers](https://www.reddit.com/r/CrackWatch/comments/b2ywcn/crackwatch_telegram_tracker/) Telegram channels for CrachWatch.com games & cracks by /u/SHADOWSLIFER.
 
 ## Miscellaneous
+- [piracy.now.sh](https://piracy.now.sh/) - An alternative piracy link database with full-text search.
 - [UK ISP Court Orders](http://www.ukispcourtorders.co.uk/) :star2: List of websites recently taken down in the UK by the High Court. Use a VPN to access them, they must be pretty good!
 - [Counterfeit and Piracy Watch List 2018](https://torrentfreak.com/images/tradoc_157564.pdf)
 - [/r/EmbyShares](https://www.reddit.com/r/EmbyShares) This subreddit is dedicated to the sharing of Emby servers.
