@@ -1542,7 +1542,7 @@ premium services
 - [/r/ProshotMusicals](https://www.reddit.com/r/ProShotMusicals) Subreddit for all those theatre obsessed people who want pro shots instead of bootlegs to be seen.
 - [Shodan](https://www.shodan.io/) Shodan is the world's first search engine for Internet-connected devices.
 - [Pi-hole](https://pi-hole.net/) Pi-hole is a Linux network-level advertisement and internet tracker blocking application which acts as a DNS sinkhole
-- [How to use eMule in 2018](https://www.reddit.com/r/Piracy/comments/9p82e1/how_to_use_emule_in_2018/) An up-to-date guide detailing how to use eMule to download rare content from the eDonkey and Kad P2P networks.
+- [How to use eMule in 2018](https://archive.is/j1T6o) An up-to-date guide detailing how to use eMule to download rare content from the eDonkey and Kad P2P networks.
 - [Anon.to](https://anon.to/) URL shortener to de-referer or null-referer your links.
 - [Movie Release Types](https://i.imgur.com/kEOrKJT.png) Table of common movie release types, their labels, and descriptions.
 - [How To Host "Questionable" Websites v4.0](https://weboas.is/media/host.pdf) PDF from weboas.is. There are also [PNG](https://weboas.is/media/host.png), [PSD](https://weboas.is/media/host.psd), and [TXT](https://weboas.is/media/host.txt) versions
