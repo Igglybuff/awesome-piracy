@@ -1,7 +1,6 @@
 # Awesome Piracy [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 > A curated list of arrrrrrrrr!
-
 ## Preamble
 Over the past couple of years, I've accumulated bookmarks, saved Reddit posts, and GitHub stars all related to piracy in some form or another. This list is my attempt to add structure to those resources and share them. Everything you need to get started on your pirate voyage can be found below.
 
@@ -362,7 +361,7 @@ for any IP address.
 - [The Pirate Bay](https://thepiratebay.org/) Infamous torrent site which is somehow still running, blocked in most places but can be [accessed](https://piratebayblocked.com/) [via](https://cruzing.xyz/) [numerous](https://thepiratebay.vin/) [proxy](https://pirateproxy.life/) [sites](https://tpbproxy.online/)
 - [The Proxy Bay](https://proxybay.bz/) Can't access The Pirate Bay? Try one of these proxy sites.
 - [Torrentz2](https://torrentz2.eu/) A good replacement of the defunct Torrentz.eu
-- [Idope (Clone)](https://idope.top/) iDope is a torrent search engine presenting direct magnet links, comments and up to date seeder/leecher statistics.
+- [Idope (Clone)](https://idope.se/) iDope is a torrent search engine presenting direct magnet links, comments and up to date seeder/leecher statistics.
 - [Zooqle](https://zooqle.com/) Zooqle is a relatively new torrent index providing a huge database of verified torrents.
 - [rutor](http://rutor.info/) Russian tracker
 - [GloTorrents](https://glodls.to/) Download Movies, TV, Games and Other Torrents Free
