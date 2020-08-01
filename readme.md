@@ -579,6 +579,7 @@ ltConfig is a plugin for Deluge that allows direct modification to libtorrent se
 - [Xtreme Download Manager](https://subhra74.github.io/xdm/#) Xtreme Download Manager is a tool that claims to increase download speeds by up to 500%.
 - [Plowshare](https://github.com/mcrapet/plowshare) Command-line tool and engine for managing sharing websites
 - [FreeDownloadManager](https://www.freedownloadmanager.org/) FDM can boost all your downloads up to 10 times, process media files of various popular formats, drag & drop URLs right from a web browser as well as simultaneously download multiple files! Compatible with  Google Chrome, Mozilla Firefox, Microsoft Edge, Internet Explorer and Safari
+- [EagleGet](http://www.eagleget.com/) EG is a free all-in-one download manager, lightweight and fast, supports all popular browsers and downloads from many streaming services, a perfect alternative to IDM.
 
 ### DDL Tools
 - [youtube-dl](https://rg3.github.io/youtube-dl/) :star2: youtube-dl is a command-line program to download videos from YouTube.com and a few more sites.
@@ -732,7 +733,7 @@ premium services
 - [CMoviesHD](https://www2.cmovieshd.bz) Basic streaming site layout, HD server with additional hosts
 - [Vidcloud](https://vidcloud.icu/) Basic streaming site layout, HD server with additional hosts
 - [Series9](https://www2.series9.io/) Unique design, HD server with additional hosts
-- [Soap2day](https://www.soap2day.com/) Unique design, very nice speeds, HD server with subtitles. 
+- [Soap2day](https://www.soap2day.com/) Unique design, very nice speeds, HD server with subtitles.
 
 #### Big Media Libraries
 - [Streaming Multireddit](https://www.reddit.com/user/nbatman/m/streaming/) Reddit with all types of Streaming Links
@@ -772,7 +773,7 @@ premium services
 - [Anime8](https://anime8.me/) Basic streaming site layout, large collection of anime shows
 - [4anime](https://4anime.to/) A relatively new site the might become the new Masterani.me. Clean interface.
 - [AnimeRam](https://ww2.animeram.cc/) A streaming website for dubbed/subbed anime.
-- [animepahe](https://animepahe.com/) A minimilistic anime streaming/download website, subs only. 
+- [animepahe](https://animepahe.com/) A minimilistic anime streaming/download website, subs only.
 
 #### Cartoons
 - [KissCartoon](https://kisscartoon.ac/) Popular cartoon streaming site
