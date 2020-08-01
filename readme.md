@@ -1129,7 +1129,6 @@ premium services
 - [DeDRM_tools](https://github.com/apprenticeharper/DeDRM_tools) DeDRM tools for ebooks.
 - [ReadAnyBook](https://readanybook.com/) Free online reading.
 - [PDFdrive](http://pdfdrive.com) PDF Drive is your search engine for PDF files. No annoying ads, no download limits.
-- [Mobilism Forum](https://forum.mobilism.org/index.php) A large collection of ebooks and apks.
 - [Memory of the world](http://library.memoryoftheworld.org) A new website containing a lot of books.
 
 ## Magazines
