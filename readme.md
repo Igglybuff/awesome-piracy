@@ -383,7 +383,7 @@ for any IP address.
 - [Torlock](https://www.torlock.com/) Torlock is a torrent index and torrent search that helps to access the latest in TV series and movies.
 - [DIGBT](https://www.digbt.org/) DIGBT is a DHT torrent search engine.
 - [Torrent9](https://www.torrent9.ph/) French torrent search engine
-- [YggTorrent](https://yggtorrent.se/) French tracker and search engine (have a download/upload ratio limitation)
+- [YggTorrent](https://yggtorrent.si/) French tracker and search engine (have a download/upload ratio limitation)
 - [WorldWide Torrents](https://worldwidetorrents.me/) Another public tracker with a reasonably nice UI
 - [Rock Box](https://rawkbawx.rocks/) Metal music tracker
 - [Music Torrent](http://music-torrent.net) General music tracker
