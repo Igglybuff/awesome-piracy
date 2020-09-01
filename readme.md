@@ -1082,7 +1082,7 @@ premium services
 - [BlockTheSpot](https://github.com/mrpond/BlockTheSpot) Video, audio & banner AdBlock/skip for Spotify
 - [Spytify](https://jwallet.github.io/spy-spotify/) Records Spotify without ads while it plays and includes media tags and album cover to the recorded files
 - [Spotify modded APK](https://forum.mobilism.org/viewtopic.php?f=1332&t=2950704) Modded APK with no ads.
-- [Downtify](https://github.com/Superhackman/downtify-premium) Downtify is an open-source Spotify downloader which makes it possible to download all your favourite songs and/or playlists directly from Spotify.
+- [Downtify](https://github.com/eviabs/downtify-premium) Downtify is an open-source Spotify downloader which makes it possible to download all your favourite songs and/or playlists directly from Spotify.
 
 ### iTunes
 - [TunesKit](https://www.tuneskit.com/) iTunes DRM removal tool
