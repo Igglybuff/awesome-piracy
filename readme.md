@@ -1134,6 +1134,8 @@ premium services
 - [Exploring over 1,800 Calibre ebook servers](https://blog.chrisbonk.ca/2018/12/knowledge-is-power-exploring-over-1800.html?m=1) Blog post detailing how to use Shodan to find Calibre ebook servers
 - [DeDRM_tools](https://github.com/apprenticeharper/DeDRM_tools) DeDRM tools for ebooks.
 - [ReadAnyBook](https://readanybook.com/) Free online reading.
+- [PDFdrive](http://pdfdrive.com) PDF Drive is your search engine for PDF files. No annoying ads, no download limits.
+- [Memory of the world](http://library.memoryoftheworld.org) A new website containing a lot of books.
 
 ## Magazines
 - [PDF Giant](http://pdf-giant.com/) Various categories of downloadable PDFs
