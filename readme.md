@@ -734,6 +734,8 @@ premium services
 - [Vidcloud](https://vidcloud.icu/) Basic streaming site layout, HD server with additional hosts
 - [Series9](https://www2.series9.io/) Unique design, HD server with additional hosts
 - [Soap2day](https://www.soap2day.com/) Unique design, very nice speeds, HD server with subtitles.
+- [Best-movies.watch](https://best-movies.watch/) Unique design, more than 19000 available
+
 
 #### Big Media Libraries
 - [Streaming Multireddit](https://www.reddit.com/user/nbatman/m/streaming/) Reddit with all types of Streaming Links
