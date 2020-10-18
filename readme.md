@@ -1063,7 +1063,7 @@ premium services
 ### Music Downloading
 - [Soulseek](http://www.soulseekqt.net/news/) Soulseek is an ad-free, spyware free, just plain free file-sharing network for Windows, Mac, and Linux.
 - [irs](https://github.com/kepoorhampond/irs) A music downloader that understands your metadata needs.
-- [SMLoadr](https://git.fuwafuwa.moe/SMLoadrDev/SMLoadr) A streaming music downloader.
+- [SMLoadr](https://git.fuwafuwa.moe/SMLoadrDevs/SMLoadr) A streaming music downloader.
 - [Deezloader Remaster](https://www.reddit.com/r/DeezloadersIsBack/comments/9n3pf1/deezloader_alpha_latest_version_download10102018/) Tool for downloading music from Deezer
 - [Deezloader Remix](https://notabug.org/RemixDevs/DeezloaderRemix) Another program with the same purpose, both based on the original, now defunct Deezloader.
 - [/r/DeezloaderIsBack](https://www.reddit.com/r/DeezloadersIsBack) Community supporting Deezloader
