@@ -736,7 +736,6 @@ premium services
 - [Soap2day](https://www.soap2day.com/) Unique design, very nice speeds, HD server with subtitles.
 - [Best-movies.watch](https://best-movies.watch/) Unique design, more than 19000 available
 
-
 #### Big Media Libraries
 - [Streaming Multireddit](https://www.reddit.com/user/nbatman/m/streaming/) Reddit with all types of Streaming Links
 - [5Movies](http://5movies.to/) Large collection dating as far back as 1990
