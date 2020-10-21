@@ -64,7 +64,6 @@ You will notice some items on this list have a :star2: next to them. Items with 
         - [Free Indexers](#free-indexers)
     - [Usenet Clients](#usenet-clients)
 - [Direct Downloads](#direct-downloads)
-    - [Android Apps](#android-apps)
     - [Download Managers](#download-managers)
     - [DDL Tools](#ddl-tools)
     - [Custom Google Search Engines](#custom-google-search-engines)
@@ -571,12 +570,6 @@ ltConfig is a plugin for Deluge that allows direct modification to libtorrent se
 - [alt.binz](https://www.altbinz.net/) alt.binz is a powerful binary newsreader, for downloading and managing articles from Usenet.
 
 ## Direct Downloads
-
-### Android Apps
-- [HappyMod](https://happymod.com/) Happymod focus on providing 100% working mods for game and app fans.
-- [ReXdl](https://rexdl.com/) Free download games and applications direct links Android, Apk, Mod, arm64-v8a, OBB Data File, Mobile, device phone and Tablet.
-- [APK4ALL](https://apk4all.com/) Download best android mod games and mod apps with direct links Android, Apk, Mod apk, OBB File,arm64-v8a, SD File, mod Game, device phone and Tablet.
-- [DlAndroid](https://dlandroid.com/) Download Mod APK Games And Application Apk Android With Direct Link In DlAndroid.
 
 ### Download Managers
 - [JDownloader2](https://jdownloader.org/jdownloader2) :star2: JDownloader is a free, open-source download management tool with a huge community of developers that makes downloading as easy and fast as it should be.
@@ -1373,6 +1366,10 @@ premium services
 - [IndexOutOfBounds Store](https://store.ioob.pw/) Streaming apps including Liveflix, PopFlix, SeriesDroid S2, and AnimeDroid S2.
 - [Aurora OSS](https://gitlab.com/AuroraOSS/AuroraStore) An open-source alternative for the Google Play Store.
 - [AuroraDroid](https://gitlab.com/AuroraOSS/auroradroid) Aurora Droid is an unofficial, FOSS client for F-Droid.
+- [HappyMod](https://happymod.com/) Happymod focus on providing 100% working mods for game and app fans.
+- [ReXdl](https://rexdl.com/) Free download games and applications direct links Android, Apk, Mod, arm64-v8a, OBB Data File, Mobile, device phone and Tablet.
+- [APK4ALL](https://apk4all.com/) Download best android mod games and mod apps with direct links Android, Apk, Mod apk, OBB File,arm64-v8a, SD File, mod Game, device phone and Tablet.
+- [DlAndroid](https://dlandroid.com/) Download Mod APK Games And Application Apk Android With Direct Link In DlAndroid.
 
 ## Discord Servers
 - [The Ratio](https://discordapp.com/invite/wab3Qag) :star2: Community of seedbox enthusiasts. Buying advice, application setup, and automation help.
