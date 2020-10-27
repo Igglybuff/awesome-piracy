@@ -1215,6 +1215,7 @@ premium services
 - [Tomato.to](https://tomato.to/) Stock Downloader | Supports Shutterstock, Gettyimages, Adobe stock, Fotolia, Vectorstock, iStockphoto, PNGTree & PicFair.
 - [How to download paid fonts for free](https://www.reddit.com/r/Piracy/comments/8tqfg6/how_to_download_paid_fonts_for_free/) Post by /u/Bebhio on how to use clever Google searches to find fonts online
 - [gallery-dl](https://github.com/mikf/gallery-dl) Command-line program to download image-galleries and -collections from several image hosting sites
+- [icons-font-customization](https://github.com/uuware/icons-font-customization) - &#x1F536;A collection of over 33,000 high-quality free svg icons and tools for generating customized icon font. All icons are completely free for personal or business requirements. Open [All icons](https://uuware.github.io/icons-font-customization/dist/), to view all of them.
 
 ## Automation
 - [FlexGet](https://flexget.com/) FlexGet is a multipurpose automation tool for all of your media with support for torrents, nzbs, podcasts, comics, TV, movies, RSS, HTML, CSV, and more.
