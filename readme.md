@@ -1045,6 +1045,7 @@ premium services
 - [MusicBrainz](https://musicbrainz.org/) MusicBrainz is an open music encyclopedia that collects music metadata and makes it available to the public.
 - [airsonic](https://airsonic.github.io/) Airsonic is a free, web-based media streamer, providing ubiquitous access to your music.
 - [Beets](http://beets.io/) The purpose of beets is to get your music collection right once and for all. It catalogs your collection, automatically improving its metadata as it goes using the MusicBrainz database.
+- [gonic](https://github.com/sentriz/gonic) Music streaming server / subsonic server API implementation.
 - [LibreSonic](https://github.com/Libresonic/libresonic) Media streaming software
 
 ### Music Streaming
@@ -1242,6 +1243,7 @@ premium services
 - [Watcher](https://github.com/nosmokingbandit/Watcher3) Watcher is an automated movie NZB & Torrent searcher and snatcher.
 
 ### Music Automation
+- [betanin](https://github.com/sentriz/betanin) beets.io based man-in-the-middle of your torrent client and music player.
 - [Lidarr](https://github.com/lidarr/Lidarr) Looks and smells like Sonarr but made for music.
 - [Headphones](https://github.com/rembo10/headphones) Automatic music downloader for SABnzbd
 
