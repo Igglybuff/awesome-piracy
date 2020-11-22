@@ -305,6 +305,9 @@ for any IP address.
 - [Bravo List](http://www.bvlist.com/) Tracker directory
 
 #### Private Trackers
+- :star2: [PolishSource](https://polishsource.cz/) (PS) PolishSource is a big private Polish ratio-less tracker
+- [/PTG tracker manifesto](https://pastebin.com/thLgSkNE) List of private trackers
+- [0QoLttS.jpg](https://i.imgur.com/0QoLttS.jpg) Screenshot of a table from somewhere of private trackers and their sign-up requirements
 - [AlphaRatio ](https://alpharatio.cc) (AR) :star2: A good starter tracker with lots of freeleech content.
 - [AnimeBytes](https://animebytes.tv/) (AB) community centralized around Japanese media, including anime, manga, and music
 - [Audionews](https://audionews.org/) (AN) Private torrent tracker for music production audio. (DJ apps, audio editor, DAW apps, etc) Open signups on the 1st-2nd every month.
@@ -314,12 +317,18 @@ for any IP address.
 - [Bibliotik](https://bibliotik.me/) (BI) Popular ebooks/audiobooks private tracker
 - [Bitspyder](http://bitspyder.net/) (BS) Bitspyder is an educational torrent site devoted to e-Learning content such as e-Books, video courses, and audiobooks.
 - [Blutopia](https://blutopia.xyz) (BLU) Blutopia is a private tracker for HD movies and HD TV shows.
+- [Btgigs aka Torrent.Gigs](https://btgigs.info/) (BTG) polish tracker
 - [CGPeers](https://www.cgpeers.com/) (CGP) CGPeers is a private torrent tracker for all things computer graphics: tutorials, graphics software, 3D, visual effects, design, and computer-assisted art.
+- [Central Torrent](http://central-torrent.eu/) (CT) polish tracker
+- [CinemaMovies](http://cinemamovies.pl/) (CM) polish tracker
+- [DVDseed](http://dvdseed.eu/) (DVDS): Polish tracker
+- [Exitorrent](https://exitorrent.org/) (EXT): Polish tracker
 - [Filelist](https://filelist.io/) (FL) Large Romanian general tracker with mostly English content. No RAR files allowed. (Scene torrents are unrared, and then allowed.)
 - [GazelleGames](https://gazellegames.net/login.php) (GGn) Currently the largest private tracker for games.
-- [HD4Free](https://hd4.xyz) (HD4F) HD4Free is a general HD tracker with a good range of content. It is a ratioless tracker so it is great for beginners. Note that any adult content/porn is strictly prohibited there.
 - [HD-Forever](https://hdf.world/) (HD-F) HD-Forever is a French private tracker for HD movies.
 - [HD-Space](https://hd-space.org/) (HDS) HD-Space is a private torrent tracker hosting HD movies, TV shows, and music torrents. Good tracker for beginners.
+- [HD4Free](https://hd4.xyz) (HD4F) HD4Free is a general HD tracker with a good range of content. It is a ratioless tracker so it is great for beginners. Note that any adult content/porn is strictly prohibited there.
+- [HQSource](https://www.hqsource.org/) (HQS): Polish tracker
 - [IPTorrents](https://iptorrents.com/) (IPT) Private tracker with movies, books, and more.
 - [JPopsuki](https://jpopsuki.eu/) (JPop) JPopsuki is a torrent tracker focused on Asian music.
 - [MyAnonaMouse](https://www.myanonamouse.net/) (MAM) Private E-Learning tracker with about 360 000 torrents including audiobooks, e-learning, musicology, and radio.
@@ -327,21 +336,18 @@ for any IP address.
 - [Nostalgic Torrents](https://nostalgic.is/) (NT) Private tracker for anime, comics/manga, documentaries, movies, TV - PRE 2013, TV - PRE 2009 With Original Commercials, etc. Also known as The-Archive and HeyNow.
 - [PassThePopcorn](https://passthepopcorn.me/) (PTP) ratio-based torrent tracker for movies
 - [PolishTracker](https://pte.nu/) (PT) PolishTracker is the oldest private Polish tracker existing to this day
-- [PolishSource](https://polishsource.cz/) (PS) PolishSource is a big private Polish ratio-less tracker
-- [PrivateHD](https://privatehd.to/) (PhD) PrivateHD is a private BitTorrent tracker focused on high definition movies and TV show torrents.
-- [Redacted](https://redacted.ch/) (RED) Largest private music tracker at 1.5 million torrents.
-- [TheGeeks](https://thegeeks.click/) (TGBZ) Private tracker for e-learning
-- [TorrentLeech](https://torrentleech.org/) (TL) Well-known popular private tracker
-- [TVChaos UK](https://www.tvchaosuk.com/) (TVCUK) Private tracker for British television
-- [UHDBits](https://uhdbits.org/) (UHD) UHDBits is a Vietnamese private torrent tracker focused on HD movies and TV shows.
-- [WorldOfP2P](https://worldofp2p.net) (WOP) Private tracker for Movies, TV, and General.
-- [/PTG tracker manifesto](https://pastebin.com/thLgSkNE) List of private trackers
-- [0QoLttS.jpg](https://i.imgur.com/0QoLttS.jpg) Screenshot of a table from somewhere of private trackers and their sign-up requirements
 - [Private Tracker Flowchart](https://wiki.installgentoo.com/images/9/97/Private_tracker_flowchart.png) V4 of the private tracker flowchart. Somewhat out of date.
 - [Private trackers](https://wiki.installgentoo.com/index.php/Private_trackers) Guide on how to get into (and survive) the world of private trackers.
+- [PrivateHD](https://privatehd.to/) (PhD) PrivateHD is a private BitTorrent tracker focused on high definition movies and TV show torrents.
 - [RED Interview Prep](https://interviewfor.red/en/index.html) This site was written as a guide for potential users to learn about music formats, transcodes, torrenting, and burning and ripping — everything you need to know to pass the RED interview.
+- [RST](http://rstorrent.org.pl/) (RST): polish tracker
+- [Redacted](https://redacted.ch/) (RED) Largest private music tracker at 1.5 million torrents.
+- [TVChaos UK](https://www.tvchaosuk.com/) (TVCUK) Private tracker for British television
+- [TheGeeks](https://thegeeks.click/) (TGBZ) Private tracker for e-learning
+- [TorrentLeech](https://torrentleech.org/) (TL) Well-known popular private tracker
 - [Tracker Spreadsheet](https://docs.google.com/spreadsheets/d/1zYZ2107xOZwQ37AjLTc5A4dUJl0ilg8oMrZyA0BGvc0/edit#gid=1357476050) Comprehensive spreadsheet of private trackers (somewhat out of date)
-
+- [UHDBits](https://uhdbits.org/) (UHD) UHDBits is a Vietnamese private torrent tracker focused on HD movies and TV shows.
+- [WorldOfP2P](https://worldofp2p.net) (WOP) Private tracker for Movies, TV, and General.
 #### Semi-Private Trackers
 - [ruTracker](https://rutracker.org/forum/index.php) :star2: RuTracker is a huge Russian torrent site with a thriving file-sharing community.
 - [Zamunda.net](http://zamunda.net) A Bulgarian tracker with English and Russian translations available.
