@@ -286,6 +286,7 @@ for any IP address.
 - [Live Tracer](https://trace.corrupt-net.org/live.php) Pre-time tracer for scene releases
 - [magent2torrent.me](http://magnet2torrent.me/) Converts magnet links to torrent files
 - [mgnet.me](http://mgnet.me/) Magnet URI shortener
+- [Torrent🧲Parts](https://torrent.parts/) - Inspect and edit what's in your Torrent file or Magnet link
 - [Torrage](https://torrage.info/) Torrage is a free service for caching torrent files online.
 - [peerflix Google Search](https://www.google.com/search?q=peerflix+site%3Aherokuapp.com) Searches Heroku-deployed instances of Peerflix for streaming torrents
 - [Torznab](https://nzbdrone.readthedocs.io/Implementing-a-Torznab-indexer/) Newznab-like API offering a standardized recent/search API for both TV and movies
