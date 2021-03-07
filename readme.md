@@ -1046,6 +1046,7 @@ premium services
 - [Beets](http://beets.io/) The purpose of beets is to get your music collection right once and for all. It catalogs your collection, automatically improving its metadata as it goes using the MusicBrainz database.
 - [gonic](https://github.com/sentriz/gonic) Music streaming server / subsonic server API implementation.
 - [LibreSonic](https://github.com/Libresonic/libresonic) Media streaming software
+- [osu!](https://osu.ppy.sh) Download mp3s pre-zipped in `osz` files. Requires account to download and has a preview feature. Includes click the circles minigame while you wait for your download.
 
 ### Music Streaming
 - [Muxiv Music](https://muxiv.com/) Stream 45 million songs on all your devices, online or offline. Primarily Chinese content.
