@@ -186,14 +186,12 @@ You will notice some items on this list have a :star2: next to them. Items with 
 - [Privacy Badger](https://www.eff.org/privacybadger) Privacy Badger blocks spying ads and invisible trackers.
 - [HTTPS Everywhere](https://www.eff.org/https-everywhere) HTTPS Everywhere is a Firefox, Chrome, and Opera extension that encrypts your communications with many major websites, making your browsing more secure.
 - [uBlock Origin](https://github.com/gorhill/uBlock) :star2: An efficient blocker for Chromium and Firefox. Fast and lean.
-- [Nano Adblocker](https://github.com/NanoAdblocker/NanoCore) Just another adblocker based on uBlock Origin.
-- [Nano Defender](https://jspenguin2017.github.io/uBlockProtector/) An anti-Adblock defuser for Nano Adblocker and uBlock Origin.
 - [TamperMonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=en) The world's most popular userscript manager
 - [WebRTC Network Limiter](https://chrome.google.com/webstore/detail/webrtc-network-limiter/npeicpdbkakmehahjeeohfdhnlpdklia?hl=en) Configures how WebRTC's network traffic is routed by changing Chrome's privacy settings.
 - [ScriptSafe](https://chrome.google.com/webstore/detail/scriptsafe/oiigbmnaadbkfbmpbfijlflahbdbdgdf?hl=en) A browser extension that gives users control of the web and more secure browsing while emphasizing simplicity and intuitiveness.
 - [NoScript](https://noscript.net/getit) Allow active content to run only from sites you trust, and protect yourself against XSS and clickjacking attacks. Firefox only.
 - [Burlesco](https://burles.co/en/) Read the news without subscribing, bypass the paywall
-- [Universal Bypass](https://chrome.google.com/webstore/detail/universal-bypass/aihomhdbhpnpmcnnbckjjcebjoikpihj) Universal Bypass automatically skips annoying link shorteners.
+- [Universal Bypass](https://github.com/Sainan/Universal-Bypass) Universal Bypass automatically skips annoying link shorteners.
 - [Violentmonkey](https://violentmonkey.github.io/) An open-source userscript manager.
 - [Anti-Paywall](https://github.com/nextgens/anti-paywall) A browser extension that maximizes the chances of bypassing paywalls
 - [Google Unlocked](https://github.com/Ibit-to/google-unlocked) Uncensor google search results.
@@ -288,6 +286,7 @@ for any IP address.
 - [Live Tracer](https://trace.corrupt-net.org/live.php) Pre-time tracer for scene releases
 - [magent2torrent.me](http://magnet2torrent.me/) Converts magnet links to torrent files
 - [mgnet.me](http://mgnet.me/) Magnet URI shortener
+- [Torrent🧲Parts](https://torrent.parts/) - Inspect and edit what's in your Torrent file or Magnet link
 - [Torrage](https://torrage.info/) Torrage is a free service for caching torrent files online.
 - [peerflix Google Search](https://www.google.com/search?q=peerflix+site%3Aherokuapp.com) Searches Heroku-deployed instances of Peerflix for streaming torrents
 - [Torznab](https://nzbdrone.readthedocs.io/Implementing-a-Torznab-indexer/) Newznab-like API offering a standardized recent/search API for both TV and movies
@@ -295,7 +294,6 @@ for any IP address.
 - [torrents.csv](https://gitlab.com/dessalines/torrents.csv) Torrents.csv is a collaborative repository of torrents, consisting of a single, searchable torrents.csv file.
 - [torrents-csv.ml](https://torrents-csv.ml) The above torrents.csv hosted.
 - [mktorrent](https://github.com/Rudde/mktorrent) mktorrent is a simple command line utility to create BitTorrent metainfo files.
-- [qtorrent.in](http://www.qtorrent.in/) A free, fast, powerful and legal Magnet URI indexer.
 - [Torrent Paradise](https://torrent-paradise.ml/) IPFS-based decentralised torrent search engine.
 - [torrent.nz](https://torrent.nz/) Torrent.nz is a magnet torrent search engine.
 - [magnetico](https://github.com/boramalper/magnetico) Autonomous (self-hosted) BitTorrent DHT search engine suite
@@ -361,8 +359,8 @@ for any IP address.
 - [YTS](https://yts.am/) Small-size HD movies from YIFY
 - [The Pirate Bay](https://thepiratebay.org/) Infamous torrent site which is somehow still running, blocked in most places but can be [accessed](https://piratebayblocked.com/) [via](https://cruzing.xyz/) [numerous](https://thepiratebay.vin/) [proxy](https://pirateproxy.life/) [sites](https://tpbproxy.online/)
 - [The Proxy Bay](https://proxybay.bz/) Can't access The Pirate Bay? Try one of these proxy sites.
-- [Torrentz2](https://torrentz2.eu/) A good replacement of the defunct Torrentz.eu
-- [Idope (Clone)](https://idope.top/) iDope is a torrent search engine presenting direct magnet links, comments and up to date seeder/leecher statistics.
+- [Idope (Clone)](https://idope.se/) iDope is a torrent search engine presenting direct magnet links, comments and up to date seeder/leecher statistics.
+- [Torrentz2](https://torrentz2.is/) A good replacement of the defunct Torrentz.eu [other](https://torrentsmirror.com/) [mirrors](https://torrentz.pl/)
 - [Zooqle](https://zooqle.com/) Zooqle is a relatively new torrent index providing a huge database of verified torrents.
 - [rutor](http://rutor.info/) Russian tracker
 - [GloTorrents](https://glodls.to/) Download Movies, TV, Games and Other Torrents Free
@@ -383,7 +381,7 @@ for any IP address.
 - [Torlock](https://www.torlock.com/) Torlock is a torrent index and torrent search that helps to access the latest in TV series and movies.
 - [DIGBT](https://www.digbt.org/) DIGBT is a DHT torrent search engine.
 - [Torrent9](https://www.torrent9.ph/) French torrent search engine
-- [YggTorrent](https://yggtorrent.se/) French tracker and search engine (have a download/upload ratio limitation)
+- [YggTorrent](https://yggtorrent.si/) French tracker and search engine (have a download/upload ratio limitation)
 - [WorldWide Torrents](https://worldwidetorrents.me/) Another public tracker with a reasonably nice UI
 - [Rock Box](https://rawkbawx.rocks/) Metal music tracker
 - [Music Torrent](http://music-torrent.net) General music tracker
@@ -391,7 +389,6 @@ for any IP address.
 
 ### Tracker Aggregators
 - [snowfl](https://snowfl.com/) snowfl is a torrent aggregator which searches various public torrent indexes in real-time
-- [TParser](http://tparser.org/) Russian torrent sites indexer
 - [Torrents.me](https://torrents.me/) Torrents.me combines popular torrent sites and specialized private trackers in a torrent multisearch.
 - [rats-search](https://github.com/DEgITx/rats-search) P2P Bittorrent search engine
 - [AIO Search](http://www.aiosearch.com/) Torrent search engine
@@ -494,6 +491,7 @@ ltConfig is a plugin for Deluge that allows direct modification to libtorrent se
 - [PulsedMedia](https://pulsedmedia.com/) Inexpensive seedbox provider
 - [Cloudboxes.io](https://cloudboxes.io/) Seedboxes with impressive 20Gbps uplinks
 - [Seedbox.io](https://seedbox.io/) Shared and dedicated slots with 1Gbps+ uplinks
+- [Giga-Rapid.com](https://giga-rapid.com/gigaseedbox.php) Shared 1Gbps seedboxes with massive storage & lots of addon applications.
 
 #### Seedbox Setup Tools and Guides
 - [swizzin](https://swizzin.ltd/) a light, modular package management suite for media-oriented servers
@@ -575,13 +573,15 @@ ltConfig is a plugin for Deluge that allows direct modification to libtorrent se
 - [JDownloader2](https://jdownloader.org/jdownloader2) :star2: JDownloader is a free, open-source download management tool with a huge community of developers that makes downloading as easy and fast as it should be.
 - [Internet Download Manager](https://www.internetdownloadmanager.com/) shareware download manager for Windows
 - [idm-trial-reset](https://github.com/J2TeaM/idm-trial-reset) Use IDM forever without cracking.
+- [Persepolis](https://github.com/persepolisdm/persepolis) An open source download manager and GUI for Aria2 written in Python with IDM like browser integration. Cross platfrom.
 - [pyLoad](https://pyload.net/) Free and Open Source download manager written in Python and designed to be extremely lightweight, easily extensible and fully manageable via web
 - [Xtreme Download Manager](https://subhra74.github.io/xdm/#) Xtreme Download Manager is a tool that claims to increase download speeds by up to 500%.
 - [Plowshare](https://github.com/mcrapet/plowshare) Command-line tool and engine for managing sharing websites
 - [FreeDownloadManager](https://www.freedownloadmanager.org/) FDM can boost all your downloads up to 10 times, process media files of various popular formats, drag & drop URLs right from a web browser as well as simultaneously download multiple files! Compatible with  Google Chrome, Mozilla Firefox, Microsoft Edge, Internet Explorer and Safari
+- [EagleGet](http://www.eagleget.com/) EG is a free all-in-one download manager, lightweight and fast, supports all popular browsers and downloads from many streaming services, a perfect alternative to IDM.
 
 ### DDL Tools
-- [youtube-dl](https://rg3.github.io/youtube-dl/) :star2: youtube-dl is a command-line program to download videos from YouTube.com and a few more sites.
+- [youtube-dl](https://youtube-dl.org/) :star2: youtube-dl is a command-line program to download videos from YouTube.com and a few more sites.
 - [youtube-dl-gui](https://mrs0m30n3.github.io/youtube-dl-gui/) A cross-platform front-end GUI of the popular youtube-dl written in wxPython
 - [youtube-dl-helper](https://youtube-dl-helper.github.io/) Uses youtube-dl to download video/audio from many sites without requiring you to use the command-line (for Windows)
 - [YouTube MP3 Rip](https://ytmp3.cc/en9/) Download YouTube music videos as MP3 files without registration
@@ -607,7 +607,7 @@ ltConfig is a plugin for Deluge that allows direct modification to libtorrent se
 - [wget for Windows](https://eternallybored.org/misc/wget/) A command-line utility for retrieving files using HTTP, HTTPS, and FTP protocols.
 - [curl](https://en.wikipedia.org/wiki/CURL) `curl` is a command-line tool for downloading data using a variety of protocols. Easily installable on most operating systems.
 - [FlixGrab](https://www.flixgrab.com/) FlixGrab+ is a unique application for downloading entire NetFlix serials, TV shows, documentaries, movies.
-- [Mega.nz IDM Downloader](https://github.com/CHEF-KOCH/Mega.nz-IDM-downloader) Unlimited downloading from Mega.nz with IDM.
+- [Mega.nz IDM Downloader](https://web.archive.org/web/20200629125743/https://github.com/CHEF-KOCH/Mega.nz-IDM-downloader) Unlimited downloading from Mega.nz with IDM.
 
 ### Custom Google Search Engines
 - These all do the same thing:
@@ -732,7 +732,8 @@ premium services
 - [CMoviesHD](https://www2.cmovieshd.bz) Basic streaming site layout, HD server with additional hosts
 - [Vidcloud](https://vidcloud.icu/) Basic streaming site layout, HD server with additional hosts
 - [Series9](https://www2.series9.io/) Unique design, HD server with additional hosts
-- [Soap2day](https://www.soap2day.com/) Unique design, very nice speeds, HD server with subtitles. 
+- [Soap2day](https://www.soap2day.com/) Unique design, very nice speeds, HD server with subtitles.
+- [Best-movies.watch](https://best-movies.watch/) Unique design, more than 19000 available
 
 #### Big Media Libraries
 - [Streaming Multireddit](https://www.reddit.com/user/nbatman/m/streaming/) Reddit with all types of Streaming Links
@@ -765,14 +766,13 @@ premium services
 - [anime-sharing](http://www.anime-sharing.com/forum/) Forum for sharing anime
 - [AniDex](https://anidex.info) Torrent tracker and indexer, primarily for English fansub groups of anime
 - [animeEncodes](https://www.animencodes.com/)
-- [HorribleSubs](https://horriblesubs.info/) Download anime via torrent files, magnet links, XDCC, and premium link hosts.
 - [Anime Twist](https://twist.moe/) An anime direct streaming site with a decent UI and video player
 - [AnimeOut](https://www.animeout.xyz/) Over 1000's of Encoded Anime with DDL links.
-- [Kissanime.ru](http://kissanime.ru/) or [Kissanime.ac](https://kissanime.ac/) Large cartoon collection, uses RapidVideo/Openload
+- [Kissanime.ac](https://kissanime.ac/) Large cartoon collection, uses RapidVideo/Openload
 - [Anime8](https://anime8.me/) Basic streaming site layout, large collection of anime shows
 - [4anime](https://4anime.to/) A relatively new site the might become the new Masterani.me. Clean interface.
 - [AnimeRam](https://ww2.animeram.cc/) A streaming website for dubbed/subbed anime.
-- [animepahe](https://animepahe.com/) A minimilistic anime streaming/download website, subs only. 
+- [animepahe](https://animepahe.com/) A minimilistic anime streaming/download website, subs only.
 
 #### Cartoons
 - [KissCartoon](https://kisscartoon.ac/) Popular cartoon streaming site
@@ -904,7 +904,6 @@ premium services
 
 ### Plex Requests
 - [Ombi](http://ombi.io/) :star2: Want a Movie or TV Show on Plex or Emby? Use Ombi!
-- [Plex Requests](http://plexrequests.8bits.ca/) Simple automated way for users to request new content for Plex
 - [plexrequests-meteor](https://github.com/lokenx/plexrequests-meteor) Meteor version of the original Plex Requests
 - [Mellow](https://github.com/v0idp/Mellow/) Bot which can communicate with several APIs like Ombi, Sonarr, Radarr and Tautulli which are related to home streaming. Based off of node:9.3
 - [MediaButler](https://github.com/physk/MediaButler) Discord bot for use with PleX and several other apps that work with it.
@@ -1045,6 +1044,7 @@ premium services
 - [MusicBrainz](https://musicbrainz.org/) MusicBrainz is an open music encyclopedia that collects music metadata and makes it available to the public.
 - [airsonic](https://airsonic.github.io/) Airsonic is a free, web-based media streamer, providing ubiquitous access to your music.
 - [Beets](http://beets.io/) The purpose of beets is to get your music collection right once and for all. It catalogs your collection, automatically improving its metadata as it goes using the MusicBrainz database.
+- [gonic](https://github.com/sentriz/gonic) Music streaming server / subsonic server API implementation.
 - [LibreSonic](https://github.com/Libresonic/libresonic) Media streaming software
 
 ### Music Streaming
@@ -1062,10 +1062,12 @@ premium services
 ### Music Downloading
 - [Soulseek](http://www.soulseekqt.net/news/) Soulseek is an ad-free, spyware free, just plain free file-sharing network for Windows, Mac, and Linux.
 - [irs](https://github.com/kepoorhampond/irs) A music downloader that understands your metadata needs.
-- [SMLoadr](https://git.fuwafuwa.moe/SMLoadrDev/SMLoadr) A streaming music downloader.
+- [SMLoadr](https://git.fuwafuwa.moe/SMLoadrDevs/SMLoadr) A streaming music downloader.
 - [Deezloader Remaster](https://www.reddit.com/r/DeezloadersIsBack/comments/9n3pf1/deezloader_alpha_latest_version_download10102018/) Tool for downloading music from Deezer
 - [Deezloader Remix](https://notabug.org/RemixDevs/DeezloaderRemix) Another program with the same purpose, both based on the original, now defunct Deezloader.
 - [/r/DeezloaderIsBack](https://www.reddit.com/r/DeezloadersIsBack) Community supporting Deezloader
+- [Deemix](https://codeberg.org/RemixDev/deemix) Another program with the same purpose. "Deemix is a python library that lets you download millions of songs [from Deezer]". "Deemix is meant to replace Deezloader Remix".
+- [/r/deemix](https://www.reddit.com/r/deemix) Community supporting Deemix
 - [New Album Releases](http://newalbumreleases.net/) Premium DDL links for full albums
 - [Kingdom Leaks](https://kingdom-leaks.com/) DDL links for album leaks
 - [KHInsider](https://downloads.khinsider.com/) Site collecting soundtracks, mostly MP3, some FLAC, OGG or M4A.
@@ -1077,10 +1079,10 @@ premium services
 - [Get rid of Spotify ads](https://www.reddit.com/r/Piracy/comments/9jvlf8/get_rid_of_spotify_adsbannerslimited_skips_and/) Short guide on avoiding ads, banners, limited skips, and locked shuffle mode in Spotify Free
 - [Spotify AdBlock Host file](https://www.reddit.com/r/Piracy/comments/9tcbvc/spotify_adblock_host_file_uptodate_effective/) :star2: This is the most up-to-date list and will block all annoying Spotify ads & analytics.
 - [EZBlocker](https://github.com/Xeroday/Spotify-Ad-Blocker/) a Spotify Ad Blocker written in C# for Windows 7/8/10.
-- [BlockTheSpot](https://github.com/master131/BlockTheSpot) Video, audio & banner AdBlock/skip for Spotify
+- [BlockTheSpot](https://github.com/mrpond/BlockTheSpot) Video, audio & banner AdBlock/skip for Spotify
 - [Spytify](https://jwallet.github.io/spy-spotify/) Records Spotify without ads while it plays and includes media tags and album cover to the recorded files
 - [Spotify modded APK](https://forum.mobilism.org/viewtopic.php?f=1332&t=2950704) Modded APK with no ads.
-- [Downtify](https://github.com/Superhackman/downtify-premium) Downtify is an open-source Spotify downloader which makes it possible to download all your favourite songs and/or playlists directly from Spotify.
+- [Downtify](https://github.com/eviabs/downtify-premium) Downtify is an open-source Spotify downloader which makes it possible to download all your favourite songs and/or playlists directly from Spotify.
 
 ### iTunes
 - [TunesKit](https://www.tuneskit.com/) iTunes DRM removal tool
@@ -1104,7 +1106,7 @@ premium services
 - [Photokaaran](http://photokaaran.com/) Indian site with direct download links of cracked productivity tools.
 
 ### Adobe CC
-- [Adobe CC 2019/2020 AIO Patcher](https://cracked.to/Thread-Cracked-Crack-Adobe-CC-2019-2020-GenP-v2-4) Latest Working All-In-One Patcher for all Adobe Creative Cloud 2019/2020 Applications (Windows)
+- [Adobe CC 2019/2020 AIO Patcher](https://cracked.to/Thread-Cracked-CRACK-ADOBE-CC-2019-2020-GENP-V2-6-2) Latest Working All-In-One Patcher for all Adobe Creative Cloud 2019/2020 Applications (Windows)
 - [Adobe Master Collector](https://saidit.net/s/sjain_guides/wiki/downloads#wiki_adobe_master_collector.3A) This tool downloads pre-activated Adobe applications released by m0nkrus, ranging from CS6 to CC 2020.
 - [Adobe CC 2018](https://saidit.net/s/sjain_guides/comments/9oz/adobe_cc_2018_full_indepth_guide_to_installing/) Full in-depth guide to installing and cracking any application (Windows)
 - [Adobe Zii 4.0.3](https://www.reddit.com/r/Piracy/comments/9v7tr6/adobe_zii_403_released_now_includes_incopy/) Tool for patching and cracking Adobe CC applications.
@@ -1131,14 +1133,16 @@ premium services
 - [Exploring over 1,800 Calibre ebook servers](https://blog.chrisbonk.ca/2018/12/knowledge-is-power-exploring-over-1800.html?m=1) Blog post detailing how to use Shodan to find Calibre ebook servers
 - [DeDRM_tools](https://github.com/apprenticeharper/DeDRM_tools) DeDRM tools for ebooks.
 - [ReadAnyBook](https://readanybook.com/) Free online reading.
+- [PDFdrive](http://pdfdrive.com) PDF Drive is your search engine for PDF files. No annoying ads, no download limits.
+- [Memory of the world](http://library.memoryoftheworld.org) A new website containing a lot of books.
 
 ## Magazines
 - [PDF Giant](http://pdf-giant.com/) Various categories of downloadable PDFs
 - [MagazineLib](https://magazinelib.com/) Free PDF and interactive e-magazines
 
 ## Academic Papers and Material
-- [LibGen](https://libgen.is/) search engine for articles and books on various topics, which allows free access to content that is otherwise paywalled or not digitized elsewhere
-- [Sci-Hub](https://sci-hub.tw/) the first pirate website in the world to provide mass and public access to tens of millions of research papers
+- [LibGen](https://libgen.fun/) search engine for articles and books on various topics, which allows free access to content that is otherwise paywalled or not digitized elsewhere
+- [Sci-Hub](https://sci-hub.se/) the first pirate website in the world to provide mass and public access to tens of millions of research papers
 - [BookSC](http://booksc.org/) The world's largest scientific articles store. 50,000,000+ articles for free.
 - [Academic Torrents](http://academictorrents.com/) A Community-Maintained Distributed Repository for researchers, by researchers. Making 32.66TB of research data available!
 
@@ -1181,7 +1185,6 @@ premium services
 
 ## Manga
 - [MangaDex](https://www.mangadex.org/) MangaDex is an online manga reader that caters to all languages.
-- [KissManga](http://kissmanga.com/) Another manga website
 - [/r/manga](https://www.reddit.com/r/manga) Everything and anything manga! (manhwa is okay too!)
 - [Madokami](https://manga.madokami.al/) Requires sign-up (currently closed), see mirrors below.
 - [Madokami 0-E](https://archive.org/download/Madokami.Manga.0-E) Download manga titles named 0 to E.
@@ -1239,6 +1242,7 @@ premium services
 - [Watcher](https://github.com/nosmokingbandit/Watcher3) Watcher is an automated movie NZB & Torrent searcher and snatcher.
 
 ### Music Automation
+- [betanin](https://github.com/sentriz/betanin) beets.io based man-in-the-middle of your torrent client and music player.
 - [Lidarr](https://github.com/lidarr/Lidarr) Looks and smells like Sonarr but made for music.
 - [Headphones](https://github.com/rembo10/headphones) Automatic music downloader for SABnzbd
 
@@ -1542,7 +1546,7 @@ premium services
 - [/r/ProshotMusicals](https://www.reddit.com/r/ProShotMusicals) Subreddit for all those theatre obsessed people who want pro shots instead of bootlegs to be seen.
 - [Shodan](https://www.shodan.io/) Shodan is the world's first search engine for Internet-connected devices.
 - [Pi-hole](https://pi-hole.net/) Pi-hole is a Linux network-level advertisement and internet tracker blocking application which acts as a DNS sinkhole
-- [How to use eMule in 2018](https://www.reddit.com/r/Piracy/comments/9p82e1/how_to_use_emule_in_2018/) An up-to-date guide detailing how to use eMule to download rare content from the eDonkey and Kad P2P networks.
+- [How to use eMule in 2018](https://archive.is/j1T6o) An up-to-date guide detailing how to use eMule to download rare content from the eDonkey and Kad P2P networks.
 - [Anon.to](https://anon.to/) URL shortener to de-referer or null-referer your links.
 - [Movie Release Types](https://i.imgur.com/kEOrKJT.png) Table of common movie release types, their labels, and descriptions.
 - [How To Host "Questionable" Websites v4.0](https://weboas.is/media/host.pdf) PDF from weboas.is. There are also [PNG](https://weboas.is/media/host.png), [PSD](https://weboas.is/media/host.psd), and [TXT](https://weboas.is/media/host.txt) versions
