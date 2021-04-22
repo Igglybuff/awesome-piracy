@@ -753,7 +753,7 @@ premium services
 - [Nyaa](https://nyaa.si/) BitTorrent software for cats [(Repo)](https://github.com/nyaadevs/nyaa)
 - [Hi10 Anime](https://hi10anime.com/) High-Quality 10-bit Anime Encodes
 - [Anime Kaizoku](https://animekaizoku.com/) Up to 1080p DDL links, mostly Google Drive
-- [Anime Kayo](https://animekayo.com/) Up to 1080p DDL links, mostly Google Drive (no longer updated, site is still accesible)
+- [Anime Kayo](https://animekayo.com/) Up to 1080p DDL links, mostly Google Drive (no longer updated, site is still accessible)
 - [/r/animepiracy](https://www.reddit.com/r/animepiracy) This sub is about streaming and torrent websites for anime.
 - [/r/animepiracy wiki](https://www.reddit.com/r/animepiracy/wiki/index) Lists for sourcing Anime streaming sites, manga sites, and more
 - [9Anime](https://9anime.to) Watch anime online. English anime, dubbed, subbed.
