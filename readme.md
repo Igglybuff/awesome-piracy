@@ -1069,7 +1069,6 @@ premium services
 - [Deemix](https://codeberg.org/RemixDev/deemix) Another program with the same purpose. "Deemix is a python library that lets you download millions of songs [from Deezer]". "Deemix is meant to replace Deezloader Remix".
 - [/r/deemix](https://www.reddit.com/r/deemix) Community supporting Deemix
 - [New Album Releases](http://newalbumreleases.net/) Premium DDL links for full albums
-- [Kingdom Leaks](https://kingdom-leaks.com/) DDL links for album leaks
 - [KHInsider](https://downloads.khinsider.com/) Site collecting soundtracks, mostly MP3, some FLAC, OGG or M4A.
 - [VGMLoader](https://github.com/TheLastZombie/VGMLoader) Tool for bulk downloading from KHInsider.
 - [Free MPS Download.net](https://free-mp3-download.net/) Search engine with streamable samples and download links
