@@ -1207,7 +1207,6 @@ premium services
 - [iHaveNoTv](https://ihavenotv.com/) Community managed documentary collection
 
 ## Fonts, Icons, and Graphics
-- [Get the font](https://www.getthefont.com/) Searches through GitHub for fonts
 - [Web4Sync](https://web4sync.com/) Forum with DDL links catering to web development, graphics design, 3D animation, and photography
 - [GFXDomain](http://forum.gfxdomain.net/) Forum for graphic design resources and software
 - [GFxtra](https://www.gfxtra.com/) DDL links for graphics, icons, 3D models, and more
