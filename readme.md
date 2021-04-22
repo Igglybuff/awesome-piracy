@@ -1558,7 +1558,6 @@ premium services
 - [Academy Awards 2019 Screeners Megathread](https://www.reddit.com/r/Piracy/comments/aaqc0b/academy_awards_2019_screeners_megathread/) Post by /u/idoideas listing all available DVDSCR releases for 2019
 - [iNFekt](https://infekt.ws/) A text viewer application that has been carefully designed around its main task: viewing and presenting NFO files.
 - [NFForce](http://nfforce.temari.fr/) Another NFO viewer.
-- [How To Get Everything On Netflix](https://www.removeddit.com/r/NetflixViaVPN/comments/4z5fiq/how_to_get_everything_on_netflix_not_only_the_us/d6t00gv/) Recovered Link to a post by /u/huldre99
 - [TheTrove](https://thetrove.net/) The Trove is a non-profit website dedicated to content archival and long-term preservation of RPGs.
 - [serials](http://www.serials.ws/) Serial keys for software that may or may not work.
 - [scenerules](https://scenerules.org/) NFOs with rules and guidelines for scene releasing standards.
