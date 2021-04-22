@@ -1380,7 +1380,6 @@ premium services
 
 
 ## IPTV and DVR
-- [IPTV Guide and Basics](https://www.reddit.com/r/IPTV/comments/ckoneg/start_here_iptv_guide_and_basics/) Post by /u/Specific_Angle describing in detail how to get started with IPTV
 - [iptv-org/iptv](https://github.com/iptv-org/iptv) Collection of 8000+ publicly available IPTV channels from all over the world
 - [telly](https://github.com/tellytv/telly) IPTV proxy for Plex Live written in Golang
 - [tvheadend](https://github.com/tvheadend/tvheadend) Tvheadend is a TV streaming server for Linux supporting DVB-S, DVB-S2, DVB-C, DVB-T, ATSC, IPTV, SAT>IP, and other formats through the Unix pipe as input sources.
