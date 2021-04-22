@@ -192,6 +192,11 @@ You will notice some items on this list have a :star2: next to them. Items with 
 - [Violentmonkey](https://violentmonkey.github.io/) An open-source userscript manager.
 - [Anti-Paywall](https://github.com/nextgens/anti-paywall) A browser extension that maximizes the chances of bypassing paywalls
 - [Google Unlocked](https://github.com/Ibit-to/google-unlocked) Uncensor google search results.
+- Enable copy on sites
+  - [Enable Copy](https://chrome.google.com/webstore/detail/enable-copy/lmnganadkecefnhncokdlaohlkneihio) For Google Chrome
+  - [Simple Allow Copy](https://chrome.google.com/webstore/detail/simple-allow-copy/aefehdhdciieocakfobpaaolhipkcpgc) Another for Google Chrome
+  - [Absolute Enable Right Click & Copy](https://addons.mozilla.org/en-US/firefox/addon/absolute-enable-right-click/) For Firefox
+  - [Enable Copy Paste](https://microsoftedge.microsoft.com/addons/detail/enable-copy-paste/lepcimpolkbhimlaabjbinhlohocmjal) For Microsoft Edge
 
 ## Userscripts
 - [IMDb Scout](https://greasyfork.org/en/scripts/3967-imdb-scout) Add links from IMDb pages to torrent sites -- easy downloading from IMDb
