@@ -195,6 +195,7 @@ You will notice some items on this list have a :star2: next to them. Items with 
 - [Violentmonkey](https://violentmonkey.github.io/) An open-source userscript manager.
 - [Anti-Paywall](https://github.com/nextgens/anti-paywall) A browser extension that maximizes the chances of bypassing paywalls
 - [Google Unlocked](https://github.com/Ibit-to/google-unlocked) Uncensor google search results.
+- [I DON'T CARE ABOUT COOKIES](https://www.i-dont-care-about-cookies.eu/) Get rid of cookie warnings from most websites.
 
 ## Userscripts
 - [IMDb Scout](https://greasyfork.org/en/scripts/3967-imdb-scout) Add links from IMDb pages to torrent sites -- easy downloading from IMDb
