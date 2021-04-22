@@ -365,6 +365,7 @@ for any IP address.
 - [rutor](http://rutor.info/) Russian tracker
 - [GloTorrents](https://glodls.to/) Download Movies, TV, Games and Other Torrents Free
 - [BTDB](https://btdb.eu/) Large BitTorrent DHT search engine
+- [BTDigg](https://btdig.com/) BTDigg is a popular BitTorrent DHT search engine.
 - [trackerslist](https://github.com/ngosang/trackerslist) An updated list of public BitTorrent trackers
 - [MagnetDL](http://www.magnetdl.com/) Magnet link only search engine
 - [TorrentGalaxy](https://torrentgalaxy.org/) Public tracker with a clean UI which now supports embedded streaming for internal uploads
