@@ -364,7 +364,7 @@ for any IP address.
 - [Zooqle](https://zooqle.com/) Zooqle is a relatively new torrent index providing a huge database of verified torrents.
 - [rutor](http://rutor.info/) Russian tracker
 - [GloTorrents](https://glodls.to/) Download Movies, TV, Games and Other Torrents Free
-- [BTDB](https://btdb.to/) Large BitTorrent DHT search engine
+- [BTDB](https://btdb.eu/) Large BitTorrent DHT search engine
 - [trackerslist](https://github.com/ngosang/trackerslist) An updated list of public BitTorrent trackers
 - [MagnetDL](http://www.magnetdl.com/) Magnet link only search engine
 - [TorrentGalaxy](https://torrentgalaxy.org/) Public tracker with a clean UI which now supports embedded streaming for internal uploads
