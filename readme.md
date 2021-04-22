@@ -1019,7 +1019,6 @@ premium services
 ### Console Games
 - [/r/PkgLinks](https://www.reddit.com/r/PkgLinks/) A place to share working Playstation 4 PKGs
 - [NoPayStation](https://nopaystation.com) A Database for PSN content including Vita, PS3, PSX, and PSP
-- [/r/SwitchNSPs](https://www.reddit.com/r/SwitchNSPs/) Nintendo Switch games
 - See [Discord Servers](#discord-servers) for more Switch games
 
 ### Homebrew and Custom Firmware
