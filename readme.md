@@ -201,7 +201,6 @@ You will notice some items on this list have a :star2: next to them. Items with 
 - [Direct download from Google Play](https://greasyfork.org/en/scripts/33005-direct-download-from-google-play/) Adds APKPure, APKMirror and Evozi download buttons to Google Play when browsing apps.
 - [AdGuard Popup Blocker](https://github.com/AdguardTeam/PopupBlocker) Popup Blocker by AdGuard is a userscript that blocks all unwanted pop-up windows in different browsers.
 - [openload](https://greasyfork.org/en/scripts/17665-openload) Remove anti-Adblock, ads, pop-ups, and timer waits, and show direct download link on OpenLoad.
-- [anti-anti-copy](https://greasyfork.org/en/scripts/7197-anti-anti-copy) some websites prevent you from copying text. this script bypasses it.
 - [Torrentz2 Magnet](https://greasyfork.org/en/scripts/21547-torrentz2-magnet) Add magnet link to torrentz2
 - [Bypass paywalls for scientific documents](https://greasyfork.org/en/scripts/35521-bypass-paywalls-for-scientific-documents) This script adds download buttons on Google Scholar, Scopus, and Web Of Science, which lead to sci-hub.tw.
 - [Google Drive Direct Links](https://greasyfork.org/en/scripts/10052-google-drive-direct-links/feedback) Direct link functionality for Google Drive
