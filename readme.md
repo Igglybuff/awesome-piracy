@@ -376,7 +376,6 @@ for any IP address.
 - [moviemagnet](http://moviemagnet.co/) Verified torrents for movies.
 - [Zonatorrent](https://zonatorrent.tv/) Spanish tracker
 - [TorrentFunk](https://www.torrentfunk.com/) TorrentFunk is a torrent site providing verified torrents for all kinds of content.
-- [HDSector](http://udush.com/) Bollywood / Hindi / Hollywood HD Movies
 - [OTorrents](https://otorrents.com/) Yet another public torrent tracker
 - [Torlock](https://www.torlock.com/) Torlock is a torrent index and torrent search that helps to access the latest in TV series and movies.
 - [DIGBT](https://www.digbt.org/) DIGBT is a DHT torrent search engine.
