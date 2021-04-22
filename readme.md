@@ -746,7 +746,6 @@ premium services
 - [WorldSrc](https://worldsrc.org) Movies, software, apps, games, music, and images available for fast direct download + torrents.
 
 #### TV
-- [TVRaven](https://www.onetvraven.pro/) Large TV collection, friendly UI
 - [WatchSeries](http://dwatchseries.to/) TV series, multiple links/backups to different streaming hosts
 - [TVBox](https://tvbox.ag/) TV/Movies, easy to navigate site, multiple links/backups to different streaming hosts
 
