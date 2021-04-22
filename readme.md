@@ -671,6 +671,7 @@ ltConfig is a plugin for Deluge that allows direct modification to libtorrent se
 - [AppNee Freeware Group](https://appnee.com/) Massive DDL site, eBooks, Programs, Games, Operating Systems, etc.
 - [480mkv](http://480mkv.com/) 480p DDL for TV Shows
 - [FilmRls](https://filmrls.com/) DDL site that generally features quality previews of video content
+- [Tinymkv](https://tinymkv.xyz/) High quality small size movies/tv shows. It also does high quality HEVC movies.
 
 ### Premium Link Generators
 - [File Hosting Wiki](https://filehostlist.miraheze.org/wiki/Main_Page) This site aims to provide the most complete lists of premium link generators, torrent downloaders and more, with (possibly) frequent updates.
