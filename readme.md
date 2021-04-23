@@ -1057,8 +1057,7 @@ premium services
 - [Deezloader Remaster](https://www.reddit.com/r/DeezloadersIsBack/comments/9n3pf1/deezloader_alpha_latest_version_download10102018/) Tool for downloading music from Deezer
 - [Deezloader Remix](https://notabug.org/RemixDevs/DeezloaderRemix) Another program with the same purpose, both based on the original, now defunct Deezloader.
 - [/r/DeezloaderIsBack](https://www.reddit.com/r/DeezloadersIsBack) Community supporting Deezloader
-- [Deemix](https://codeberg.org/RemixDev/deemix) Another program with the same purpose. "Deemix is a python library that lets you download millions of songs [from Deezer]". "Deemix is meant to replace Deezloader Remix".
-- [/r/deemix](https://www.reddit.com/r/deemix) Community supporting Deemix
+- [/r/deemix](https://www.reddit.com/r/deemix) Deemix is a python library that lets you download millions of songs [from Deezer].
 - [New Album Releases](http://newalbumreleases.net/) Premium DDL links for full albums
 - [KHInsider](https://downloads.khinsider.com/) Site collecting soundtracks, mostly MP3, some FLAC, OGG or M4A.
 - [VGMLoader](https://github.com/TheLastZombie/VGMLoader) Tool for bulk downloading from KHInsider.
