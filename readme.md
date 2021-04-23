@@ -203,7 +203,6 @@ You will notice some items on this list have a :star2: next to them. Items with 
 - [anti-anti-copy](https://greasyfork.org/en/scripts/7197-anti-anti-copy) some websites prevent you from copying text. this script bypasses it.
 - [Torrentz2 Magnet](https://greasyfork.org/en/scripts/21547-torrentz2-magnet) Add magnet link to torrentz2
 - [Bypass paywalls for scientific documents](https://greasyfork.org/en/scripts/35521-bypass-paywalls-for-scientific-documents) This script adds download buttons on Google Scholar, Scopus, and Web Of Science, which lead to sci-hub.tw.
-- [Google Drive Direct Links](https://greasyfork.org/en/scripts/10052-google-drive-direct-links/feedback) Direct link functionality for Google Drive
 - [Bypass Google Sorry (reCAPTCHA)](https://greasyfork.org/en/scripts/33226-bypass-google-sorry-recaptcha) Redirect Google reCAPTCHA to a new search window.
 - [Google Image "View Image" button](https://greasyfork.org/en/scripts/392076-google-images-direct-link-fix) Add "View Image" button. This is a fork of the original.
 - [MoreCAPTCHA](https://greasyfork.org/en/scripts/31088-morecaptcha) Speeds up solving Google reCAPTCHA challenges by shortening transition effects and providing continuous selection ability.
