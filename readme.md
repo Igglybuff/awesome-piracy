@@ -712,7 +712,7 @@ premium services
 #### HD Streaming
 - [/r/MovieStreamingSites](https://www.reddit.com/r/MovieStreamingSites/) Reddit, random streaming sites
 - [HD MultiredditHD](https://www.reddit.com/user/nbatman/m/streaming2/) Alternate subreddit curated by /u/nbatman
-- [Best Free Streaming](https://www.bestfreestreaming.com/) Site that rates streaming services
+- [Best Free Streaming](https://www.bestfreestreaming.org/) Site that rates streaming services
 - [StreamCR](https://scr.cr/) Clean design, very nice speeds, a large variety of films and series, HD server, Popular Site
 - [YMovies](https://ymovies.tv/) Unique design, HD server with additional hosts, nice speeds, YIFY and other releases (+ torrents)
 - [HDO](https://hdo.to/) Unique design, HD server with additional hosts, also country-specific films/series
