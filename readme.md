@@ -1088,7 +1088,6 @@ premium services
 - [CrackingPatching.com](https://crackingpatching.com/) Cracked software
 - [Appked](https://www.macbed.com/) Mac application sharing site
 - [Team-OS HKRG](https://www.teamos-hkrg.com/index.php) Windows software and various activation tools.
-- [CracksNow](https://cracksnow.com/) Cracks for Android, Windows, and macOS applications.
 - [Nulled](https://www.nulled.to/) Nulled is a cracking community where you can find links to cracked software
 - [/s/sjain_guides](https://saidit.net/s/sjain_guides) Guides and downloads for CS:GO, Windows 10 gaming optimisations, and more
 - [My Digital Life Forums](https://forums.mydigitallife.net/) Popular forum for modded/cracked software and apps
