@@ -307,7 +307,6 @@ for any IP address.
 - [Audionews](https://audionews.org/) (AN) Private torrent tracker for music production audio. (DJ apps, audio editor, DAW apps, etc) Open signups on the 1st-2nd every month.
 - [Awesome HD](https://awesome-hd.me/) (AHD) Awesome-HD is a private tracker for quality enthusiasts.
 - [BakaBT](https://bakabt.me/) (BBT) a torrent tracker which specializes in serving anime fans
-- [BeyondHD](https://beyondhd.xyz/) (BHD) BeyondHD is a ratioless torrent tracker dedicated to HD movies and TV shows in High Definition.
 - [Bibliotik](https://bibliotik.me/) (BI) Popular ebooks/audiobooks private tracker
 - [Bitspyder](http://bitspyder.net/) (BS) Bitspyder is an educational torrent site devoted to e-Learning content such as e-Books, video courses, and audiobooks.
 - [Blutopia](https://blutopia.xyz) (BLU) Blutopia is a private tracker for HD movies and HD TV shows.
