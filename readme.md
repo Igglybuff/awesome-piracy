@@ -935,7 +935,6 @@ premium services
 
 ### Plex Shares
 - [/r/plexshares](https://www.reddit.com/r/plexshares/) A nice place to find Plex Media Server shares.
-- [BaconFeet](https://baconfeet.com/) "Bringing a difference in streaming to the masses..." ([/r/BaconFeet](https://www.reddit.com/r/BaconFeet/))
 - [Elysium](https://elysium.to/) Plex media streaming service
 
 ### Plex Transcoding
