@@ -776,6 +776,7 @@ premium services
 - [Toonova](http://www.toonova.net/) Another site for streaming cartoons
 - [KimCartoon](https://kimcartoon.to/) Large cartoon collection, primarily Openload
 - [WatchCartoon](https://www.watchcartoononline.io/) Outdated site layout, still active, uses Openload
+- [Serieslan](https://serieslan.com/) Cartoons in Spanish.
 
 #### Sports Streaming
 - [/r/MLBstreams](https://www.reddit.com/r/MLBstreams/) Reddit - MLB streams
