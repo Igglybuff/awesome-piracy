@@ -603,6 +603,7 @@ ltConfig is a plugin for Deluge that allows direct modification to libtorrent se
 - [curl](https://en.wikipedia.org/wiki/CURL) `curl` is a command-line tool for downloading data using a variety of protocols. Easily installable on most operating systems.
 - [FlixGrab](https://www.flixgrab.com/) FlixGrab+ is a unique application for downloading entire NetFlix serials, TV shows, documentaries, movies.
 - [Mega.nz IDM Downloader](https://web.archive.org/web/20200629125743/https://github.com/CHEF-KOCH/Mega.nz-IDM-downloader) Unlimited downloading from Mega.nz with IDM.
+- [Streamlink](https://github.com/streamlink/streamlink) Streamlink is a CLI utility which pipes video streams from various services into a video player
 
 ### Custom Google Search Engines
 - These all do the same thing:
