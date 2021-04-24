@@ -998,7 +998,6 @@ premium services
 
 ### ROMs
 - [Romsmania](https://romsmania.cc/) Good ROMs collection with a decent UI.
-- [Doperoms](https://www.doperoms.com/) Huge collection with over 170,000 ROM files. PS3 included.
 - [Vimm's Lair](https://vimm.net/?p=vault) Large collection of ROMs
 - [ROM/ISO sites](http://emulation.gametechwiki.com/index.php/ROM_%26_ISO_Sites) Wiki page from gametechwiki.com with more links
 - [Romulation.net](https://www.romulation.net/) Collection of ~28,000 console game ROMs
@@ -1008,8 +1007,6 @@ premium services
 - [The ROM Depot](https://theromdepot.com/roms/) About 3TB of ROMs. You may need a VPN.
 - [Emulator.Games](https://emulator.games/) Download or play ROMs on your PC, Mobile, Mac, iOS and Android devices.
 - ["A simple script for easily downloading emulator.games roms"](https://www.reddit.com/r/Piracy/comments/aytutr/a_simple_script_for_easily_downloading/) Reddit guide and userscript created by /u/estel_smith to allow you to easily download ROMs from Emulator.Games.
-- [3DSISO](http://www.3dsiso.com/) Nintendo 3DS ROMs downloads forum.
-- [3DSCIA.com](https://www.3dscia.com/) DDL links for 3DS CIA files.
 - [Ziperto](https://www.ziperto.com/nintendo/3ds-roms/3ds-cia/) DDL link site primarily for Nintendo games.
 
 ### Console Games
