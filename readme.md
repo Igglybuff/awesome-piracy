@@ -1466,6 +1466,7 @@ premium services
 - [Flickmetrix](https://flickmetrix.com/) Movie database search engine with disc/Netflix/Prime filtering
 - [dvdsreleasedates.com](https://www.dvdsreleasedates.com/) The latest info on new Blu-ray and DVD releases
 - [Simkl](https://simkl.com/) Movie and TV show scrobbler similar to Trakt.tv
+- [TasteDive](https://tastedive.com/)
 
 ### PreDB Sites
 - [Urban Dictionary: predb](https://www.urbandictionary.com/define.php?term=predb) Urban Dictionary definition
