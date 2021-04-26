@@ -1349,6 +1349,7 @@ premium services
 - [BlackMod](https://blackmod.net/) Lots of cracked Android games
 - [Android Zone](https://android-zone.ws/) Another place to find premium links for APKs
 - [RevDl](https://www.revdl.com/) Direct download site for Android apps and games.
+- [ReXdl](https://rexdl.com/)
 - [/r/ApksApps](https://www.reddit.com/r/apksapps) "The best Modded apps on Reddit."
 - [/r/moddedandroidapps](https://www.reddit.com/r/moddedandroidapps) Modded Android app releases subreddit.
 - [IndexOutOfBounds Store](https://store.ioob.pw/) Streaming apps including Liveflix, PopFlix, SeriesDroid S2, and AnimeDroid S2.
