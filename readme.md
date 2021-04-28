@@ -786,7 +786,7 @@ premium services
 - [/r/mmafights](https://www.reddit.com/r/mmafights/) Reddit - MMA streams
 - [/r/motorsportsstreams](https://www.reddit.com/r/motorsportsstreams) Reddit - motorsports streams
 - [Best Sport Streaming](https://www.bestsportstreaming.com/) Site that rates sport streaming services
-- [LiveTV](https://livesx.eu/) Wide variety of sports, results/live scores, video archive and betting
+- [LiveTV](https://liveru.sx/) Wide variety of sports, results/live scores, video archive and betting
 - [Cricfree](https://crickfree.org/) Offers popular sports streams
 - [VIPBox](https://www.vipbox.live/) Many sport streams, TV, friendly UI
 - [MamaHD](https://www.mamahd.org/) 24/7 feeds, sports streams, clean UI
