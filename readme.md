@@ -790,7 +790,6 @@ premium services
 - [Cricfree](https://crickfree.org/) Offers popular sports streams
 - [VIPBox](https://www.vipbox.live/) Many sport streams, TV, friendly UI
 - [MamaHD](https://www.mamahd.org/) 24/7 feeds, sports streams, clean UI
-- [Send It](https://sendit.gg/) Live stream listings for sports, news, gaming, and more.
 - [SportsHD](http://www.speedsports.me) Variety of sports including college sports, clean design
 - [720pStream](http://www.720pstream.me/) Popular sports only, simple design
 - [footybite](https://www.footybite.com/) Soccer streaming site.
