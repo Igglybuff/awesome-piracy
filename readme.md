@@ -249,6 +249,7 @@ You will notice some items on this list have a :star2: next to them. Items with 
 - [Destroy-Windows-10-Spying](http://m.majorgeeks.com/files/details/destroy_windows_10_spying.html) Destroy Windows Spying tool
 - [Tron](https://www.reddit.com/r/TronScript) Tron, an automated PC cleanup script
 - [Tallow](https://github.com/basil00/TorWall) Tallow is a transparent Tor firewall and proxying solution for Windows.
+- [Blackbird](https://getblackbird.net/)
 
 ## Email
 - [ProtonMail](https://protonmail.com/) Secure Email Based in Switzerland
