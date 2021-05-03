@@ -1259,6 +1259,7 @@ premium services
 - [DVD Decrypter](http://dvddecrypter.org.uk/) The original unofficial DVD Decrypter mirror since June 7th, 2005.
 - [DVDFab](https://www.dvdfab.cn/) DVD ripping tool
 - [The Encoding Guide](https://encoding-guide.neocities.org/) :star2: In-depth guide on encoding video
+- [XMedia Recode](https://www.xmedia-recode.de/en/) XMedia Recode is a free, light weight transcoder, editor, CD/DVD/BD ripper with support for subtitles, hardware acceleration and much more.
 
 ## Cloud Storage
 - [google-drive-ocamlfuse](https://github.com/astrada/google-drive-ocamlfuse) FUSE filesystem over Google Drive
