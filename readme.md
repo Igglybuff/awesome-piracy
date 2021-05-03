@@ -1124,6 +1124,7 @@ premium services
 - [ReadAnyBook](https://readanybook.com/) Free online reading.
 - [PDFdrive](http://pdfdrive.com) PDF Drive is your search engine for PDF files. No annoying ads, no download limits.
 - [Memory of the world](http://library.memoryoftheworld.org) A new website containing a lot of books.
+- [Mobilism Forum](https://forum.mobilism.org/index.php) :star2: Large forum of mobile apps and books.
 
 ## Magazines
 - [PDF Giant](http://pdf-giant.com/) Various categories of downloadable PDFs
