@@ -766,6 +766,7 @@ premium services
 - [4anime](https://4anime.to/) A relatively new site the might become the new Masterani.me. Clean interface.
 - [AnimeRam](https://ww2.animeram.cc/) A streaming website for dubbed/subbed anime.
 - [animepahe](https://animepahe.com/) A minimilistic anime streaming/download website, subs only.
+- [Anime X Stream](https://github.com/mukul500/AnimeXStream) An Android app to watch anime on your phone without ads.
 
 #### Cartoons
 - [KissCartoon](https://kisscartoon.ac/) Popular cartoon streaming site
