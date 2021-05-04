@@ -156,7 +156,6 @@ You will notice some items on this list have a :star2: next to them. Items with 
 - [/r/VPNTorrents](https://www.reddit.com/r/VPNTorrents) This is for the discussion of torrenting (and similar P2P protocols) using VPN type technology.
 
 ### VPN Subscription Services
-- [Private Internet Access](https://www.privateinternetaccess.com/) :star2: Hugely popular subscription-based VPN provider with a proven track record for not keeping logs
 - [Mullvad](https://mullvad.net/en/) A Bitcoin-friendly, privacy-first VPN.
 - [ProtonVPN](https://protonvpn.com/) High-speed Swiss VPN that safeguards your privacy.
 - [NordVPN](https://nordvpn.com/) With NordVPN, encrypt your online activity to protect your private data from hackers or snoopy advertisers.
