@@ -768,7 +768,7 @@ premium services
 - [animepahe](https://animepahe.com/) A minimilistic anime streaming/download website, subs only.
 
 #### Cartoons
-- [KissCartoon](https://kisscartoon.ac/) Popular cartoon streaming site
+- [KissCartoon](https://kisscartoon.sh/) Popular cartoon streaming site
 - [watchcartoononline.com](https://www.watchcartoononline.com/) Cartoons, dubbed/subbed anime streaming site
 - [watchcartoononline.io](https://www.watchcartoononline.io/) Large DDL site for cartoons as well as anime and movies
 - [animetoon](http://www.animetoon.org/) Lots of streaming via premium hosts for cartoons
