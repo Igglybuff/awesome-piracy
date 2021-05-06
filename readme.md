@@ -1508,6 +1508,7 @@ premium services
 - [CyTube](https://cytu.be/) Channel-based shared streaming platform for synchronized viewing of YouTube and Google Drive videos
 - [ArconaiTV](https://www.arconaitv.us/) Another stream sharing platform with a nice UI
 - [&chill](https://andchill.tv/) Watch videos with people.
+- [Jarvis Player](https://jarvisplayer.com/) Watch torrents in full HD with up to a million people simultaneously.
 
 ## Telegram Piracy
 - [Raymond's Piracy Group](https://t.me/raymondfreesoftware) A group of 5000+ pirates chatting on Telegram. This group replaces the now-defunct piracy group which suicideboy used to run.
