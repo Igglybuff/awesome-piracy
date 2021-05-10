@@ -1,8 +1,4 @@
-<html>
-    <meta charset='utf-8'>
-   <title>AwesomePiracy</title>
-<xmp theme="united" style="display:none;">
-   # Awesome Piracy [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome Piracy [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 > A curated list of arrrrrrrrr!
 
@@ -1567,13 +1563,10 @@ premium services
 - [Outline](https://outline.com/) Designed to remove ads, comments, and other junk from news articles but conveniently also bypasses paywalls
 
 ## Contribute
-Contributions welcome! Read the [contribution guidelines](https://github.com/Igglybuff/awesome-piracy/blob/master/contributing.md) first.
+Contributions welcome! Read the [contribution guidelines](contributing.md) first.
 
 ## License
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](http://creativecommons.org/publicdomain/zero/1.0)
 
 To the extent possible under law, Igglybuff has waived all copyright and
 related or neighboring rights to this work.
-</xmp>
-<script src="https://strapdownjs.com/v/0.2/strapdown.js"></script>
-</html>
