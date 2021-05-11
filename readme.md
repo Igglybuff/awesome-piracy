@@ -190,7 +190,6 @@ You will notice some items on this list have a :star2: next to them. Items with 
 - [Burlesco](https://burles.co/en/) Read the news without subscribing, bypass the paywall
 - [Universal Bypass](https://github.com/Sainan/Universal-Bypass) Universal Bypass automatically skips annoying link shorteners.
 - [Violentmonkey](https://violentmonkey.github.io/) An open-source userscript manager.
-- [Anti-Paywall](https://github.com/nextgens/anti-paywall) A browser extension that maximizes the chances of bypassing paywalls
 - [Google Unlocked](https://github.com/Ibit-to/google-unlocked) Uncensor google search results.
 
 ## Userscripts
