@@ -871,7 +871,7 @@ premium services
 - [linuxserver/docker-plex](https://github.com/linuxserver/docker-plex) LinuxServer.io Plex Media Server docker image
 - [plexinc/pms-docker](https://github.com/plexinc/pms-docker) official Plex docker image
 - [timhaak/plex](https://github.com/timhaak/docker-plex) alternative Plex docker image
-- [PGBlitz.com](https://pgblitz.com/) :star2: Deploy a Hastey Server through Docker & Ansible with local or Unlimited Google HD Space (Former Name: PlexGuide)
+- [MHA-Team/PTS-Team](https://github.com/MHA-Team/PTS-Team) :star2: an all-in-one media solution that deploys a Media Server through the use of either your local HDD or Google Drive; serving as unlimited back-end storage. (Formerly  PlexGuide / PGBlitz)
 - [hoarding.me](https://hoarding.me/) Unlimited and Automated. How to setup your own dream Plex server.
 - [PlexPi](http://plexpi.com/) Plex Media Server for Raspberry Pi 3
 
