@@ -197,7 +197,6 @@ You will notice some items on this list have a :star2: next to them. Items with 
 - [IMDb Scout](https://greasyfork.org/en/scripts/3967-imdb-scout) Add links from IMDb pages to torrent sites -- easy downloading from IMDb
 - [IMDb Scout Mod](https://greasyfork.org/en/scripts/407284-imdb-scout-mod) Adds links to IMDb pages from the torrent, ddl, subtitles, streaming, usenet and other sites.
 - [AdsBypasser](https://adsbypasser.github.io/) This user script helps you to skip countdown ads or continue pages and prevent ad pop-up windows.
-- [AntiAdware](https://greasyfork.org/en/scripts/4294-antiadware) Remove forced download accelerators, managers, and adware on supported websites
 - [Direct download from Google Play](https://greasyfork.org/en/scripts/33005-direct-download-from-google-play/) Adds APKPure, APKMirror and Evozi download buttons to Google Play when browsing apps.
 - [AdGuard Popup Blocker](https://github.com/AdguardTeam/PopupBlocker) Popup Blocker by AdGuard is a userscript that blocks all unwanted pop-up windows in different browsers.
 - [Torrentz2 Magnet](https://greasyfork.org/en/scripts/21547-torrentz2-magnet) Add magnet link to torrentz2
