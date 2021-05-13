@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+	<title>Awesome Piracy</title>
+	<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootswatch@5.0.0/dist/united/bootstrap.min.css">
+	<style>
+		main
+		{
+			font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji';
+			font-size: 16px;
+			line-height: 1.5;
+			width: 960px;
+			margin: auto;
+		}
+		select
+		{
+			position: fixed;
+			bottom: 0;
+			right: 0;
+		}
+	</style>
+</head>
+<body>
+
+	<select onchange="changeCSS( this.value )">
+		<option value="united">United</option>
+		<option value="darkly">Darkly</option>
+		<option value="flatly">Flatly</option>
+		<option value="quartz">Quartz</option>
+	</select>
+
+	<main></main>
+
+	<!-- JavaScript Library to Convert Markdown INto HTML -->
+	<script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+	<script>
+		// Get the markdown file, convert to HTML & put inside main tag
+		fetch( 'https://raw.githubusercontent.com/Igglybuff/awesome-piracy/master/readme.md' )
+			.then( response => response.text() )
+			.then( data => {
+				// Get Github emojis
+				fetch( 'https://api.github.com/emojis' )
+					.then( response => response.text() )
+					.then( data2 => JSON.parse( data2 ) )
+					.then( emojis => { for( let x in emojis )
+						{
+							// Replace all GitHub emoji short codes to emoji images
+							data = data.replaceAll( `:${x}:`, `<img src="${emojis[ x ]}" width="20">` );
+						}
+						// Replace a special Unicode emoji to GitHub emoji
+						data = data.replaceAll( '🧲', `<img src="${emojis[ 'magnet' ]}" width="15">` );
+					})
+					// Add converted HTML to main tag
+					.then( data3 => { document.querySelector( 'main' ).innerHTML = marked( data ); } )
+					.catch( error => console.error( 'Error:', error ) );
+			})
+			.catch( error => console.error( 'Error:', error ) );
+
+		// Change the theme
+		function changeCSS( theme )
+		{
+			document.querySelector( 'link' ).href
+					= `https://cdn.jsdelivr.net/npm/bootswatch@5.0.0/dist/${theme}/bootstrap.min.css`;
+		}
+	</script>
+</body>
+</html>
