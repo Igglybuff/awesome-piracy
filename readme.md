@@ -1494,7 +1494,7 @@ premium services
 ## File Sharing Tools
 - [transfer.sh](https://transfer.sh/) Easy file sharing from the command line
 - [FilePizza](https://file.pizza/) Free peer-to-peer file transfers in your browser.
-- [DBREE](https://dbr.ee/) DBREE is a simplistic and easy way to upload and share any type of file.
+- [DBREE](https://dbree.org/) DBREE is a simplistic and easy way to upload and share any type of file.
 - [WeTransfer](https://wetransfer.com/) WeTransfer was founded in 2009 as the simplest way to send big files around the world.
 - [dmca.gripe](https://dmca.gripe/) A DMCA-resistant, permanent file hosting service.
 - [FileBin](https://filebin.net/) Convenient file sharing on the web, without registration.
