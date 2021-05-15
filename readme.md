@@ -246,7 +246,7 @@ You will notice some items on this list have a :star2: next to them. Items with 
 - [Windows Privacy Tweaker](https://www.phrozen.io/freeware/windows-privacy-tweaker/) Freeware app from phrozen.io
 - [Winaero](https://winaero.com/blog/about-us/) Free, small and useful software for Windows.
 - [WPD](https://wpd.app/) The real privacy dashboard for Windows
-- [Destroy-Windows-10-Spying](http://m.majorgeeks.com/files/details/destroy_windows_10_spying.html) Destroy Windows Spying tool
+- [Destroy-Windows-10-Spying](https://m.majorgeeks.com/files/details/destroy_windows_10_spying.html) Destroy Windows Spying tool
 - [Tron](https://www.reddit.com/r/TronScript) Tron, an automated PC cleanup script
 - [Tallow](https://github.com/basil00/TorWall) Tallow is a transparent Tor firewall and proxying solution for Windows.
 
