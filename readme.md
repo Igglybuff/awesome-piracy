@@ -1297,6 +1297,11 @@ premium services
 - [YMusic](https://forum.xda-developers.com/android/apps-games/app-youtube-music-sound-stream-youtubes-t3399722) YouTube Music Player & Downloader
 - [Cygery AdSkip for YouTube](https://labs.xda-developers.com/store/app/com.cygery.adskip.xda) Automatically click on the "Skip ad" button in the YouTube™ app when it appears.
 - [Blokada](https://blokada.org) Blokada is a compact app that transparently blocks unwanted content like ads, tracking, malware, and other annoyances.
+- [DNS66](https://github.com/julian-klode/dns66) A DNS-based host blocker for Android. In the default configuration, several widely-respected host files are used to block ads and malware.
+- [Nebulo](https://github.com/Ch4t4r/Nebulo) Nebulo is a free, open-source, no-root, light-weight dns-over-https, dns-over-tls, and dns-over-http-over-quic client for Android with emphasis on privacy and security. Nebulo is fast, highly-customizable, ad-free, efficient on the battery, contains zero analytics / tracking.
+- [NetGuard](https://github.com/M66B/NetGuard/) NetGuard provides simple and advanced ways to block access to the internet - no root required. Applications and addresses can individually be allowed or denied access to your Wi-Fi and/or mobile connection.
+- [RethinkDNS + Firewall](https://github.com/celzero/rethink-app) Rethink DNS + Firewall is the easiest way to monitor app activity, circumvent Internet censorship, block ads and trackers on your Android device. Free and open source.
+- [TrackerControl](https://github.com/OxfordHCC/tracker-control-android) TrackerControl allows users to monitor and control the widespread, ongoing, hidden data collection in mobile apps about user behaviour.
 - [Tachiyomi](https://github.com/inorichi/tachiyomi) Tachiyomi is a free and open-source manga reader for Android.
 - [4PDA.ru](http://4pda.ru/forum/index.php?act=idx) 4PDA is the biggest Russian forum about mobile devices. You can find an endless amount of APKs and Mobile software there. For download, registration is required
 - [AnYme](https://github.com/zunjae/anYme) Unofficial Anime App for MyAnimeList
