@@ -8,7 +8,7 @@ project you agree to abide by its terms.
 
 Ensure your pull request adheres to the following guidelines:
 
-- Include a description of the link you're adding if possible
+- Include a description of the link you're adding if possible For Ex ( https://fixcydia.com)
 - If you're changing section headers, ensure you update the contents at the top too
 - If you're adding a new section, ensure you give it a unique name
 
