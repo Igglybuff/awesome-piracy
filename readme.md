@@ -317,7 +317,7 @@ for any IP address.
 - [IPTorrents](https://iptorrents.com/) (IPT) Private tracker with movies, books, and more.
 - [JPopsuki](https://jpopsuki.eu/) (JPop) JPopsuki is a torrent tracker focused on Asian music.
 - [MyAnonaMouse](https://www.myanonamouse.net/) (MAM) Private E-Learning tracker with about 360 000 torrents including audiobooks, e-learning, musicology, and radio.
-- [MySpleen](http://www.myspleen.org/login.php) (MS) MySpleen is a private tracker which specialises in comedy, animation, and TV series.
+- [MySpleen](https://www.myspleen.org/login.php) (MS) MySpleen is a private tracker which specialises in comedy, animation, and TV series.
 - [Nostalgic Torrents](https://nostalgic.is/) (NT) Private tracker for anime, comics/manga, documentaries, movies, TV - PRE 2013, TV - PRE 2009 With Original Commercials, etc. Also known as The-Archive and HeyNow.
 - [PassThePopcorn](https://passthepopcorn.me/) (PTP) ratio-based torrent tracker for movies
 - [PolishTracker](https://pte.nu/) (PT) PolishTracker is the oldest private Polish tracker existing to this day
