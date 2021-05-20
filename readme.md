@@ -329,7 +329,6 @@ for any IP address.
 - [TVChaos UK](https://www.tvchaosuk.com/) (TVCUK) Private tracker for British television
 - [UHDBits](https://uhdbits.org/) (UHD) UHDBits is a Vietnamese private torrent tracker focused on HD movies and TV shows.
 - [WorldOfP2P](https://worldofp2p.net) (WOP) Private tracker for Movies, TV, and General.
-- [/PTG tracker manifesto](https://pastebin.com/thLgSkNE) List of private trackers
 - [0QoLttS.jpg](https://i.imgur.com/0QoLttS.jpg) Screenshot of a table from somewhere of private trackers and their sign-up requirements
 - [Private Tracker Flowchart](https://wiki.installgentoo.com/images/9/97/Private_tracker_flowchart.png) V4 of the private tracker flowchart. Somewhat out of date.
 - [Private trackers](https://wiki.installgentoo.com/index.php/Private_trackers) Guide on how to get into (and survive) the world of private trackers.
