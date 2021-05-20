@@ -311,7 +311,6 @@ for any IP address.
 - [CGPeers](https://www.cgpeers.com/) (CGP) CGPeers is a private torrent tracker for all things computer graphics: tutorials, graphics software, 3D, visual effects, design, and computer-assisted art.
 - [Filelist](https://filelist.io/) (FL) Large Romanian general tracker with mostly English content. No RAR files allowed. (Scene torrents are unrared, and then allowed.)
 - [GazelleGames](https://gazellegames.net/login.php) (GGn) Currently the largest private tracker for games.
-- [HD4Free](https://hd4.xyz) (HD4F) HD4Free is a general HD tracker with a good range of content. It is a ratioless tracker so it is great for beginners. Note that any adult content/porn is strictly prohibited there.
 - [HD-Forever](https://hdf.world/) (HD-F) HD-Forever is a French private tracker for HD movies.
 - [HD-Space](https://hd-space.org/) (HDS) HD-Space is a private torrent tracker hosting HD movies, TV shows, and music torrents. Good tracker for beginners.
 - [IPTorrents](https://iptorrents.com/) (IPT) Private tracker with movies, books, and more.
