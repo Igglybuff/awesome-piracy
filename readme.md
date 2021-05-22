@@ -637,6 +637,7 @@ ltConfig is a plugin for Deluge that allows direct modification to libtorrent se
 - [Movies "R" Us](https://moviesrus.tk) The newest movies in 1080p. Available with DDL through MediaFire and streaming through AnonFile.
 - [Movie Glide](https://www.movieglide.com/)
 - [Release BB](http://rlsbb.ru)
+- [GOG Games](https://gog-games.com) DDL links for all games released on GOG
 - [DDLValley](https://www.ddlvalley.me/) DDL links for Movies, Games, Tv Shows, Apps, Ebooks and Music.
 - [AdiT-HD](http://adit-hd.com/) direct download site
 - [TwoDDL](http://2ddl.ws) Direct download links
