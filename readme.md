@@ -1040,7 +1040,7 @@ premium services
 
 ### Music Streaming
 - [Muxiv Music](https://muxiv.com/) Stream 45 million songs on all your devices, online or offline. Primarily Chinese content.
-- [Hikarinoakariost](https://hikarinoakariost.info/) Site with Japanese music
+- [Hikarinoakariost](https://hikarinoakari.com/) Site with Japanese music
 - [mp3Clan](http://mp3guild.com/) Free music streaming
 - [GoSong](https://gosong.unblocked.gdn/) Streamable MP3s
 - [MP3Juices](https://mp3juices.unblocked.gdn/) MP3 search engine tool which uses YouTube
