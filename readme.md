@@ -1525,7 +1525,6 @@ premium services
 - [/r/EmbyShares](https://www.reddit.com/r/EmbyShares) This subreddit is dedicated to the sharing of Emby servers.
 - [/r/freefolk](https://www.reddit.com/r/freefolk) Streams for new episodes of Game of Thrones
 - [/r/ProshotMusicals](https://www.reddit.com/r/ProShotMusicals) Subreddit for all those theatre obsessed people who want pro shots instead of bootlegs to be seen.
-- [Spyse](https://spyse.com/) Spyse is the most complete Internet assets registry that collects publicly available data about websites, servers, their owners, and devices connected to the Internet.
 - [Shodan](https://www.shodan.io/) Shodan is the world's first search engine for Internet-connected devices.
 - [Pi-hole](https://pi-hole.net/) Pi-hole is a Linux network-level advertisement and internet tracker blocking application which acts as a DNS sinkhole
 - [How to use eMule in 2018](https://archive.is/j1T6o) An up-to-date guide detailing how to use eMule to download rare content from the eDonkey and Kad P2P networks.
