@@ -274,7 +274,7 @@ You will notice some items on this list have a :star2: next to them. Items with 
 - [xip.io](http://xip.io/) magic domain name that provides wildcard DNS
 for any IP address.
 - [Domainr](https://domainr.com/) Domainr finds domain names and short URLs. Instantly check availability and register for all top-level domains.
-- [Stubby](https://github.com/getdnsapi/stubby) Stubby is an application that acts as a local DNS Privacy stub resolver (using DNS-over-TLS). Stubby encrypts DNS queries sent from a client machine (desktop or laptop) to a DNS Privacy resolver increasing end user privacy. Stubby is in the early stages of development but is suitable for technical/advanced users. A more generally user-friendly version is on the way!
+- [Stubby](https://github.com/getdnsapi/stubby) Stubby is an application that acts as a local DNS Privacy stub resolver (using DNS-over-TLS). Stubby is in the early stages of development but is suitable for technical/advanced users. A more generally user-friendly version is on the way!
 
 ## Torrenting
 - [/r/torrents](https://www.reddit.com/r/torrents) Questions and discussion about all things torrent-related
