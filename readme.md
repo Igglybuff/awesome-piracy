@@ -220,7 +220,7 @@ You will notice some items on this list have a :star2: next to them. Items with 
   - Chrome: [Tusk](https://chrome.google.com/webstore/detail/keepass-tusk-password-acc/fmhmiaejopepamlcjkncpgpdjichnecm)
   - Firefox: [Tusk](https://addons.mozilla.org/en-US/firefox/addon/keepass-tusk)
   - Web App: [KeeWeb](https://keeweb.info/)
-- [LastPass](https://www.lastpass.com/) LastPass remembers all your passwords, so you don't have to.
+- [LastPass](https://www.lastpass.com/) LastPass remembers all your passwords, so you don't have to. (NOT open source)
 - [Pass](https://www.passwordstore.org/) Simple GPG/Git password manager. Follows the Unix philosophy.
 - [Dashlane](https://www.dashlane.com/) An intuitive password manager with over with over 8 million users worldwide.
 - [Passbolt](https://www.passbolt.com/) Free, open source, self-hosted, extensible, OpenPGP based.
