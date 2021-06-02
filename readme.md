@@ -1213,7 +1213,6 @@ premium services
 - [LazyLibrarian](https://github.com/DobyTang/LazyLibrarian) LazyLibrarian is a program to follow authors and grab metadata for all your digital reading needs.
 - [CloudBox](https://cloudbox.works/) An All-In-One, Cloud-Centric, Media Server Solution
 - [Piracy and automation, an overview](https://docs.google.com/document/d/1TwUrRj982WlWUhrxvMadq6gdH0mPW0CGtHsTOFWprCo/edit) Guide by /u/JukeCity101 on how to improve your experience pirating with automation tools
-- [Nefarious](https://lardbit.github.io/nefarious/) Nefarious is a web application that helps you download movies and TV shows.
 
 ### TV Automation
 - [Sonarr](https://github.com/Sonarr/Sonarr) :star2: Smart PVR for newsgroup and BitTorrent users.
@@ -1222,12 +1221,15 @@ premium services
 - [SickBeard](http://sickbeard.com/) The ultimate PVR application that searches for and manages your TV shows
 - [SickGear](https://github.com/SickGear/SickGear) SickGear has proven the most reliable stable TV fork of the great Sick-Beard to fully automate TV enjoyment with innovation.
 - [Medusa](https://pymedusa.com/) Automatic Video Library Manager for TV Shows.
+- [nefarious](https://lardbit.github.io/nefarious/) nefarious is a web application that automatically downloads Movies and TV Shows.
+
 
 ### Movie Automation
 - [Radarr](https://radarr.video/) :star2: A fork of Sonarr to work with movies à la Couchpotato.
 - [RadarrSync](https://github.com/Sperryfreak01/RadarrSync) Syncs two Radarr servers through web API.
 - [CouchPotato](https://github.com/CouchPotato/CouchPotatoServer) Automatic Movie Downloading via NZBs & Torrents
 - [Watcher](https://github.com/nosmokingbandit/Watcher3) Watcher is an automated movie NZB & Torrent searcher and snatcher.
+- [nefarious](https://lardbit.github.io/nefarious/) nefarious is a web application that automatically downloads Movies and TV Shows.
 
 ### Music Automation
 - [betanin](https://github.com/sentriz/betanin) beets.io based man-in-the-middle of your torrent client and music player.
