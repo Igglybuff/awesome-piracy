@@ -3,7 +3,7 @@
 ## Preamble
 This list is based on the amazing work https://github.com/Igglybuff/awesome-piracy. However, that repo has a lot of obsolete links, so I forked it to update the links faster.
 
-Please ensure you use an adblocker like [uBlock Origin](https://github.com/gorhill/uBlock) to access any of the websites listed here, otherwise, you will have a bad time.
+Please ensure that you use a blocker like [uBlock Origin](https://github.com/gorhill/uBlock) to access any of the websites listed here, otherwise, you will have a bad time.
 
 If you come across dead links, please fix them by [making a pull request](https://github.com/Shakil-Shahadat/awesome-piracy/edit/master/readme.md) or report them by [creating an issue](https://github.com/Shakil-Shahadat/awesome-piracy/issues).
 
