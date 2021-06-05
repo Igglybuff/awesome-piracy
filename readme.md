@@ -5,7 +5,7 @@ This list is based on the amazing work https://github.com/Igglybuff/awesome-pira
 
 Please ensure that you use a blocker like [uBlock Origin](https://github.com/gorhill/uBlock) to access any of the websites listed here, otherwise, you will have a bad time.
 
-If you come across dead links, please fix them by [making a pull request](https://github.com/Shakil-Shahadat/awesome-piracy/edit/master/readme.md) or report them by [creating an issue](https://github.com/Shakil-Shahadat/awesome-piracy/issues).
+If you come across dead or obsolete links, please fix them by [making a pull request](https://github.com/Shakil-Shahadat/awesome-piracy/edit/master/readme.md) or report them by [creating an issue](https://github.com/Shakil-Shahadat/awesome-piracy/issues).
 
 ## How to use this list
 Some items in this list could easily fit in more than one category, so to make sure you find what you're looking for please use `Ctrl + F` (or `Cmd + F` on macOS).
