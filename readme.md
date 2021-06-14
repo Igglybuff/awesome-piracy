@@ -748,8 +748,9 @@ premium services
 - [Hi10 Anime](https://hi10anime.com/) High-Quality 10-bit Anime Encodes
 - [Anime Kaizoku](https://animekaizoku.com/) Up to 1080p DDL links, mostly Google Drive
 - [Anime Kayo](https://animekayo.com/) Up to 1080p DDL links, mostly Google Drive (no longer updated, site is still accessible)
-- [/r/animepiracy](https://www.reddit.com/r/animepiracy) This sub is about streaming and torrent websites for anime.
-- [/r/animepiracy wiki](https://www.reddit.com/r/animepiracy/wiki/index) Lists for sourcing Anime streaming sites, manga sites, and more
+- [/r/animepiracy](https://www.reddit.com/r/animepiracy) Subreddit about piracy related to anime, manga, light novels, games, and hentai.
+- [r/animepiracy index](https://piracy.moe) Index of websites and apps for streaming/downloading anime, manga, light novels, games, and hentai.
+- [/r/animepiracy wiki](https://wiki.piracy.moe) FAQ, guides, and tutorials for pirating anime and general piracy tips.
 - [9Anime](https://9anime.to) Watch anime online. English anime, dubbed, subbed.
 - [All-animes](https://all-animes.com) Watch Online Anime In HD English Subbed, Dubbed.
 - [GoGo Anime](https://www3.gogoanime.in/) Popular website for watching anime
@@ -1365,6 +1366,7 @@ premium services
 - [/hbg/ Homebrew General](https://discord.io/homebrew) A Discord server that shares Nintendo Switch Games.
 - [/r/soccerstreams](https://discord.gg/geyTtth) Official Discord server for the recently-killed /r/soccerstreams subreddit.
 - [APK'S 2 Day](https://discord.gg/2qWqzN8) This is a discord server that acts as a hub for numerous streaming apps.
+- [/r/animepiracy](https://discord.gg/piracy) Official Discord for /r/animepiracy, mostly weeb media and private tracker discussion.
 
 
 ## IPTV and DVR
