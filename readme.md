@@ -1170,6 +1170,7 @@ premium services
 
 ## Manga
 - [MangaDex](https://www.mangadex.org/) MangaDex is an online manga reader that caters to all languages.
+- [Mangago](https://www.mangago.me/) Mangago is an online manga / manhua / manhwa reader website.
 - [/r/manga](https://www.reddit.com/r/manga) Everything and anything manga! (manhwa is okay too!)
 - [Madokami](https://manga.madokami.al/) Requires sign-up (currently closed), see mirrors below.
 - [Madokami 0-E](https://archive.org/download/Madokami.Manga.0-E) Download manga titles named 0 to E.
