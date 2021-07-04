@@ -779,6 +779,8 @@ premium services
 #### Sports Streaming
 - [/r/MLBstreams](https://www.reddit.com/r/MLBstreams/) Reddit - MLB streams
 - [/r/NHLstreams](https://www.reddit.com/r/NHLstreams/) Reddit - NHL streams
+- [/r/NHLGames](https://www.reddit.com/r/nhl_games/) Reddit - NHL GameCenter Live streams @720p - Windows app
+- [/r/LazyMan](https://www.reddit.com/r/LazyMan/) Reddit - NHL/MLB streams @720p - Windows/Linux/mac app
 - [/r/ncaaBBallstreams](https://www.reddit.com/r/ncaaBBallstreams/) Reddit - NCAABBall streams
 - [/r/CFBstreams](https://www.reddit.com/r/CFBstreams/) Reddit - CFB streams
 - [/r/WWEstreams](https://www.reddit.com/r/WWEstreams/) Reddit - WWE streams
