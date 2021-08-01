@@ -1405,6 +1405,7 @@ premium services
 - [Shout](https://github.com/erming/shout) The self-hosted web IRC client
 - [Kiwi IRC](https://kiwiirc.com/) Popular web-based IRC client
 - [TheLounge](https://hub.docker.com/r/linuxserver/thelounge/) TheLounge (a fork of shoutIRC) is a web IRC client that you host on your own server.
+- [Convos](https://convos.chat/) is a web IRC client with AV support.
 
 ### IRC Networks
 - [irc.p2p-network.net](https://p2p-network.net/) P2P file-sharing network
