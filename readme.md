@@ -1317,7 +1317,7 @@ premium services
 - [AniméGlare](https://animeglare.xyz/)
 - [AniméVibe](http://animevibe.tv/)
 - [ApolloTV](https://apollotv.xyz/)
-- [BeeTV](http://beetvapk.me/)
+- [BeeTV](http://beetvapk.me/) Watch movies & tv shows for free on Android device, Amazon Fire Stick, Fire TV or Nvidia Shield
 - [Cinema](https://cinemaapk.com/)
 - [CKayTV](http://ckaytv.com/)
 - [Cyberflix](https://cybercloud.media/) Terrarium clone
