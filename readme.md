@@ -1124,6 +1124,8 @@ premium services
 - [ReadAnyBook](https://readanybook.com/) Free online reading.
 - [PDFdrive](http://pdfdrive.com) PDF Drive is your search engine for PDF files. No annoying ads, no download limits.
 - [Memory of the world](http://library.memoryoftheworld.org) A new website containing a lot of books.
+- [LibGen Unofficial](https://libgen.rs) search engine for articles and books on various topics, which allows free access to content that is otherwise paywalled or not digitized elsewhere. It contains way more content than Official Libgen
+- [Z-Library](https://z-lib.org/) search engine for scholarly journal articles, academic texts, and general-interest books, which allows free access to content that is otherwise paywalled
 
 ## Magazines
 - [PDF Giant](http://pdf-giant.com/) Various categories of downloadable PDFs
