@@ -823,7 +823,7 @@ You will notice some items on this list have a :star2: next to them. Items with 
 - [4anime](https://4anime.to/) A relatively new site the might become the new Masterani.me. Clean interface.
 - [AnimeRam](https://ww2.animeram.cc/) A streaming website for dubbed/subbed anime.
 - [animepahe](https://animepahe.com/) A minimilistic anime streaming/download website, subs only.
-- [Zoro.to](https://zoro.to/) A streaming website with a built-in filer-guild,keeps Record of past showes watched by, also Sub and Dubbed.
+- [Zoro.to](https://zoro.to/) A streaming website with a built-in filler guide,keeps Record of past showes watched by, also Sub and Dubbed.
 
 #### Cartoons
 
