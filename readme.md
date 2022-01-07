@@ -550,6 +550,7 @@ ltConfig is a plugin for Deluge that allows direct modification to libtorrent se
 - [Binsearch](https://www.binsearch.info/) With this site you can search and browse binary Usenet newsgroups.
 - [NZBKing](http://nzbking.com/) This service allows you to search and browse binary files that have been posted to Usenet newsgroups.
 - [GingaDADDY](https://www.gingadaddy.com/) Another popular free NZB indexer, requires sign-up
+- [AltHub](https://althub.co.za) Free indexer with paid options. Free version allows 100 queries per day, 5 downloads.
 
 ### Usenet Clients
 - [SABnzbd](https://sabnzbd.org/) :star2: SABnzbd is an Open Source Binary Newsreader written in Python.
