@@ -81,14 +81,6 @@ You will notice some items on this list have a :star2: next to them. Items with 
         - [Openload Hosts](#third-party-hosts)
 - [Media Centre Applications](#media-centre-applications)
 - [Stremio](#stremio)
-- [Plex](#plex)
-    - [Plex Plugins](#plex-plugins)
-    - [Plex Requests](#plex-requests)
-    - [Plex Scripts and Tools](#plex-scripts-and-tools)
-    - [Plex Shares](#plex-shares)
-    - [Plex Transcoding](#plex-transcoding)
-    - [Plex Logging and Metrics](#plex-logging-and-metrics)
-    - [Plex Clients](#plex-clients)
 - [Kodi](#kodi)
 - [Gaming](#gaming)
     - [Repacks](#repacks)
@@ -472,11 +464,11 @@ ltConfig is a plugin for Deluge that allows direct modification to libtorrent se
 - [Online.net](https://www.online.net/en) :star2: Seedbox-friendly, affordable, dedicated server host
 - [Hetzner](https://hetzner.co.za/) Reliable and affordable server host
 - [/u/Andy10gbit](https://www.reddit.com/r/seedboxes/comments/9iu7o8/andy10gbit_server_and_seedbox_list/) Reddit user with good deals on servers and seedboxes
-- [Bytesized Hosting](https://bytesized-hosting.com/) "The best Plex server hosting in town"
+- [Bytesized Hosting](https://bytesized-hosting.com/) "The best server hosting in town"
 - [FeralHosting](https://www.feralhosting.com/pricing) Shared seedbox hosting provider
 - [Whatbox](https://whatbox.ca/) Whatbox is a BitTorrent CDN
 - [Seedboxes.cc](https://seedboxes.cc/) Reliable and affordable web hosting, with the power of your friendly monsters!
-- [UltraSeedbox](https://www.ultraseedbox.com/) "Plex optimized" servers to rent
+- [UltraSeedbox](https://www.ultraseedbox.com/) Servers to rent
 - [SeedHost](https://www.seedhost.eu/seedboxes.php) "Seedhost.eu is the oldest continuously operating seedbox hosting provider on the internet."
 - [Chmuranet](https://www.chmuranet.com/) Chmuranet is a small private boutique seedbox provider.
 - [Xirvik](https://www.xirvik.com/) Preconfigured seedbox servers
@@ -493,8 +485,8 @@ ltConfig is a plugin for Deluge that allows direct modification to libtorrent se
 - [rtinst](https://github.com/arakasi72/rtinst) seedbox installation script for Ubuntu and Debian systems
 - [sboxsetup](https://github.com/dannyti/sboxsetup) Another seedbox setup script
 - [QuickBox IO](https://quickbox.io/) Seedbox installer script
-- [MediaServer-DockerComposeFiles](https://github.com/vaeyo/MediaServer-DockerComposeFiles) Docker-Compose Files for Media Server Related Apps [Radarr, Sonarr, Plex, rTorrent, NZBGet, Ombi, Emby, etc]
-- [usenet-docker](https://github.com/justinhamlett/usenet-docker) Docker-compose configuration for Sabnzbd, CouchPotato, Plex, Sonarr, Plexpy, Nzbhydra, Muximux, Radarr, NZBGet and Ombi with an Nginx proxy.
+- [MediaServer-DockerComposeFiles](https://github.com/vaeyo/MediaServer-DockerComposeFiles) Docker-Compose Files for Media Server Related Apps [Radarr, Sonarr, rTorrent, NZBGet, Ombi, Emby, etc]
+- [usenet-docker](https://github.com/justinhamlett/usenet-docker) Docker-compose configuration for Sabnzbd, CouchPotato, Sonarr, Nzbhydra, Muximux, Radarr, NZBGet and Ombi with an Nginx proxy.
 - [DockSTARTer](https://github.com/GhostWriters/DockSTARTer) DockSTARTer helps you get started with home server apps running in Docker.
 - [OpenFLIXR](http://www.openflixr.com/) OpenFLIXR Media Server is an all-in-one media server for automated downloading and serving media.
 
@@ -843,13 +835,11 @@ premium services
 - [megaDDL](https://megaddl.co/) Mega, Go4up, 1Fichier, NitroFlare, Openload
 
 ## Media Centre Applications
-- [Plex](https://www.plex.tv/) :star2: Your content—from live and recorded TV and personal media, to on-demand web shows, video news, and podcasts—beautifully organized and ready to stream everywhere.
 - [Emby](https://emby.media/) a personal media server with apps on just about every device.
 - [Kodi](https://kodi.tv/) an award-winning free and open-source home theater/media center software and entertainment hub for digital media.
-- [OpenPHT](https://github.com/RasPlex/OpenPHT) a community-driven fork of Plex Home Theater
 - [Viewscreen](https://github.com/viewscreen/viewscreen) a personal video streaming server
 - [Streama](https://github.com/streamaserver/streama) Self-hosted streaming media server.
-- [Myflix](https://github.com/pastapojken/Myflix) Myflix tries to be a somewhat simple and lightweight "DIY Netflix", similar to Plex, streama or Emby, for your DIY NAS, especially aimed at the Raspberry Pi/Odroid/etc ecosystem.
+- [Myflix](https://github.com/pastapojken/Myflix) Myflix tries to be a somewhat simple and lightweight "DIY Netflix", similar to streama or Emby, for your DIY NAS, especially aimed at the Raspberry Pi/Odroid/etc ecosystem.
 - [Stremio](https://www.stremio.com/) Multi-platform video content aggregator with a comprehensive add-on system for extending the functionality
 - [Gerbera](https://github.com/gerbera/gerbera) UPnP Media Server for 2018 (Based on MediaTomb)
 - [Serviio](http://serviio.org/) Serviio is a free media server. It allows you to stream your media files (music, video or images) to renderer devices (e.g. a TV set, Blu-ray player, games console or mobile phone) on your connected home network.
@@ -867,89 +857,6 @@ premium services
 - [Stremio - Phone Remote](https://www.reddit.com/r/StremioAddons/comments/cuc3yo/news_phone_remote_for_stremio/) A guide explaining how to control Stremio with your phone
 - [Stremio Catalog Builder](https://www.reddit.com/r/StremioAddons/comments/atizrk/news_stremio_catalog_builder/) A website that allows users to customize catalogs in Stremio
 
-## Plex
-- [linuxserver/docker-plex](https://github.com/linuxserver/docker-plex) LinuxServer.io Plex Media Server docker image
-- [plexinc/pms-docker](https://github.com/plexinc/pms-docker) official Plex docker image
-- [timhaak/plex](https://github.com/timhaak/docker-plex) alternative Plex docker image
-- [PGBlitz.com](https://pgblitz.com/) :star2: Deploy a Hastey Server through Docker & Ansible with local or Unlimited Google HD Space (Former Name: PlexGuide)
-- [hoarding.me](https://hoarding.me/) Unlimited and Automated. How to setup your own dream Plex server.
-- [PlexPi](http://plexpi.com/) Plex Media Server for Raspberry Pi 3
-
-### Plex Plugins
-- [Official Plex Plugins](https://github.com/plexinc-plugins) Repos for every official Plex Inc. plugin
-- [WebTools.bundle](https://github.com/ukdtom/WebTools.bundle) a collection of tools for Plex Media Server. Like the Unsupported AppStore (UAS)
-- [Audiobooks.bundle](https://github.com/macr0dev/Audiobooks.bundle) Plex metadata scraper for Audiobooks
-- [Sub-Zero.bundle](https://github.com/pannal/Sub-Zero.bundle) :star2: Subtitles for Plex, as good you would expect them to be. (*read*: [plans for a world without Plex plugins](https://www.reddit.com/r/PleX/comments/9n9qjl/subzero_the_future/))
-- [TvplexendChannel.bundle](https://github.com/pgaubatz/TvplexendChannel.bundle) A Tvheadend Channel Plugin for PLEX Media Server
-- [IPTV.bundle](https://github.com/Cigaras/IPTV.bundle) plays live streams (like IPTV) from an M3U playlist
-- [HDGrandSlam.bundle](https://github.com/jumpmanjay/HDGrandSlam.bundle) interfaces with HDHomeRun tuners and DVRs
-- [HDHRViewerV2.bundle](https://github.com/zynine-/HDHRViewerV2.bundle) HDHomeRun + Plex
-- [SS Plex](https://mikew.github.io/ss-plex.bundle/) Imagine if all the media scattered around the internet could be found in one collection.
-- [ExportTools.bundle](https://github.com/ukdtom/ExportTools.bundle) Export Plex Library to a csv, xlsx or m3u8 file
-- [Plex-Trakt-Scrobbler](https://github.com/trakt/Plex-Trakt-Scrobbler) Add what you are watching on Plex to trakt.tv
-- [Moviemania.bundle](https://www.reddit.com/r/MoviemaniaHQ/comments/6znf6b/plex_pluginagent_beta_1/) Textless movie posters from Moviemania.io
-- [lmwt-kiss.bundle](https://github.com/Twoure/lmwt-kiss.bundle) creates a new channel within Plex Media Server (PMS) to view content from PrimeWire.
-- [RequestChannel.bundle](https://github.com/ngovil21/RequestChannel.bundle) A Plex Channel to create requests
-- [SRT2UTF-8.bundle](https://github.com/ukdtom/SRT2UTF-8.bundle) Plex Agent that'll convert sidecar subtitle files into UTF-8
-- [PlexTools.bundle](https://github.com/jwdempsey/PlexTools.bundle) Downloads subtitles for any videos in your library from OpenSubtitles and modifies them to work with Roku clients, and converts videos to MP4 for direct play
-- [FMoviesPlus.bundle](https://github.com/coder-alpha/FMoviesPlus.bundle) Plex Media Server plug-in designed for FMovies, G2G, Primewire and more.
-- [SuperPLEX](https://normantheidiot.neocities.org/superplex/) A website dedicated to Plex Plugins.
-
-### Plex Requests
-- [Ombi](http://ombi.io/) :star2: Want a Movie or TV Show on Plex or Emby? Use Ombi!
-- [plexrequests-meteor](https://github.com/lokenx/plexrequests-meteor) Meteor version of the original Plex Requests
-- [Mellow](https://github.com/v0idp/Mellow/) Bot which can communicate with several APIs like Ombi, Sonarr, Radarr and Tautulli which are related to home streaming. Based off of node:9.3
-- [MediaButler](https://github.com/physk/MediaButler) Discord bot for use with PleX and several other apps that work with it.
-
-### Plex Scripts and Tools
-- [plex_top_playlists](https://github.com/pbrink231/plex_top_playlists) A python script to get top weekly or top popular lists and put them in plex as playlists.
-- [JBOPS](https://github.com/blacktwin/JBOPS) Just a Bunch Of Plex Scripts
-- [plex-subtitles-normalizer](https://github.com/caridy/plex-subtitles-normalizer) CLI tool to fix subtitles needed by Plex Media Center
-- [plex_autoscan](https://github.com/l3uddz/plex_autoscan) Script to assist sonarr/radarr with plex imports.
-- [plexupdate](https://github.com/mrworf/plexupdate) script to simplify the life of Linux Plex Media Server users.
-- [plex2netflix](https://github.com/SpaceK33z/plex2netflix) See how much of your media from Plex is available on Netflix.
-- [plexReport](https://github.com/bstascavage/plexReport) Scripts to generate a weekly email of new additions to Plex
-- [plex-sync](https://github.com/jacobwgillespie/plex-sync) A simple command-line utility to synchronize watched/seen status between different Plex Media Servers.
-- [PlexIPTV](https://github.com/xiaodoudou/PlexIPTV) This app simulates a DVR device for Plex by providing a layer to any IPTV provider (that provide an m3u8 playlist)
-- [Plex Media Tagger](https://github.com/ccjensen/PlexMediaTagger) Uses the metadata held in the PlexMediaServer to tag media files
-- [PlexEmail](https://github.com/jakewaldron/PlexEmail) This script aggregates all-new TV, movie and music releases for the past configured time then optionally writes to your web directory and sends out an email.
-- [Transmogrify](https://github.com/Transmogrify-for-Plex/Transmogrify-for-Plex-chrome) A Chrome extension that adds several features to the Plex/Web 2.0 client for Plex
-- [PlexAuth](https://github.com/hjone72/PlexAuth) Plex based authentication using PHP
-- [Phlex](https://github.com/d8ahazard/Phlex) A super-sexy voice interface for the Plex HTPC
-- [Plex Redirect](https://github.com/ITRav4/PlexRedirect) a Plex landing page that redirects you to various sites.
-- [Plaxt](https://plaxt.herokuapp.com/) Webhook-based Trakt.tv scrobbling for Plex
-- [goplaxt](https://github.com/XanderStrike/goplaxt/) Full rewrite of the above, written in Go and deployable with Docker
-- [plxdwnld](https://piplong.run/plxdwnld/) Bookmarklet for downloading original files from the Plex web interface
-- [Kitana](https://github.com/pannal/Kitana) Kitana exposes your Plex plugin interfaces "to the outside world".
-- [Python-PlexLibrary](https://github.com/adamgot/python-plexlibrary) Python command-line utility for creating and maintaining dynamic Plex libraries based on "recipes".
-- [NowShowing](https://github.com/ninthwalker/NowShowing) Generates an email and web page of Plex recently added content
-- ["My (scripted) solution to having a single Movies library for 4k and non-4k."](https://www.reddit.com/r/PleX/comments/afs8m9/my_scripted_solution_to_having_a_single_movies/) Post by /u/spazatk
-- [PlexMissingEpisodes](https://github.com/MysticRyuujin/PlexMissingEpisodes) Scan Plex library for missing episodes using TheTVDB#
-- [Gaps](https://github.com/JasonHHouse/Gaps) Find the missing movies in your Plex Server
-- [PlexRecs](https://github.com/nwithan8/PlexRecs) A Discord bot that provides movie and TV show recommendations from your Plex library
-- ["I made my own Pseudo TV for Plex with Kodi and Nvidia Shield"](https://old.reddit.com/r/PleX/comments/awsvp9/i_made_my_own_pseudo_tv_for_plex_with_kodi_and/ehox9zf/) Guide from /u/nads84 on how to make your own "live" TV channels with a Plex library, Kodi, and an NVIDIA Shield
-- [Varken](https://github.com/Boerderij/Varken) Standalone application to aggregate data from the Plex ecosystem into InfluxDB using Grafana for a frontend
-
-### Plex Shares
-- [/r/plexshares](https://www.reddit.com/r/plexshares/) A nice place to find Plex Media Server shares.
-- [Elysium](https://elysium.to/) Plex media streaming service
-
-### Plex Transcoding
-- [kube-plex](https://github.com/munnerz/kube-plex) Scalable Plex Media Server on Kubernetes -- dispatch transcode jobs as pods on your cluster!
-- [UnicornTranscoder](https://github.com/UnicornTranscoder/UnicornTranscoder) a remote transcoder for Plex Media Server
-- [Plex-Remote-Transcoder](https://github.com/wnielson/Plex-Remote-Transcoder) A distributed transcoding backend for Plex
-- [nvidia-patch](https://github.com/keylase/nvidia-patch) Unlock the transcode or 'session' limit on nVidia consumer grade GPUs
-
-### Plex Logging and Metrics
-- [Tautulli](https://tautulli.com/) :star2: Tautulli is a 3rd party application that you can run alongside your Plex Media Server to monitor activity and track various statistics.
-- [plexWatch](https://github.com/ljunkie/plexWatch) Notify and Log watched content on a Plex Media Server
-- [Plex-Data-Collector-For-InfluxDB](https://github.com/barrycarey/Plex-Data-Collector-For-InfluxDB) Collects data about your Plex server and sends it to InfluxDB
-
-### Plex Clients
-- [RasPlex](https://github.com/RasPlex/RasPlex) Rasplex is a community driven port of Plex Home Theater for the Raspberry Pi
-- [PlexConnect](https://github.com/iBaa/PlexConnect) Unofficial Plex app for Apple TV devices
-- [go-plex-client](https://github.com/jrudio/go-plex-client) A Plex.tv and Plex Media Server Go client
-
 ## Kodi
 - [/r/Addons4Kodi](https://www.reddit.com/r/addons4kodi) Discussion and links pertaining to unofficial add-ons for Kodi Media Center
 - [Seren](https://www.reddit.com/r/Addons4Kodi/comments/dt4kg2/recommended_addons_november_2019/f6ukyfr?utm_source=share&utm_medium=web2x) :star2: Streaming addon which works with Premiumize and Real-Debrid to stream torrents with the appropriate provider package instantly, and behaves similarly to Netflix, with autoplay and Up Next integration
@@ -959,8 +866,6 @@ premium services
 - [Yoda](http://supremacy.org.uk/zip/repo/) Another solid Exodus/Covenant fork, and this time it's from S-media.
 - [Elementum](https://elementum.surge.sh/) Elementum addon is an addon for Kodi, that manages your virtual library, syncs with your Trakt account.
 - [Tooonmania2](https://github.com/doko-desuka/doko.repository/releases) lets you watch cartoons, dubbed anime and movies (from animetoon) and subbed anime and movies (from animeplus)
-- [PlexKodiConnect](https://github.com/croneter/PlexKodiConnect) Plex integration in Kodi done right
-- [Official Plex Addon](https://forums.plex.tv/t/installation-instructions/168854) Official Plex addon for Kodi
 - [Ultimate Kodi Guide](https://www.reddit.com/r/Piracy/comments/7wp42u/ultimate_guide_to_install_kodi_popular_streaming/) ULTIMATE GUIDE TO INSTALL KODI + POPULAR STREAMING ADDONS by /u/giorgiomilan
 - [kodi-headless](https://hub.docker.com/r/linuxserver/kodi-headless/) A headless install of Kodi in a docker container, most useful for a MySQL setup of Kodi to allow library updates to be sent without the need for a player system to be permanently on.
 - [Exodus Redux](https://www.reddit.com/r/Addons4Kodi/comments/9tasx5/requests_recommendations_basics_november_2018/e8uti6w) The newest Exodus fork around, paired with LambdaScrapers.
@@ -1264,9 +1169,7 @@ premium services
 - [google-drive-ocamlfuse](https://github.com/astrada/google-drive-ocamlfuse) FUSE filesystem over Google Drive
 - [rclone](https://rclone.org/) :star2: "rsync for cloud storage"
 - [plexdrive](https://github.com/dweidenfeld/plexdrive) mounts your Google Drive FUSE filesystem (optimized for media playback)
-- [/r/PlexACD](https://www.reddit.com/r/PlexACD/) Discussion about unlimited cloud storage for Plex libraries
 - [rclone-gdrive](https://bytesized-hosting.com/pages/rclone-gdrive) Wiki page on setting up Google Drive with rclone cache and crypt
-- [Connect Your Plex Server To Your Google Drive](https://bytesized-hosting.com/pages/plexdrive) This tutorial will help you connect your Google Drive to your Plex server using Plexdrive.
 - [RcloneBrowser](https://martins.ninja/RcloneBrowser/) Simple cross-platform GUI for rclone
 - [UDS](https://github.com/stewartmcgown/uds) Unlimited Drive Storage. Store files in Google Docs without counting against your quota.
 - [Comparison of file hosting services](https://en.wikipedia.org/wiki/Comparison_of_file_hosting_services) This is a comparison of file hosting services that are currently active.
@@ -1290,8 +1193,6 @@ premium services
 - [AdAway](https://adaway.org/) An open-source ad blocker for Android using the hosts file. It needs ROOT access
 - [NewPipe](https://newpipe.schabi.org/) The original YouTube experience without annoying ads and questionable permissions
 - [nzb360](http://nzb360.com/) :star2: nzb360 is a full-featured NZB manager that focuses on providing the best experience possible for controlling all of your Usenet needs.
-- [Ombi](https://play.google.com/store/apps/details?id=com.tidusjar.Ombi) Companion app for Ombi to request Plex content
-- [Tautulli Remote](https://play.google.com/store/apps/details?id=com.williamcomartin.plexpyremote) Mobile version of Tautilli for monitoring Plex on the go
 - [MyJDownloader](https://play.google.com/store/apps/details?id=org.appwork.myjdandroid&hl=en_US) enables you to remote control your desktop JDownloader from your pocket while you're on the go.
 - [FilePursuit Pro](https://play.google.com/store/apps/details?id=com.filepursuit.filepursuitpro) FilePursuit provides a very powerful file indexing and search service allowing you to find a file among millions of files located on web servers.
 - [YMusic](https://forum.xda-developers.com/android/apps-games/app-youtube-music-sound-stream-youtubes-t3399722) YouTube Music Player & Downloader
@@ -1369,7 +1270,7 @@ premium services
 
 ## IPTV and DVR
 - [iptv-org/iptv](https://github.com/iptv-org/iptv) Collection of 8000+ publicly available IPTV channels from all over the world
-- [telly](https://github.com/tellytv/telly) IPTV proxy for Plex Live written in Golang
+- [telly](https://github.com/tellytv/telly) IPTV proxy written in Golang
 - [tvheadend](https://github.com/tvheadend/tvheadend) Tvheadend is a TV streaming server for Linux supporting DVB-S, DVB-S2, DVB-C, DVB-T, ATSC, IPTV, SAT>IP, and other formats through the Unix pipe as input sources.
 - [/r/IPTV](https://www.reddit.com/r/IPTV) Subreddit some may find helpful for gauging the current state of IPTV providers
 - [/r/iptvresellers](https://www.reddit.com/r/IPTVresellers) promotions and advertisements from IPTV providers
@@ -1378,10 +1279,10 @@ premium services
 - [allsprk.tv](https://stream.allsprk.tv) A channel-hoppable live streaming site with a chat room
 - [UlstreaMix](https://ssl.ustreamix.com/) Live TV streaming site, predominantly sports
 - [Xtream Editor](http://www.xtream-editor.com/) Xtream Editor allows you to create, edit and sort m3u playlists online.
-- [xTeVe](https://xteve.de/) :star2: M3U Proxy for Plex DVR
+- [xTeVe](https://xteve.de/) :star2: M3U Proxy for IPTV DVR
 - [STBEmulator](http://rocketstreams.tv/stbemu) Popular Android app for using IPTV streams with EPG
 - [IPTV Community](https://iptv.community/) Technology and IPTV discussion website, useful for finding an IPTV provider/reseller
-- [antennas](https://github.com/TheJF/antennas) HDHomeRun emulator for Plex DVR to connect to Tvheadend.
+- [antennas](https://github.com/TheJF/antennas) HDHomeRun emulator for IPTV DVR to connect to Tvheadend.
 - [IPTV Providers list](https://docs.google.com/spreadsheets/d/1ehpk3OCkqj4QgF71v410avGpGC5bQ_lOLl5ppRb3Q9s/edit) A recently created list of 40+ IPTV providers with notes
 - [fastocloud](https://github.com/fastogt/fastocloud) IPTV/Video cloud admin panel for servers
 
@@ -1503,7 +1404,6 @@ premium services
 - [/r/Movie_Club](https://www.reddit.com/r/Movie_Club) Where you can get together with strangers and watch a great movie every week!
 - [sync](https://github.com/calzoneman/sync/) Node.JS Server and JavaScript/HTML Client for synchronizing online media
 - [watch2gether](https://www.watch2gether.com/) Enjoy the internet in sync with your friends. Watch videos, listen to music or go shopping on Watch2Gether.
-- [SyncLounge](https://synclounge.tv/) :star2: A third-party tool that allows you to watch Plex in sync with your friends/family, wherever you are.
 - [Netflix Party](https://chrome.google.com/webstore/detail/netflix-party/oocalimimngaihdkbihfgmpkcpnmlaoa/related) Netflix Party is a Chrome extension for watching Netflix remotely with other users.
 - [CyTube](https://cytu.be/) Channel-based shared streaming platform for synchronized viewing of YouTube and Google Drive videos
 - [ArconaiTV](https://www.arconaitv.us/) Another stream sharing platform with a nice UI
