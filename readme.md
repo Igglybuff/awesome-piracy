@@ -177,6 +177,7 @@ You will notice some items on this list have a :star2: next to them. Items with 
 - [tinc](https://tinc-vpn.org/) Peer-to-peer VPN software with mesh routing.
 - [OpenConnect](https://www.infradead.org/openconnect/) Multiplatform VPN compatible with Cisco's AnyConnect. Uses well-tested, standard TLS connections which easily bypass DPI.
 - [Shadowsocks](https://shadowsocks.org/) Secure SOCKS proxy used in China for bypassing the Great Firewall.
+- [Amnezia](https://amnezia.org/) Free service to create a personal VPN on your server. Helps to access blocked content without revealing privacy even to VPN providers..
 
 ## Browser Extensions
 - [Decentraleyes](https://decentraleyes.org/) Protects against tracking with a local CDN (Content Delivery Network) emulation.
