@@ -1251,6 +1251,7 @@ premium services
 - [Kad](https://en.wikipedia.org/wiki/Kad_network) The Kad network is a peer-to-peer (P2P) network that implements the Kademlia P2P overlay protocol.
 
 ## Ripping, Transcoding, Converting, Encoding
+- [Compress](https://compress.ohzi.io/) :star2: Compress is a one-click tool to compress videos, easy to use, and with a customizable output file size, along with a 'Discord mode' that automatically sets the size to 8MB.
 - [Handbrake](https://handbrake.fr/) :star2: HandBrake is a tool for converting video from nearly any format to a selection of modern, widely supported codecs.
 - [MakeMKV](http://www.makemkv.com/) MakeMKV is your one-click solution to convert video that you own into a free and patents-unencumbered format that can be played everywhere.
 - [ffmpeg](https://ffmpeg.org/) A complete, cross-platform solution to record, convert and stream audio and video.
