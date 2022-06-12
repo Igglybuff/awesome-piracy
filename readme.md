@@ -606,7 +606,6 @@ ltConfig is a plugin for Deluge that allows direct modification to libtorrent se
 ### Custom Google Search Engines
 - These all do the same thing:
     - [FileChef](http://filechef.com/)
-    - [The Eye CGS Engine](https://cgs.the-eye.eu/)
     - [opendirectory-finder](https://ewasion.github.io/opendirectory-finder/)
     - [lumpySoft.com](https://lumpysoft.com/)
 - [Musgle](http://www.musgle.com/) Searches specifically for music
