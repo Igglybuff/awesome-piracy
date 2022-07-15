@@ -192,6 +192,7 @@ You will notice some items on this list have a :star2: next to them. Items with 
 - [Violentmonkey](https://violentmonkey.github.io/) An open-source userscript manager.
 - [Anti-Paywall](https://github.com/nextgens/anti-paywall) A browser extension that maximizes the chances of bypassing paywalls
 - [Google Unlocked](https://github.com/Ibit-to/google-unlocked) Uncensor google search results.
+- [SponsorBlock](https://sponsor.ajay.app/) An open-source crowdsourced extension which automatically skips sponsorship segments in YouTube videos.
 
 ## Userscripts
 - [IMDb Scout](https://greasyfork.org/en/scripts/3967-imdb-scout) Add links from IMDb pages to torrent sites -- easy downloading from IMDb
@@ -576,6 +577,7 @@ ltConfig is a plugin for Deluge that allows direct modification to libtorrent se
 
 ### DDL Tools
 - [youtube-dl](https://youtube-dl.org/) :star2: youtube-dl is a command-line program to download videos from YouTube.com and a few more sites.
+- [yt-dlp](https://github.com/yt-dlp/yt-dlp/) an updated version of youtube-dl with a few new features.
 - [youtube-dl-gui](https://mrs0m30n3.github.io/youtube-dl-gui/) A cross-platform front-end GUI of the popular youtube-dl written in wxPython
 - [youtube-dl-helper](https://youtube-dl-helper.github.io/) Uses youtube-dl to download video/audio from many sites without requiring you to use the command-line (for Windows)
 - [YouTube MP3 Rip](https://ytmp3.cc/en9/) Download YouTube music videos as MP3 files without registration
