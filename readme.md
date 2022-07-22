@@ -1140,6 +1140,7 @@ premium services
 ## Courses and Tutorials
 - [CourseClub](https://courseclub.me/) Download courses from (Lynda, Pluralsight, CBG Nuggets, etc)
 - [FreeCourseSite](https://freecoursesite.com/) Mostly highest rated udemy courses torrent
+- [FreeCoursesOnline](https://www.freecoursesonline.me/?1)
 - [FreeTutorials.eu](https://www.freetutorials.eu/) Lots of Udemy courses for free; Has Adblock detector
 - [Gigacourse](https://gigacourse.com/)
 - [Desire Course](https://desirecourse.net/)
