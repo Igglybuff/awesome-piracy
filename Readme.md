@@ -1141,7 +1141,7 @@ premium services
 - [Devcourseweb](https://devcourseweb.com/tutorials/)
 - [FreeCourseSite](https://freecoursesite.com/) Mostly highest rated udemy courses torrent
 - [FreeCoursesOnline](https://www.freecoursesonline.me/?1)
-- [Freecourseweb](https://freecourseweb.com/tutorialsv4/)
+- [FreeCourseWeb](https://freecourseweb.com/tutorialsv4/)
 - [Gigacourse](https://gigacourse.com/)
 - [GFXDomain.net Tutorials board](https://forum.gfxdomain.net/forums/others-tutorials.42/) Forum with free tutorials for graphic design, mostly via premium file hosts but some torrents
 - [tut4dl](https://tut4dl.com/) Download tutorial and training courses from many paid MOOCs, with categories ranging from Cuisine to Cryptography.
