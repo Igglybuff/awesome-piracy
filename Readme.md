@@ -1144,6 +1144,7 @@ premium services
 - [GFXDomain.net Tutorials board](https://forum.gfxdomain.net/forums/others-tutorials.42/) Forum with free tutorials for graphic design, mostly via premium file hosts but some torrents
 - [tut4dl](https://tut4dl.com/) Download tutorial and training courses from many paid MOOCs, with categories ranging from Cuisine to Cryptography.
 - [TutsNode](https://tutsnode.net/)
+- [yt-dlp](https://github.com/yt-dlp/yt-dlp) Download videos from LinkedIn Learning, PluralSight, Udemy etc.
 
 ## Audiobooks
 - [AudioBook Bay](http://audiobookbay.nl/) Download unabridged audiobooks for free or share your audiobooks, safe, fast and high quality
