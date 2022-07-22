@@ -1138,7 +1138,7 @@ premium services
 - [forcoder](https://forcoder.su/) Ebooks & Elearning For Programming
 
 ## Courses and Tutorials
-- [CourseClub](https://courseclub.me/) Download courses from (Lynda, Pluralsight, CBG Nuggets, etc)
+- [CourseClub](https://courseclub.me/)
 - [FreeCourseSite](https://freecoursesite.com/) Mostly highest rated udemy courses torrent
 - [FreeCoursesOnline](https://www.freecoursesonline.me/?1)
 - [Gigacourse](https://gigacourse.com/)
