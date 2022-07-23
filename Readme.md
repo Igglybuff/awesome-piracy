@@ -1138,6 +1138,7 @@ premium services
 
 ## Courses and Tutorials
 - [CourseClub](https://courseclub.me/)
+- [CourseWikia](https://coursewikia.com/tutorials/)
 - [DevCourseWeb](https://devcourseweb.com/tutorials/)
 - [FreeCourseSite](https://freecoursesite.com/) Mostly highest rated udemy courses torrent
 - [FreeCoursesOnline](https://www.freecoursesonline.me/?1)
