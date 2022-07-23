@@ -146,6 +146,7 @@ Some items in this list could easily fit in more than one category, so to make s
 - [10 Best VPN Services: Security, Features + Speed](https://www.safetydetectives.com/best-vpns/)
 - [/r/VPN](https://www.reddit.com/r/VPN/) VPN Subreddit
 - [/r/VPN FAQ](https://www.reddit.com/r/vpn/wiki/faq/)
+- [VPN Comparison Table](https://docs.google.com/spreadsheets/d/1ijfqfLrJWLUVBfJZ_YalVpstWsjw-JGzkvMd6u2jqEk/edit#gid=231869418) By r/VPN.
 - [Choosing the VPN that's right for you](https://ssd.eff.org/en/module/choosing-vpn-thats-right-you) Helpful guide from the EFF
 - [Which VPN services keep you anonymous in 2018?](https://torrentfreak.com/vpn-services-keep-anonymous-2018/) TorrentFreak Article by Ernesto
 - [privacytools.io](https://www.privacytools.io/) "Encryption against global mass surveillance". Plenty of information to help protect your privacy online.
