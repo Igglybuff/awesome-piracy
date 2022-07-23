@@ -1149,6 +1149,7 @@ premium services
 - [CourseWikia](https://coursewikia.com/tutorials/)
 - [DevCourseWeb](https://devcourseweb.com/tutorials/)
 - [DownloadFreeCourse](https://downloadfreecourse.com/)
+- [Downloadly Tutorials](https://downloadly.ir/download/elearning/video-tutorials/)
 - [FreeCourseSite](https://freecoursesite.com/) Mostly highest rated udemy courses torrent
 - [FreeCoursesOnline](https://www.freecoursesonline.me/?1)
 - [FreeCourseWeb](https://freecourseweb.com/tutorialsv4/)
