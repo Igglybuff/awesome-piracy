@@ -1152,6 +1152,7 @@ premium services
 - [FreeCoursesOnline](https://www.freecoursesonline.me/?1)
 - [FreeCourseWeb](https://freecourseweb.com/tutorialsv4/)
 - [FreeCourseWebsite](https://freecoursewebsite.com/)
+- [FreeEducationWeb](https://freeeducationweb.com/)
 - [GigaCourse](https://gigacourse.com/)
 - [GFXDomain.net Tutorials board](https://forum.gfxdomain.net/forums/others-tutorials.42/) Forum with free tutorials for graphic design, mostly via premium file hosts but some torrents
 - [Tut4Dev](https://tut4dev.com/en)
