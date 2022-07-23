@@ -1139,6 +1139,7 @@ premium services
 
 ## Courses and Tutorials
 
+- [1337x Tutorials](https://1337x.to/sub/34/0/)
 - [CourseBoat](https://courseboat.com/tutorials/)
 - [CourseClub](https://courseclub.me/)
 - [CourseHulu](https://coursehulu.com/tutorials/)
