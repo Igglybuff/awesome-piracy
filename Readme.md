@@ -1136,7 +1136,10 @@ premium services
 - [Guide for Finding Textbooks](https://www.reddit.com/r/Piracy/comments/3i9y7n/guide_for_finding_textbooks/) Extensive tutorial by /u/Amosqu
 - [forcoder](https://forcoder.su/) Ebooks & Elearning For Programming
 
+
 ## Courses and Tutorials
+
+- [CourseBoat](https://courseboat.com/tutorials/)
 - [CourseClub](https://courseclub.me/)
 - [CourseWikia](https://coursewikia.com/tutorials/)
 - [DevCourseWeb](https://devcourseweb.com/tutorials/)
