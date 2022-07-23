@@ -1143,6 +1143,7 @@ premium services
 - [CourseClub](https://courseclub.me/)
 - [CourseHulu](https://coursehulu.com/tutorials/)
 - [CourseLala](https://courselala.com/tutorials/)
+- [CourseMega](https://coursemega.com/tutorials/)
 - [CourseWikia](https://coursewikia.com/tutorials/)
 - [DevCourseWeb](https://devcourseweb.com/tutorials/)
 - [FreeCourseSite](https://freecoursesite.com/) Mostly highest rated udemy courses torrent
