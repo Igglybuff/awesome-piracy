@@ -1137,7 +1137,7 @@ premium services
 - [forcoder](https://forcoder.su/) Ebooks & Elearning For Programming
 
 
-## Courses and Tutorials
+## Courses and Tutorials [OK]
 
 - [1337x Tutorials](https://1337x.to/sub/34/0/)
 - [CourseBoat](https://courseboat.com/tutorials/)
