@@ -1155,6 +1155,7 @@ premium services
 - [Tut4DL](https://tut4dl.com/) Download tutorial and training courses from many paid MOOCs, with categories ranging from Cuisine to Cryptography.
 - [TutGator](https://tutgator.com/tutorials/)
 - [TutPig](https://tutpig.com/tutorials/)
+- [TutSala](https://tutsala.com/tutorials/)
 - [TutsNode](https://tutsnode.net/)
 - [yt-dlp](https://github.com/yt-dlp/yt-dlp) Download videos from LinkedIn Learning, PluralSight, Udemy etc.
 
