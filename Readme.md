@@ -1154,6 +1154,7 @@ premium services
 - [GFXDomain.net Tutorials board](https://forum.gfxdomain.net/forums/others-tutorials.42/) Forum with free tutorials for graphic design, mostly via premium file hosts but some torrents
 - [Tut4DL](https://tut4dl.com/) Download tutorial and training courses from many paid MOOCs, with categories ranging from Cuisine to Cryptography.
 - [TutGator](https://tutgator.com/tutorials/)
+- [TutGee](https://tutgee.com/tutorials/)
 - [TutPig](https://tutpig.com/tutorials/)
 - [TutSala](https://tutsala.com/tutorials/)
 - [TutsNode](https://tutsnode.net/)
