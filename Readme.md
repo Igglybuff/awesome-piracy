@@ -1147,6 +1147,7 @@ premium services
 - [CoursePig](https://coursepig.com/tutorials/)
 - [CourseWikia](https://coursewikia.com/tutorials/)
 - [DevCourseWeb](https://devcourseweb.com/tutorials/)
+- [DownloadFreeCourse](https://downloadfreecourse.com/)
 - [FreeCourseSite](https://freecoursesite.com/) Mostly highest rated udemy courses torrent
 - [FreeCoursesOnline](https://www.freecoursesonline.me/?1)
 - [FreeCourseWeb](https://freecourseweb.com/tutorialsv4/)
