@@ -1121,7 +1121,6 @@ premium services
 - [Xatab Repacks](https://xatab-repack.net) Russian game repacker, primarily torrents
 - [ElAmigos Games](https://www.elamigos-games.com/) Premium links to cracked games
 - [qoob.name](http://qoob.name/) Repacker site
-- [Nicoblog](https://nicoblog.org/) Plenty of ISOs, ROMs, and repacks
 - [Dark Umbra](https://darkumbra.net/) Forum for sourcing games
 - [Skidrow Repacks](https://skidrowrepacks.com/) Repacks from popular repacker SKIDROW. Lots of anime stuff too
 
