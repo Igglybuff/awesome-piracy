@@ -1201,7 +1201,6 @@ premium services
 - [KHInsider](https://downloads.khinsider.com/) Site collecting soundtracks, mostly MP3, some FLAC, OGG or M4A.
 - [VGMLoader](https://github.com/TheLastZombie/VGMLoader) Tool for bulk downloading from KHInsider.
 - [Free MPS Download.net](https://free-mp3-download.net/) Search engine with streamable samples and download links
-- [chimera](https://notabug.org/Aesir/chimera) Multiple source terminal-based music downloader with audio search engine
 - [YouTube to MP3](https://ytformp3.com/)
 
 
