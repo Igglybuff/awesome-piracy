@@ -651,7 +651,6 @@ ltConfig is a plugin for Deluge that allows direct modification to libtorrent se
 
 - [yt-dlp](https://github.com/yt-dlp/yt-dlp) :star2: yt-dlp is a command-line program to download videos from YouTube.com and a lot more sites.
 - [GUI for yt-dlp](https://www.reddit.com/r/youtubedl/wiki/info-guis/) A list of GUI for yt-dlp.
-- [youtube-dl-gui](https://mrs0m30n3.github.io/youtube-dl-gui/) A cross-platform front-end GUI of the popular youtube-dl written in wxPython
 - [youtube-dl-helper](https://youtube-dl-helper.github.io/) Uses youtube-dl to download video/audio from many sites without requiring you to use the command-line (for Windows)
 - [YouTube MP3 Rip](https://ytmp3.cc/en9/) Download YouTube music videos as MP3 files without registration
 - [Leonflix](https://leonflix.net/) :star2: A multi-platform desktop app for finding movies and TV shows.
