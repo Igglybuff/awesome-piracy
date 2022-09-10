@@ -1280,6 +1280,7 @@ premium services
 
 - [FreeMagazines.top](https://freemagazines.top/)
 - [MagazineLib](https://magazinelib.com/) Free PDF and interactive e-magazines
+- [PDFMagaz.in](https://www.pdfmagaz.in/start/)
 
 
 ## Academic Papers and Material
