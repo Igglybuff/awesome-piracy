@@ -1278,6 +1278,7 @@ premium services
 
 ## Magazines
 
+- [FreeMagazines.top](https://freemagazines.top/)
 - [MagazineLib](https://magazinelib.com/) Free PDF and interactive e-magazines
 
 
