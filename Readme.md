@@ -1281,6 +1281,7 @@ premium services
 - [DownMagaz.net](https://downmagaz.net/)
 - [FreeMagazines.top](https://freemagazines.top/)
 - [FreePDFMagazine.com](https://www.freepdfmagazine.com/)
+- [HobbyMagazines.org](https://www.hobbymagazines.org/)
 - [MagazineBis.com](https://magazinebis.com/)
 - [MagazineLib](https://magazinelib.com/) Free PDF and interactive e-magazines
 - [PDFMagaz.in](https://www.pdfmagaz.in/start/)
