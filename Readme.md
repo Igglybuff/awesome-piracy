@@ -1279,6 +1279,7 @@ premium services
 ## Magazines
 
 - [DownMagaz.net](https://downmagaz.net/)
+- [FreeMagazinePDF.com](https://freemagazinepdf.com/)
 - [FreeMagazines.top](https://freemagazines.top/)
 - [MagazineLib](https://magazinelib.com/) Free PDF and interactive e-magazines
 - [PDFMagaz.in](https://www.pdfmagaz.in/start/)
