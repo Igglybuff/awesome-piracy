@@ -1276,7 +1276,7 @@ premium services
 - [Memory of the world](http://library.memoryoftheworld.org) A new website containing a lot of books.
 
 
-## Magazines
+## Magazines [OK]
 
 - [DownMagaz.net](https://downmagaz.net/)
 - [FreeMagazines.top](https://freemagazines.top/)
@@ -1285,6 +1285,7 @@ premium services
 - [MagazineLib](https://magazinelib.com/) Free PDF and interactive e-magazines
 - [PDFMagaz.in](https://www.pdfmagaz.in/start/)
 - [PDFMagazines.club](https://pdfmagazines.club/)
+- [WorldMags.net](https://worldmags.net/)
 
 
 ## Academic Papers and Material
