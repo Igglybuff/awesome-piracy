@@ -1284,6 +1284,7 @@ premium services
 - [MagazineBis.com](https://magazinebis.com/)
 - [MagazineLib](https://magazinelib.com/) Free PDF and interactive e-magazines
 - [PDFMagaz.in](https://www.pdfmagaz.in/start/)
+- [PDFMagazines.club](https://pdfmagazines.club/)
 
 
 ## Academic Papers and Material
