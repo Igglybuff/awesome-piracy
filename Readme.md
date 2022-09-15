@@ -1733,6 +1733,7 @@ premium services
 
 ## Proxy Sites
 
+- [BlockAway](https://www.blockaway.net/) A free proxy site which allows to unblock any website and keep your personal information anonymous.
 
 
 ## File Sharing Tools
