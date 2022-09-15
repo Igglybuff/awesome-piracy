@@ -1733,7 +1733,6 @@ premium services
 
 ## Proxy Sites
 
-- [ByPassed](https://bypassed.wtf/) ByPassed is an all-in-one solution to unblock censored websites including thepiratebay, kickass, eztv, yts, extratorrent & more.
 
 
 ## File Sharing Tools
