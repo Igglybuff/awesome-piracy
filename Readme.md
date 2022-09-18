@@ -1184,7 +1184,6 @@ premium services
 - [mp3.li](http://mp3li.unblckd.club) Another MP3 streaming site
 - [SongsPK](https://songs-pk.in/) Mainly for downloading Bollywood songs. Domain changes frequently.
 - [datmusic](https://datmusic.xyz/) Search engine with a clean UI for streaming music in your browser
-- [MusicPleer](https://musicpleer.la/) Another music streaming site with a decent search engine
 - [slider.kz](http://slider.kz/) Quirky and fast music streaming site
 
 
