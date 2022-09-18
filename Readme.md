@@ -1178,7 +1178,6 @@ premium services
 
 - [Hikarinoakari](https://hikarinoakari.com/) Site with Japanese music
 - [SongsPK](https://songs-pk.in/) Mainly for downloading Bollywood songs. Domain changes frequently.
-- [datmusic](https://datmusic.xyz/) Search engine with a clean UI for streaming music in your browser
 - [slider.kz](http://slider.kz/) Quirky and fast music streaming site
 
 
