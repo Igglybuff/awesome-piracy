@@ -1177,7 +1177,6 @@ premium services
 ### Music Streaming
 
 - [Hikarinoakari](https://hikarinoakari.com/) Site with Japanese music
-- [GoSong](https://gosong.unblocked.gdn/) Streamable MP3s
 - [MP3Juices](https://mp3juices.unblocked.gdn/) MP3 search engine tool which uses YouTube
 - [mp3.li](http://mp3li.unblckd.club) Another MP3 streaming site
 - [SongsPK](https://songs-pk.in/) Mainly for downloading Bollywood songs. Domain changes frequently.
