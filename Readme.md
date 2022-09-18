@@ -1268,7 +1268,7 @@ premium services
 - [Memory of the world](http://library.memoryoftheworld.org) A new website containing a lot of books.
 
 
-## Magazines [OK]
+## Magazines
 
 - [DownMagaz.net](https://downmagaz.net/)
 - [FreeMagazines.top](https://freemagazines.top/)
@@ -1298,7 +1298,7 @@ premium services
 - [forcoder](https://forcoder.su/) Ebooks & Elearning For Programming
 
 
-## Courses and Tutorials [OK]
+## Courses and Tutorials
 
 - [1337x Tutorials](https://1337x.to/sub/34/0/)
 - [CourseBoat](https://courseboat.com/tutorials/)
