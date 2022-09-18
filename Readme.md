@@ -1177,7 +1177,6 @@ premium services
 ### Music Streaming
 
 - [Hikarinoakari](https://hikarinoakari.com/) Site with Japanese music
-- [SongsPK](https://songs-pk.in/) Mainly for downloading Bollywood songs. Domain changes frequently.
 - [slider.kz](http://slider.kz/) Quirky and fast music streaming site
 
 
