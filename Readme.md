@@ -1125,7 +1125,6 @@ premium services
 ### ROMs
 
 - [Romsmania](https://romsmania.cc/) Good ROMs collection with a decent UI. Must be cautious not to download any .exe file, down only .zip file.
-- [Doperoms](https://www.doperoms.com/) Huge collection with over 170,000 ROM files. PS3 included.
 - [Vimm's Lair](https://vimm.net/?p=vault) Large collection of ROMs
 - [ROM/ISO sites](http://emulation.gametechwiki.com/index.php/ROM_%26_ISO_Sites) Wiki page from gametechwiki.com with more links
 - [Romulation.net](https://www.romulation.net/) Collection of ~28,000 console game ROMs
