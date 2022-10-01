@@ -573,6 +573,9 @@ ltConfig is a plugin for Deluge that allows direct modification to libtorrent se
 - [Plowshare](https://github.com/mcrapet/plowshare) Command-line tool and engine for managing sharing websites
 - [FreeDownloadManager](https://www.freedownloadmanager.org/) FDM can boost all your downloads up to 10 times, process media files of various popular formats, drag & drop URLs right from a web browser as well as simultaneously download multiple files! Compatible with  Google Chrome, Mozilla Firefox, Microsoft Edge, Internet Explorer and Safari
 - [EagleGet](http://www.eagleget.com/) EG is a free all-in-one download manager, lightweight and fast, supports all popular browsers and downloads from many streaming services, a perfect alternative to IDM.
+- [Ninja Download Manager](https://ninjadownloadmanager.com/) does downloading by splitting each file into chunks, then downloading each one using a different server connection, making downloads not only faster, but also more reliable
+- [Download Accelerator Plus (DAP)](http://www.speedbit.com/dap/) includes a built-in web browser. You can also add your own links from your browser through copy/paste.
+- [FlashGet](https://flashget.uptodown.com/windows/descargar) monitors downloads in Firefox, and it can scan downloads with your antivirus program and tell you how large a file is before you download it. 
 
 ### DDL Tools
 - [youtube-dl](https://youtube-dl.org/) :star2: youtube-dl is a command-line program to download videos from YouTube.com and a few more sites.
