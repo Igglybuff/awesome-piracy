@@ -865,7 +865,7 @@ premium services
 
 #### Cartoons
 
-- [KissCartoon](https://kisscartoon.ac/) Popular cartoon streaming site
+- [KissCartoon](https://kisscartoon.nz/) Popular cartoon streaming site
 - [watchcartoononline.com](https://www.watchcartoononline.com/) Cartoons, dubbed/subbed anime streaming site
 - [watchcartoononline.io](https://www.watchcartoononline.io/) Large DDL site for cartoons as well as anime and movies
 - [Toonova](http://www.toonova.net/) Another site for streaming cartoons
