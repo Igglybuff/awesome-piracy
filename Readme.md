@@ -1337,7 +1337,7 @@ premium services
 ## Comicbooks
 
 - [Kindle Comic Converter](https://kcc.iosphe.re/) Comic and manga converter for ebook readers
-- [readcomiconline.to](https://readcomiconline.to/) Manga and comics uploaded daily
+- [ReadComicOnline.li](https://readcomiconline.li/) Manga and comics uploaded daily.
 - [Readcomicbooksonline](https://readcomicbooksonline.org/) Tends to Error 520 occasionally
 - [Comic Extra](https://www.comicextra.com/) Daily comic uploads, clean UI
 - [GetComics](https://getcomics.info/) GetComics started as an alternative place to get downloaded comic files, particularly US-based comics published by DC and Marvel.
