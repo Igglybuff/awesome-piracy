@@ -868,7 +868,7 @@ premium services
 - [KissCartoon](https://kisscartoon.nz/) Popular cartoon streaming site
 - [WCOForever.net](https://www.wcoforever.net/) Cartoons, dubbed/subbed anime streaming site
 - [WCOStream.net](https://www.wcostream.net/) Large DDL site for cartoons as well as anime and movies
-- [KimCartoon](https://kimcartoon.to/) Large cartoon collection, primarily Openload
+- [KimCartoon](https://kimcartoon.li/) Large cartoon collection, primarily Openload
 - [WatchCartoon](https://www.watchcartoononline.io/) Outdated site layout, still active, uses Openload
 
 
