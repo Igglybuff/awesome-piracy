@@ -1338,7 +1338,6 @@ premium services
 
 - [Kindle Comic Converter](https://kcc.iosphe.re/) Comic and manga converter for ebook readers
 - [ReadComicOnline.li](https://readcomiconline.li/) Manga and comics uploaded daily.
-- [Readcomicbooksonline](https://readcomicbooksonline.org/) Tends to Error 520 occasionally
 - [Comic Extra](https://www.comicextra.com/) Daily comic uploads, clean UI
 - [GetComics](https://getcomics.info/) GetComics started as an alternative place to get downloaded comic files, particularly US-based comics published by DC and Marvel.
 - [Gazee!](https://hub.docker.com/r/linuxserver/gazee/) A WebApp Comic Reader for your favorite digital comics. Reach and read your comic library from any web-connected device with a modern web browser.
