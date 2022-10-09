@@ -1131,7 +1131,6 @@ premium services
 - ["A simple script for easily downloading emulator.games roms"](https://www.reddit.com/r/Piracy/comments/aytutr/a_simple_script_for_easily_downloading/) Reddit guide and userscript created by /u/estel_smith to allow you to easily download ROMs from Emulator.Games.
 - [hShop](https://hshop.erista.me/) The ultimate 3DS content preservation service.
 - [Ziperto](https://www.ziperto.com/nintendo/3ds-roms/3ds-cia/) DDL link site primarily for Nintendo games.
-- [RomsMania](https://romsmania.cc/) Good ROMs collection with a decent UI. Used to spread maleware. Must be cautious not to download any .exe file, down only .zip files.
 
 
 ### Console Games
