@@ -1121,7 +1121,7 @@ premium services
 
 ### ROMs
 
-- [Vimm's Lair](https://vimm.net/?p=vault) Large collection of ROMs
+- [Vimm's Lair](https://vimm.net/?p=vault) :star2: Large collection of ROMs.
 - [ROM/ISO sites](http://emulation.gametechwiki.com/index.php/ROM_%26_ISO_sites) Wiki page from gametechwiki.com with more links.
 - [Romulation.net](https://www.romulation.net/) Collection of ~28,000 console game ROMs
 - [The Eye ROMs](http://the-eye.eu/public/rom/) Open directory of ROMs from The Eye
