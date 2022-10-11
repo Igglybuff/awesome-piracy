@@ -718,6 +718,7 @@ premium services
 - [Streamlord](http://www.streamlord.com/) Unique design, HD server (subtitles)
 - [FlixGo](https://flixgo.net/) Unique design, HD server, very nice speeds
 - [Solarmovie](https://solarmoviez.ru/solar.html) Basic streaming site layout, HD server with additional hosts, Popular Site
+- [Xemovies](https://xemovies.net/) Mostly containing Asian content (anime, movies, tv & reality shows) but also has Western content. Subtitles available
 - [123Movies](https://123movies.website/) Basic streaming site layout, HD server with additional hosts. Previously HDFlix.
 - [Yes! Movies](https://yesmovies.to) Basic streaming site layout, HD server with additional hosts
 - [Spacemov](http://spacemov.io/) Basic streaming site layout, HD server, only certain films have additional hosts
