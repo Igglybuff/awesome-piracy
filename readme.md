@@ -771,7 +771,6 @@ premium services
 - [KissCartoon](https://kisscartoon.ac/) Popular cartoon streaming site
 - [watchcartoononline.com](https://www.watchcartoononline.com/) Cartoons, dubbed/subbed anime streaming site
 - [watchcartoononline.io](https://www.watchcartoononline.io/) Large DDL site for cartoons as well as anime and movies
-- [animetoon](http://www.animetoon.org/) Lots of streaming via premium hosts for cartoons
 - [Toonova](http://www.toonova.net/) Another site for streaming cartoons
 - [KimCartoon](https://kimcartoon.to/) Large cartoon collection, primarily Openload
 - [WatchCartoon](https://www.watchcartoononline.io/) Outdated site layout, still active, uses Openload
@@ -958,7 +957,7 @@ premium services
 - [Gaia](https://gaiakodi.com/) Grants the ability to instantly watch high-quality files via cached torrents from Real-Debrid or Premiumize.
 - [Yoda](http://supremacy.org.uk/zip/repo/) Another solid Exodus/Covenant fork, and this time it's from S-media.
 - [Elementum](https://elementum.surge.sh/) Elementum addon is an addon for Kodi, that manages your virtual library, syncs with your Trakt account.
-- [Tooonmania2](https://github.com/doko-desuka/doko.repository/releases) lets you watch cartoons, dubbed anime and movies (from animetoon) and subbed anime and movies (from animeplus)
+- [Tooonmania2](https://github.com/doko-desuka/doko.repository/releases) lets you watch cartoons and subbed anime and movies (from animeplus)
 - [PlexKodiConnect](https://github.com/croneter/PlexKodiConnect) Plex integration in Kodi done right
 - [Official Plex Addon](https://forums.plex.tv/t/installation-instructions/168854) Official Plex addon for Kodi
 - [Ultimate Kodi Guide](https://www.reddit.com/r/Piracy/comments/7wp42u/ultimate_guide_to_install_kodi_popular_streaming/) ULTIMATE GUIDE TO INSTALL KODI + POPULAR STREAMING ADDONS by /u/giorgiomilan
