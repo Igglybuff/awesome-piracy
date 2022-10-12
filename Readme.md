@@ -40,7 +40,7 @@ Some items in this list could easily fit in more than one category, so to make s
     - [Tracker Proxies](#tracker-proxies)
     - [Tracker Invites](#tracker-invites)
     - [Torrent Clients](#torrent-clients)
-    -   - [Deluge](#deluge)
+        - [Deluge](#deluge)
         - [rTorrent](#rtorrent)
         - [WebTorrent Clients](#webtorrent-clients)
     - [autodl-irssi](#autodl-irssi)
