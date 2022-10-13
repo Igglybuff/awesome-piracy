@@ -7,8 +7,6 @@ Please ensure that you use a blocker like [uBlock Origin](https://github.com/gor
 
 If you come across dead or obsolete links, please fix them by [making a pull request](https://github.com/Shakil-Shahadat/awesome-piracy/edit/master/readme.md) or report them by [creating an issue](https://github.com/Shakil-Shahadat/awesome-piracy/issues).
 
-## How to use this list
-Some items in this list could easily fit in more than one category, so to make sure you find what you're looking for please use `Ctrl + F` (or `Cmd + F` on macOS).
 
 ## Emoji
 :star2: means that's a recommendation from the original author / from other people or from myself.
