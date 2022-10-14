@@ -1,4 +1,4 @@
-<!--  --># Awesome Piracy [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+<!--  --># Awesome Piracy [![Awesome](https://awesome.re/badge.svg)]
 
 > A curated list of arrrrrrrrr!
 
