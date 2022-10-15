@@ -1066,6 +1066,7 @@ premium services
 - [YouTube to MP3](https://ytformp3.com/)
 
 ### Spotify
+- [SpotX](https://github.com/SpotX-CLI) Block video, audio and banner ads on Spotify [Windows](https://github.com/SpotX-CLI/SpotX-Win) and [MacOS](https://github.com/SpotX-CLI/SpotX-Mac) and also unlock more premium and experimental features.  
 - [Get rid of Spotify ads](https://www.reddit.com/r/Piracy/comments/9jvlf8/get_rid_of_spotify_adsbannerslimited_skips_and/) Short guide on avoiding ads, banners, limited skips, and locked shuffle mode in Spotify Free
 - [Spotify AdBlock Host file](https://www.reddit.com/r/Piracy/comments/9tcbvc/spotify_adblock_host_file_uptodate_effective/) :star2: This is the most up-to-date list and will block all annoying Spotify ads & analytics.
 - [EZBlocker](https://github.com/Xeroday/Spotify-Ad-Blocker/) a Spotify Ad Blocker written in C# for Windows 7/8/10.
