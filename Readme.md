@@ -8,8 +8,14 @@ Please ensure that you use a blocker like [uBlock Origin](https://github.com/gor
 If you come across dead or obsolete links, please fix them by [making a pull request](https://github.com/Shakil-Shahadat/awesome-piracy/edit/master/readme.md) or report them by [creating an issue](https://github.com/Shakil-Shahadat/awesome-piracy/issues).
 
 
+## Web Version
+
+Web version of this repository can be found [here](https://shakil-shahadat.github.io/awesome-piracy/).
+
+
 ## Emoji
 :star2: means that's a recommendation from the original author / from other people or from myself.
+
 
 ## Background Information
 - [Wikipedia "File sharing" category](https://en.wikipedia.org/wiki/Category:File_sharing) Wikipedia's full list of file-sharing related articles.
