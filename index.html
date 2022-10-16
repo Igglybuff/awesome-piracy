@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>Awesome Piracy</title>
+	<link rel="stylesheet" href="">
+	<style>
+		main
+		{
+			font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji';
+			font-size: 16px;
+			line-height: 1.5;
+			width: 960px;
+			margin: auto;
+		}
+		select
+		{
+			position: fixed;
+			bottom: 0;
+			right: 0;
+		}
+	</style>
+</head>
+<body>
+
+	<select onchange="changeCSS( this.value )">
+		<option value="darkly">Darkly</option>
+		<option value="united">United</option>
+		<option value="flatly">Flatly</option>
+		<option value="quartz">Quartz</option>
+	</select>
+
+	<main></main>
+
+	<!-- JavaScript Library to Convert Markdown into HTML -->
+	<script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+	<script>
+		// Basic Settings
+		const defaultTheme = 'darkly';
+		const bootswatchVersion = '5.2.1';
+		// Update last one only when https://www.jsdelivr.com/package/npm/bootswatch is updated.
+
+		// Get the markdown file, convert to HTML & put inside the main tag
+		fetch( 'https://raw.githubusercontent.com/Shakil-Shahadat/awesome-piracy/main/Readme.md' )
+			.then( response => response.text() )
+			.then( data => {
+				data = data.replaceAll( ':star2:', '<img src="https://github.githubassets.com/images/icons/emoji/unicode/1f31f.png?v8" width="20">' );
+				document.querySelector( 'main' ).innerHTML = marked.parse( data );
+			})
+			.catch( error => console.error( 'Error:', error ) );
+
+		// Change the theme
+		function changeCSS( theme )
+		{
+			document.querySelector( 'link' ).href
+					= `https://cdn.jsdelivr.net/npm/bootswatch@${bootswatchVersion}/dist/${theme}/bootstrap.min.css`;
+		}
+
+		// Set the default theme
+		changeCSS( defaultTheme );
+	</script>
+</body>
+</html>
