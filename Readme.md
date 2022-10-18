@@ -13,6 +13,11 @@ If you come across dead or obsolete links, please fix them by [making a pull req
 Web version of this repository can be found [here](https://shakil-shahadat.github.io/awesome-piracy/).
 
 
+## Backup
+
+This repository is regularly backed up in [archive.org](https://web.archive.org/web/20220000000000*/https://github.com/Shakil-Shahadat/awesome-piracy).
+
+
 ## Emoji
 :star2: means that's a recommendation from the original author / from other people or from myself.
 
