@@ -1512,6 +1512,7 @@ premium services
 - [TiviMate IPTV player](https://play.google.com/store/apps/details?id=ar.tvplayer.tv) A popular Android app for watching IPTV on Android set-top boxes.
 - [Fildo](https://fildo.net/android/en/#) Android music streaming app which fetches files from third party MP3 search engines.
 - [YouTube Vanced](https://www.apkmirror.com/apk/team-vanced/vanced-manager/) Vanced is a well known modded version of YouTube with many features such as adblocking and background playback and many more. App is discontinued, a mirror link is provided.
+- [ReVanced](https://github.com/revanced/revanced-manager/) Continuing the legacy of Vanced.
 
 
 ### Streaming Apps
