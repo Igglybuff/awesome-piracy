@@ -1511,7 +1511,7 @@ premium services
 - [nzbUnity](https://nzbunity.dozenzb.com/) iOS app for managing your favourite NZB applications
 - [TiviMate IPTV player](https://play.google.com/store/apps/details?id=ar.tvplayer.tv) A popular Android app for watching IPTV on Android set-top boxes.
 - [Fildo](https://fildo.net/android/en/#) Android music streaming app which fetches files from third party MP3 search engines.
-- [YouTube Vanced](https://vancedapp.com/) Vanced is a well known modded version of YouTube with many features such as adblocking and background playback and many more.
+- [YouTube Vanced](https://www.apkmirror.com/apk/team-vanced/vanced-manager/) Vanced is a well known modded version of YouTube with many features such as adblocking and background playback and many more.
 
 
 ### Streaming Apps
