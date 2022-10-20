@@ -1208,6 +1208,7 @@ premium services
 - [Spytify](https://jwallet.github.io/spy-spotify/) Records Spotify without ads while it plays and includes media tags and album cover to the recorded files
 - [Spotify modded APK](https://forum.mobilism.org/viewtopic.php?f=1332&t=2950704) Modded APK with no ads.
 - [Downtify](https://github.com/eviabs/downtify-premium) Downtify is an open-source Spotify downloader which makes it possible to download all your favourite songs and/or playlists directly from Spotify.
+- [xManager (Spotify)](https://github.com/xManager-v2/xManager-Spotify) Manager To download ad-free spotify app.
 
 
 ### iTunes
