@@ -1494,7 +1494,7 @@ premium services
 ## Mobile Apps
 
 - [AdAway](https://adaway.org/) An open-source ad blocker for Android using the hosts file. It needs ROOT access
-- [NewPipe](https://newpipe.schabi.org/) The original YouTube experience without annoying ads and questionable permissions
+- [NewPipe](https://newpipe.net/) The original YouTube experience without annoying ads and questionable permissions
 - [nzb360](http://nzb360.com/) :star2: nzb360 is a full-featured NZB manager that focuses on providing the best experience possible for controlling all of your Usenet needs.
 - [Ombi](https://play.google.com/store/apps/details?id=com.tidusjar.Ombi) Companion app for Ombi to request Plex content
 - [Tautulli Remote](https://play.google.com/store/apps/details?id=com.williamcomartin.plexpyremote) Mobile version of Tautilli for monitoring Plex on the go
