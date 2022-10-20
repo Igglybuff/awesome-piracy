@@ -255,6 +255,7 @@ You will notice some items on this list have a :star2: next to them. Items with 
 - [10 Minute Mail](https://10minutemail.net/) Disposable, private mailboxes
 - [Cock.li](https://cock.li/) Yeah it's mail with cocks
 - [Tutanota](https://tutanota.com/) Secure, open source email service
+- [Tutanota](https://tutanota.com/) open source secure email provider with end-to-end encryption
 
 ## Decentralised Networks
 - [Tor](https://www.torproject.org/) :star2: Tor is free software and an open network that helps you defend against traffic analysis.
@@ -566,7 +567,7 @@ ltConfig is a plugin for Deluge that allows direct modification to libtorrent se
 ### Download Managers
 - [JDownloader2](https://jdownloader.org/jdownloader2) :star2: JDownloader is a free, open-source download management tool with a huge community of developers that makes downloading as easy and fast as it should be.
 - [Internet Download Manager](https://www.internetdownloadmanager.com/) shareware download manager for Windows
-- [idm-trial-reset](https://github.com/J2TeaM/idm-trial-reset) Use IDM forever without cracking.
+- [IDM Forever](https://igetintopc.com/?s=IDM) Download the latest IDm for free
 - [Persepolis](https://github.com/persepolisdm/persepolis) An open source download manager and GUI for Aria2 written in Python with IDM like browser integration. Cross platfrom.
 - [pyLoad](https://pyload.net/) Free and Open Source download manager written in Python and designed to be extremely lightweight, easily extensible and fully manageable via web
 - [Xtreme Download Manager](https://subhra74.github.io/xdm/#) Xtreme Download Manager is a tool that claims to increase download speeds by up to 500%.
@@ -1093,6 +1094,7 @@ premium services
 - [My Digital Life Forums](https://forums.mydigitallife.net/) Popular forum for modded/cracked software and apps
 - [Pro Design Tools](https://prodesigntools.com) Site focused on Adobe Development including cracked software and ebooks.
 - [ShareAppsCrack](https://shareappscrack.com/) Website with a plethora of development tools and engineering-focused software, including video tutorials, and some ebooks.
+- [iGetIntoPC](igetintopc.com) a Trusted website where you can download all the softwares you need
 
 ### Adobe CC
 - [Adobe CC 2019/2020 AIO Patcher](https://cracked.to/Thread-Cracked-CRACK-ADOBE-CC-2019-2020-GENP-V2-7) Latest Working All-In-One Patcher for all Adobe Creative Cloud 2019/2020 Applications (Windows)
