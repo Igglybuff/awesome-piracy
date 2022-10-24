@@ -1447,6 +1447,9 @@ premium services
 ## Piracy Blogs and News
 - [TorrentFreak](https://torrentfreak.com) :star2: TorrentFreak is a publication dedicated to bringing the latest news about copyright, privacy, and everything related to filesharing.
 - [TechWorm](https://www.techworm.net) Techworm is a Tech, Cyber-security news platform.
+- [Schneier on Security](https://www.schneier.com) Schneier on Security is a Security, Tech, and Privacy news website.
+- [BleepingComputer](https://www.bleepingcomputer.com) BleepingComputer is an Information security and technology news website.
+- [Electronic Frontier Foundation](https://www.eff.org/deeplinks) Electronic Frontier Foundation is a Privacy, Tech news platform.
 
 ## Content Discovery
 - [Trakt.tv](https://trakt.tv/) :star2: a platform that does many things, but primarily keeps track of TV shows and movies you watch.
