@@ -679,6 +679,7 @@ ltConfig is a plugin for Deluge that allows direct modification to libtorrent se
 - [get_iplayer](https://github.com/get-iplayer/get_iplayer) A utility for downloading TV and radio programmes from BBC iPlayer
 - [MEGAsync](https://mega.nz/sync) Easily automated synchronisation between your computer and your MEGA account. Can stream Mega videos directly.
 - [wget](https://www.gnu.org/software/wget/) `wget` is a free and open-source tool for downloading files using HTTP, HTTPS, FTP, and FTPS. It can be easily called from scripts, cronjobs, terminals without X-Windows support, etc.
+- [Frequently Asked Questions About GNU Wget](http://wget.addictivecode.org/Faq.html)
 - [wget - a noob's guide](https://dokumen.tips/documents/wget-a-noobs-guide-regravitycom.html) Beginner guide on how to use `wget`.
 - [wget for Windows](https://eternallybored.org/misc/wget/) A command-line utility for retrieving files using HTTP, HTTPS, and FTP protocols.
 - [curl](https://en.wikipedia.org/wiki/CURL) `curl` is a command-line tool for downloading data using a variety of protocols. Easily installable on most operating systems.
