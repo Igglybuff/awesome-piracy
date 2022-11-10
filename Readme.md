@@ -719,7 +719,6 @@ ltConfig is a plugin for Deluge that allows direct modification to libtorrent se
 
 - [/r/ZippyShare](https://www.reddit.com/r/ZippyShare) DDL links hosted on ZippyShare
 - [DirtyWarez Forum](https://forum.dirtywarez.com/) Popular warez forum with films, TV shows, ebooks, anime, games, and more
-- [snahp.it](https://snahp.it/) :star2: replaced /r/megalinks
 - [BlackPearl.biz](https://blackpearl.biz/) Drop-in replacement for snahp.it while their registrations remain closed
 - [hdencode](https://hdencode.com/)
 - [WarezForums](https://warezforums.com/) Warez forum with films, TV shows, ebooks, anime, games, and more.
