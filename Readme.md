@@ -802,7 +802,6 @@ premium services
 
 #### HD Streaming
 
-- [HD MultiredditHD](https://www.reddit.com/user/nbatman/m/streaming2/) Alternate subreddit curated by /u/nbatman
 - [Best Free Streaming](https://www.bestfreestreaming.org/) A site that rates streaming services.
 - [YMovies](https://ymovies.tv/) Unique design, HD server with additional hosts, nice speeds, YIFY and other releases (+ torrents)
 - [HDO](https://hdo.to/) Unique design, HD server with additional hosts, also country-specific films/series
