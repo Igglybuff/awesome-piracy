@@ -803,7 +803,6 @@ premium services
 #### HD Streaming
 
 - [Best Free Streaming](https://www.bestfreestreaming.org/) A site that rates streaming services.
-- [HDO](https://hdo.to/) Unique design, HD server with additional hosts, also country-specific films/series
 - [M4UFree.TV](http://m4ufree.tv/) Unique design, HD server with backup and additional hosts
 - [Movie123](http://movie123.club/) Unique design, HD server with Backup and additional hosts
 - [LookMovie](https://lookmovie.ag/) Unique design, HD server, very nice speeds (offers auto quality)
