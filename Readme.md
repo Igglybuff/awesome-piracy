@@ -805,7 +805,6 @@ premium services
 - [Best Free Streaming](https://www.bestfreestreaming.org/) A site that rates streaming services.
 - [M4UFree.tv](https://ww1.m4ufree.tv/) Unique design, HD server with backup and additional hosts
 - [Movie123](http://movie123.club/) Unique design, HD server with Backup and additional hosts
-- [LookMovie](https://lookmovie.ag/) Unique design, HD server, very nice speeds (offers auto quality)
 - [AZMovies](https://azmovies.xyz/) Unique design, HD server with additional hosts, also on Reddit
 - [Streamlord](http://www.streamlord.com/) Unique design, HD server (subtitles)
 - [FlixGo](https://flixgo.net/) Unique design, HD server, very nice speeds
