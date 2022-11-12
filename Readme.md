@@ -1,4 +1,4 @@
-# Awesome Piracy [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome Piracy
 
 ## Preamble
 This list is based on the amazing work https://github.com/Igglybuff/awesome-piracy. However, that repo has a lot of obsolete links, so I forked it to update the links faster.
