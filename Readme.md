@@ -881,7 +881,6 @@ premium services
 - [/r/WWEstreams](https://www.reddit.com/r/WWEstreams/) Reddit - WWE streams
 - [/r/rugbystreams](https://www.reddit.com/r/rugbystreams/) Reddit - rugby streams
 - [/r/mmafights](https://www.reddit.com/r/mmafights/) Reddit - MMA streams
-- [/r/motorsportsstreams](https://www.reddit.com/r/motorsportsstreams) Reddit - motorsports streams
 - [Best Sport Streaming](https://www.bestsportstreaming.com/) Site that rates sport streaming services
 - [LiveTV](https://livesx.eu/) Wide variety of sports, results/live scores, video archive and betting
 - [Cricfree](https://crickfree.org/) Offers popular sports streams
