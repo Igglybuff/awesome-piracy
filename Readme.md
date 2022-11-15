@@ -416,7 +416,6 @@ for any IP address.
 - [YggTorrent](https://yggtorrent.li/) French tracker and search engine (have a download/upload ratio limitation)
 - [WorldWide Torrents](https://worldwidetorrents.me/) Another public tracker with a reasonably nice UI
 - [Rock Box](https://rawkbawx.rocks/) Metal music tracker
-- [Music Torrent](http://music-torrent.net) General music tracker
 - [7torrents](https://www.7torrents.cc/) Fast, clean, ad-free, privacy-focused DHT search engine
 
 
