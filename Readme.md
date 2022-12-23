@@ -704,12 +704,7 @@ ltConfig is a plugin for Deluge that allows direct modification to libtorrent se
 
 ### DDL Search Engines and Crawlers
 
-- [MegaSearch](http://megasearch.co) Search engine for finding content hosted on Mega and other premium hosts like OpenLoad
-- [VideoSpider](https://videospider.in/) VideoSpider crawls various websites and search engines to find movie and TV episode streaming links
 - [Orion](https://orionoid.com/) :star2: Orion is a service that indexes metadata and links from a variety of public websites and networks, including torrent, Usenet, and hoster indexes.
-- [Alluc](https://w1.alluc.uno/) Search engine with over 80 million streaming-links from over 700 VOD services, video hosters, and file-hosters
-- [OD-Database](https://od-db.the-eye.eu/) Database of searchable open directories curated by The-Eye.eu
-- [IPLIVE](https://iplive.club/) DDL search engine
 - [SoftArchive](https://sanet.st/full/) SoftArchive or SA is a scene release website, more known for new releases of software, games, music, movies, and eBooks.
 
 
