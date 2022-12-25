@@ -744,6 +744,7 @@ premium services
 - [TVBox](https://tvbox.ag/) TV/Movies, easy to navigate site, multiple links/backups to different streaming hosts
 
 #### Anime
+- [Zoro](https://zoro.to/) Dub and Sub and anime with intuitive UI.
 - [Nyaa](https://nyaa.si/) BitTorrent software for cats [(Repo)](https://github.com/nyaadevs/nyaa)
 - [Hi10 Anime](https://hi10anime.com/) High-Quality 10-bit Anime Encodes
 - [Anime Kaizoku](https://animekaizoku.com/) Up to 1080p DDL links, mostly Google Drive
