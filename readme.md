@@ -1173,6 +1173,7 @@ premium services
 - [Omnibus](https://github.com/fireshaper/Omnibus) Search for and download comics that are added to GetComics.info easily
 
 ## Manga
+- [Manga Reader](https://mangareader.to/) Reading manga online for free on MangaReader is as easy as searching on Google. 
 - [MangaDex](https://www.mangadex.org/) MangaDex is an online manga reader that caters to all languages.
 - [/r/manga](https://www.reddit.com/r/manga) Everything and anything manga! (manhwa is okay too!)
 - [Madokami](https://manga.madokami.al/) Requires sign-up (currently closed), see mirrors below.
