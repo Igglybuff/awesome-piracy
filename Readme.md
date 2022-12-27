@@ -731,7 +731,6 @@ ltConfig is a plugin for Deluge that allows direct modification to libtorrent se
 - [AvaxHome](https://avxhm.se) Another DDL site with eBooks, TV, movies, magazines, software, comics, newspapers, games, graphics, etc.
 - [Moviesleak](https://moviesleak.net/)
 - [Dospelis](https://www.dospelis.net) Spanish DDL indexer
-- [movidy](https://movidy.co) Links for movies and shows in Spanish
 - [Vidics](https://www.vidics.to/)
 - [watchepisodeseries](https://watchepisodeseries.bypassed.wtf/)
 - [watchtvseries](http://watchtvseries.unblckd.club/)
