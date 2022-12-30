@@ -1383,6 +1383,7 @@ premium services
 - [Piracy and automation, an overview](https://docs.google.com/document/d/1TwUrRj982WlWUhrxvMadq6gdH0mPW0CGtHsTOFWprCo/edit) Guide by /u/JukeCity101 on how to improve your experience pirating with automation tools
 - [Nefarious](https://lardbit.github.io/nefarious/) Nefarious is a web application that helps you download movies and TV shows.
 - [Notifiarr](https://notifiarr.com/) Integrates so many of the services already mentioned here and provides tons of configurability with Discord.
+- [Prowlarr](https://wiki.servarr.com/prowlarr) Similar to Jackett but built for the popular *arr forks.
 
 
 ### TV Automation
