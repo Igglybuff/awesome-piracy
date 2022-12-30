@@ -542,7 +542,7 @@ ltConfig is a plugin for Deluge that allows direct modification to libtorrent se
 - [SoYouStart](https://www.soyoustart.com/us/) Another dedicated server host
 - [PulsedMedia](https://pulsedmedia.com/) Inexpensive seedbox provider
 - [Cloudboxes.io](https://cloudboxes.io/) Seedboxes with impressive 20Gbps uplinks
-- [Seedbox.io](https://seedbox.io/) Shared and dedicated slots with 1Gbps+ uplinks
+- [Hostingbydesign](https://hostingby.design/) Shared and dedicated slots with 1Gbps+ uplinks
 - [Giga-Rapid.com](https://giga-rapid.com/gigaseedbox.php) Shared 1Gbps seedboxes with massive storage & lots of addon applications.
 
 
