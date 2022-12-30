@@ -1404,6 +1404,11 @@ premium services
 - [Watcher](https://github.com/nosmokingbandit/Watcher3) Watcher is an automated movie NZB & Torrent searcher and snatcher.
 
 
+### Ebook Automation
+
+- [Readarr](https://readarr.com/) Another *are fork but for ebooks/audiobooks.
+
+
 ### Music Automation
 
 - [betanin](https://github.com/sentriz/betanin) beets.io based man-in-the-middle of your torrent client and music player.
