@@ -1421,6 +1421,7 @@ premium services
 - [ixIRC](https://ixirc.com/) ixIRC lets you search through 17 IRC networks, 32 channels, and over 189915 user-supplied XDCC packs.
 - [SunXDCC](http://sunxdcc.com/) Another XDCC file search engine
 - [xdcc.eu](http://www.xdcc.eu/) XDCC search engine indexing packets from a large number of networks
+- [xdcc.rocks](https://www.xdcc.rocks) the only XDCC search engine with extra finishing
 
 ## DC++
 - [Direct Connect (protocol)](https://en.wikipedia.org/wiki/Direct_Connect_(protocol)) Wikipedia page describing Direct Connect.
