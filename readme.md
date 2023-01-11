@@ -229,15 +229,16 @@ You will notice some items on this list have a :star2: next to them. Items with 
 - [Buttercup](https://buttercup.pw/) Another open source password manager with desktop, mobile, and browser clients.
 
 ## Antivirus
-- [Norton Power Eraser(NPE)](https://support.norton.com/sp/en/us/home/current/solutions/kb20100824120155EN) A tool good at repairing certain system files and functions.
-- [Kaspersky Virus Removal Tool(kvrt)](https://www.kaspersky.com/downloads/free-virus-removal-tool) A tool for advanced scanning and disinfecting Windows computers.
+[otr: one-time-run]
+- [Norton Power Eraser(NPE)](https://support.norton.com/sp/en/us/home/current/solutions/kb20100824120155EN) A tool good at repairing certain system files and functions(otr).
+- [Kaspersky Virus Removal Tool(kvrt)](https://www.kaspersky.com/downloads/free-virus-removal-tool) A tool for advanced scanning and disinfecting Windows computers(otr).
 - [MalwareBytes](https://www.malwarebytes.com/) :star2: "crushes malware so you are protected and your machine keeps running smoothly."
-- [HitmanPro](https://www.hitmanpro.com) Antivirus product from Sophos.
+- [HitmanPro](https://www.hitmanpro.com) Antivirus product from Sophos(has otr option).
 - [VirusTotal](https://www.virustotal.com/) Web service for scanning files and URLs for viruses.
 - [How to remove viruses and malware on your Windows PC](https://www.howtogeek.com/126911/what-to-do-if-you-get-a-virus-on-your-computer/) Helpful HowToGeek article on cleaning out the pipes.
 - [Avast Antivirus](https://www.avast.com) Avast Antivirus is a multi-platform antivirus application with a free tier. Be sure to opt-out of sending anonymous usage statistics.
 - [Kaspersky Security Cloud Free](https://www.kaspersky.co.in/free-antivirus) It is a windows antivirus with all necessary features which a AV needs. Don't forget to uncheck all boxes while installing it, specially of kasperskey program.
-- [Malwarebytes AdwCleaner](https://www.malwarebytes.com/adwcleaner) An adware cleaner for removing unwanted programs and junkware.
+- [Malwarebytes AdwCleaner](https://www.malwarebytes.com/adwcleaner) An adware cleaner for removing unwanted programs and junkware(otr).
 
 ## Privacy
 - [Prism Break](https://prism-break.org/en/) Opt out of global data surveillance programs like PRISM, XKeyscore, and Tempora.
