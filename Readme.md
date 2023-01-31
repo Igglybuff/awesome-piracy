@@ -413,6 +413,7 @@ for any IP address.
 - [DIGBT](https://www.digbt.org/) DIGBT is a DHT torrent search engine.
 - [Torrent9](https://www.torrent9.ph/) French torrent search engine
 - [YggTorrent](https://yggtorrent.li/) French tracker and search engine (have a download/upload ratio limitation)
+- [Torrenty.org](https://ex-torrenty.org/) - Polish general tracker
 - [WorldWide Torrents](https://worldwidetorrents.me/) Another public tracker with a reasonably nice UI
 - [Rock Box](https://rawkbawx.rocks/) Metal music tracker
 
