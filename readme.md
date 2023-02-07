@@ -148,7 +148,6 @@ You will notice some items on this list have a :star2: next to them. Items with 
 ### VPN Guides and Tutorials
 - [That One Privacy Site](https://thatoneprivacysite.net/vpn-section/) VPN section of That One Privacy Site with VPN comparisons
 - [Choosing the best VPN (for you)](https://www.reddit.com/r/VPN/comments/4iho8e/that_one_privacy_guys_guide_to_choosing_the_best/?st=iu9u47u7&sh=459a76f2) That One Privacy Guy's - Guide to Choosing the Best VPN (for you)
-- [/r/VPN wiki](https://www.reddit.com/r/VPN/wiki/index) Helpful FAQ-type resource composed by the folks at /r/VPN
 - [Choosing the VPN that's right for you](https://ssd.eff.org/en/module/choosing-vpn-thats-right-you) Helpful guide from the EFF
 - [Which VPN services keep you anonymous in 2018?](https://torrentfreak.com/vpn-services-keep-anonymous-2018/) TorrentFreak Article by Ernesto
 - [privacytools.io](https://www.privacytools.io/) "Encryption against global mass surveillance". Plenty of information to help protect your privacy online.
@@ -187,8 +186,7 @@ You will notice some items on this list have a :star2: next to them. Items with 
 - [WebRTC Network Limiter](https://chrome.google.com/webstore/detail/webrtc-network-limiter/npeicpdbkakmehahjeeohfdhnlpdklia?hl=en) Configures how WebRTC's network traffic is routed by changing Chrome's privacy settings.
 - [ScriptSafe](https://chrome.google.com/webstore/detail/scriptsafe/oiigbmnaadbkfbmpbfijlflahbdbdgdf?hl=en) A browser extension that gives users control of the web and more secure browsing while emphasizing simplicity and intuitiveness.
 - [NoScript](https://noscript.net/getit) Allow active content to run only from sites you trust, and protect yourself against XSS and clickjacking attacks. Firefox only.
-- [Burlesco](https://burles.co/en/) Read the news without subscribing, bypass the paywall
-- [Universal Bypass](https://github.com/Sainan/Universal-Bypass) Universal Bypass automatically skips annoying link shorteners.
+- [Burlesco](https://burles.co/en/) Read the news without subscribing, bypass the paywall.
 - [Violentmonkey](https://violentmonkey.github.io/) An open-source userscript manager.
 - [Anti-Paywall](https://github.com/nextgens/anti-paywall) A browser extension that maximizes the chances of bypassing paywalls
 - [Google Unlocked](https://github.com/Ibit-to/google-unlocked) Uncensor google search results.
@@ -197,7 +195,6 @@ You will notice some items on this list have a :star2: next to them. Items with 
 - [IMDb Scout](https://greasyfork.org/en/scripts/3967-imdb-scout) Add links from IMDb pages to torrent sites -- easy downloading from IMDb
 - [IMDb Scout Mod](https://greasyfork.org/en/scripts/407284-imdb-scout-mod) Adds links to IMDb pages from the torrent, ddl, subtitles, streaming, usenet and other sites.
 - [AdsBypasser](https://adsbypasser.github.io/) This user script helps you to skip countdown ads or continue pages and prevent ad pop-up windows.
-- [AntiAdware](https://greasyfork.org/en/scripts/4294-antiadware) Remove forced download accelerators, managers, and adware on supported websites
 - [Direct download from Google Play](https://greasyfork.org/en/scripts/33005-direct-download-from-google-play/) Adds APKPure, APKMirror and Evozi download buttons to Google Play when browsing apps.
 - [AdGuard Popup Blocker](https://github.com/AdguardTeam/PopupBlocker) Popup Blocker by AdGuard is a userscript that blocks all unwanted pop-up windows in different browsers.
 - [Torrentz2 Magnet](https://greasyfork.org/en/scripts/21547-torrentz2-magnet) Add magnet link to torrentz2
@@ -206,7 +203,6 @@ You will notice some items on this list have a :star2: next to them. Items with 
 - [Google Image "View Image" button](https://greasyfork.org/en/scripts/392076-google-images-direct-link-fix) Add "View Image" button. This is a fork of the original.
 - [MoreCAPTCHA](https://greasyfork.org/en/scripts/31088-morecaptcha) Speeds up solving Google reCAPTCHA challenges by shortening transition effects and providing continuous selection ability.
 - [MAL-Sync](https://greasyfork.org/en/scripts/372847-mal-sync) Integrates MyAnimeList into various sites, with auto episode tracking.
-- [Remove fake TPB torrents](https://www.removeddit.com/r/Piracy/comments/78aicx/i_wrote_a_small_script_that_automatically_hides/) Script that automatically hides fake torrents on The Pirate Bay based on conditional logic.
 - [Get DLC Info from SteamDB](https://cs.rin.ru/forum/viewtopic.php?t=71837) For use with CreamAPI and similar tools.
 - [The Pirate Bay Cleaner](https://greasyfork.org/en/scripts/1573-the-pirate-bay-cleaner) Auto-sorting, torrentifying, theme-change, search-change, SSL/HTTPS and more.
 
