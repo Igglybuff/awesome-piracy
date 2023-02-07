@@ -361,11 +361,9 @@ You will notice some items on this list have a :star2: next to them. Items with 
 
 ### Torrent Clients
 - [qBitTorrent](https://www.qbittorrent.org/) Popular, lightweight, multi-platform torrent client
-- [qBitTorrent search function](https://www.techsupportalert.com/qbittorrent-help-torrent-search-engine) Allows you to search popular trackers directly from qBittorrent
 - [qBitTorrent plugins for public sites](https://github.com/qbittorrent/search-plugins/wiki/Unofficial-search-plugins#plugins-for-public-sites) List of qBitTorrent plugins for searching public torrent sites.
 - [Transmission](https://transmissionbt.com/) Default torrent client in many distros.
 - [Popcorn Time](https://github.com/popcorn-official/popcorn-desktop) Popcorn Time is a multi-platform, free software BitTorrent client that includes an integrated media player.
-- [Butter Project](http://butterproject.org/) A legal fork of Popcorn Time which is configurable to allow for custom sources of video
 - [BitLord](http://www.bitlord.com/) Another BitTorrent streaming client
 - [Tixati](https://tixati.com/) Lightweight torrent client for Windows and Linux
 - [PicoTorrent](https://picotorrent.org/) A lightweight and minimalistic torrent client for Windows
@@ -401,7 +399,6 @@ ltConfig is a plugin for Deluge that allows direct modification to libtorrent se
 
 ### autodl-irssi
 - [autodl-irssi](https://autodl-community.github.io/autodl-irssi/) autodl-irssi is a plugin for irssi that monitors IRC announce channels for torrent trackers and downloads torrent files based on user-defined filters.
-- [autodl-curl-sonarr](https://github.com/Zymest/autodl-curl-sonarr) Script to use as upload-command for autodl-irssi to post to Sonarr
 - [mreg](https://github.com/Igglybuff/mreg) Generates a "Match releases" expression for your autodl-irssi filter based on dvdsreleasedates.com's "Most Requested DVD Release Dates" section.
 - [Slack notifications for autodl-irssi](https://gist.github.com/Igglybuff/00d5e91274a562ac724d358bbbc8bc7b) Guide by yours truly on enabling Slack notifications for autodl-irssi
 
