@@ -741,7 +741,7 @@ premium services
 
 #### TV
 - [WatchSeries](http://dwatchseries.to/) TV series, multiple links/backups to different streaming hosts
-- [TVBox](https://tvbox.ag/) TV/Movies, easy to navigate site, multiple links/backups to different streaming hosts
+
 
 #### Anime
 - [Nyaa](https://nyaa.si/) BitTorrent software for cats [(Repo)](https://github.com/nyaadevs/nyaa)
