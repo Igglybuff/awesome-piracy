@@ -412,10 +412,7 @@ ltConfig is a plugin for Deluge that allows direct modification to libtorrent se
 - [Bitport.io](https://bitport.io/) Another direct download site for pasting magnet links or .torrent files. Free accounts offer 1GB for free.
 - [Torrent Safe](https://www.torrentsafe.com/) Free plan includes 1GB max file size, 2 days file lifetime. Discounts for paid subscriptions pop up on their [Facebook page](https://www.facebook.com/TorrentSafe/)
 - [Furk.net](https://www.furk.net/) Free trial offers 1GB per day or 5GB per week if you can get an invite/voucher or use Facebook
-- [FileStream.me](https://filestream.me/) The free subscription offers 200Mb max file size and 200GB storage total
-- [2Giga.link](https://www.2giga.link/)
 - [Foxleech](https://www.foxleech.com/) No free trial, plans start at $3 per month
-- [Boxopus](https://boxopus.com/) No free trial, plans start at $0.99 per day
 - [Put.io](https://put.io/) $0.99 1 day trial
 - [Put.io automator](https://github.com/datashaman/putio-automator) A suite of commands for managing torrents, transfers, and files on Put.IO
 
@@ -423,8 +420,6 @@ ltConfig is a plugin for Deluge that allows direct modification to libtorrent se
 - [novaDedi](https://novadedi.net/index.php) novaDedi formerly known as metaDedi was created to help to find you the cheapest dedicated server for your intended use case.
 - [CheckServers.OVH](https://checkservers.ovh/) Checks the availability of OVH servers.
 - [Kimsufi](https://www.kimsufi.com/uk/) Affordable dedicated servers
-- [Online.net](https://www.online.net/en) :star2: Seedbox-friendly, affordable, dedicated server host
-- [Hetzner](https://hetzner.co.za/) Reliable and affordable server host
 - [/u/Andy10gbit](https://www.reddit.com/r/seedboxes/comments/9iu7o8/andy10gbit_server_and_seedbox_list/) Reddit user with good deals on servers and seedboxes
 - [Bytesized Hosting](https://bytesized-hosting.com/) "The best Plex server hosting in town"
 - [FeralHosting](https://www.feralhosting.com/pricing) Shared seedbox hosting provider
