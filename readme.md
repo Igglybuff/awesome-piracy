@@ -1123,6 +1123,7 @@ premium services
 - [DeDRM_tools](https://github.com/apprenticeharper/DeDRM_tools) DeDRM tools for ebooks.
 - [ReadAnyBook](https://readanybook.com/) Free online reading.
 - [PDFdrive](http://pdfdrive.com) PDF Drive is your search engine for PDF files. No annoying ads, no download limits.
+- [DesiTechnical](https://desitechnical.in/) DesiTechnical is your search engine for PDF files as well as for news. No annoying ads, no download limits.
 - [Memory of the world](http://library.memoryoftheworld.org) A new website containing a lot of books.
 
 ## Magazines
