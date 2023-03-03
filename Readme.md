@@ -1676,6 +1676,7 @@ premium services
 ## Content Discovery
 
 - [Trakt.tv](https://trakt.tv/) :star2: a platform that does many things, but primarily keeps track of TV shows and movies you watch.
+- [Simkl](https://simkl.com/) :star2: Automatically Tracks, TV Shows, Movies & Anime. Very friendly UI and amazing Apps.
 - [IMDb](https://www.imdb.com/) Find movies, TV shows, celebrities, and more
 - [Movieo](https://movieo.me/) Discover, organize and track over 250,000 movies.
 - [MetaCritic](https://www.metacritic.com) website that aggregates reviews of media products: music albums, video games, films, TV shows, and formerly, books.
