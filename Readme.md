@@ -1676,7 +1676,7 @@ premium services
 ## Content Discovery
 
 - [Trakt.tv](https://trakt.tv/) :star2: a platform that does many things, but primarily keeps track of TV shows and movies you watch.
-- [Simkl](https://simkl.com/) :star2: Automatically Tracks, TV Shows, Movies & Anime. Very friendly UI and amazing Apps.
+- [Simkl](https://simkl.com/) :star2: Automatically Tracks TV Shows, Movies & Anime. Very friendly UI and amazing Apps / [Import Tools](https://simkl.com/apps/import/)
 - [IMDb](https://www.imdb.com/) Find movies, TV shows, celebrities, and more
 - [Movieo](https://movieo.me/) Discover, organize and track over 250,000 movies.
 - [MetaCritic](https://www.metacritic.com) website that aggregates reviews of media products: music albums, video games, films, TV shows, and formerly, books.
@@ -1691,7 +1691,6 @@ premium services
 - [WhereYouWatch](https://whereyouwatch.com/latest-reports/) Follow upcoming movies and receive email alerts when they are out online as a download or stream – pirated or via retail.
 - [Flickmetrix](https://flickmetrix.com/) Movie database search engine with disc/Netflix/Prime filtering
 - [dvdsreleasedates.com](https://www.dvdsreleasedates.com/) The latest info on new Blu-ray and DVD releases
-- [Simkl](https://simkl.com/) Movie and TV show scrobbler similar to Trakt.tv
 
 
 ### PreDB Sites
