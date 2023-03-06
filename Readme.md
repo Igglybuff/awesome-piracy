@@ -750,7 +750,7 @@ ltConfig is a plugin for Deluge that allows direct modification to libtorrent se
 - [480mkv](http://480mkv.com/) 480p DDL for TV Shows
 - [FilmRls](https://filmrls.com/) DDL site that generally features quality previews of video content
 - [Tinymkv](https://tinymkv.xyz/) High quality small size movies/tv shows. It also does high quality HEVC movies.
-
+- [ReleaseHive](https://releasehive.org/)
 
 ### Premium Link Generators
 
