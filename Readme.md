@@ -711,7 +711,7 @@ ltConfig is a plugin for Deluge that allows direct modification to libtorrent se
 
 - [Orion](https://orionoid.com/) :star2: Orion is a service that indexes metadata and links from a variety of public websites and networks, including torrent, Usenet, and hoster indexes.
 - [SoftArchive](https://sanet.st/full/) SoftArchive or SA is a scene release website, more known for new releases of software, games, music, movies, and eBooks.
-
+- [Hatt](https://github.com/FrenchGithubUser/Hatt) A program to search for all kinds of files/media on many DDL websites at the same time, with a nice user interface, for free.
 
 ### DDL Link Sites
 
