@@ -631,32 +631,32 @@ ltConfig is a plugin for Deluge that allows direct modification to libtorrent se
 - [/r/ZippyShare](https://www.reddit.com/r/ZippyShare) DDL links hosted on ZippyShare
 - [DirtyWarez Forum](https://forum.dirtywarez.com/) Popular warez forum with films, TV shows, ebooks, anime, games, and more
 - [snahp.it](https://snahp.it/) :star2: replaced /r/megalinks
-- [BlackPearl.biz](https://blackpearl.biz/) Drop-in replacement for snahp.it while their registrations remain closed
-- [hdencode](https://hdencode.com/)
+- [BlackPearl.biz](https://blackpearl.biz/) Drop-in replacement for snahp.it while their registrations remain closed.
+- [hdencode](https://hdencode.com/) Platform that provides high-quality encoded versions of movies, TV shows for free download.
 - [WarezForums](https://warezforums.com/) Warez forum with films, TV shows, ebooks, anime, games, and more.
 - [Movies "R" Us](https://moviesrus.tk) The newest movies in 1080p. Available with DDL through MediaFire and streaming through AnonFile.
 - [Movie Glide](https://www.movieglide.com/)
-- [Release BB](http://rlsbb.ru)
+- [Release BB](http://rlsbb.ru) Provided links to download TV shows, movies, games, and software with Privacy Protection.
 - [DDLValley](https://www.ddlvalley.me/) DDL links for Movies, Games, Tv Shows, Apps, Ebooks and Music.
 - [AdiT-HD](http://adit-hd.com/) direct download site
 - [TwoDDL](http://2ddl.ws) Direct download links
-- [RapidMoviez](http://rmz.cr/)
+- [RapidMoviez](http://rmz.cr/) Website that offers free movie and TV show downloads via torrent links.
 - [SceneSource](https://scnsrc.me/) WordPress powered website dedicated to bringing you the latest info on new scene releases
-- [MkvCage](https://www.mkvcage.ws/)
+- [MkvCage](https://www.mkvcage.ws/) Website that provided torrent files for movies and TV shows.
 - [MovieFiles](https://moviefiles.org/) Direct download search engine which generates Google Drive links
 - [IceFilms.info](https://www.icefilms.info/) Another DDL site with TV and movie links on FileUpload, GoUnlimited, Filecandy, and more
 - [DownArchive](http://downarchive.org/) DDL blog with premium links on a number of hosts. Lots of software
 - [PSARips](https://psarips.com/) Popular site for movies and TV shows, includes torrent files
 - [DeeJayPirate's Pastebin](https://pastebin.com/u/DeeJayPirate) Pastebin user who uploads premium links for TV shows
 - [AvaxHome](https://avxhm.se) Another DDL site with eBooks, TV, movies, magazines, software, comics, newspapers, games, graphics, etc.
-- [Moviesleak](https://moviesleak.net/)
+- [Moviesleak](https://moviesleak.net/) Website hosts Movies and TV shows.
 - [Dospelis](https://www.dospelis.net) Spanish DDL indexer
 - [movidy](https://movidy.co) Links for movies and shows in Spanish
-- [Vidics](https://www.vidics.to/)
-- [watchepisodeseries](https://watchepisodeseries.bypassed.wtf/)
+- [Vidics](https://www.vidics.to/) Website that provided free online streaming of movies and TV shows.
+- [watchepisodeseries](https://watchepisodeseries.bypassed.wtf/) Website that offers a collection of TV shows and movies for online streaming and downloading.
 - [watchtvseries](http://watchtvseries.unblckd.club/)
 - [DownTurk](https://www.downturk.net/)
-- [ScnLog](https://scnlog.me/)
+- [ScnLog](https://scnlog.me/) Website that provides access to download links for scene releases of movies, TV shows, music, and software.
 - [filewarez.tv](https://filewarez.tv/) Invite-only, hosts both Mega and Google Drive links for TV shows
 - [Movie-blog.org](http://movie-blog.sx/) German site for movies
 - [Movieworld.to](http://movieworld.to/) Another German site for movies
