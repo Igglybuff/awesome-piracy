@@ -201,7 +201,8 @@ This repository is regularly backed up in [archive.org](https://web.archive.org/
 - [ScriptSafe](https://chrome.google.com/webstore/detail/scriptsafe/oiigbmnaadbkfbmpbfijlflahbdbdgdf?hl=en) A browser extension that gives users control of the web and more secure browsing while emphasizing simplicity and intuitiveness.
 - [NoScript](https://noscript.net/getit) Allow active content to run only from sites you trust, and protect yourself against XSS and clickjacking attacks. Firefox only.
 - [Burlesco](https://burles.co/en/) Read the news without subscribing, bypass the paywall
-- [Universal Bypass](https://github.com/Sainan/Universal-Bypass) Universal Bypass automatically skips annoying link shorteners.
+- [FastForward](https://github.com/FastForwardTeam/FastForward) Succesor to Universal Bypass, a browser extension that can bypass annoying link shorteners
+- [Bypass Paywalls Chrome Clean](https://gitlab.com/magnolia1234/bypass-paywalls-chrome-clean) Allows you to read articles from (supported) sites that implement a paywall, can also add a domain as custom site and try to bypass the paywall.
 - [Violentmonkey](https://violentmonkey.github.io/) An open-source userscript manager.
 - [Anti-Paywall](https://github.com/nextgens/anti-paywall) A browser extension that maximizes the chances of bypassing paywalls
 - [Google Unlocked](https://github.com/Ibit-to/google-unlocked) Uncensor google search results.
