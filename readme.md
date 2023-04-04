@@ -1128,6 +1128,7 @@ premium services
 ## Magazines
 - [PDF Giant](http://pdf-giant.com/) Various categories of downloadable PDFs
 - [MagazineLib](https://magazinelib.com/) Free PDF and interactive e-magazines
+- [Allyoucanread](https://www.allyoucanread.com/) It will show news and magazines about multiple countries. Political, social, weather, business and sports, all kinds of information.
 
 ## Academic Papers and Material
 - [LibGen](https://libgen.fun/) search engine for articles and books on various topics, which allows free access to content that is otherwise paywalled or not digitized elsewhere
