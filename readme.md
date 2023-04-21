@@ -575,7 +575,8 @@ ltConfig is a plugin for Deluge that allows direct modification to libtorrent se
 - [EagleGet](http://www.eagleget.com/) EG is a free all-in-one download manager, lightweight and fast, supports all popular browsers and downloads from many streaming services, a perfect alternative to IDM.
 
 ### DDL Tools
-- [youtube-dl](https://youtube-dl.org/) :star2: youtube-dl is a command-line program to download videos from YouTube.com and a few more sites.
+- [youtube-dl](https://youtube-dl.org/) youtube-dl is a command-line program to download videos from YouTube.com and a alot more sites.
+- [yt-dlp](https://github.com/yt-dlp/yt-dlp/) :star2: yt-dlp is a fork of popular command-line program youtube-dl with many new features and numerous fixes. youtube-dl is now inactive so yt-dlp is a better option.
 - [youtube-dl-gui](https://mrs0m30n3.github.io/youtube-dl-gui/) A cross-platform front-end GUI of the popular youtube-dl written in wxPython
 - [youtube-dl-helper](https://youtube-dl-helper.github.io/) Uses youtube-dl to download video/audio from many sites without requiring you to use the command-line (for Windows)
 - [YouTube MP3 Rip](https://ytmp3.cc/en9/) Download YouTube music videos as MP3 files without registration
@@ -593,6 +594,7 @@ ltConfig is a plugin for Deluge that allows direct modification to libtorrent se
 - [axel](https://github.com/axel-download-accelerator/axel) light command line download accelerator
 - [uGet](https://ugetdm.com/) Open Source Download Manager
 - [ripme](https://github.com/RipMeApp/ripme) A album/video downloader with support for over 80 sites
+- [gallery-dl](https://github.com/mikf/gallery-dl/) A command-line tool to download whole galleries and collections from numerous image hosting sites.
 - [rdcli](https://github.com/ston3o/rdcli) The simple way to download and unrestrict DDL files, torrents and magnets using Real-Debrid
 - [get_iplayer](https://github.com/get-iplayer/get_iplayer) A utility for downloading TV and radio programmes from BBC iPlayer
 - [MEGAsync](https://mega.nz/sync) Easily automated synchronisation between your computer and your MEGA account. Can stream Mega videos directly.
@@ -1288,24 +1290,24 @@ premium services
 
 ## Mobile Apps
 - [AdAway](https://adaway.org/) An open-source ad blocker for Android using the hosts file. It needs ROOT access
+- [Blokada](https://blokada.org) Blokada is a compact app that transparently blocks unwanted content like ads, tracking, malware, and other annoyances.
+- [Cygery AdSkip for YouTube](https://labs.xda-developers.com/store/app/com.cygery.adskip.xda) Automatically click on the "Skip ad" button in the YouTube™ app when it appears.
 - [NewPipe](https://newpipe.schabi.org/) The original YouTube experience without annoying ads and questionable permissions
+- [Revanced Manager](https://github.com/revanced/revanced-manager/) ReVanced Manager is a tool to patch/modify many apps including the official Youtube, making it possible to add many features such as adblocking, background playback and sponsor skip and many more. It can also modify other apps including TikTok, Spotify, Messenger etc. It is loosely based off the now shutdown Vanced.
+- [YMusic](https://forum.xda-developers.com/android/apps-games/app-youtube-music-sound-stream-youtubes-t3399722) YouTube Music Player & Downloader
 - [nzb360](http://nzb360.com/) :star2: nzb360 is a full-featured NZB manager that focuses on providing the best experience possible for controlling all of your Usenet needs.
+- [nzbUnity](https://nzbunity.dozenzb.com/) iOS app for managing your favourite NZB applications
 - [Ombi](https://play.google.com/store/apps/details?id=com.tidusjar.Ombi) Companion app for Ombi to request Plex content
 - [Tautulli Remote](https://play.google.com/store/apps/details?id=com.williamcomartin.plexpyremote) Mobile version of Tautilli for monitoring Plex on the go
 - [MyJDownloader](https://play.google.com/store/apps/details?id=org.appwork.myjdandroid&hl=en_US) enables you to remote control your desktop JDownloader from your pocket while you're on the go.
 - [FilePursuit Pro](https://play.google.com/store/apps/details?id=com.filepursuit.filepursuitpro) FilePursuit provides a very powerful file indexing and search service allowing you to find a file among millions of files located on web servers.
-- [YMusic](https://forum.xda-developers.com/android/apps-games/app-youtube-music-sound-stream-youtubes-t3399722) YouTube Music Player & Downloader
-- [Cygery AdSkip for YouTube](https://labs.xda-developers.com/store/app/com.cygery.adskip.xda) Automatically click on the "Skip ad" button in the YouTube™ app when it appears.
-- [Blokada](https://blokada.org) Blokada is a compact app that transparently blocks unwanted content like ads, tracking, malware, and other annoyances.
-- [Tachiyomi](https://github.com/inorichi/tachiyomi) Tachiyomi is a free and open-source manga reader for Android.
+- [Tachiyomi](https://github.com/inorichi/tachiyomi/) Tachiyomi is a free and open-source manga reader for Android.
+- [Kotatsu](https://github.com/KotatsuApp/Kotatsu/) Kotatsu is a free and open-source manga reader for Android.
 - [4PDA.ru](http://4pda.ru/forum/index.php?act=idx) 4PDA is the biggest Russian forum about mobile devices. You can find an endless amount of APKs and Mobile software there. For download, registration is required
-- [AnYme](https://github.com/zunjae/anYme) Unofficial Anime App for MyAnimeList
 - [Perfect Player](https://play.google.com/store/apps/details?id=com.niklabs.pp) Perfect Player is set-top box style IPTV/Media player for watching videos on TVs, tablets and smartphones.
 - ["My little guide for piracy on iPhone"](https://www.reddit.com/r/Piracy/comments/ajkeq2/my_little_guide_for_piracy_on_iphone/) Post by /u/Impulse_13
-- [nzbUnity](https://nzbunity.dozenzb.com/) iOS app for managing your favourite NZB applications
 - [TiviMate IPTV player](https://play.google.com/store/apps/details?id=ar.tvplayer.tv) A popular Android app for watching IPTV on Android set-top boxes.
 - [Fildo](https://fildo.net/android/en/#) Android music streaming app which fetches files from third party MP3 search engines.
-- [YouTube Vanced](https://vancedapp.com/) Vanced is a well known modded version of YouTube with many features such as adblocking and background playback and many more.
 
 ### Streaming Apps
 - [MediaBox HD](https://mediaboxhd.net) MediaBox HD is a free streaming app with movies, tv shows, and music. VIP membership grants access to 1000s of reliable high-quality streams. It can cast to Chromecast, Apple TV, Fire TV, and Xbox.
@@ -1314,8 +1316,7 @@ premium services
 - [Cinema](https://forum.mobilism.org/viewtopic.php?t=2786441) a lot of Movies & TV/Shows to watch and download.
 - [Fildo](https://fildo.net/android/en/) Music streaming app
 - [TeaTV](https://teatv.net/) App for Android, Windows, and macOS for watching 1080p movies and TV shows for free
-- [AniméGlare](https://animeglare.xyz/)
-- [AniméVibe](http://animevibe.tv/)
+- [Saikou](https://github.com/saikou-app/saikou) Open source app for Android which allows streaming, downloading and viewing of anime and manga, keeping track of what you watch (or read) and updating your Anilist account. Doubles as an Anilist client.
 - [ApolloTV](https://apollotv.xyz/)
 - [BeeTV](http://beetvapk.me/)
 - [Cinema](https://cinemaapk.com/)
@@ -1336,6 +1337,7 @@ premium services
 - [Vuze](https://play.google.com/store/apps/details?id=com.vuze.torrent.downloader) Lightweight & powerful BitTorrent app.
 - [aTorrent](https://play.google.com/store/apps/details?id=com.mobilityflow.torrent) Another popular torrent client for Android.
 - [Trireme](https://www.f-droid.org/en/packages/org.deluge.trireme/) Use this app to connect and manage your Deluge Daemon.
+- [Unchained](https://github.com/LivingWithHippos/unchained-android/) A Real-Debrid client for Android with built-in expandable torrent search system, ability to queue torrents and to stream directly from Real-Debrid cached torrents.
 
 ### APKs
 - [Aptoide](https://en.aptoide.com/) An alternative repository-based marketplace for Android applications
