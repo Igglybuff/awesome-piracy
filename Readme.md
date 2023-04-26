@@ -246,16 +246,24 @@ This repository is regularly backed up in [archive.org](https://web.archive.org/
 
 
 ## Antivirus
-- [otr: one-time-run]
+**[otr: one-time-run]** No need for installation, just click & run. <br>
+**Warning:** Anti-virus and anti-spyware software may sometimes generate false positives. Consider quarantining suspicious files rather than deleting them.
+
 - [Norton Power Eraser(NPE)](https://support.norton.com/sp/en/us/home/current/solutions/kb20100824120155EN) A tool good at repairing certain system files and functions(otr).
 - [Kaspersky Virus Removal Tool(kvrt)](https://www.kaspersky.com/downloads/free-virus-removal-tool) A tool for advanced scanning and disinfecting Windows computers(otr).
+- [F-Secure Online Scanner](https://www.f-secure.com/en/online-scanner) Virus scanner from F-Secure for Windows PC.(otr)
+- [Microsoft Safety Scanner](https://learn.microsoft.com/en-us/microsoft-365/security/intelligence/safety-scanner-download?view=o365-worldwide) A malware scanner scanner from Microsoft.(otr)
+- [TDSSKiller](https://support.kaspersky.com/common/disinfection/5350) A free tool for fighting rootkits and bootlits.
 - [MalwareBytes](https://www.malwarebytes.com/) :star2: "crushes malware so you are protected and your machine keeps running smoothly."
-- [HitmanPro](https://www.hitmanpro.com) Antivirus product from Sophos(has otr option).
-- [VirusTotal](https://www.virustotal.com/) Web service for scanning files and URLs for viruses
+- [VirusTotal](https://www.virustotal.com/) Web service for scanning files and URLs for viruses & malware from over 70+ AVs.
 - [How to remove viruses and malware on your Windows PC](https://www.howtogeek.com/126911/what-to-do-if-you-get-a-virus-on-your-computer/) Helpful HowToGeek article on cleaning out the pipes
+- [How to Remove Malware](https://www.wikihow.com/Remove-Malware) This is just another guide.
 - [Avast Antivirus](https://www.avast.com) Avast Antivirus is a multi-platform antivirus application with a free tier. Be sure to opt-out of sending anonymous usage statistics.
-- [Kaspersky Security Cloud Free](https://www.kaspersky.co.in/free-antivirus) It is a windows antivirus with all necessary features which a AV needs. Don't forget to uncheck all boxes while installing it, specially of kasperskey program.
+- [Kaspersky Free Cloud Antivirus](https://www.kaspersky.co.in/downloads/free-antivirus) It is a windows antivirus with all necessary features which a AV needs. Don't forget to uncheck all boxes while installing it, specially of kasperskey program.
 - [Malwarebytes AdwCleaner](https://www.malwarebytes.com/adwcleaner) An adware cleaner for removing unwanted programs and junkware(otr).
+- [ESET Online Scanner](https://www.eset.com/in/home/online-scanner/) An otr scanner from ESET for Windows.
+
+**Note:** Certain malware components can only be removed in [Windows Safe Mode](https://support.microsoft.com/en-us/windows/start-your-pc-in-safe-mode-in-windows-92c27cff-db89-8644-1ce4-b3e5e56fe234#WindowsVersion=Windows_11).
 
 
 ## Privacy
