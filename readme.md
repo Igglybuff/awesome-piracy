@@ -160,6 +160,7 @@ You will notice some items on this list have a :star2: next to them. Items with 
 - [Mullvad](https://mullvad.net/en/) A Bitcoin-friendly, privacy-first VPN.
 - [ProtonVPN](https://protonvpn.com/) High-speed Swiss VPN that safeguards your privacy.
 - [NordVPN](https://nordvpn.com/) With NordVPN, encrypt your online activity to protect your private data from hackers or snoopy advertisers.
+- [iProVPN](https://awisereview.com/iprovpn/) iProVPN is the solution to the privacy risks of today. Our team is a group of privacy advocates who want to create an open and fair internet
 - [Windscribe](https://windscribe.com/) Simple VPN, has a free plan that gives you 10gb/mo bandwidth, paid version even has port forwarding for static IPs, privacy-focused.
 - [ExpressVPN](https://www.expressvpn.com/vpnmentor1) VPN with 256-bit encryption, 94 countries, and no logs. It is also rated as one of the fastest VPNs out there.
 
