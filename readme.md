@@ -164,7 +164,7 @@ You will notice some items on this list have a :star2: next to them. Items with 
 - [ExpressVPN](https://www.expressvpn.com/vpnmentor1) VPN with 256-bit encryption, 94 countries, and no logs. It is also rated as one of the fastest VPNs out there.
 
 ### Self-hosted VPNs
-- [n2n](https://github.com/ntop/n2n) Peer-to-peer VPN
+- [n2n](https://github.com/ntop/n2n) A light peer-to-peer VPN software making it easy to create virtual networks bypassing intermediate firewalls.
 - [PeerVPN](https://peervpn.net/) PeerVPN is a software that builds virtual ethernet networks between multiple computers.
 - [OpenVPN](https://openvpn.net/) :star2: OpenVPN provides flexible VPN solutions to secure your data communications, whether it's for Internet privacy, remote access for employees, securing IoT, or for networking Cloud data centers.
 - [Nebula](https://github.com/slackhq/nebula) A scalable overlay networking tool with a focus on performance, simplicity and security
