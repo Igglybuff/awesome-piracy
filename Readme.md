@@ -175,7 +175,7 @@ This repository is regularly backed up in [archive.org](https://web.archive.org/
 
 ### Self-hosted VPNs
 
-- [n2n](https://github.com/ntop/n2n) Peer-to-peer VPN
+- [n2n](https://github.com/ntop/n2n) A light peer-to-peer VPN software which makes it easy to create virtual networks bypassing intermediate firewalls.
 - [PeerVPN](https://peervpn.net/) PeerVPN is a software that builds virtual ethernet networks between multiple computers.
 - [OpenVPN](https://openvpn.net/) :star2: OpenVPN provides flexible VPN solutions to secure your data communications, whether it's for Internet privacy, remote access for employees, securing IoT, or for networking Cloud data centers.
 - [Nebula](https://github.com/slackhq/nebula) A scalable overlay networking tool with a focus on performance, simplicity and security
