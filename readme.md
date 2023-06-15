@@ -759,7 +759,6 @@ premium services
 - [anime-sharing](http://www.anime-sharing.com/forum/) Forum for sharing anime
 - [AniDex](https://anidex.info) Torrent tracker and indexer, primarily for English fansub groups of anime
 - [animeEncodes](https://www.animencodes.com/)
-- [Anime Twist](https://twist.moe/) An anime direct streaming site with a decent UI and video player
 - [AnimeOut](https://www.animeout.xyz/) Over 1000's of Encoded Anime with DDL links.
 - [animepahe](https://animepahe.com/) A minimilistic anime streaming/download website, subs only.
 
