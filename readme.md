@@ -761,7 +761,6 @@ premium services
 - [animeEncodes](https://www.animencodes.com/)
 - [Anime Twist](https://twist.moe/) An anime direct streaming site with a decent UI and video player
 - [AnimeOut](https://www.animeout.xyz/) Over 1000's of Encoded Anime with DDL links.
-- [4anime](https://4anime.to/) A relatively new site the might become the new Masterani.me. Clean interface.
 - [AnimeRam](https://ww2.animeram.cc/) A streaming website for dubbed/subbed anime.
 - [animepahe](https://animepahe.com/) A minimilistic anime streaming/download website, subs only.
 
